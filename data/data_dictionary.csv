@@ -1,0 +1,21 @@
+variable,source,type,unit,role,description
+symbol,All,string,-,key,"Stock ticker symbol (e.g., AAPL)."
+date,All,date,YYYY-MM-DD,key,Trading date (US/Eastern).
+close,Stooq,float,USD,raw,Daily closing price.
+log_return,Derived,float,log points,control,ln(close_t / close_{t-1}).
+abs_return,Derived,float,log points,control,Absolute daily log return.
+log_volume,Derived,float,ln(shares),control,log(1 + daily share volume).
+rv,Derived,float,daily sigma,control,Realized volatility at t (range-based estimator).
+rv_lag1,Derived,float,daily sigma,control,Realized volatility at t-1.
+rv_next,Derived,float,daily sigma,TARGET,Next-day realized volatility (t+1) - primary Y.
+st_n_msgs,StockTwits,int,messages,predictor,StockTwits message count on the ticker-day.
+st_log_msgs,Derived,float,ln(messages),predictor,log(1 + message count).
+st_n_bull,StockTwits,int,messages,raw,Self-tagged Bullish messages.
+st_n_bear,StockTwits,int,messages,raw,Self-tagged Bearish messages.
+st_labelled,Derived,int,messages,raw,Bullish + Bearish (labelled) messages.
+st_labelled_share,Derived,float,0-1,quality,Share of messages carrying a self-tag.
+st_bullish_ratio,Derived,float,0-1,predictor,Bullish / (Bullish + Bearish).
+st_af_bullishness,Derived,float,log ratio,predictor,Antweiler-Frank bullishness: ln((1+bull)/(1+bear)).
+st_af_agreement,Derived,float,0-1,predictor,Antweiler-Frank agreement (dispersion) index.
+news_sent_wmean,Alpha Vantage,float,-1 to +1,predictor,Relevance-weighted mean ticker news sentiment.
+news_article_count,Alpha Vantage,int,articles,predictor,Number of news articles on the ticker-day.

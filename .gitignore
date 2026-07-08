@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+# keep folder structure but ignore large raw pulls if desired
+# data/raw/

@@ -1,0 +1,22 @@
+[project]
+name = "stocktwits-volatility-capstone"
+version = "0.1.0"
+description = "Retail sentiment as a volatility early-warning signal (QM640 Data Analytics Capstone)"
+authors = [{ name = "James Savage" }]
+requires-python = ">=3.10"
+dependencies = [
+    "requests>=2.31",
+    "pandas>=2.0",
+    "numpy>=1.24",
+    "python-dateutil>=2.8",
+]
+
+# Installed only when you reach the RQ1 sentiment-model stage (GPU recommended):
+#   uv sync --extra modeling
+[project.optional-dependencies]
+modeling = [
+    "transformers>=4.40",
+    "torch>=2.2",
+    "scikit-learn>=1.3",
+    "matplotlib>=3.7",
+]

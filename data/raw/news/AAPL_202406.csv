@@ -1,0 +1,64 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20240601T000000,AAPL,"Road Mapping Leads to Dead End, PTAB Litigation Blog | Insights",Jones Day,-0.2484,Somewhat-Bearish,-0.237127,0.713505
+20240604T000000,AAPL,These San Diego and California companies made the 2024 For 500 list,Axios,0.198206,Somewhat-Bullish,0.426396,0.720442
+20240604T084200,AAPL,"AirPods Max vs. Sonos Ace: premium personal audio, compared",AppleInsider,0.139865,Neutral,0.132615,0.945918
+20240604T220600,AAPL,5 things you need to know before nvidia's stock split.,富途牛牛,0.277435,Somewhat-Bullish,0.107730,0.647744
+20240605T080000,AAPL,The 3 Best ETFs to Buy in June 2024,InvestorPlace,0.340824,Somewhat-Bullish,0.302311,0.607648
+20240605T124140,AAPL,Arm aims to win 50% of PC market in five years: Haas,Taipei Times,0.166939,Somewhat-Bullish,0.113689,0.645937
+20240605T125205,AAPL,Dexcom launches G7 with Apple Watch integration in the U.S.,MassDevice,0.359026,Bullish,0.306399,0.734872
+20240606T115400,AAPL,"Humane, the startup behind the AI Pin, in talks with HP, telecoms to sell",CNBC,0.076383,Neutral,0.046333,0.774418
+20240606T130534,AAPL,Is Life360 still an opportunity after shares have surged?,Morningstar Australia,0.154949,Somewhat-Bullish,0.144712,0.632899
+20240606T150100,AAPL,Nvidia overtakes Apple as No. 2 most valuable company,Reuters,0.223174,Somewhat-Bullish,0.146631,0.933164
+20240607T124639,AAPL,What to Know Heading into FTSE Russell’s 36th Annual Russell Reconstitution,Cboe Global Markets,0.188717,Somewhat-Bullish,0.109548,0.707414
+20240607T132417,AAPL,Almost 300 Taiwanese students have come due to TSMC plants,KTAR News 92.3 FM,0.339835,Somewhat-Bullish,0.200591,0.612697
+20240610T000000,AAPL,Private Cloud Compute: A new frontier for AI privacy in the cloud,Apple Security Research,0.218365,Somewhat-Bullish,0.416344,1.000000
+20240610T124227,AAPL,Who are the highest-paid S&P 500 CEOs of 2023?,InvestmentNews,0.045669,Neutral,0.000919,0.718394
+20240611T123852,AAPL,New features come to Apple services this fall,Apple,0.247109,Somewhat-Bullish,0.413553,1.000000
+20240611T123852,AAPL,Affirm’s BNPL And Tap to Cash Are Coming to Apple Pay Later This Year,Digital Transactions,0.235751,Somewhat-Bullish,0.341005,1.000000
+20240611T123852,AAPL,Apple execs explain why its AI is different from competitors,CNBC,0.173571,Somewhat-Bullish,0.331573,0.966448
+20240611T132700,AAPL,"MAX ARRIVES IN FRANCE AND POLAND, AND ENHANCED OFFERING ROLLS OUT IN NETHERLANDS AND BELGIUM COMPLETING INITIAL PHASE OF EUROPEAN LAUNCHES | Pressroom",Warner Bros. Discovery,0.363029,Bullish,0.325358,0.551456
+20240612T025817,AAPL,Ozempic Maker Novo Nordisk Closes In On Lego As Denmark's Most Valuable Brand: Report,Sahm,0.185605,Somewhat-Bullish,0.135359,0.741714
+20240612T090500,AAPL,Adobe Responds to AI Fears With Plans for Updated Legal Terms,Bloomberg Law News,0.081059,Neutral,0.095566,0.641101
+20240613T000000,AAPL,Apple adds BNPL offerings from rivals,Payments Dive,0.143903,Neutral,0.119427,0.902217
+20240613T123852,AAPL,Apple Is Sued by Female Employees Claiming Pay Discrimination,Time Magazine,0.001488,Neutral,0.019051,0.320356
+20240613T163400,AAPL,Apple reigns again as most valuable U.S. company for first time since January,MarketWatch,0.317611,Somewhat-Bullish,0.499681,1.000000
+20240614T131521,AAPL,Semiconductors Hit Record Highs As Industry Reaches $6.3 Trillion: 5 Chip Stocks That Outpaced Nvidia This Week,TradingView,0.388888,Bullish,0.344491,0.742367
+20240616T125806,AAPL,What is Gorilla Glass? Know the Differences Between Generations,nextpit Global,0.348718,Somewhat-Bullish,0.216358,0.732548
+20240616T131755,AAPL,Harmonix co-founder Alex Rigopulos and esteemed lawyer Priyanka Khimani join Songtradr board,Music Business Worldwide,0.104397,Neutral,0.111847,0.736261
+20240617T000000,AAPL,3 Great Funds for the Class of 2024,Morningstar,0.295716,Somewhat-Bullish,0.256163,0.608618
+20240617T000000,AAPL,Trade the AI Trend With This Pair of Leveraged ETFs,ETF Trends,0.317074,Somewhat-Bullish,0.329562,0.601929
+20240617T045213,AAPL,Trade the AI Trend With This Pair of Leveraged ETFs,ETF Trends,0.257585,Somewhat-Bullish,0.185317,0.769008
+20240617T053034,AAPL,Trade the AI Trend With This Pair of Leveraged ETFs,ETF Trends,0.469997,Bullish,0.323640,0.721745
+20240618T000000,AAPL,Venu Sports Announces Management Team Under CEO Pete Distad,Nexttv,0.142772,Neutral,0.104575,0.625445
+20240618T000000,AAPL,"Nvidia Becomes Most Valuable Public Company, Topping Microsoft (Published 2024)",The New York Times,0.188008,Somewhat-Bullish,-0.141787,0.609490
+20240618T130126,AAPL,"10 Things You Didn’t Know About the Holiday Inn Brand – From Fun Facts to Pioneering Moments, Illuminating the Brand’s Ongoing Leadership in Mainstream Hospitality",Hotel Online,0.305243,Somewhat-Bullish,0.311039,0.629517
+20240618T130134,AAPL,Apple Original Films’ Formula 1® feature to be released on 25 June 2025 in partnership with Warner Bros. Pictures,Formula One World Championship Limited,0.272964,Somewhat-Bullish,0.346382,0.923999
+20240618T132837,AAPL,A major tech ETF is set to load up on Nvidia at the expense of Apple,Finimize,0.238147,Somewhat-Bullish,0.231157,0.944782
+20240618T154347,AAPL,Nvidia set to overtake Apple in $72 billion technology ETF shakeup after its monster 164% rally this year,markets.businessinsider.com,0.209573,Somewhat-Bullish,0.104517,0.935202
+20240618T174400,AAPL,Nvidia eclipses Microsoft as world's most valuable company,VOA - Voice of America English News,0.284233,Somewhat-Bullish,0.111760,0.707302
+20240618T184400,AAPL,Nvidia becomes world’s most valuable company amid AI boom,The Guardian,0.371214,Bullish,0.248830,0.665395
+20240618T194400,AAPL,Nvidia surpasses Microsoft to become the world’s most valuable company,SiliconANGLE,0.269206,Somewhat-Bullish,-0.245423,0.724358
+20240619T000000,AAPL,Nvidia beats Microsoft to become world's most valuable company,BBC,0.430432,Bullish,0.339172,0.625858
+20240619T000000,AAPL,"Nvidia becomes world’s most valuable company, dethroning Microsoft",Al Jazeera,0.324222,Somewhat-Bullish,0.063477,0.736961
+20240619T105300,AAPL,"Nvidia Beats Apple, Microsoft to Become Most Valuable Company On Earth",ProPakistani,0.151434,Somewhat-Bullish,-0.432343,0.736988
+20240619T124041,AAPL,"To address talent shortage, chipmakers skilling engineering students",The Economic Times,0.394207,Bullish,0.236426,0.589950
+20240619T230951,AAPL,iShares Expanded Tech Sector ETF Trade Ideas — AMEX:IGM,TradingView,0.446778,Bullish,0.444194,0.725187
+20240620T000000,AAPL,Insulet fully launches Omnipod 5 with Dexcom G7 in the U.S. along with iPhone app,Drug Delivery Business,0.37847,Bullish,0.234081,0.556673
+20240620T000000,AAPL,3 ETFs to Watch as Tech Looks Unlikely to Slow Down,ETF Trends,0.399991,Bullish,0.287715,0.623613
+20240621T125009,AAPL,"Working with Elavon, Delta Adopts Tap to Pay on iPhone for U.S. Flights",Digital Transactions,0.245157,Somewhat-Bullish,0.316767,0.748390
+20240621T130816,AAPL,How Nvidia surpassed Microsoft and Apple to become world’s most valuable company,Bobsguide,0.340284,Somewhat-Bullish,0.280659,0.703375
+20240621T150100,AAPL,"Apple Intelligence won't launch in EU in 2024 due to antitrust regulation, company says",CNBC,-0.137075,Neutral,-0.231913,1.000000
+20240623T122200,AAPL,"IWF Is a Great Choice for Most, But I Like VUG ETF Better",The Globe and Mail,0.222826,Somewhat-Bullish,0.230491,0.614784
+20240624T000000,AAPL,Apple is first tech company accused of violating EU's new competition law,Axios,-0.081024,Neutral,-0.289920,0.985196
+20240624T052314,AAPL,"Collective Audience CEO, Peter Bordes, Appointed to Symitri’s All-Star Board of Digital Tech Executives and Investors",Yahoo Finance,0.203648,Somewhat-Bullish,0.116571,0.610495
+20240624T083100,AAPL,"Collective Audience CEO, Peter Bordes, Appointed to Symitri’s All-Star Board of Digital Tech Executives and Investors",ACCESS Newswire,0.293196,Somewhat-Bullish,0.235036,0.605822
+20240625T094000,AAPL,"Tech, AI Drive $12.2B Inflows Into Growth ETFs, Marking Record Outperformance Over Value",Quantisnow,0.382874,Bullish,0.344388,0.701367
+20240626T000000,AAPL,"What Exactly Does NVIDIA Do, and Why Should You Care?",CX Today,0.340332,Somewhat-Bullish,0.111202,0.727888
+20240627T000000,AAPL,Why Blue Chips Are Ripe for Growth Investing,ETF Trends,0.345742,Somewhat-Bullish,0.315798,0.636625
+20240627T000000,AAPL,What’s the Secret Sauce in this High-Income Fund?,Morningstar Canada,0.285887,Somewhat-Bullish,0.418261,0.606191
+20240627T000000,AAPL,A Shakeup for Technology ETFs,ETF Trends,0.045034,Neutral,-0.112575,0.873529
+20240627T095855,AAPL,The Case for Investing in a Capital Appreciation ETF,ETF Trends,0.285409,Somewhat-Bullish,0.238286,0.638432
+20240628T131253,AAPL,How Global Regulators Are Catching Up With Temu,The Fashion Law,-0.218142,Somewhat-Bearish,-0.141535,0.634666
+20240628T132047,AAPL,Simon Property Group adds nine retailers to South Shore Plaza,NEREJ,0.184906,Somewhat-Bullish,0.145137,0.738467
+20240628T192100,AAPL,"Fumble! Your Favorite NFL Team Is On The Hook For $450 Million In Sunday Ticket Lawsuit, 1.76x More Than Player Pay In 2024",Sahm,0.083087,Neutral,0.007859,0.568229
+20240630T132034,AAPL,Sonos Ace Headphones Review,Comics Gaming Magazine,0.308544,Somewhat-Bullish,0.127067,0.645961

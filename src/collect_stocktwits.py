@@ -1,16 +1,15 @@
 """
 Collect RECENT StockTwits messages (with users' self-tagged Bullish/Bearish
-labels) for each ticker. This labelled corpus is used to train and benchmark
-the RQ1 sentiment model (FinBERT vs. lexicon vs. the self-tags).
+labels) for each ticker. This labelled corpus trains and benchmarks the RQ1
+sentiment model (FinBERT vs. lexicon vs. the self-tags).
 
-NOTE ON ACCESS
---------------
-The public stream endpoint returns only recent messages and is rate limited;
-StockTwits has tightened access over time. This script handles 401/403/429
-gracefully. If the public endpoint is blocked for you, either request a
-StockTwits API token / partner access, or rely on Alpha Vantage news sentiment
-(collect_news_sentiment.py) for the historical feature and use any small
-labelled StockTwits sample you can obtain for RQ1 validation.
+ACCUMULATES ACROSS RUNS: StockTwits only serves recent messages, so each run is
+merged into the existing per-ticker CSV and de-duplicated by message id. Running
+it repeatedly (daily, or whenever the connection is good) steadily grows the
+labelled set instead of overwriting it.
+
+NOTE ON ACCESS: the public stream is recent-only and rate limited; it may return
+401/403 if access is restricted. This script handles that gracefully.
 
 Endpoint:
     https://api.stocktwits.com/api/2/streams/symbol/<SYMBOL>.json?max=<message_id>
@@ -18,8 +17,8 @@ Endpoint:
 Output: data/raw/stocktwits/<TICKER>.csv
     columns: id, created_at, symbol, body, sentiment_basic, user_id, user_followers
 
-Run:
-    python src/collect_stocktwits.py
+Run (safe to re-run; it merges, not overwrites):
+    uv run src/collect_stocktwits.py
 """
 import sys
 import time
@@ -59,23 +58,23 @@ def fetch_ticker(symbol: str, pages: int) -> pd.DataFrame:
     rows, max_id = [], None
     for _ in range(pages):
         params = {"max": max_id} if max_id else {}
-        resp = requests.get(
-            BASE.format(symbol=symbol),
-            params=params,
-            headers={"User-Agent": C.STOCKTWITS_USER_AGENT},
-            timeout=30,
-        )
+        try:
+            resp = requests.get(
+                BASE.format(symbol=symbol), params=params,
+                headers={"User-Agent": C.STOCKTWITS_USER_AGENT}, timeout=30,
+            )
+        except requests.exceptions.RequestException as exc:
+            print(f"    network issue ({type(exc).__name__}); stopping this ticker early")
+            break
         if resp.status_code in (401, 403):
-            print(f"[stocktwits] {symbol}: access restricted ({resp.status_code}). "
-                  "Need a token/partner access - see module docstring.")
+            print(f"[stocktwits] {symbol}: access restricted ({resp.status_code}).")
             break
         if resp.status_code == 429:
             print(f"[stocktwits] {symbol}: rate limited (429). Backing off 60s.")
             time.sleep(60)
             continue
         resp.raise_for_status()
-        payload = resp.json()
-        page_rows = _parse_messages(payload, symbol)
+        page_rows = _parse_messages(resp.json(), symbol)
         if not page_rows:
             break
         rows.extend(page_rows)
@@ -84,17 +83,30 @@ def fetch_ticker(symbol: str, pages: int) -> pd.DataFrame:
     return pd.DataFrame(rows)
 
 
+def merge_and_save(symbol: str, new_df: pd.DataFrame) -> tuple[int, int]:
+    """Union new messages with any existing file; de-dup by id. Returns (total, labelled)."""
+    out = C.RAW_ST / f"{symbol}.csv"
+    if out.exists():
+        old = pd.read_csv(out)
+        combined = pd.concat([old, new_df], ignore_index=True)
+    else:
+        combined = new_df
+    combined = combined.drop_duplicates(subset="id").reset_index(drop=True)
+    combined.to_csv(out, index=False)
+    labelled = combined["sentiment_basic"].notna().sum()
+    return len(combined), int(labelled)
+
+
 def main() -> None:
     for symbol in C.TICKERS:
-        out = C.RAW_ST / f"{symbol}.csv"
         try:
-            df = fetch_ticker(symbol, C.STOCKTWITS_PAGES_PER_TICKER)
-            if len(df):
-                df.to_csv(out, index=False)
-                labelled = df["sentiment_basic"].notna().sum()
-                print(f"[stocktwits] {symbol:6s} msgs={len(df):4d} labelled={labelled:4d} -> {out.name}")
-            else:
+            new_df = fetch_ticker(symbol, C.STOCKTWITS_PAGES_PER_TICKER)
+            if new_df.empty and not (C.RAW_ST / f"{symbol}.csv").exists():
                 print(f"[stocktwits] {symbol:6s} no messages returned")
+                continue
+            total, labelled = merge_and_save(symbol, new_df)
+            print(f"[stocktwits] {symbol:6s} new={len(new_df):4d}  "
+                  f"total_unique={total:5d}  labelled={labelled:5d}")
         except Exception as exc:  # noqa: BLE001
             print(f"[stocktwits] {symbol:6s} FAILED: {exc}")
 

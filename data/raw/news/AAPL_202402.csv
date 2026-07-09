@@ -1,0 +1,47 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20240201T163200,AAPL,Apple Inc. stock underperforms Thursday when compared to competitors despite daily gains,MarketWatch,0.242433,Somewhat-Bullish,0.241791,0.938810
+20240201T164107,AAPL,NEOS Nasdaq 100 High Income ETF,ETF Database,0.144187,Neutral,0.128427,0.625789
+20240201T164407,AAPL,"Alcoa to supply Nexans with low-carbon aluminum, including metal from ELYSIS™ technology",Nexans,0.356846,Bullish,0.327527,0.704181
+20240201T165148,AAPL,Box Brings Your Content to Life with the Box App for Apple Vision Pro,Business Wire,0.367834,Bullish,0.349467,0.744815
+20240201T204205,AAPL,"Aptiv to cut stake in Motional, self-driving JV with Hyundai",KED Global,-0.474275,Bearish,-0.349932,0.625049
+20240202T000000,AAPL,Disney Heads into the Future on the Apple Vision Pro,The Walt Disney Company,0.494422,Bullish,0.483289,1.000000
+20240202T000000,AAPL,"Apple, Skechers fall; Amazon, Deckers Outdoor rise, Friday, 2/2/2024",Quartz,0.225098,Somewhat-Bullish,-0.312487,0.915044
+20240202T000000,AAPL,Vishay Unveils New High-Speed Photodiode for Wearable Devices,AZoOptics,0.492155,Bullish,0.279419,0.572867
+20240202T000000,AAPL,What Stock Investors Need to Know About Meta’s New Dividend,Morningstar,0.251645,Somewhat-Bullish,0.116982,0.627128
+20240202T000000,AAPL,Markets Brief: Will the ‘Magnificent Seven’ Stocks Keep Carrying the Market After Earnings?,Morningstar,0.176192,Somewhat-Bullish,-0.152529,0.792602
+20240202T133300,AAPL,Inside the JOET Rebalance,CNBC,0.298303,Somewhat-Bullish,0.397214,0.738872
+20240203T110000,AAPL,These ETFs could help investors reduce Big Tech exposure,CNBC,0.168965,Somewhat-Bullish,0.104256,0.845327
+20240205T171841,AAPL,What investors need to know about Meta’s new dividend,Morningstar Australia,0.13845,Neutral,0.112283,0.684864
+20240206T174126,AAPL,¿Cuáles son los CEDEAR más elegidos por los argentinos?,iProUP,0.107505,Neutral,0.206568,0.814015
+20240206T191800,AAPL,"ESPN, Fox, and Warner Bros. Discovery Team Up to Offer Joint Sports Streaming Service",Investopedia,0.239992,Somewhat-Bullish,0.111802,0.624888
+20240207T042838,AAPL,ITOT ETF: Investing Well Doesn’t Have to Be Complicated,TipRanks,0.452932,Bullish,0.311445,0.626445
+20240207T063352,AAPL,ITOT ETF: Investing Well Doesn’t Have to Be Complicated,Yahoo Finance,0.375775,Bullish,0.357470,0.648789
+20240207T150925,AAPL,One Store attracts $50 mn investment from Digital Turbine,KED Global,0.102204,Neutral,-0.131114,0.602519
+20240208T164451,AAPL,ADT welcomes Silicon Valley veteran Gilles Drieu as new CTO,Security Info Watch,0.195958,Somewhat-Bullish,0.117465,0.603508
+20240208T184000,AAPL,"Apple defeats lawsuit claiming it overpaid CEO Tim Cook, others",Reuters,0.289607,Somewhat-Bullish,0.296782,1.000000
+20240209T123955,AAPL,JGLO Stock Price | Jpmorgan Global Select Equity ETF,Investing.com,-0.012414,Neutral,0.045076,0.635389
+20240209T165242,AAPL,DLN: Large-Cap Monthly Dividend Payer Not So Hot,Seeking Alpha,0.053609,Neutral,0.131724,0.719015
+20240212T042900,AAPL,Nvidia Overtakes Amazon in Market Value,Bloomberg,0.155927,Somewhat-Bullish,0.062541,0.618680
+20240214T151300,AAPL,Meta settles lawsuit over haptic feedback tech in Quest headsets,TechCrunch,0.107745,Neutral,0.115433,0.603031
+20240214T203500,AAPL,"Michael Burry Covers Bet Against Chips ETF, Buys Health and Tech Stocks",Bloomberg.com,-0.063051,Neutral,0.221519,0.739619
+20240215T000000,AAPL,Relx Share Price Spiked Up 3% but Later Fell on FY 2023 Results,AskTraders.com,0.223483,Somewhat-Bullish,0.188909,0.627110
+20240215T033944,AAPL,YieldMax Magnificent 7 Fund of Option Income ETFs,ETF Database,0.074282,Neutral,0.104553,0.731659
+20240215T171419,AAPL,Stock market concentration is on the rise. Will this continue?,J.P. Morgan,0.102988,Neutral,0.100721,0.700234
+20240215T171701,AAPL,Can Korea fend off China in display race?,Korea JoongAng Daily,0.095217,Neutral,-0.129782,0.717524
+20240216T000000,AAPL,"Stryker updates Mako surgical robot, introduces joint replacement offering",The Robot Report,0.282294,Somewhat-Bullish,0.143191,0.601576
+20240216T062700,AAPL,"Here's How Much Money You'd Have if You Invested $7,000 in the ""Magnificent Seven"" in 2017",The Motley Fool,0.352736,Bullish,0.338402,0.723549
+20240220T164416,AAPL,US Supreme Court won't review Apple's win against $503 million patent verdict,Reuters,0.322051,Somewhat-Bullish,0.302189,1.000000
+20240220T181700,AAPL,Price-conscious shoppers lift Walmart earnings as it preps $2.3 billion Vizio deal,Reuters,0.117918,Neutral,0.117144,0.635860
+20240222T000000,AAPL,Dimensional ETFs and More: New on Syfe Custom Portfolio,Syfe,0.339053,Somewhat-Bullish,0.423849,0.634478
+20240222T000000,AAPL,The Companies We’re Watching During Proxy-Voting Season 2024,Morningstar,0.106342,Neutral,0.111085,0.712124
+20240223T000000,AAPL,Episode #522: Wes Gray & Robert Elwood on How to Convert a Separately Managed Account (SMA) to an ETF,Meb Faber Research,0.455905,Bullish,0.619893,0.714106
+20240224T070000,AAPL,How Nvidia grew to a trillion-dollar company fueling the AI revolution,NBC News,0.365206,Bullish,0.343863,0.723467
+20240227T134142,AAPL,FFLG Top Holdings List & Exposure (Fidelity Fundamental Large Cap Growth ETF),MarketBeat,0.017063,Neutral,0.007692,0.829361
+20240227T164416,AAPL,Apple Kills Its Electric Car Project (Published 2024),The New York Times,-0.057312,Neutral,-0.201485,1.000000
+20240227T170517,AAPL,Moomoo Launches All-in-One Investment Super App in Malaysia; Empowering Local Financial Digitalisation,PR Newswire,0.494609,Bullish,0.144634,0.629223
+20240227T173930,AAPL,NBA® 2K24: MyTEAM Available Worldwide on iOS and Android,2K Newsroom,0.364439,Bullish,0.316879,0.612012
+20240228T000000,AAPL,A Wonderful Options-Based Dividend-Focused ETF?,ETF Trends,0.348276,Somewhat-Bullish,0.321315,0.730288
+20240228T042138,AAPL,NANC ETF Tracking Democrat Stock Trades Beating S&P 500 on Tech Bets,markets.businessinsider.com,0.386124,Bullish,0.302790,0.613115
+20240228T173200,AAPL,"EU lawmakers back draft rules on patents for connected cars, telecom equipment",Reuters,0.074694,Neutral,0.246234,0.748706
+20240229T105500,AAPL,VONG ETF: A Great Way to Invest in Top Growth Stocks,Nasdaq,0.551127,Bullish,0.501273,0.636592
+20240229T151800,AAPL,"Nvidia skyrocketed over the past 5 years, but 3 stocks performed even better—and none is Apple or Tesla",CNBC,0.3644,Bullish,0.123093,0.618207

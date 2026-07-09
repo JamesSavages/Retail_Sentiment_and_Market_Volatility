@@ -1,0 +1,75 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20241101T000000,AAPL,"Apple Earnings: Our Valuation Rises to Reflect Stronger Long-Term Growth, but Less of an AI Impact",Morningstar,-0.2869,Somewhat-Bearish,-0.264070,1.000000
+20241101T075637,AAPL,"Tech layoffs tracker 2024: Dropbox, Meta, Tidal cut jobs in October",Fast Company,-0.102391,Neutral,-0.139000,0.669148
+20241101T104500,AAPL,Apple commits $1.5 billion to Globalstar for expanded iPhone satellite services,CNBC,0.640434,Bullish,0.436194,0.975976
+20241101T133932,AAPL,Apple & Nvidia in Dogfight for Largest Market Cap,ETF Database,0.401008,Bullish,0.328253,0.995823
+20241101T211021,AAPL,iShares Core S&P U.S. Growth ETF Holdings,Quiver Quantitative,0.130909,Neutral,0.145430,0.700768
+20241101T212300,AAPL,Apple accused by NLRB of deterring employees from discussing pay equity,Reuters,-0.615833,Bearish,-0.631281,1.000000
+20241101T220949,AAPL,Invesco S&P 500 Quality ETF Holdings,Quiver Quantitative,0.128143,Neutral,0.144980,0.750855
+20241102T082300,AAPL,CoreCard Corporation (NYSE:CCRD) Q3 2024 Earnings Call Transcript,Insider Monkey,0.255215,Somewhat-Bullish,0.122704,0.562918
+20241105T000000,AAPL,Nvidia surpasses Apple to become world’s most valuable company,The Washington Post,0.479209,Bullish,0.126227,0.928064
+20241105T002400,AAPL,Vanguard Group Inc's Strategic Acquisition of Aspen Aerogels Inc Shares,GuruFocus,0.209529,Somewhat-Bullish,0.120104,0.603629
+20241105T004000,AAPL,Vanguard Group Inc's Strategic Acquisition of Atossa Therapeutics Inc Shares,GuruFocus,0.148947,Neutral,0.105326,0.609272
+20241105T085900,AAPL,Nvidia briefly overtakes Apple as world's most valuable company—it began in a breakfast booth at Denny's,CNBC,0.185334,Somewhat-Bullish,0.129950,0.733447
+20241105T160200,AAPL,Nvidia passes Apple as world's most valuable company,CNBC,0.231808,Somewhat-Bullish,0.149725,0.934865
+20241106T000000,AAPL,SolarEdge Announces Changes to the Board of Directors,Business Wire,0.284436,Somewhat-Bullish,0.132032,0.564783
+20241106T152700,AAPL,Analysts Say ‘We Would Be Aggressive Buyers on Any Pullbacks’ in Microsoft Stock. Should You Be Too?,Barchart.com,0.109964,Neutral,0.327172,0.638842
+20241107T073000,AAPL,SolarBank Expands into the projected $395 Billion Data Center Market as Developer and Strategic Partner,PR Newswire,0.368085,Bullish,0.303553,0.625470
+20241107T074522,AAPL,"After Earnings, Is Apple Stock a Buy, a Sell, or Fairly Valued?",Morningstar,-0.227921,Somewhat-Bearish,-0.213238,1.000000
+20241107T080000,AAPL,Is Apple Inc. (AAPL) a Good Stock to Buy Now According to Redditors?,Yahoo Finance,0.181838,Somewhat-Bullish,0.453744,1.000000
+20241107T220927,AAPL,Invesco NASDAQ Internet ETF Holdings,Quiver Quantitative,0.135551,Neutral,0.118827,0.843770
+20241108T000000,AAPL,"World's Largest Technology Company by Revenue, world record set by Apple Inc.",worldrecordacademy.org,0.694743,Bullish,0.876996,1.000000
+20241108T073936,AAPL,Morgan Stanley's Strategic Reduction in Royce Value Trust Inc Ho,GuruFocus,0.064918,Neutral,0.106959,0.617334
+20241111T075823,AAPL,Intel fuels R&D Surge: Chip wars amid Asian AI expansion,R&D World,0.334067,Somewhat-Bullish,0.184976,0.746997
+20241111T105242,AAPL,"AAPX ETF Analysis: Dividends, Returns CBOE:AAPX",TradingView,-0.044552,Neutral,0.113439,0.707753
+20241111T115126,AAPL,AAPX Stock Fund Price and Chart — CBOE:AAPX,TradingView,0.00972,Neutral,0.035852,0.723845
+20241112T000000,AAPL,Polen Capital Focus Growth Strategy Exited Salesforce (CRM) for Better Opportunities,Yahoo Finance,0.028414,Neutral,0.216135,0.742725
+20241112T000000,AAPL,"Apple’s Next Device Is an AI Wall Tablet for Home Control, Siri and Video Calls",Yahoo Finance,0.146038,Neutral,0.396368,1.000000
+20241112T081322,AAPL,Think value and growth — not just value or growth,Invesco,0.310233,Somewhat-Bullish,0.297857,0.705160
+20241112T081840,AAPL,Top 22 US Companies in 2026 (Updated List),Marketing91,0.39957,Bullish,0.419229,0.786552
+20241112T160700,AAPL,FIL Ltd Increases Stake in Noah Holdings Ltd,GuruFocus,0.209415,Somewhat-Bullish,0.138587,0.620970
+20241112T161900,AAPL,Schwab US Large-Cap ETF (SCHX) Is a Buy Right Now,24/7 Wall St.,0.332529,Somewhat-Bullish,0.336927,0.743344
+20241114T075149,AAPL,"Warren Buffett reveals craving for Domino’s, while cutting back on Apple — on Berkshire’s investment portfolio",New York Post,0.04647,Neutral,-0.321725,0.915602
+20241114T121300,AAPL,New Snapchat feature targets families with teens,Pocket-lint,0.205101,Somewhat-Bullish,0.130937,0.746349
+20241114T131039,AAPL,iShares Expanded Tech Sector ETF Holdings,Quiver Quantitative,0.145273,Neutral,0.100356,0.949335
+20241114T183905,AAPL,iShares U.S. Technology ETF Holdings,Quiver Quantitative,0.120156,Neutral,0.142398,0.735246
+20241114T185000,AAPL,"Buffett's Berkshire Buys Shares of Domino's Pizza and Pool Corp., Dumps Apple Stock",Investopedia,-0.030875,Neutral,-0.444544,0.707242
+20241114T214100,AAPL,"Buffett’s Berkshire Buys Stakes in Domino’s Pizza, Pool Corp. (DPZ, BRK/A): 13F",Bloomberg.com,0.109552,Neutral,-0.236226,0.626421
+20241114T231049,AAPL,iShares S&P 500 Growth ETF Holdings,Quiver Quantitative,0.214769,Somewhat-Bullish,0.239746,0.721190
+20241115T092100,AAPL,"Berkshire bites into Domino's Pizza, dips into Pool as stock retreat",Business Standard,0.07654,Neutral,-0.280500,0.742356
+20241115T094300,AAPL,Palantir Stock Rises as It Shifts Listing To Nasdaq,Investopedia,0.362684,Bullish,0.337743,0.638873
+20241115T220100,AAPL,"Berkshire bites into Domino's Pizza, dips into Pool amid stock retreat",Reuters,0.119704,Neutral,-0.206170,0.711030
+20241116T200952,AAPL,Invesco MSCI USA ETF Holdings,Quiver Quantitative,0.104485,Neutral,0.120875,0.710564
+20241116T212000,AAPL,Chilton Investment Co LLC Boosts Stake in Apple Inc,The Globe and Mail,0.525435,Bullish,0.544825,1.000000
+20241118T000000,AAPL,"What’s up with… SK Telecom, T-Mobile US, the FCC",TelecomTV,-0.130779,Neutral,-0.231679,0.600791
+20241118T083908,AAPL,"Biden locks in $6.6B for TSMC chip factories, ensuring Trump can’t rescind CHIPS Act deal",Arizona Mirror,0.382372,Bullish,0.319580,0.628401
+20241118T193400,AAPL,These two ETFs have outperformed S&P 500 since 2021: should investors take notice?,Invezz,0.390248,Bullish,0.332473,0.702302
+20241118T222100,AAPL,FBY: One Of My Favorite Santa's Income Plays,Seeking Alpha,0.081709,Neutral,-0.240138,0.642026
+20241119T000000,AAPL,This Is How John Deere Robs Farmers of Billions of Dollars,More Perfect Union | Substack,-0.303339,Somewhat-Bearish,-0.222910,0.735083
+20241119T005124,AAPL,Fidelity High Dividend ETF Holdings,Quiver Quantitative,0.323655,Somewhat-Bullish,0.334813,0.858198
+20241119T044500,AAPL,The Smartest Megacap Growth ETF to Buy With $500 Right Now,The Motley Fool,0.530217,Bullish,0.485401,0.716319
+20241119T095700,AAPL,Corsair Unveils The First True Gaming Keyboard And Mouse For Macs,HotHardware,0.416476,Bullish,0.325066,0.869643
+20241119T125000,AAPL,Wearable Devices Ltd. Unveils Mudra Band and Mudra Link: Revolutionary Neural Wristband Technology for Gesture Control,Quiver Quantitative,0.270352,Somewhat-Bullish,0.231021,0.732138
+20241119T161500,AAPL,Dolby Laboratories Reports Fourth Quarter and Fiscal Year 2024 Financial Results,PR Newswire,0.371443,Bullish,0.304580,0.624083
+20241119T220000,AAPL,Kurv Investment Management Completes Reorganization of Yield Premium Suite to Proprietary Trust,富途牛牛,0.34915,Somewhat-Bullish,0.398804,0.630765
+20241120T045126,AAPL,Global X NASDAQ 100 Covered Call ETF Holdings,Quiver Quantitative,0.109727,Neutral,0.121380,0.877635
+20241120T052127,AAPL,VOOG vs. SCHG: Which Is the Better Growth Stock ETF?,Nasdaq,0.32882,Somewhat-Bullish,0.304853,0.566472
+20241120T083831,AAPL,"Black Friday Arrives at T-Mobile: Unwrap 4 Lines for Only $100/mo, 4 iPhone 16 on Us and More",Business Wire,0.359223,Bullish,0.343669,0.729669
+20241121T000000,AAPL,"Applied Materials launches a maskless OLED production technology, to support 8-Gen high efficiency OLED deposition and encapsulation",OLED-Info,0.323764,Somewhat-Bullish,0.142719,0.644368
+20241121T000000,AAPL,America eats the world,Morningstar Australia,0.106971,Neutral,0.139441,0.795496
+20241121T021032,AAPL,Under the Hood of Fidelity’s Blue Chip Growth ETF,ETF Trends,0.438342,Bullish,0.307401,0.689593
+20241121T083751,AAPL,"How To Dallas"" app seeks to build community for newcomers",Axios,0.134967,Neutral,0.112147,0.607990
+20241121T220857,AAPL,Under the Hood of Fidelity’s Blue Chip Growth,ETF Database,0.464672,Bullish,0.442930,0.725223
+20241122T083100,AAPL,ICLV: Value With Some Tech Exposure (NYSEARCA:ILCV),Seeking Alpha,0.177823,Somewhat-Bullish,0.138771,0.615072
+20241123T000000,AAPL,"Billionaire Warren Buffett Pours $752,000,000 Into New Assets After Dumping Apple, Bank of America",The Daily Hodl,0.080092,Neutral,-0.238959,0.815877
+20241123T180850,AAPL,Here's How Much You Would Need to Invest in This Unstoppable Vanguard ETF Today to Grow Your Portfolio to $1 Million or More by Retirement,The Globe and Mail,0.325709,Somewhat-Bullish,0.308798,0.626668
+20241124T080034,AAPL,"AI: Apple, Oura, and AI 'Smart Rings'. RTZ #550",AI: Reset to Zero,0.313701,Somewhat-Bullish,0.308962,0.922315
+20241125T123000,AAPL,"Corning offers to waive exclusive deals in EU antitrust probe, may stave off fine",Reuters,0.139044,Neutral,0.120627,0.720641
+20241126T000000,AAPL,The S&P 500 is expected to return 10% in 2025,Goldman Sachs,0.25543,Somewhat-Bullish,0.330621,0.614544
+20241126T075011,AAPL,"Best Buy broadly misses earnings estimates as consumers pull back on appliances, electronics",Yahoo Finance,-0.078812,Neutral,0.134393,0.648543
+20241126T080744,AAPL,Google faces £7 billion UK class action lawsuit over search engine dominance,Computing UK,-0.495889,Bearish,-0.216714,0.749970
+20241126T102500,AAPL,Apple takes another bite of Penn District,The Real Deal,0.239267,Somewhat-Bullish,0.428278,0.943378
+20241127T104600,AAPL,The S&P 500 (SPY) Is Ready for a Sell-Off,24/7 Wall St.,0.118499,Neutral,0.115019,0.723532
+20241128T133856,AAPL,Advanced Micro Devices (AMD) and Apple to Lead with TSM’s Advanced 2nm AI Chips in 2025,Yahoo Finance,0.296865,Somewhat-Bullish,0.375345,0.806967
+20241130T000000,AAPL,2 no-brainer Warren Buffett stocks to buy into 2025,Finbold,0.151111,Somewhat-Bullish,-0.112195,0.603990
+20241130T105221,AAPL,‘Small caps are going to become more in favor in 2025': VettaFi’s research head doubles down on winning group,CNBC,-0.167335,Somewhat-Bearish,-0.306183,0.722100

@@ -1,0 +1,77 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20230201T104100,AAPL,Spotify Reports Q4 2022 Earnings: Strong User Growth and Widened Losses,Coinspeaker,0.103041,Neutral,-0.127057,0.602781
+20230202T030359,AAPL,Apple Is Dropping Industrial Design Chief Role in Post-Jony Ive Era,Yahoo Finance,-0.127279,Neutral,-0.136129,0.966121
+20230202T033230,AAPL,McDonald’s new strategy to bring renewable energy to its supply chain,Trellis Group (formerly GreenBiz),0.347897,Somewhat-Bullish,0.349200,0.733600
+20230202T034229,AAPL,"Samsung’s next frontier: XR in partnership with Qualcomm, Google",KED Global,0.260503,Somewhat-Bullish,0.292372,0.741539
+20230202T121000,AAPL,Apple sales drop 5% in largest quarterly revenue decline since 2016,CNBC,-0.303627,Somewhat-Bearish,-0.305465,1.000000
+20230203T030359,AAPL,"Apple Q1 2023 Revenues Slowed by Exchange Rates, COVID, and Inflation",tidbits.com,0.033443,Neutral,0.029585,1.000000
+20230203T033249,AAPL,Meta从虚拟元宇宙重回现实,新浪财经,0.125433,Neutral,0.078178,0.654025
+20230203T143000,AAPL,Peloton Rival Zwift Bets on Hardcore Racing In Your Living Room,Bloomberg.com,0.097952,Neutral,0.124791,0.705263
+20230206T024500,AAPL,"Corning Inc. recently cut about 1,500 jobs worldwide",Corning Leader,-0.158169,Somewhat-Bearish,-0.138530,0.647701
+20230206T030359,AAPL,NLRB: Apple illegally interfered with employees’ protected activity,HR Dive,-0.336546,Somewhat-Bearish,-0.405288,1.000000
+20230206T030753,AAPL,Purifying the ‘miracle metal’: How to decarbonize aluminium,The World Economic Forum,0.259821,Somewhat-Bullish,0.300887,0.703117
+20230206T034827,AAPL,Sonos Is Having a Secret Sale Ahead of President's Day,Men's Health,0.209466,Somewhat-Bullish,0.135474,0.617983
+20230206T111033,AAPL,Calamos Investments Launches New Sustainable Equities ETF SROI,ETF Trends,0.373901,Bullish,0.349051,0.712132
+20230207T033249,AAPL,元宇宙烧了 137 亿美元，还得 Facebook 救 Meta,新浪财经,0.104724,Neutral,0.124810,0.629564
+20230207T153016,AAPL,BioSig Appoints Steve Buhaly as CFO,citybiz,0.177326,Somewhat-Bullish,0.122873,0.623866
+20230208T032716,AAPL,"Mobile App Development market, it is estimated to increase at the rate of more than 23.80% from 2020 to the end of the year 2030",vocal.media,0.402464,Bullish,0.443717,0.641789
+20230208T033337,AAPL,Apple Stock Versus Microsoft Stock: Which Is the Better Buy Now?,Morningstar,0.297052,Somewhat-Bullish,0.136967,1.000000
+20230208T035048,AAPL,Exclusive: Hearing startup Tuned adds more employers with fresh funds,Axios,0.111099,Neutral,0.125465,0.724756
+20230209T101900,AAPL,"AMD wins nearly a third of processor market, Arm's climb slows: analyst report",Reuters,0.065402,Neutral,-0.129281,0.584144
+20230210T083000,AAPL,Cartões Bradesco seguem pontuando em compras com Apple Pay,MacMagazine,0.063528,Neutral,0.106597,0.740749
+20230210T112703,AAPL,Navigate 2023 With Recession-Resistant ETF ZECP,ETF Trends,0.283255,Somewhat-Bullish,0.328521,0.705562
+20230211T033243,AAPL,Apple hires its first Chief People Officer in executive reshuffle,ETHRWorld.com,0.168671,Somewhat-Bullish,0.208191,1.000000
+20230213T032021,AAPL,Wall Street ends sharply higher as investors eye inflation data,Reuters,0.117085,Neutral,0.238822,0.612903
+20230214T052500,AAPL,T-Mobile suffers major network outage across US,The Verge,-0.103452,Neutral,-0.115046,0.631852
+20230215T031547,AAPL,These Stocks Are Leading the Growth Rebound,Morningstar,0.454062,Bullish,0.341844,0.940639
+20230215T165300,AAPL,Qualcomm introduces new Snapdragon X75 mobile modem chip,SiliconANGLE,0.552058,Bullish,0.343199,0.736621
+20230216T035615,AAPL,"Microsoft Now Supporting Windows Virtualization on Mac M1, M2, via Parallels Desktop 18",Tech Times,0.097856,Neutral,0.325483,0.939418
+20230216T080000,AAPL,Forget Milk and Eggs: Supermarkets Are Having a Fire Sale on Data About You,The Markup,-0.162767,Somewhat-Bearish,-0.161545,0.605833
+20230216T201100,AAPL,Exclusive: SoftBank's Arm China profit drops over 90% in 2022,Reuters,0.101968,Neutral,0.116321,0.706917
+20230217T031023,AAPL,"UBS recommends its clients grab a full serving of Buffett's incredible, UNDERVALUED Berkshire Hathaway",Stockhead,0.256925,Somewhat-Bullish,0.414121,0.714393
+20230217T155900,AAPL,Groupon Outsources Legal Executive Role to Winston & Strawn (1),Bloomberg Law News,-0.081343,Neutral,0.140971,0.625889
+20230217T165700,AAPL,Garmin Ltd. stock outperforms competitors despite losses on the day,MarketWatch,-0.129152,Neutral,-0.221972,0.710653
+20230217T203012,AAPL,Familiar Faces Powering Growth Stock Resurgence,ETF Trends,0.298484,Somewhat-Bullish,0.415099,0.860586
+20230220T030000,AAPL,Trump’s Truth Social Dilemma,Newsweek,-0.069763,Neutral,0.129989,0.623223
+20230221T034510,AAPL,Major League Soccer and RBC Wealth Management Announce Multi-Year Partnership,MLSsoccer.com,0.548617,Bullish,0.307719,0.607696
+20230221T034827,AAPL,Apple HomePod 2 vs Sonos One: is it worth paying more?,What Hi-Fi?,0.169997,Somewhat-Bullish,0.216120,1.000000
+20230221T141800,AAPL,Microsoft teams up with Nvidia and Nintendo in 10-year deal to stream Xbox games,MarketWatch,0.202546,Somewhat-Bullish,0.126029,0.619383
+20230222T030545,AAPL,"AMD Puts Hopes on Packaging, Memory on Logic, Optical Comms for Decade Ahead",Tom's Hardware,0.144233,Neutral,0.089633,0.589758
+20230222T085300,AAPL,Dexcom G6 Continuous Glucose Monitoring System Launches in Singapore,ANTARA News,0.389774,Bullish,0.124080,0.636522
+20230223T030859,AAPL,2023 Clean200,As You Sow,0.429317,Bullish,0.400819,0.733955
+20230223T031023,AAPL,All 47 Warren Buffett Portfolio Stocks Now | Current 2023 Holdings List,The Kenyan Wall Street,0.28232,Somewhat-Bullish,0.317595,0.908248
+20230223T035843,AAPL,Mercedes-Benz’s Superscreen Will Bring TikTok and Zoom to E-Class EVs,Inverse,0.156042,Somewhat-Bullish,0.123771,0.639668
+20230223T101400,AAPL,7 Super Speculative Stocks That Could Make You Very Rich,InvestorPlace,0.347436,Somewhat-Bullish,0.307521,0.611131
+20230223T143800,AAPL,Unity Software stock slides nearly 20% as mobile-ad spending dries up and annual forecast weighs,MarketWatch,-0.319466,Somewhat-Bearish,-0.206345,0.721914
+20230223T180400,AAPL,Apple shareholder moves to boot Al Gore from board of directors,Fox Business,-0.132218,Neutral,-0.110037,0.983017
+20230224T034903,AAPL,How does Spotify’s new AI powered DJ work?,Diario AS,0.214957,Somewhat-Bullish,0.205851,0.717175
+20230224T093900,AAPL,"This Week in the Metaverse: BlackRock's new ETF, Titanic artifacts as NFTs, and a Snow Crash Sotheby’s auction",Fortune,0.162869,Somewhat-Bullish,0.222880,0.571171
+20230225T032139,AAPL,Step-By-Step Guide To Opening A moomoo Account,DollarsAndSense.sg,0.474821,Bullish,0.448692,0.571486
+20230226T074000,AAPL,How Reuters used AirTags to reveal Dow’s false recycling promises,9to5Mac,-0.277039,Somewhat-Bearish,0.220654,0.725814
+20230227T031023,AAPL,"If I'd invested $1,000 in Berkshire Hathaway shares 25 years ago, here's how much I'd have now!",The Motley Fool UK,0.243937,Somewhat-Bullish,0.345817,0.631933
+20230227T034942,AAPL,How Have the Top U.S. Asset Managers Voted in 2022?,The Harvard Law School Forum on Corporate Governance,0.089636,Neutral,0.099323,0.622020
+20230227T103200,AAPL,Apple pays $12.1 mln fine for alleged app market abuse in Russia - Antimonopoly Service,Reuters,-0.291662,Somewhat-Bearish,-0.284301,1.000000
+20230227T121100,AAPL,"Apple iPhone's Clean Energy Charging causes stir on social media over battery charging times, 'shaming'",FOX 10 Phoenix,-0.139011,Neutral,-0.145260,1.000000
+20230228T013854,AAPL,IXN Top Holdings List & Exposure (iShares Global Tech ETF),MarketBeat,0.112946,Neutral,0.112657,0.728374
+20230228T020936,AAPL,PBS Top Holdings List & Exposure (Invesco Next Gen Media and Gaming ETF),MarketBeat,0.0921,Neutral,0.119876,0.921392
+20230228T040909,AAPL,JQUA Top Holdings List & Exposure (JPMorgan U.S. Quality Factor ETF),MarketBeat,0.044628,Neutral,0.008475,0.703710
+20230228T080930,AAPL,SPUS Top Holdings List & Exposure (SP Funds S&P 500 Sharia Industry Exclusions ETF),MarketBeat,0.127748,Neutral,0.211831,0.835218
+20230228T093908,AAPL,IOO Top Holdings List & Exposure (iShares Global 100 ETF),MarketBeat,0.121894,Neutral,0.112266,0.713216
+20230228T093924,AAPL,FNDB Top Holdings List & Exposure (Schwab Fundamental U.S. Broad Market ETF),MarketBeat,0.182678,Somewhat-Bullish,0.115247,0.703890
+20230228T100853,AAPL,CRBN Top Holdings List & Exposure (iShares MSCI ACWI Low Carbon Target ETF),MarketBeat,0.218009,Somewhat-Bullish,0.248254,0.742362
+20230228T101034,AAPL,PRF Top Holdings List & Exposure (Invesco RAFI US 1000 ETF),MarketBeat,0.131729,Neutral,0.141143,0.860887
+20230228T111422,AAPL,QGRW Top Holdings List & Exposure (WisdomTree U.S. Quality Growth Fund),MarketBeat,0.041419,Neutral,0.016612,0.709869
+20230228T123932,AAPL,IUSG Top Holdings List & Exposure (iShares Core S&P U.S. Growth ETF),MarketBeat,0.110693,Neutral,0.118697,0.786613
+20230228T130952,AAPL,VOTE Top Holdings List & Exposure (TCW Transform 500 ETF),MarketBeat,0.070366,Neutral,0.096283,0.706376
+20230228T143856,AAPL,BBLU Top Holdings List & Exposure (EA Bridgeway Blue Chip ETF),MarketBeat,0.055203,Neutral,0.025045,0.789497
+20230228T143952,AAPL,DGRW Top Holdings List & Exposure (WisdomTree U.S. Quality Dividend Growth Fund),MarketBeat,0.215231,Somewhat-Bullish,0.220955,0.873961
+20230228T144041,AAPL,Lightsource bp Places Multi-Year Order for 4GW of First Solar Modules,Lightsource bp,0.617956,Bullish,0.318401,0.628103
+20230228T171004,AAPL,SPXE Top Holdings List & Exposure (ProShares S&P 500 Ex-Energy ETF),MarketBeat,0.416658,Bullish,0.039143,0.742122
+20230228T171015,AAPL,SEIM Top Holdings List & Exposure (SEI Enhanced U.S. Large Cap Momentum Factor ETF),MarketBeat,0.098086,Neutral,0.021038,0.734054
+20230228T173957,AAPL,FTEC Top Holdings List & Exposure (Fidelity MSCI Information Technology Index ETF),MarketBeat,-0.132454,Neutral,-0.121458,0.716775
+20230228T191025,AAPL,QUAL Top Holdings List & Exposure (iShares MSCI USA Quality Factor ETF),MarketBeat,0.127349,Neutral,0.130085,0.945578
+20230228T191233,AAPL,XLG Top Holdings List & Exposure (Invesco S&P 500 Top 50 ETF),MarketBeat,0.131985,Neutral,0.008079,0.732885
+20230228T200915,AAPL,PY Top Holdings List & Exposure (Principal Value ETF),MarketBeat,0.136737,Neutral,0.112461,0.928640
+20230228T221304,AAPL,IQM Top Holdings List & Exposure (Franklin Intelligent Machines ETF),MarketBeat,0.109333,Neutral,0.144749,0.648973
+20230228T233935,AAPL,METV Top Holdings List & Exposure (Roundhill Ball Metaverse ETF),MarketBeat,0.126183,Neutral,0.123351,0.928007
+20230228T235136,AAPL,JGRO Top Holdings List & Exposure (JPMorgan Active Growth ETF),MarketBeat,0.111534,Neutral,0.131080,0.793983

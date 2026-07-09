@@ -1,0 +1,34 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20231002T091400,AAPL,Dutch regulator rejects Apple’s objections to fines,Reuters,-0.227957,Somewhat-Bearish,-0.232117,1.000000
+20231003T203302,AAPL,What the Cheesecake Factory Effect means for malls,Axios,0.363741,Bullish,0.346564,0.606716
+20231004T110857,AAPL,JPMorgan Hedged Equity Laddered Overlay ETF,ETF Database,0.331794,Somewhat-Bullish,0.339791,0.739828
+20231004T131002,AAPL,"AAPU ETF Analysis: Dividends, Returns NASDAQ:AAPU",TradingView,0.038017,Neutral,0.024982,0.710930
+20231004T205334,AAPL,"Scheels opens 250,000-sq.-ft. store in Phoenix",Chain Store Age,0.206868,Somewhat-Bullish,0.115783,0.643189
+20231004T210207,AAPL,PayPal Makes Good on Its Apple Pay Card Vow,Digital Transactions,0.267712,Somewhat-Bullish,0.324927,0.903535
+20231005T202951,AAPL,Blackberry to Split in Two: Why We Like the Idea,Morningstar,0.208155,Somewhat-Bullish,0.101337,0.597492
+20231005T211404,AAPL,Tech spared as bond selloff buffets stocks,The Guam Daily Post,0.250861,Somewhat-Bullish,0.324470,0.620542
+20231009T140955,AAPL,Moat Investing Rises Above Magnificent Seven Dominance,VanEck,0.198809,Somewhat-Bullish,0.125559,0.602180
+20231011T052200,AAPL,Google CEO Pichai wrote to founders Page and Brin to decry bad ‘optics’ of search engine deal with Apple when he was in charge of Chrome,Fortune,0.019874,Neutral,0.006618,0.314531
+20231011T185216,AAPL,"REX FANG & Innovation Equity Premium Income ETF (FEPI) Price, Holdings, & News",MarketBeat,0.288662,Somewhat-Bullish,0.332810,0.728929
+20231012T201800,AAPL,"Qualcomm layoffs in 2023: Why 1,258 jobs are being slashed",SiliconANGLE,-0.045228,Neutral,0.031596,0.740809
+20231012T202808,AAPL,IWF ETF: Be Cautious Of High Valuations (NYSEARCA:IWF),Seeking Alpha,-0.140447,Neutral,-0.143264,0.603216
+20231012T211038,AAPL,United Promotes Benefits of Bluetooth Enabled Planes,PR Newswire,0.346856,Somewhat-Bullish,0.311354,0.730103
+20231013T202611,AAPL,"Google joins Adobe, Microsoft in promising to protect its AI users from copyright claims",The Business Journals,0.269731,Somewhat-Bullish,0.121785,0.614770
+20231013T202731,AAPL,Amkor's Largest Global Semiconductor Factory Opens in Yen Phong 2C Industrial Park developed by Viglacera,Gelex Group,0.362577,Bullish,0.334470,0.746542
+20231014T205642,AAPL,"Malicious “RedAlert - Rocket Alerts” application targets Israeli phone calls, SMS, and user information",The Cloudflare Blog,0.071366,Neutral,-0.137916,0.644508
+20231014T205642,AAPL,"Malicious “RedAlert - Rocket Alerts” application targets Israeli phone calls, SMS, and user information",Cloudflare,0.113698,Neutral,0.108581,0.615227
+20231015T120109,AAPL,Apple Inc. (NASDAQ:AAPL) is largely controlled by institutional shareholders who own 55% of the company,Yahoo Finance,0.126951,Neutral,0.124865,0.978692
+20231020T211304,AAPL,"Weibo trials displaying real names of influencers, starting with its CEO",Dao Insights,0.139727,Neutral,0.144238,0.635155
+20231023T202544,AAPL,Apple to spend $1 billion on AI in catch-up move: report,Fox Business,0.261902,Somewhat-Bullish,0.324695,1.000000
+20231023T202739,AAPL,Nvidia and AMD reportedly developing Arm-based PC processors,SiliconANGLE,0.070985,Neutral,0.101367,0.617644
+20231023T205147,AAPL,KT Partners with Thailand’s Jasmine Group for Global AI Collaboration,Businesskorea,0.232521,Somewhat-Bullish,0.486415,0.720518
+20231024T062600,AAPL,"It's Not Just Lithium: Tesla, Rivian, And The Green Revolution Rely On These Precious Metals",Nasdaq,0.232651,Somewhat-Bullish,0.106449,0.441542
+20231024T103917,AAPL,Goldman Sachs Nasdaq-100 Premium Income ETF Holdings,Quiver Quantitative,0.238643,Somewhat-Bullish,0.206904,0.706695
+20231024T134500,AAPL,"Nvidia to take on Intel, Qualcomm with Arm-based processors for PC; availability pegged for 2025",The Financial Express,0.070938,Neutral,0.323419,0.647189
+20231024T152543,AAPL,FDA Clears Omnipod 5 App for iPhones,HCPLive,0.344176,Somewhat-Bullish,0.233758,0.719935
+20231025T053300,AAPL,‘Fundamental rethink:’ Investors dump China shares despite new efforts to shore up the economy,CNN,0.093442,Neutral,0.125627,0.641989
+20231025T210637,AAPL,Top 10 Mobile Accessories Companies | Fuelling Market Growth,Market.us Scoop,0.290533,Somewhat-Bullish,0.302711,0.728733
+20231029T124500,AAPL,Apple Looks to Regain Chip Bragging Rights With Trio of M3 Processors,Bloomberg.com,0.344705,Somewhat-Bullish,0.309800,1.000000
+20231030T000000,AAPL,"Apple unveils M3, M3 Pro, and M3 Max, the most advanced chips for a personal computer",Apple,0.439447,Bullish,0.439629,1.000000
+20231030T203100,AAPL,"BlackBerry CEO Chen to retire, director Lynch to hold interim charge",Reuters,0.051704,Neutral,-0.124941,0.644805
+20231030T210226,AAPL,3 ETFs Setting the Gold Standard for Investor Returns,InvestorPlace,0.416791,Bullish,0.330475,0.726247

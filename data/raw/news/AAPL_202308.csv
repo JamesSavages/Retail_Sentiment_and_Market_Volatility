@@ -1,0 +1,49 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20230801T000000,AAPL,"Pixar, Apple and Nvidia are teaming up to promote a 3D file format that could help boost Apple's upcoming Vision Pro",The Business Journals,0.338878,Somewhat-Bullish,0.401439,1.000000
+20230801T103902,AAPL,"JPMorgan Equity Focus ETF ETF Price, Holdings, & News (NASDAQ:JPEF) $JPEF",MarketBeat,0.287157,Somewhat-Bullish,0.261110,0.633178
+20230801T115900,AAPL,Best Augmented Reality & Virtual Reality Stocks In 2023: December List,Forbes,0.311077,Somewhat-Bullish,0.319893,0.783695
+20230802T185100,AAPL,Apple’s Goldman Sachs-Backed Savings Account Tops $10 Billion in Deposits,Bloomberg.com,0.30627,Somewhat-Bullish,0.339004,0.942300
+20230802T222415,AAPL,Garmin Fenix 7X Pro Solar Review | A new pinnacle in ultra-premium sports smartwatches,The Hindu,0.268833,Somewhat-Bullish,0.117941,0.717427
+20230802T224452,AAPL,S&P 500 analysis: US stocks drop after Fitch downgrade,FOREX.com,-0.167415,Somewhat-Bearish,-0.212116,0.720962
+20230803T221803,AAPL,Haus raises $17M Series A led by Insight Partners to build the future of growth intelligence,PR Newswire,0.11038,Neutral,0.126135,0.715686
+20230804T062600,AAPL,"Apple sees sales slump continuing, shares drop 2% despite beating sales expectations",Reuters,-0.272062,Somewhat-Bearish,-0.275173,1.000000
+20230804T085100,AAPL,Apple Loses Historic $3 Trillion Crown as Sales Disappoint,Bloomberg.com,-0.450187,Bearish,-0.489789,1.000000
+20230804T221515,AAPL,Apple Pay reportedly coming to Chile this month after long delay,9to5Mac,0.296398,Somewhat-Bullish,0.323323,0.938725
+20230807T000000,AAPL,Exploring two covered call strategies by Global X ETFs,ETF Stream,0.271718,Somewhat-Bullish,0.331396,0.612515
+20230807T000000,AAPL,"After Earnings, Is Berkshire Hathaway Stock a Buy, a Sell, or Fairly Valued?",Morningstar,0.073464,Neutral,0.332917,0.740837
+20230808T000000,AAPL,BlackRock Inc. Boosts Stake in Moelis & Co,Yahoo Finance,0.106198,Neutral,0.019322,0.574852
+20230808T095200,AAPL,LAFFER|TENGLER Equity Income ETF Review and Aggregate Rating (TGLR) $TGLR,MarketBeat,0.317024,Somewhat-Bullish,0.332373,0.614471
+20230808T171251,AAPL,Is it safe to buy the UltraPro Short (SQQQ) ETF dip?,Invezz,-0.078222,Neutral,0.100919,0.614763
+20230808T221339,AAPL,"Carlyle buys into Quest Global, invests $500 million",The Economic Times,0.173322,Somewhat-Bullish,-0.122420,0.620482
+20230809T221015,AAPL,¿Eres cliente de Banco de Chile? Conoce cómo añadir tus tarjetas a Apple Pay,Chócale,0.213845,Somewhat-Bullish,0.347815,0.916969
+20230809T234044,AAPL,"Cornerstone Total Return Fund, Inc. (CRF) Dividend History, Date, and Yield",CoinCodex,0.041322,Neutral,0.103149,0.612138
+20230811T224559,AAPL,TechInsights Teardown: Apple iPhone 14 Plus,Electronics360,0.174606,Somewhat-Bullish,0.213354,1.000000
+20230813T174139,AAPL,Landsea Homes launches sales at Citrus Park in Goodyear,AZ Big Media,0.268261,Somewhat-Bullish,0.184052,0.702085
+20230815T073000,AAPL,Dropbox review: Still the best at syncing and sharing,PCWorld,0.067704,Neutral,0.017644,0.613603
+20230815T094400,AAPL,Ford taps Apple exec to build high-margin digital services,Reuters,0.243756,Somewhat-Bullish,0.202481,0.749670
+20230815T220658,AAPL,What To Consider When Using Generative AI,C3 AI,-0.038881,Neutral,-0.143788,0.732452
+20230816T220550,AAPL,Production of Apple iPhone 15 reportedly kicks off in India,Fox Business,0.308401,Somewhat-Bullish,0.314318,0.965773
+20230817T000000,AAPL,Apple Card named Best Co-Branded Credit Card for Customer Satisfaction with No Annual Fee by J.D. Power,Apple,0.584772,Bullish,0.647118,1.000000
+20230817T225117,AAPL,WEBTOON is ready to take on Apple and Amazon (and win),Popverse,0.072708,Neutral,0.126935,0.718895
+20230820T223814,AAPL,Nine million and counting: The controversial shopping app sweeping Australia,Forbes Australia,0.133026,Neutral,0.112833,0.612742
+20230822T195226,AAPL,Congress Large Cap Growth ETF Holdings,Quiver Quantitative,0.308335,Somewhat-Bullish,0.273384,0.799287
+20230822T234030,AAPL,CAML Top Holdings List & Exposure (Congress Large Cap Growth ETF),MarketBeat,0.148388,Neutral,0.180178,0.771675
+20230823T000000,AAPL,The best ETFs for retirement income,MoneySense,0.233701,Somewhat-Bullish,0.320645,0.716004
+20230823T220836,AAPL,"Arm, the Chip Designer, Files for an I.P.O. Expected to Be Among the Largest (Published 2023)",The New York Times,0.16647,Somewhat-Bullish,0.204240,0.606676
+20230823T223616,AAPL,NVIDIA Announces Financial Results for Second Quarter Fiscal 2024,NVIDIA Newsroom,0.570734,Bullish,0.521447,0.608353
+20230824T093948,AAPL,"Invesco S&P 500 Revenue ETF (RWL) Stock Price, Holdings, Dividend Yield",GuruFocus,0.156634,Somewhat-Bullish,0.139709,0.624714
+20230824T220630,AAPL,"John Warnock, Inventor of the PDF, Dies at 82",The New York Times,0.149789,Neutral,0.147499,0.727706
+20230825T133100,AAPL,Early Apple computer that helped launch $3T company sells at auction for $223K,The National News Desk,0.348697,Somewhat-Bullish,0.325846,1.000000
+20230825T173929,AAPL,"iShares Russell 1000 ETF (IWB) Stock Price, Holdings, Dividend Yield",GuruFocus,0.252122,Somewhat-Bullish,0.304312,0.786870
+20230827T093300,AAPL,'Not just money and math': Young people are willing to sacrifice returns for ESG,CNBC,0.083512,Neutral,0.305551,0.624409
+20230827T222703,AAPL,"Corporate America’s Chief Critic, Carl Icahn, Gets His Comeuppance (Published 2023)",The New York Times,-0.067763,Neutral,0.143690,0.738930
+20230828T182400,AAPL,"Hedge fund exposure to 7 biggest tech stocks at record high, Goldman Sachs says",Reuters,0.415752,Bullish,0.390578,0.702697
+20230829T000000,AAPL,"Apellis to lay off 25% of staff, trim research in major restructuring",BioPharma Dive,0.128494,Neutral,0.299585,0.727030
+20230829T101013,AAPL,"Invesco Next Gen Connectivity ETF ETF Price, Holdings, & News (NYSEARCA:KNCT)",MarketBeat,0.148802,Neutral,0.122720,0.718973
+20230829T193041,AAPL,Apple partner Globalstar taps former Qualcomm executive Paul Jacobs as CEO,The Economic Times,0.341051,Somewhat-Bullish,0.275680,0.932323
+20230829T222418,AAPL,Globalstar hires former Qualcomm CEO for 'next phase',Light Reading,0.298257,Somewhat-Bullish,0.123034,0.604305
+20230829T222418,AAPL,Globalstar Names XCOM Labs Founder Paul Jacobs as CEO,PYMNTS.com,0.263711,Somewhat-Bullish,0.204076,0.600851
+20230829T222806,AAPL,How space traffic in orbit could spell trouble on Earth,Coda Story,-0.146349,Neutral,-0.143509,0.590902
+20230830T000000,AAPL,Apple announces next Impact Accelerator class for businesses advancing environmental innovation,Apple,0.491102,Bullish,0.471535,1.000000
+20230830T152516,AAPL,"The Fishbowl: Lydia Parker, Samsung Ads Europe",The Media Leader,0.15937,Somewhat-Bullish,0.135329,0.609429
+20230831T133600,AAPL,Details on InvestigateTV+,www.investigatetv.com,0.186552,Somewhat-Bullish,0.307634,0.643014

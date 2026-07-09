@@ -1,0 +1,40 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20230103T043646,NVDA,"As the robot era arrives, Nvidia debuts update to its Isaac Sim robotics platform",SiliconANGLE,0.427392,Bullish,0.416693,1.000000
+20230103T043646,NVDA,Nvidia Omniverse 3D graphics platform expands features for enterprise users and creators,SiliconANGLE,0.014598,Neutral,0.044947,0.307354
+20230103T043646,NVDA,"NVIDIA Ada Lovelace Breaks Energy-Efficiency Barrier, Supercharges 170+ Laptop Designs for Gamers and Creators",NVIDIA Newsroom,0.299422,Somewhat-Bullish,0.496682,1.000000
+20230103T043646,NVDA,"GeForce RTX 40 Series Studio Laptops, Omniverse Updates Accelerate AI-Powered Content Creation",NVIDIA Blog,0.473015,Bullish,0.854147,1.000000
+20230103T044701,NVDA,The War Over the World’s Most Critical Technology: A Conversation with Chris Miller,Council on Foreign Relations,0.125034,Neutral,0.141813,0.741498
+20230103T064900,NVDA,Foxconn to use Nvidia chips to build self-driving vehicle platforms,Reuters,0.239662,Somewhat-Bullish,0.444904,1.000000
+20230103T122000,NVDA,Nvidia unveils advances in autonomous robotics simulation using AI,SiliconANGLE,0.486046,Bullish,0.481950,1.000000
+20230104T040113,NVDA,"AMD Unveils Suite of New Radeon GPUs to Power High-Performance, Power-Efficient Gaming Laptops",AMD,0.218184,Somewhat-Bullish,0.116683,0.602463
+20230104T042318,NVDA,HP at CES 2023: Leading in Hybrid and Gaming Experiences,HP,0.348502,Somewhat-Bullish,0.317206,0.606940
+20230104T043646,NVDA,"Hyundai, BYD, Polestar adopt Nvidia’s cloud gaming service",KED Global,0.317142,Somewhat-Bullish,0.467091,1.000000
+20230104T044644,NVDA,The Power of 7: Tech that will disrupt 2023,Sify News,0.260495,Somewhat-Bullish,0.338767,0.620599
+20230104T235400,NVDA,CES 2023: AMD seeks to attract Nvidia’s customers with advanced new AI chips,MarketWatch,0.092388,Neutral,-0.224636,0.831508
+20230105T043646,NVDA,Tipping Point: NVIDIA DRIVE Scales AI-Powered Transportation at CES 2023,NVIDIA Blog,0.3691,Bullish,0.417095,1.000000
+20230106T043646,NVDA,Nvidia upgrades robotics simulation tool,EDN - Voice of the Engineer,0.457271,Bullish,0.482162,1.000000
+20230106T045600,NVDA,Chinese companies lead in LiDAR tech,China Daily,0.302638,Somewhat-Bullish,0.327340,0.608947
+20230106T163300,NVDA,"CES 2023: AMD, Nvidia, auto applications get the hype, but analysts say this one chip maker ruled",MarketWatch,0.116483,Neutral,0.149227,0.815896
+20230109T044951,NVDA,Synaptics CEO Says Chip Shortages Could Return Sooner Than You Think,Barron's,-0.248935,Somewhat-Bearish,-0.267703,0.585562
+20230109T045250,NVDA,Taiwan Launches Its Own Chip Fab Incentives to Rival US Japan and EU,Data Center Knowledge,0.398264,Bullish,0.216034,0.600395
+20230110T042539,NVDA,"Intel Launches 4th Gen Xeon Scalable Processors, Max Series CPUs and GPUs",Investor Relations :: Intel Corporation (INTC),0.305443,Somewhat-Bullish,0.247722,0.610144
+20230110T043646,NVDA,Nvidia debuts new DGX H100 systems powered by Intel’s 4th Gen Intel Xeon Scalable chips,SiliconANGLE,0.329109,Somewhat-Bullish,0.634012,1.000000
+20230110T073100,NVDA,Germany's BioNTech buys British AI startup InstaDeep,Reuters,0.206533,Somewhat-Bullish,0.145199,0.615911
+20230112T202400,NVDA,"Google, Nvidia Express Concerns to FTC About Microsoft’s Activision Deal",Bloomberg.com,-0.183067,Somewhat-Bearish,-0.119039,0.844518
+20230113T045200,NVDA,How Both Taiwan and the US Can Benefit from TSMC's Investment,Northeastern Global News,0.379156,Bullish,0.286972,0.603067
+20230116T133100,NVDA,Taiwan ASE plant listed as 'lighthouse factory' by WEF,Taiwan News,0.581929,Bullish,0.521544,0.558316
+20230117T045227,NVDA,Spot On: Texas Instruments Announces First Chipset That Enables Cameras and Sensors to Clean Themselves,Dallas Innovates,0.288452,Somewhat-Bullish,0.247305,0.556292
+20230117T100000,NVDA,Dell announces new PowerEdge servers based on Intel's 4th Gen Xeon Scalable processors,SiliconANGLE,0.31505,Somewhat-Bullish,0.243969,0.645126
+20230119T105936,NVDA,Global X S&p 500 Covered Call Etf Share Price,INDmoney,0.126754,Neutral,0.140373,0.648080
+20230120T043032,NVDA,Outrider Closes $73 Million in Series C Funding,The SaaS News,0.25296,Somewhat-Bullish,0.533828,0.637385
+20230120T045555,NVDA,The Williams Companies Stock: Buy This Strong 5.4% Midstream Yield,Seeking Alpha,0.166888,Somewhat-Bullish,0.069122,0.565262
+20230123T040905,NVDA,"Tradr 1.5X Short NVDA Daily ETF (NVDS) stock price, news, quote and history",Yahoo Finance UK,0.003613,Neutral,0.016970,0.818297
+20230123T044808,NVDA,Add Exposure to Semiconductor Stocks with These 2 Invesco ETFs,ETF Trends,0.407693,Bullish,0.513866,0.841334
+20230125T043646,NVDA,Nvidia CEO Jensen Huang: AI is creating tools that will need regulation,The Business Journals,0.114004,Neutral,0.146859,1.000000
+20230127T044644,NVDA,Is Augmented Reality safe?,Sify News,0.046425,Neutral,0.039354,0.601331
+20230127T093000,NVDA,Intel's 'historic collapse' erases $8 billion from market value,Reuters,-0.121121,Neutral,0.341634,0.630491
+20230128T043209,NVDA,An open-source option is shaking up the microchip industry,Freethink,0.226735,Somewhat-Bullish,0.253801,0.622616
+20230130T045146,NVDA,Points of light for Intel Israel,Globes - Israel Business News,0.094308,Neutral,0.316157,0.601282
+20230130T152523,NVDA,2 Chip Stocks to Buy Instead of NVIDIA In 2023,Entrepreneur,0.337429,Somewhat-Bullish,0.232422,0.806132
+20230131T044643,NVDA,India’s First NVIDIA DGX-Ready Data Center Colocation Provider,www.varindia.com,0.126385,Neutral,0.345909,0.867271
+20230131T141016,NVDA,Top Performing Leveraged/Inverse ETFs: 01/29/2023,ETF Trends,0.417094,Bullish,0.344714,0.630270

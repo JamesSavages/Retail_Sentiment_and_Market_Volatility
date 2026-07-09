@@ -1,0 +1,51 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20240701T000000,AAPL,Active investing is suited to the uncertain markets ahead,T. Rowe Price,0.208797,Somewhat-Bullish,0.248161,0.700333
+20240701T120704,AAPL,The Best Satellite Messengers for Traveling Off-the-Grid,WIRED,0.306526,Somewhat-Bullish,0.300082,0.744426
+20240701T120731,AAPL,"The robots are coming: GXO Logistics, operator of warehouses in the region, starts using humanoids",WFMZ.com,0.202598,Somewhat-Bullish,0.125033,0.603224
+20240702T000000,AAPL,Affirm Card Users' Data Compromised in Evolve Bank Cybersecurity Breach: Report,Yahoo Finance,0.000148,Neutral,-0.113613,0.649226
+20240705T113815,AAPL,Better Chip Stock: Arm Holdings vs. Intel,Yahoo Finance,0.109301,Neutral,0.110266,0.630770
+20240705T121307,AAPL,Headphones maker Koss Corp. continues to ride latest meme-stock craze,The Business Journals,0.268285,Somewhat-Bullish,0.142766,0.631497
+20240706T110925,AAPL,"SPYG: S&P 500 Growth Stocks Are Pricey, But Still Worth It (NYSEARCA:SPYG)",Seeking Alpha,0.34783,Somewhat-Bullish,0.340578,0.612741
+20240708T000000,AAPL,"Skydance, Paramount Global Agree on Deal; David Ellison, Jeff Shell to Lead ‘New Paramount’",Media Play News,0.195831,Somewhat-Bullish,0.072985,0.566986
+20240708T133100,AAPL,"Apple may start iPad production in India, AirPod charging cases at Jabil facility in Pune, says report",mint,0.157077,Somewhat-Bullish,0.418127,0.938535
+20240708T145900,AAPL,Corning raises second-quarter core sales forecast driven by AI boom,Reuters,0.265676,Somewhat-Bullish,0.132954,0.626914
+20240709T000000,AAPL,Revisiting Hong Kong: Optimism Still Improving Even As Rally Gets Tested,KraneShares,0.426701,Bullish,0.406965,0.739124
+20240709T000000,AAPL,What broadening rally? AI stocks dominate US market again in Q2,Morningstar,0.389876,Bullish,0.437527,0.969909
+20240709T104100,AAPL,Salesforce and other software stocks are expected to bounce back in a big way,MarketWatch,0.225992,Somewhat-Bullish,0.132472,0.633743
+20240709T104100,AAPL,Salesforce and other software stocks are expected to bounce back in a big way,MarketWatch,0.22111,Somewhat-Bullish,0.132685,0.633099
+20240709T221056,AAPL,"EXCLUSIVE: Tech Valuations 'Pricey', Cybersecurity 'Top Of Mind' Ahead Of US Elections",TradingView,0.225056,Somewhat-Bullish,0.316056,0.931801
+20240710T042303,AAPL,Best Metaverse ETFs,Dr Wealth,0.234082,Somewhat-Bullish,0.179758,0.798453
+20240710T161500,AAPL,Apple Aims to Ship 10% More New iPhones This Year After Bumpy 2023,Bloomberg.com,0.151871,Somewhat-Bullish,0.335658,1.000000
+20240711T000000,AAPL,Value investors cooling their heels as growth stocks stay hot,InvestmentNews,0.260259,Somewhat-Bullish,0.344314,0.617814
+20240711T122939,AAPL,"Staples Canada Leads Back to School 2024 with Trends, Insights and Savings",MultiVu,0.256898,Somewhat-Bullish,0.215798,0.572955
+20240712T130200,AAPL,Apple Intelligence Strategy: AI Impact on Enterprises,SiliconANGLE,0.165848,Somewhat-Bullish,0.227453,1.000000
+20240714T143954,AAPL,BTCZ Stock Price | T-Rex 2X Inverse Bitcoin Daily Target ETF,Investing.com,-0.181649,Somewhat-Bearish,0.011932,0.606900
+20240715T145100,AAPL,AES Corp (AES) August 16 puts purchased as share price down 9.5%,StreetInsider,0.097978,Neutral,0.327461,0.626725
+20240715T204200,AAPL,"Buffett's Berkshire Hathaway sets, closes at record high",Reuters,0.150926,Somewhat-Bullish,0.315312,0.640875
+20240716T093400,AAPL,Apple at all-time high after Morgan Stanley calls stock 'top pick' for AI efforts,Reuters,0.263236,Somewhat-Bullish,0.415697,1.000000
+20240716T103500,AAPL,The AI Revolution Continues,Seeking Alpha,0.194071,Somewhat-Bullish,0.142555,0.609824
+20240716T121006,AAPL,Imax Expands Saudi Arabia Footprint In Pact With Big Exhibitor Muvi Cinemas,Deadline,0.263731,Somewhat-Bullish,0.137319,0.585687
+20240716T122835,AAPL,Production Begins for New Plug & Play Recessed Light,Streetwise Reports,0.317929,Somewhat-Bullish,0.207001,0.649053
+20240717T192000,AAPL,Deal for “high-performance” batteries signed for mystery Mixed Reality leader,PhoneArena,0.308449,Somewhat-Bullish,0.344433,0.717404
+20240718T121616,AAPL,Can Value Stocks Really Make a Comeback?,Morningstar,-0.106988,Neutral,-0.100270,0.740592
+20240718T123321,AAPL,TSMC second-quarter profit beats expectations as AI chip boom continues,CNBC,0.517147,Bullish,0.425573,0.567498
+20240719T000000,AAPL,GoPlay Chinese - Kids Games by iHuman Inc.,AppAdvice,0.134686,Neutral,0.260837,0.749468
+20240719T070952,AAPL,Invesco QQQ Income Advantage ETF,ETF Database,0.227758,Somewhat-Bullish,0.225225,0.711769
+20240722T023908,AAPL,Defiance Connective Technologies ETF,ETF Database,0.314149,Somewhat-Bullish,0.309235,0.639132
+20240722T121538,AAPL,Rumor: Is Apple Plotting a Sound United Buyout From Masimo?,Audioholics,0.06125,Neutral,0.132897,0.935684
+20240723T000000,AAPL,Credit Card Prequalification Gives Control to the Consumers -...,comScore,0.243021,Somewhat-Bullish,0.296198,0.678531
+20240723T121738,AAPL,Impact of Microsoft Copilot+ Recall on corporate cybersecurity,Kaspersky,-0.062134,Neutral,0.084407,0.729788
+20240723T144327,AAPL,Kurv Investment Management Launches Kurv Technology Titans Select ETF (KQQQ),Business Wire,0.357267,Bullish,0.322287,0.636649
+20240724T171000,AAPL,"Data Center Market size is set to grow by USD 434.8 billionn from 2024-2028, Rise in adoption of multi-cloud and network upgrades to support 5G to boost the market growth, Technavio",PR Newswire,0.348272,Somewhat-Bullish,0.345082,0.637521
+20240724T190918,AAPL,This Vanguard ETF Is Tumbling as Big Tech Stocks Sink,Barron's,-0.409119,Bearish,-0.409499,0.639198
+20240725T022947,AAPL,Apple Vision Pro Launches New Lake-Setting Environment For Digital Crown VR,TradingView: siga todos los mercados,-0.30038,Somewhat-Bearish,-0.308021,0.917805
+20240725T090843,AAPL,Check out OneStream's stock price (OS) in real time,CNBC,0.102284,Neutral,0.133599,0.632939
+20240726T145000,AAPL,"Apple signs on to voluntary US scheme to manage AI risks, White House says",Reuters,0.163313,Somewhat-Bullish,0.181101,1.000000
+20240726T163400,AAPL,US to award Amkor up to $400 million for chip packaging plant,Reuters,0.342077,Somewhat-Bullish,0.313238,0.742957
+20240729T113717,AAPL,"[News] TSMC’s N3 Process Fuels High Demand, as Supply Chain Expected to Boom Through Next Year",TrendForce,0.260691,Somewhat-Bullish,0.348776,0.864560
+20240729T113723,AAPL,Amkor scores $400M in CHIPS funding,Manufacturing Dive,0.402272,Bullish,0.311866,0.725840
+20240729T121954,AAPL,NVIDIA Accelerates Humanoid Robotics Development,NVIDIA Newsroom,0.329092,Somewhat-Bullish,0.303580,0.658367
+20240729T121955,AAPL,"NVIDIA Announces Generative AI Models and NIM Microservices for OpenUSD Language, Geometry, Physics and Materials",NVIDIA Newsroom,0.335206,Somewhat-Bullish,0.344746,0.735712
+20240729T121955,AAPL,Integrate Generative AI into OpenUSD Workflows Using New NVIDIA Omniverse Developer Tools,NVIDIA Developer,0.292721,Somewhat-Bullish,0.102178,0.560435
+20240730T161100,AAPL,"Buffett cuts Bank of America stake, sales top $3 bln",Reuters,-0.227605,Somewhat-Bearish,-0.202432,0.717640
+20240731T000000,AAPL,The Apple of One Business Reporter’s Eye (Published 2024),The New York Times,0.130182,Neutral,0.130163,0.954417

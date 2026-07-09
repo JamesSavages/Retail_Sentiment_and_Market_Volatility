@@ -31,7 +31,9 @@ TICKERS = [
 
 # For the free Alpha Vantage tier (25 requests/day), the *historical* news
 # panel is collected on a reduced set first; expand as your quota allows.
-NEWS_TICKERS = ["AAPL", "NVDA", "TSLA", "AMD", "META", "PLTR"]
+# NEWS_TICKERS = ["AAPL", "NVDA", "TSLA", "AMD", "META", "PLTR"]
+NEWS_TICKERS = ["AAPL", "NVDA", "TSLA"]     # trim to 3 for the synopsis sample
+STOCKTWITS_PAGES_PER_TICKER = 20           # was 5 — harvest more labelled messages
 
 START_DATE = "2023-01-01"   # study window start (prices / news)
 END_DATE = "2024-12-31"     # study window end
@@ -41,7 +43,7 @@ END_DATE = "2024-12-31"     # study window end
 # ----------------------------------------------------------------------
 # StockTwits public stream returns only *recent* messages. Used to build the
 # labelled corpus for the RQ1 sentiment-model validation and for screenshots.
-STOCKTWITS_PAGES_PER_TICKER = 5      # ~30 messages/page; keep small for a sample
+STOCKTWITS_PAGES_PER_TICKER = 20      # ~30 messages/page; keep small for a sample
 STOCKTWITS_DELAY_SEC = 2.0           # be polite; respect rate limits
 STOCKTWITS_USER_AGENT = "capstone-research/1.0 (academic use)"
 

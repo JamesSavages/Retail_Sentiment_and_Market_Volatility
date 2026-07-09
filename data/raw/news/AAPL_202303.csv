@@ -1,0 +1,53 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20230301T000000,AAPL,Why Target says 2022 was rougher than 2020,Supermarket News,0.102576,Neutral,0.234736,0.627626
+20230301T153845,AAPL,SFY Top Holdings List & Exposure (SoFi Select 500 ETF),MarketBeat,0.145024,Neutral,0.129794,0.712373
+20230301T235203,AAPL,IWV Top Holdings List & Exposure (iShares Russell 3000 ETF),MarketBeat,0.272344,Somewhat-Bullish,0.139493,0.861887
+20230302T025916,AAPL,The 10 most innovative companies in augmented and virtual reality of 2023,Fast Company,0.259685,Somewhat-Bullish,0.417390,0.744433
+20230302T160000,AAPL,PNC Bank ends business relationship with Donald Trump Jr's MxM News app company 'without cause',Fox News,0.057093,Neutral,0.111285,0.643126
+20230303T000000,AAPL,VT vs ACWI ETF: Which is the Best World ETF?,Dr Wealth,0.212742,Somewhat-Bullish,0.240973,0.704589
+20230303T023559,AAPL,IBM Stock: What Is the Highest Price It Has Ever Been?,GOBankingRates,-0.077936,Neutral,-0.108257,0.642234
+20230303T024020,AAPL,GLOF Top Holdings List & Exposure (iShares Global Equity Factor ETF),MarketBeat,0.101563,Neutral,0.101780,0.704182
+20230303T030141,AAPL,WEBTOON and LINE Studio Announce March 14 Launch Date for the True Beauty Mobile Puzzle Game,Business Wire,0.24952,Somewhat-Bullish,0.204909,0.601807
+20230303T051000,AAPL,IOO: Some Reasons To Stay Faithful Despite The Long Fall Ahead (NYSEARCA:IOO),Seeking Alpha,-0.067357,Neutral,-0.126612,0.647258
+20230303T090100,AAPL,British chip giant Arm chooses New York listing in a blow to London,CNBC,0.07717,Neutral,0.151156,0.743420
+20230305T140000,AAPL,"Apple Readies Its Next Range of Macs, Including — Finally — a New iMac",Bloomberg.com,0.244674,Somewhat-Bullish,0.216141,1.000000
+20230306T174155,AAPL,SUSA Top Holdings List & Exposure (iShares MSCI USA ESG Select ETF),MarketBeat,0.362473,Bullish,0.313795,0.742364
+20230307T021527,AAPL,TSMC customer billed NT$529bn,Taipei Times,0.101576,Neutral,0.121634,0.906261
+20230307T060000,AAPL,"Sonos CEO Patrick Spence on right to repair, spatial audio and those never-ending lawsuits",TechCrunch,0.081051,Neutral,0.224170,0.637288
+20230307T143114,AAPL,Virtual try-on is being hit by class actions. Should brands worry?,Vogue Business,-0.050079,Neutral,0.138912,0.643130
+20230309T021332,AAPL,Apple and Foxconn efforts win labour reforms to advance Indian production plans - FT,Reuters,0.424606,Bullish,0.422669,1.000000
+20230309T025524,AAPL,Sonos Bets on Spatial Audio as a Key Brand Differentiator,TechNewsWorld,0.247173,Somewhat-Bullish,0.139900,0.729866
+20230310T000000,AAPL,Apple Inc. to Launch Apple Music Classical App,The Violin Channel,-0.058762,Neutral,-0.077665,1.000000
+20230312T022344,AAPL,Four Ways to Cluster based on Correlation,DataDrivenInvestor,0.122412,Neutral,0.105633,0.931778
+20230312T025554,AAPL,Super-investor Mohnish Pabrai’s value investing principles,Daily Investor,0.122978,Neutral,0.131753,0.712152
+20230312T105900,AAPL,"From Apple to Boeing, India is being put to the test as China manufacturing alternative",CNBC,0.228652,Somewhat-Bullish,0.230571,0.767153
+20230314T021331,AAPL,Federal Circuit Allows Apple’s Fintiv Challenge To Proceed,Crowell & Moring LLP,0.343788,Somewhat-Bullish,0.346013,1.000000
+20230314T083600,AAPL,Fall Detection Systems Market Current Status and Future,openPR.com,0.59545,Bullish,0.641475,0.720692
+20230316T030345,AAPL,MLBN and Apple TV+ national broadcasts to show Zoom Replay Operations Center live under new deal,Awful Announcing,0.304201,Somewhat-Bullish,0.299093,0.723367
+20230317T021756,AAPL,Los avisos de consumo que implementó el BBVA en la app (incluye débito),Sir Chandler,0.236912,Somewhat-Bullish,0.418292,0.773285
+20230319T182300,AAPL,Buffett's Berkshire Hathaway speeds up stock buybacks,Reuters,0.105339,Neutral,0.105466,0.702416
+20230321T023706,AAPL,"Raja Koduri, Main Driver Of Intel’s GPU Efforts, To Leave Company",CRN Magazine,-0.063163,Neutral,0.026953,0.580997
+20230321T053116,AAPL,"For Broad-Based Large-Cap ESG Exposure, See CVLC",ETF Database,0.307799,Somewhat-Bullish,0.329265,0.701390
+20230321T195234,AAPL,"Consider CVLC for Broad-Based, Large-Cap ESG Exposure",ETF Trends,0.409606,Bullish,0.446316,0.714650
+20230322T015126,AAPL,AB US Low Volatility Equity ETF Holdings,Quiver Quantitative,0.110468,Neutral,0.121247,0.706713
+20230322T141013,AAPL,AB US High Dividend ETF Holdings,Quiver Quantitative,0.122491,Neutral,0.145344,0.756853
+20230323T081059,AAPL,QGRW Stock Price | Wisdomtree U.S. Quality Growth Fund ETF,Investing.com,0.313844,Somewhat-Bullish,0.222668,0.630237
+20230323T194026,AAPL,"Lixiang Education Holding Co., Ltd. (LXEH) Stock Live Price, Chart & News",CoinCodex,0.189848,Somewhat-Bullish,0.225851,0.609148
+20230324T024346,AAPL,Friday Q&A: Movano takes on the women’s wearables market with a smart ring,MedTech Dive,0.220996,Somewhat-Bullish,0.120570,0.731128
+20230324T025855,AAPL,Taiwan PCB makers moving production to Southeast Asia,digitimes,0.143273,Neutral,0.110955,0.551291
+20230325T021910,AAPL,Beloved clothing store closes - leaving customers scrambling for new options,The Sun,-0.145344,Neutral,-0.243637,0.726643
+20230325T071741,AAPL,Skip Big Tech And Buy Bank of America (NYSE:BAC),Seeking Alpha,0.27605,Somewhat-Bullish,0.110415,0.706071
+20230327T021331,AAPL,Apple CEO Tim Cook meets with China's commerce minister on supply chain,CNBC,-0.105604,Neutral,-0.117030,0.975475
+20230328T000000,AAPL,Apple introduces Apple Pay Later to allow consumers to pay for purchases over time,Apple,0.328545,Somewhat-Bullish,0.441426,0.997568
+20230328T021403,AAPL,AutoCAD for Mac 2024: New Collaboration Enhancements and Improved Performance With M-Series Chips,Autodesk,0.291988,Somewhat-Bullish,0.348798,0.703421
+20230328T224900,AAPL,"Apple launches 'buy now, pay later' service in US",Reuters,0.09988,Neutral,0.346974,1.000000
+20230329T021331,AAPL,"Apple Introduces Buy Now, Pay Later Service. Here's How It Will Work.",NBC Bay Area,0.101656,Neutral,0.287597,0.951484
+20230329T032744,AAPL,Investment Giant Fidelity Offers New Metaverse and Crypto Payments ETFs,Coin Bureau,0.332045,Somewhat-Bullish,0.311109,0.700720
+20230329T120800,AAPL,Live Nation head says ‘speculative ticketing’ to blame for difficulty with buying event tickets,The Hill,-0.170447,Somewhat-Bearish,0.015691,0.575955
+20230330T051022,AAPL,JAVA Chart | JPMorgan Active Value ETF,Investing.com,-0.078867,Neutral,0.113532,0.633622
+20230331T021331,AAPL,Apple lawsuit claims company fails to pay overtime compensation at correct rate,Class Action Lawsuits,-0.427112,Bearish,-0.424288,1.000000
+20230331T025423,AAPL,Is Google ending?,Sify News,-0.051602,Neutral,0.055487,0.624430
+20230331T025550,AAPL,SPDR S&P 500 (SPY) Stock: Breakout Leveraging Tech Stocks Rally?,The Coin Republic,0.342936,Somewhat-Bullish,0.341348,0.708081
+20230331T064009,AAPL,Do ESG Funds Have Higher ESG Scores?,CFA Institute,0.015593,Neutral,0.000601,0.628775
+20230331T121500,AAPL,Top and Flop ETFs of March,Nasdaq,0.346202,Somewhat-Bullish,0.319786,0.606605
+20230331T184500,AAPL,Apple wins appeal against UK's decision to investigate its mobile browser,Reuters,0.317945,Somewhat-Bullish,0.300611,0.996597

@@ -1,0 +1,57 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20231101T090000,AAPL,MOAT: History May Not Repeat Itself (BATS:MOAT),Seeking Alpha,0.339725,Somewhat-Bullish,0.442786,0.638667
+20231101T130926,AAPL,How To Give Your Passive Investing Approach Some Much-Needed Oomph,Finimize,0.440937,Bullish,0.511688,0.595297
+20231101T143012,AAPL,DarioHealth launches smart blood sugar meter for iPhone 15,MassDevice,0.306598,Somewhat-Bullish,0.335622,0.749587
+20231101T194242,AAPL,Disney to pay at least $8.6 billion for Comcast’s Hulu stake,Los Angeles Times,0.143264,Neutral,0.074910,0.585153
+20231102T040945,AAPL,REX FANG & Innovation Equity Premium Income ETF,ETF Database,0.367291,Bullish,0.309974,0.710146
+20231102T163200,AAPL,"Apple now has $162 billion in cash on hand, slightly less than last quarter",CNBC,0.02841,Neutral,0.038626,1.000000
+20231102T195514,AAPL,Globalstar's new CEO keeps things vague – for now,Light Reading,0.121457,Neutral,0.110889,0.634636
+20231103T202009,AAPL,Understanding the Role of Chatbots in Virtual Care Delivery,TechTarget,0.132662,Neutral,0.112294,0.648404
+20231104T110500,AAPL,'We're Changing the Structure:' GM's Software Boss Steps Down Amid Major Overhaul,Motor1.com,0.012201,Neutral,-0.143159,0.636512
+20231104T195824,AAPL,"Cyberattack Hits Infosys' McCamish Systems, Disrupting Operations",Outlook Business,-0.223969,Somewhat-Bearish,-0.228963,0.729432
+20231105T152125,AAPL,On-device AI chips: New battleground for chipmakers,The Korea Economic Daily Global Edition,0.24138,Somewhat-Bullish,0.196917,0.759425
+20231106T102400,AAPL,Starbucks raising wages at least 3% starting Jan. 1,Fox Business,0.365009,Bullish,0.320061,0.639207
+20231107T153300,AAPL,Why Warren Buffett has done more to educate investors than any other corporate executive,MarketWatch,0.180781,Somewhat-Bullish,0.317005,0.736611
+20231107T153300,AAPL,Why Warren Buffett has done more to educate investors than any other corporate executive,MarketWatch,0.240458,Somewhat-Bullish,0.341954,0.738597
+20231109T134500,AAPL,Lionsgate Increases Majority Stake In 3 Arts Entertainment,Deadline,0.277303,Somewhat-Bullish,0.220723,0.710173
+20231109T232200,AAPL,Apple agrees to $25 million settlement with US over hiring of immigrants,Reuters,0.003403,Neutral,0.020944,0.313732
+20231110T184200,AAPL,Booking.com settles Italian tax dispute with 94-million euro payment,Reuters,-0.13729,Neutral,-0.102216,0.619947
+20231110T195846,AAPL,Qualcomm and Iridium end their satellite chip partnership,Telecoms,-0.100313,Neutral,0.148274,0.729957
+20231113T085000,AAPL,Amazon sued over 'dangerous partnership' with virtual casino apps,Reuters,-0.20812,Somewhat-Bearish,-0.133869,0.632090
+20231113T145236,AAPL,Spotlight on XYLD: An S&P 500 Covered Call Strategy,Global X ETFs,0.164802,Somewhat-Bullish,0.122089,0.708819
+20231113T145614,AAPL,FAANG Gives Way to the ‘Magnificent Seven’,ETF Trends,0.289734,Somewhat-Bullish,0.306931,0.937690
+20231113T163439,AAPL,Market Edges: The Recession (And Fourth Turning) Are Here,Hedgeye,-0.357025,Bearish,-0.706889,0.730101
+20231113T213916,AAPL,"QYLD ETF Analysis: Dividends, Returns NASDAQ:QYLD",TradingView,0.30127,Somewhat-Bullish,0.335813,0.646418
+20231114T000000,AAPL,"Spotlight on illegal hiring practices: Apple pays $25M for recruiting, job ad mistakes",HRMorning,-0.381278,Bearish,-0.412739,1.000000
+20231114T040223,AAPL,FMR LLC Bolsters Portfolio with Fidelity International Value Fac,GuruFocus,0.244007,Somewhat-Bullish,0.114438,0.620169
+20231114T042430,AAPL,FMR LLC Acquires New Stake in Magenta Therapeutics Inc,GuruFocus,0.14259,Neutral,0.119996,0.630645
+20231114T133847,AAPL,FMR LLC Bolsters Position in Fidelity Low Volatility Factor ETF,GuruFocus,0.353668,Bullish,0.314669,0.617516
+20231114T170200,AAPL,Tepper’s Appaloosa dumps Apple stake and loads up on Amazon’s stock,MarketWatch,0.220849,Somewhat-Bullish,-0.443175,0.928728
+20231115T110000,AAPL,What's next for satellite communications on Android?,Pocket-lint,0.082063,Neutral,0.333186,0.733241
+20231115T221133,AAPL,SIT Investment Associates Inc Adds DWS Municipal Income Trust to Its Portfolio,GuruFocus,0.164605,Somewhat-Bullish,0.207337,0.610102
+20231116T000000,AAPL,Warren Buffet's latest buys and sells,Morningstar,0.234366,Somewhat-Bullish,0.035806,0.735217
+20231116T202031,AAPL,Unity 6 debuts next year with AI-powered innovations and platform updates,GamesBeat,0.287695,Somewhat-Bullish,0.319317,0.708452
+20231117T050600,AAPL,Warren Buffett Has Bought Shares of This Stock for 21 Consecutive Quarters -- and It's Not Apple,The Motley Fool,0.160909,Somewhat-Bullish,0.308603,0.706417
+20231117T201816,AAPL,AT&T’s Black Friday Deals on the iPhone 15 Pro & More,AT&T Newsroom,0.424293,Bullish,0.331027,0.704964
+20231118T020748,AAPL,"Network of Lies review: Brian Stelter on Fox News, Trump and Dominion",The Guardian,-0.147393,Neutral,0.124760,0.611957
+20231119T134500,AAPL,Apple’s In-House Technologies Team Still Has Plenty of Work to Do,Bloomberg.com,0.139229,Neutral,0.113645,1.000000
+20231120T162000,AAPL,"Venmo, Cash App users sue Apple over peer-to-peer payment fees",Reuters,-0.221716,Somewhat-Bearish,-0.327632,0.971369
+20231120T170000,AAPL,Should You Buy the Invesco QQQ ETF With the Nasdaq At An All-Time High? History Offers a Clear Answer.,MSN,0.488471,Bullish,0.442650,0.717597
+20231121T144953,AAPL,Gaming Industry Charts a Rebound in 2023,Global X ETFs,0.404494,Bullish,0.302026,0.728284
+20231121T180600,AAPL,"Sonos Readies $400-Plus Headphones to Rival Apple and Bose, TV Set-Top Box",Bloomberg.com,0.211391,Somewhat-Bullish,0.107558,0.727624
+20231121T195734,AAPL,InterDigital’s Alain Mourad Elected Chair of New ETSI Industry Specification Group on Integrated Sensing and Communications,citybiz,0.3083,Somewhat-Bullish,0.116362,0.603847
+20231122T000000,AAPL,Department of Justice and Apple Reach $25 Million Landmark Agreement,Foley & Lardner LLP,-0.248219,Somewhat-Bearish,-0.248722,1.000000
+20231122T194505,AAPL,OpenAI Says Sam Altman to Return as CEO in Dramatic Reversal,Time Magazine,0.172654,Somewhat-Bullish,0.140834,0.630163
+20231125T054800,AAPL,Warren Buffett-Led Berkshire Hathaway Sells Its Entire Procter & Gamble Stake. Should You?,The Motley Fool,0.066916,Neutral,0.144659,0.746496
+20231125T142200,AAPL,"Sonos is reportedly working on a streaming video TV set top box, along with headphones",Neowin,0.171914,Somewhat-Bullish,0.148650,0.580033
+20231127T220900,AAPL,"Deere must face US farmers' 'right-to-repair' lawsuits, judge rules",Reuters,-0.051321,Neutral,0.149319,0.588582
+20231130T000000,AAPL,Amkor Announces U.S. Advanced Packaging and Test Facility In Peoria,Arizona Commerce Authority,0.511263,Bullish,0.416131,0.744982
+20231130T000000,AAPL,Apple announces expanded partnership with Amkor for advanced silicon packaging in the U.S.,Apple,0.257971,Somewhat-Bullish,0.444850,0.978787
+20231130T000000,AAPL,AI ETFs see huge performance dispersion in 2023,ETF Stream,0.263819,Somewhat-Bullish,0.300590,0.725919
+20231130T000000,AAPL,$2 billion semiconductor testing and packaging facility planned for Peoria,Axios,0.566846,Bullish,0.309221,0.749776
+20231130T000000,AAPL,"Amkor to build $2 billion semiconductor testing plant in Peoria. 2,000 jobs promised",azcentral.com and The Arizona Republic,0.284063,Somewhat-Bullish,0.325443,0.708787
+20231130T074053,AAPL,"SP Funds S&P Global Technology ETF ETF Price, Holdings, & News (NYSEARCA:SPTE)",MarketBeat,0.322613,Somewhat-Bullish,0.308166,0.726405
+20231130T133400,AAPL,Who says corporate bonds are dull? Apple’s bonds have seen equity-like returns in the past month,MarketWatch,0.459242,Bullish,0.479598,1.000000
+20231130T163200,AAPL,Apple Inc. stock outperforms market on strong trading day,MarketWatch,0.320645,Somewhat-Bullish,0.341548,0.941733
+20231130T193622,AAPL,Apple to become largest customer of new $2B chip packaging facility in Arizona,SiliconANGLE,0.191333,Somewhat-Bullish,0.301698,1.000000
+20231130T200300,AAPL,Cognizant Technology Solutions to lay off employees tied to Apple in Austin,The Business Journals,-0.196184,Somewhat-Bearish,0.021313,0.814185

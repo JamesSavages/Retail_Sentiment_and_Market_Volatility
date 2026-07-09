@@ -1,0 +1,67 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20230102T045200,AAPL,What is TSMC?,Tech Monitor,0.268243,Somewhat-Bullish,0.326328,0.704135
+20230103T035902,AAPL,Apple’s market value drops below $2 trillion,Al Jazeera,-0.193008,Somewhat-Bearish,-0.427490,1.000000
+20230103T040610,AAPL,"If You Invested $100 in Berkshire Hathaway in 1965, This Is How Much You Would Have Today",The Motley Fool,0.163634,Somewhat-Bullish,0.311734,0.703712
+20230103T040610,AAPL,"If You Invested $100 in Berkshire Hathaway in 1965, This Is How Much You Would Have Today",The Globe and Mail,0.195254,Somewhat-Bullish,0.334968,0.704304
+20230103T064900,AAPL,Foxconn to use Nvidia chips to build self-driving vehicle platforms,Reuters,0.216371,Somewhat-Bullish,0.149469,0.614507
+20230103T120500,AAPL,Tuesday's ETF with Unusual Volume: IWL,Nasdaq,-0.118192,Neutral,-0.329203,0.763676
+20230103T173838,AAPL,Think you have it bad?,The Reformed Broker,-0.196147,Somewhat-Bearish,-0.211628,0.722198
+20230104T092600,AAPL,Salesforce to lay off 10% of workforce to cut costs amid economic downturn,Fox Business,-0.297071,Somewhat-Bearish,-0.194083,0.590017
+20230104T115200,AAPL,Apple to sign Luxshare for iPhone production in China - FT,Reuters,0.200156,Somewhat-Bullish,0.240633,1.000000
+20230105T035902,AAPL,Apple brings AI narration to audiobooks,SiliconANGLE,0.158011,Somewhat-Bullish,0.417780,0.960998
+20230105T152900,AAPL,"Android has a response to iPhone’s satellite connection, thanks to Qualcomm",MarketWatch,0.260171,Somewhat-Bullish,0.145373,0.725564
+20230106T042543,AAPL,Nordstrom appoints Atticus Tysen to its board of directors,FashionUnited UK,0.164093,Somewhat-Bullish,0.128513,0.647866
+20230106T042559,AAPL,Qualcomm partners with Iridium to develop satellite connectivity,Data Center Dynamics,0.231496,Somewhat-Bullish,0.138403,0.725731
+20230106T043108,AAPL,Apple Analyst Says BOE Will Become Largest Display Supplier for iPhone 15,Businesskorea,-0.054707,Neutral,0.123860,1.000000
+20230106T045124,AAPL,Kartoon Channel! Expands Global Reach,World Screen,0.484479,Bullish,0.217122,0.619652
+20230106T111100,AAPL,Garmin Venu Sq2 Review | A fitness lifestyle companion,The Hindu,0.32139,Somewhat-Bullish,0.121488,0.643189
+20230108T045703,AAPL,You might actually want a TiVo TV someday,TechHive,0.155386,Somewhat-Bullish,0.129330,0.604747
+20230109T161500,AAPL,U.S. Supreme Court lets Meta's WhatsApp pursue 'Pegasus' spyware suit,Reuters,0.217948,Somewhat-Bullish,0.127308,0.705274
+20230110T040316,AAPL,Inari’s share price down over 4% as Apple plans to drop Broadcom chip from devices,The Edge Malaysia,-0.151697,Somewhat-Bearish,0.111295,0.926451
+20230110T042459,AAPL,"Illumina, the DNA sequencing giant, gives Wall Street bad news",STAT,-0.140953,Neutral,0.142037,0.736674
+20230110T134500,AAPL,"Pepsi, Coke soda pricing targeted in new federal probe",Politico,-0.093951,Neutral,0.024528,0.645683
+20230111T013900,AAPL,Apple to start using in-house screens from 2024 - Bloomberg News,Reuters,-0.050518,Neutral,0.300878,0.984940
+20230111T040316,AAPL,Inari pares loss as analysts see limited impact from Apple's plan to drop Broadcom chip,The Edge Malaysia,0.043372,Neutral,0.148113,0.930030
+20230111T043149,AAPL,Apple Watch patent infringement finding; Masimo seeks import ban,9to5Mac,-0.382912,Bearish,-0.448624,1.000000
+20230111T045725,AAPL,Apple debuts free tool to help businesses get noticed,Axios,0.216172,Somewhat-Bullish,0.401989,1.000000
+20230111T123800,AAPL,Kuo doubles down on iPhone 15 Pro having no physical buttons,AppleInsider,0.412073,Bullish,0.323622,1.000000
+20230112T023100,AAPL,Back Again At Comparing Skyworks Vs. Qorvo (NASDAQ:SWKS),Seeking Alpha,0.211823,Somewhat-Bullish,0.252817,0.734950
+20230112T042617,AAPL,"IDC, Gartner: 2022 PC Demand Dropped To Its ‘Lowest Level In Years’",CRN,-0.295093,Somewhat-Bearish,0.108022,0.740589
+20230112T043234,AAPL,Meta faces a future of more legal woes and falling revenues,DW.com,-0.277234,Somewhat-Bearish,-0.136450,0.558796
+20230112T044534,AAPL,Starbucks tells corporate employees to return to the office,Chain Store Age,0.116789,Neutral,0.136894,0.615954
+20230112T045200,AAPL,Buffett-Backed Taiwan Semiconductor Braces for Chip-Sector Downturn,Barron's,-0.161686,Somewhat-Bearish,-0.126184,0.551189
+20230112T224300,AAPL,Starbucks tells corporate employees to return to office 3 days a week,CNN,0.133669,Neutral,0.108452,0.602566
+20230113T035902,AAPL,Apple CEO Tim Cook to take more than 40% pay cut,AP News,-0.128573,Neutral,-0.118324,1.000000
+20230113T035902,AAPL,Apple CEO Tim Cook to take a more than 40 percent pay cut,Al Jazeera,-0.124143,Neutral,-0.132651,1.000000
+20230113T043813,AAPL,Oracle jumps into payments for retailers,Payments Dive,0.289261,Somewhat-Bullish,0.267339,0.711690
+20230113T045200,AAPL,How Both Taiwan and the US Can Benefit from TSMC's Investment,Northeastern Global News,0.373779,Bullish,0.340056,0.735824
+20230113T114500,AAPL,Apple Takes Major Steps Toward ‘Owning’ Its Key Technology,Bloomberg.com,0.432057,Bullish,0.431378,1.000000
+20230116T045301,AAPL,"From Apple To Amazon And Toyota, Here Are The Top 10 Biggest Companies In The World",Mashable India,0.113189,Neutral,0.128907,0.815945
+20230117T040521,AAPL,Biometric Sensors Market Size to Touch USD 3.5829 million by 2030 According to Acumen Research and Consulting,GlobeNewswire,0.336508,Somewhat-Bullish,0.331049,0.931113
+20230118T042655,AAPL,Goldman Sachs Vs. Jefferies: Which Is the Better Investment?,GuruFocus,0.102354,Neutral,0.075282,0.561732
+20230118T045200,AAPL,TSMC expects revenue to fall amid declining chip demand,Supply Chain Dive,-0.251428,Somewhat-Bearish,-0.154096,0.746260
+20230118T052100,AAPL,Temu Review: What Is Temu and Why Is It Suddenly America’s Most Popular App?,InsideHook,0.097719,Neutral,0.095727,0.628856
+20230119T043532,AAPL,"Netflix’s Reed Hastings steps aside as co-CEO, stays on as executive chairman",Los Angeles Times,0.075494,Neutral,0.140706,0.612837
+20230119T105936,AAPL,Global X S&p 500 Covered Call Etf Share Price,INDmoney,0.086978,Neutral,0.102493,0.636581
+20230119T131200,AAPL,Apple’s Reliance On China Poses A Problem For The Company,Forbes,-0.341087,Somewhat-Bearish,-0.306304,1.000000
+20230121T045744,AAPL,予算3万円台の「スマートウォッチ」おすすめ5選　人気の「Apple Watch SE」から、コスパが良い高機能モデルまで【2023年1月版】 - Fav-Log by ITmedia,ITmedia,0.193881,Somewhat-Bullish,0.302714,0.733208
+20230123T043813,AAPL,Silicon Valley 2.0? 5 US cities that could be the new tech start-up central,South China Morning Post,0.287483,Somewhat-Bullish,0.348912,0.722944
+20230123T054900,AAPL,7 Growth Stocks That Will Make You Rich in 10 Years,InvestorPlace,0.395786,Bullish,0.406803,0.895375
+20230123T062700,AAPL,How Apple’s Upcoming Mixed-Reality Headset Will Work,Bloomberg.com,0.215459,Somewhat-Bullish,0.333208,1.000000
+20230123T171200,AAPL,"Nokia Corp. ADR rises Monday, still underperforms market",MarketWatch,0.240338,Somewhat-Bullish,0.274242,0.623749
+20230124T035902,AAPL,Apple builds on privacy commitment by unveiling new education and awareness efforts on Data Privacy Day,Apple,0.434721,Bullish,0.406680,1.000000
+20230124T171200,AAPL,Nokia Corp. ADR underperforms Tuesday when compared to competitors,MarketWatch,0.233183,Somewhat-Bullish,0.219513,0.637769
+20230125T040833,AAPL,Choice Hotels Opens Cambria Hotel Austin Uptown Near the Domain,Hotel Online,0.21952,Somewhat-Bullish,0.126343,0.626976
+20230125T042129,AAPL,Goldman Sachs signals partial retreat from consumer banking,Associated Press News,-0.071135,Neutral,0.011430,0.741282
+20230125T070000,AAPL,"Big Tech to Congress: Listen to Taylor Swift and Go After Ticketmaster, Not Us",The Intercept,-0.270814,Somewhat-Bearish,-0.116263,0.600791
+20230126T000000,AAPL,"AST SpaceMobile raises $75 million, partners with TIM Brasil",Data Center Dynamics,0.32885,Somewhat-Bullish,0.247258,0.595018
+20230126T073000,AAPL,IBM Is Tech’s Most Beaten-Down Company,24/7 Wall St.,-0.402792,Bearish,-0.314512,0.638943
+20230127T044644,AAPL,Is Augmented Reality safe?,Sify News,0.033173,Neutral,0.011489,0.726220
+20230129T123400,AAPL,"Save $200 on the Sonos Arc Soundbar, now $699 (lowest price ever)",AppleInsider,0.184281,Somewhat-Bullish,0.144181,0.735036
+20230130T042100,AAPL,Google continued to ramp up federal lobbying spending before DOJ filed second antitrust lawsuit,OpenSecrets,-0.371308,Bearish,-0.246467,0.714920
+20230130T042651,AAPL,Apple takes first steps towards 'Made in India' AirPods,Times of India,0.316057,Somewhat-Bullish,0.303159,0.956553
+20230130T043031,AAPL,‘Acapulco’ Renewed for Season 3 at Apple,Variety,0.379003,Bullish,0.324755,0.933166
+20230131T040401,AAPL,Get Your Game on With Build-a-Bear's New 'Ted Lasso' Collection,Collider,0.364924,Bullish,0.299921,0.732076
+20230131T045654,AAPL,Exxon Vaults to Record Annual Profit of $55.7 Billion,The Wall Street Journal,0.483819,Bullish,0.309037,0.712112
+20230131T062700,AAPL,"Apple workplace rules violate U.S. labor law, agency finds",Reuters,-0.314373,Somewhat-Bearish,-0.324747,0.977322
+20230131T163100,AAPL,"Netflix Inc. stock rises Tuesday, still underperforms market",MarketWatch,0.108285,Neutral,0.213714,0.740558

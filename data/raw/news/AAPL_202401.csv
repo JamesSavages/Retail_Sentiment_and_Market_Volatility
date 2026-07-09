@@ -1,0 +1,50 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20240103T181224,AAPL,Miami doesn’t need to be the Silicon Valley of the South,Refresh Miami,-0.056319,Neutral,-0.110824,0.627722
+20240104T000000,AAPL,Markets in Focus: Concentrating on Diversification,MSCI,0.230354,Somewhat-Bullish,0.252931,0.847340
+20240104T182849,AAPL,"Mindlessly scroll on bike? ‘Tiktok fitness powered by Peloton’, stock soars",Connect The Watts,0.216983,Somewhat-Bullish,0.113405,0.623174
+20240104T182907,AAPL,"Google and Samsung Set To Use Qualcomm's New VR Chip, Could Compete With Apple and Meta",Investopedia,0.045865,Neutral,-0.201416,0.736408
+20240104T203853,AAPL,ProShares S&P 500 High Income ETF,ETF Database,0.30811,Somewhat-Bullish,0.255696,0.606010
+20240108T195238,AAPL,"FNGU ETF Analysis: Dividends, Returns AMEX:FNGU",TradingView,0.049222,Neutral,0.106431,0.705821
+20240109T164300,AAPL,Aeva to supply sensors to Daimler Truck in $1 billion deal,Reuters,0.525548,Bullish,0.240856,0.612835
+20240109T180524,AAPL,FTI Consulting adds trio to Strategic Communications team,Consultancy.in,0.40417,Bullish,0.110454,0.732405
+20240109T215700,AAPL,Best Socially Responsible Investment Apps of January 2024,Business Insider Africa,0.195169,Somewhat-Bullish,0.287366,0.587072
+20240110T000000,AAPL,SKYX’s All-in-One Smart Platform is Everything from a Smart Speaker to a Smoke Detector,CEPro,0.292261,Somewhat-Bullish,0.237947,0.624326
+20240110T000000,AAPL,Software Glitch Behind Recalled App Could Drastically Increase Insulin Delivery,Citeline News & Insights,-0.113756,Neutral,0.245390,0.708797
+20240110T181531,AAPL,Iridium Is Offering Its Own Smartphone-to-Satellite Service to Companies,CNET,0.142155,Neutral,0.118354,0.637561
+20240110T183932,AAPL,Bracken Darrell reimagined some of the world's biggest brands. Now he has plans to do it again,Fast Company,0.278782,Somewhat-Bullish,0.137280,0.615996
+20240111T080000,AAPL,"REX Shares and Tuttle Capital Management Expand T-REX Single-Stock ETF Suite with Apple, Alphabet, and Microsoft Offerings",FinancialContent,0.393427,Bullish,0.404386,0.729451
+20240111T080000,AAPL,Upcoming Events,FinancialContent,0.382637,Bullish,0.425635,0.920321
+20240112T183752,AAPL,"Taiwan's strength in semiconductors could be its 'Achilles heel,' economist says",CNBC,-0.105483,Neutral,0.106639,0.704623
+20240115T000000,AAPL,Optimizing Communication and Data Sharing in Multi-Core SoC Designs,Design And Reuse,0.279603,Somewhat-Bullish,0.316805,0.413735
+20240116T000000,AAPL,Jabil announces collaboration with Fintech Leader Revolut,World Business Outlook,0.331549,Somewhat-Bullish,0.342957,0.627571
+20240116T094000,AAPL,"Microsoft Monetizing Copilot, Round 2; Synopsys Pays Big for Ansys",24/7 Wall St.,0.132229,Neutral,0.049541,0.578678
+20240116T110000,AAPL,Unlocking The Potential Of Pure Research At InterDigital,Forbes,0.259069,Somewhat-Bullish,-0.213761,0.716654
+20240116T174539,AAPL,IDC: Apple sold more smartphones than Samsung for the first time in 2023,SiliconANGLE,0.415423,Bullish,0.406278,1.000000
+20240116T174539,AAPL,Supreme Court rejects Apple's appeal on App Store fees amid Epic Games legal battle,NBC 6 South Florida,-0.159273,Somewhat-Bearish,-0.393825,1.000000
+20240116T180146,AAPL,Disney+ On Apple Vision Pro Ushers In A New Era Of Storytelling Innovation And Immersive Entertainment,The Walt Disney Company,0.372663,Bullish,0.345564,0.944275
+20240117T163200,AAPL,Apple Inc. stock outperforms market despite losses on the day,MarketWatch,-0.073719,Neutral,-0.073447,1.000000
+20240117T164000,AAPL,What Does 2024 Hold for the Magnificent Seven?,CMC Markets,0.104658,Neutral,0.023133,0.623136
+20240117T181820,AAPL,5 key themes from the 2024 Consumer Electronics Show,Liberty Global,0.219209,Somewhat-Bullish,0.271677,0.718891
+20240119T000000,AAPL,Your S&P 500 Index Fund Has Higher Risk Than You May Think,Cabot Wealth Network,-0.145753,Neutral,-0.130914,0.625507
+20240121T230000,AAPL,More Computer Magazine Lore: A 1983 Nastygram from Wayne Green,Technologizer,0.003243,Neutral,0.017795,0.709659
+20240122T000000,AAPL,Higher S&P 500 Earnings Could Benefit This Active ETF,ETF Trends,0.360547,Bullish,0.340921,0.632083
+20240123T094300,AAPL,Corning's Indian JV signs $120 mln investment deal with Tamil Nadu state,Reuters,0.353762,Bullish,0.304629,0.740526
+20240124T175850,AAPL,The Best Desktop PCs: Early 2024,TechSpot,0.247294,Somewhat-Bullish,0.428811,0.705355
+20240124T181844,AAPL,‘Find My®’ Alternative Guide,Life360,0.060369,Neutral,0.106324,0.706487
+20240125T000000,AAPL,Behind Target’s ‘Winning Retail Formula’,Progressive Grocer,0.210048,Somewhat-Bullish,0.142530,0.620872
+20240125T093400,AAPL,Apple device management software company Jamf plans to layoff 6% of employees,9to5Mac,-0.187574,Somewhat-Bearish,0.133844,0.722807
+20240125T175858,AAPL,"Companies are struggling to keep private data safe from generative AI, Cisco says",Fast Company,0.05907,Neutral,-0.132990,0.727389
+20240125T182122,AAPL,10 Best Project Management Software for Windows,TechRepublic,0.197402,Somewhat-Bullish,0.732738,0.929935
+20240125T182256,AAPL,Newegg Debuts Newegg Refreshed Program to Offer Quality Resale Products at Low Prices,Business Wire,0.31844,Somewhat-Bullish,0.333303,0.714707
+20240126T000000,AAPL,AI & The Dragon: What Trends Will Dominate 2024?,KraneShares,0.189603,Somewhat-Bullish,0.245472,0.640272
+20240126T070000,AAPL,What Gentex’s Acquisition Of eSight Means For The Electronic Eyewear Market,Forbes,0.381969,Bullish,0.244022,0.715927
+20240126T150000,AAPL,Intuitive Surgical (ISRG) Seeks FDA Nod for Next-Gen da Vinci 5,Yahoo Finance,0.052903,Neutral,-0.317827,0.615075
+20240126T175330,AAPL,"Popular Inc. reports $541M in net income in 2023, $94.6M in 4Q",News is My Business,0.18775,Somewhat-Bullish,0.122545,0.715643
+20240129T163200,AAPL,Apple Inc. stock underperforms Monday when compared to competitors,MarketWatch,-0.32711,Somewhat-Bearish,-0.324991,0.984856
+20240129T202706,AAPL,XLK ETF: A Better Way To Invest In Microsoft But Volatility Comes First (NYSEARCA:XLK),Seeking Alpha,0.224737,Somewhat-Bullish,-0.229989,0.623252
+20240130T000000,AAPL,"Gogoro Unveils New Flagship Smartscooter, Pulse",Gogoro,0.537394,Bullish,0.331952,0.628327
+20240130T163200,AAPL,Apple Inc. stock underperforms Tuesday when compared to competitors,MarketWatch,-0.456128,Bearish,-0.455918,1.000000
+20240130T164200,AAPL,"Corning beats quarterly sales estimates, signals improving demand for fiber optics",Reuters,0.256512,Somewhat-Bullish,0.148679,0.634334
+20240130T180159,AAPL,"2027 the Target for Transition Away from 1D GTIN, Toward Digital Link 2D Barcodes",Packaging World,0.211123,Somewhat-Bullish,0.246616,0.570142
+20240130T223400,AAPL,Payments firm PayPal to reduce global workforce by 9% in 2024,Reuters,-0.17217,Somewhat-Bearish,-0.142408,0.740375
+20240131T181844,AAPL,Tile vs. AirTag™: Which Bluetooth Tracker Should You Choose?,Life360,0.055173,Neutral,0.132405,0.943088

@@ -1,0 +1,67 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20240903T113700,AAPL,This type of index fund might help you after the S&P 500’s concentration peaks,MarketWatch,0.280316,Somewhat-Bullish,0.305945,0.712139
+20240903T113700,AAPL,This type of index fund might help you after the S&P 500’s concentration peaks,MarketWatch,-0.0687,Neutral,-0.116777,0.794512
+20240903T123800,AAPL,A Dot-Com-Like Bust Isn’t in the Cards for AI Investors Who Diversify,Barron's,0.324258,Somewhat-Bullish,0.304886,0.700282
+20240904T121014,AAPL,Alpine Summit Energy Partners Company Profile & Introduction,Moomoo,0.263215,Somewhat-Bullish,0.385817,0.597602
+20240904T153313,AAPL,3 Great ETFs That Offer Broad Diversification,Morningstar Canada,0.144145,Neutral,0.118614,0.562450
+20240904T163100,AAPL,"How Nvidia doubled earnings, lost almost $300 billion in value and shook the stock market",NBC News,-0.074591,Neutral,0.105758,0.616961
+20240905T000000,AAPL,Target integrates curbside and in-store order pickup services with Apple CarPlay,Chain Store Age,0.316286,Somewhat-Bullish,0.337838,0.836782
+20240905T090859,AAPL,State Street SPDR Portfolio S&P 500 ETF,ETF Database,0.325041,Somewhat-Bullish,0.349411,0.646231
+20240905T102831,AAPL,Introducing PayPal Everywhere,PYPL Investor Relations,0.330119,Somewhat-Bullish,0.263707,0.736074
+20240905T103736,AAPL,Kartoon Studios Slates Roblox-Based Competition on Kartoon Channel Streamer,Media Play News,0.371758,Bullish,0.308895,0.611699
+20240905T215233,AAPL,Pheton Holdings Ltd Class A Ordinary Shares (PTHL) Stock Forecast & Price Prediction 2026–2030,CoinCodex,-0.147671,Neutral,-0.341589,0.573242
+20240906T000000,AAPL,Global Sustainable Funds Are Up Nearly 11% This Year,Morningstar,0.30281,Somewhat-Bullish,0.331214,0.627309
+20240909T000000,AAPL,4 charts on the US rotation out of growth and tech stocks,Morningstar,-0.242081,Somewhat-Bearish,-0.293660,0.806513
+20240909T000000,AAPL,"LiveOne to raise prices of its Plus, Premium subscription audio tiers",TheDesk.net,0.043173,Neutral,-0.105343,0.610424
+20240909T000000,AAPL,Apple introduces iPhone 16 and iPhone 16 Plus,Apple,0.263684,Somewhat-Bullish,0.499939,1.000000
+20240909T000000,AAPL,Apple’s new CFO appointed: Indian origin Kevan Parekh will succeed Luca M,The Finance Story,0.343512,Somewhat-Bullish,0.338104,1.000000
+20240909T102849,AAPL,2 ETFs That Are Screaming Buys in September After the Nvidia-Led Technology Stock Sell-Off,The Motley Fool,0.307835,Somewhat-Bullish,0.331060,0.631544
+20240910T000000,AAPL,VIDEO: ETF of the Week: ALPS Equal Sector Weight ETF (EQL),ETF Trends,0.186792,Somewhat-Bullish,0.109751,0.626101
+20240910T041800,AAPL,Key Apple supplier Jabil to set up electronics manufacturing unit in Trichy,Deccan Herald,0.367452,Bullish,0.310702,0.937674
+20240910T073600,AAPL,"Apple supplier Jabil to set up Rs 2,000 crore mfg unit in Tiruchirapalli",Business Standard,0.27025,Somewhat-Bullish,0.323413,0.933292
+20240910T090910,AAPL,ETFs to Tap Apple's Potential AI-Based Growth,TradingView — Track All Markets,0.383158,Bullish,0.410687,1.000000
+20240910T101430,AAPL,Electronic manufacturer Jabil to invest Rs 2000 crore in Tamil Nadu,The New Indian Express,0.285596,Somewhat-Bullish,0.337631,0.730949
+20240910T101430,AAPL,"Apple supplier Jabil's massive ₹2,000 crore investment in Trichy to create 5,000 jobs, says Tamil Nadu CM, MK Stalin",Mint,0.360892,Bullish,0.339144,0.744813
+20240910T103400,AAPL,"Apple's supplier Jabil to invest ₹2,000 cr in Tamil Nadu, aims to create 5,000 jobs",Fortune India,0.212486,Somewhat-Bullish,0.335773,1.000000
+20240910T123900,AAPL,"Jabil Inc to invest ₹2,000 crore in electronics manufacturing unit in Tiruchi in Tamil Nadu",The Hindu,0.273192,Somewhat-Bullish,0.130038,0.590548
+20240910T222500,AAPL,"JABIL to invest ₹2,000 crore in electronics manufacturing facility at Manapparai, create 5,000 Jobs",BusinessLine,0.442214,Bullish,0.339464,0.712090
+20240910T223958,AAPL,VIDEO: ETF of the Week: ALPS Equal Sector Weight ETF (EQL),ETF Database,0.223131,Somewhat-Bullish,0.132884,0.639582
+20240911T000000,AAPL,T. Rowe Price Tapping Into Experienced Managers,ETF Database,0.249786,Somewhat-Bullish,0.237054,0.629919
+20240911T000000,AAPL,Ireland’s special relationship with Apple and Google has created a multibillion-dollar windfall—and an existential crisis,Fortune,-0.050442,Neutral,-0.124260,0.897971
+20240911T070700,AAPL,"Jabil Inc to invest Rs 2,000 crore in Trichy",Deccan Herald,0.327555,Somewhat-Bullish,0.306341,0.717270
+20240911T075821,AAPL,BlackRock Inc. Expands Stake in Repay Holdings Corp,Yahoo Finance,0.104881,Neutral,0.132038,0.572088
+20240911T101430,AAPL,"Tamil Nadu government signs pact with US firms for Rs 2,666 crore, 5,365 jobs",India Today,0.39735,Bullish,0.345005,0.624280
+20240912T000000,AAPL,"Jabil Inc to pour Rs 2,000 Crore into new electronics manufacturing plant in Tiruchi",Manufacturing Today India,0.459499,Bullish,0.309785,0.712396
+20240912T205741,AAPL,Should TCW Transform 500 ETF (VOTE) Be on Your Investing Radar?,TradingView,0.120017,Neutral,0.022961,0.661135
+20240913T000000,AAPL,Top EU court rules Apple owes Ireland over $14B in back taxes,International Consortium of Investigative Journalists - ICIJ,-0.410005,Bearish,-0.401535,0.984327
+20240913T113000,AAPL,ResMed lauds Apple’s sleep apnoea detection feature,Proactive financial news,0.397113,Bullish,0.343320,0.728690
+20240916T000000,AAPL,"iOS 18 is available today, making iPhone more personal and capable than ever",Apple,0.841651,Bullish,0.808611,1.000000
+20240916T114004,AAPL,"Pacer MSCI World Industry Advantage ETF ETF Price, Holdings, & News (BATS:GLBL)",MarketBeat,0.315209,Somewhat-Bullish,0.334551,0.730355
+20240916T144011,AAPL,Reneo Pharmaceuticals executive buys shares worth over $484k By Investing.com,Investing.com Canada,0.066218,Neutral,-0.136373,0.590579
+20240918T094532,AAPL,Tata Inks Pact With Analog Devices To Explore Opportunities In Indian Chip Manufacturing,Inc42,0.362187,Bullish,0.313082,0.747765
+20240918T102900,AAPL,Macquarie Group mulls $2.3b stake sale in UK’s Wavenet: Bloomberg,Capital Brief,0.212552,Somewhat-Bullish,0.130145,0.573219
+20240919T080000,AAPL,MUSQ Global Music Industry ETF Celebrates Its One-Year Anniversary on the New York Stock Exchange,ACCESS Newswire,0.352254,Bullish,0.327587,0.608039
+20240919T094502,AAPL,Apple surpasses forecasts with strong Q3 2024 performance,Straits Research,0.788387,Bullish,0.762000,0.987017
+20240920T000000,AAPL,Apple ships $6 billion of iPhones from India in big China shift,Fortune,0.403885,Bullish,0.446480,1.000000
+20240920T095513,AAPL,The queues for iPhone 16 track emerging economic realities,Apple Must,0.260852,Somewhat-Bullish,0.479438,0.965925
+20240920T110000,AAPL,"Politan prevails in Masimo proxy fight, gaining 2 board seats and ousting CEO Joe Kiani",Fierce Biotech,0.151247,Somewhat-Bullish,0.009992,0.718355
+20240921T162200,AAPL,Is the iShares Russell 1000 Growth ETF a Millionaire Maker?,The Motley Fool,0.230481,Somewhat-Bullish,0.342642,0.628177
+20240923T000000,AAPL,Should Motley Fool 100 Index ETF (TMFC) Be on Your Investing Radar?,Yahoo Finance,0.187439,Somewhat-Bullish,0.148190,0.735813
+20240923T081037,AAPL,Capturing the in vogue ‘mega-forces’ in a one-stop ETF shop,Financial Newswire,0.330842,Somewhat-Bullish,0.312707,0.606348
+20240923T094711,AAPL,Amkor Falls 18% in 3 Months: How Should Investors Play the Stock?,Nasdaq,-0.218289,Somewhat-Bearish,0.117572,0.739710
+20240924T000000,AAPL,Artificial Intelligence and Adaptive Portfolio Management,ETF Trends,0.249567,Somewhat-Bullish,0.341896,0.612306
+20240924T054200,AAPL,Hello Group: Undervalued With Expertise In App Development Makes It Attractive,Seeking Alpha,0.290236,Somewhat-Bullish,0.146924,0.715307
+20240924T085100,AAPL,"Apple unexpectedly fell on rebalancing day, who is the culprit?",富途牛牛,-0.125706,Neutral,-0.227412,0.953010
+20240924T103437,AAPL,"Spotify expands AI Playlist feature to four new markets, including U.S. and Canada",The Globe and Mail,0.204699,Somewhat-Bullish,0.128656,0.711633
+20240924T130952,AAPL,The Marygold Companies Secures Private Placement to Finance Next-Stage Rollout Initiatives for Recently Developed Fintech Product,Business Wire,0.217698,Somewhat-Bullish,0.122353,0.631939
+20240925T054049,AAPL,SWP Growth & Income ETF Holdings,Quiver Quantitative,0.108022,Neutral,0.105301,0.717438
+20240925T094509,AAPL,"Broadcom: Semiconductors, M&A's, and Bold Leadership",Quartr,0.178079,Somewhat-Bullish,0.108787,0.725160
+20240925T103845,AAPL,The Suppliers Behind the Apple Pencil Pro,Quartr,0.346578,Somewhat-Bullish,0.426496,0.972976
+20240926T000000,AAPL,Apple’s Lisa Jackson on How to Design for Sustainability,Inc.com,0.297858,Somewhat-Bullish,0.261612,1.000000
+20240926T161700,AAPL,"InterDigital, IBD Stock Of The Day, Flirts With Buy Point After Analyst Day",Investor's Business Daily,0.302142,Somewhat-Bullish,0.308043,0.755635
+20240927T031500,AAPL,'Coin-sized' version of Dexcom G6 sensor developed in China,MobiHealthNews,0.223864,Somewhat-Bullish,0.109859,0.727612
+20240927T080100,AAPL,"Guo Mingxi: Meta AR glasses Orion will be mass-produced as early as 2027, positioning to replace mobile phones and computers.",富途牛牛,0.134692,Neutral,0.141779,0.608146
+20240930T000000,AAPL,"Ingram Micro IPO, Revenue Details Go Live",Channel Futures,-0.055907,Neutral,0.090083,0.748235
+20240930T054200,AAPL,Goldman Sachs Reiterates Buy Rating on Jabil (JBL),StreetInsider,0.26862,Somewhat-Bullish,0.215972,0.628512
+20240930T080100,AAPL,ResMed Unveils New Collection of Digital and Personalized Solutions designed to Improve Sleep Health,GlobeNewswire,0.370225,Bullish,0.224313,0.639486
+20240930T093400,AAPL,Xiao-I Awaits Final Ruling On Patent Infringement Lawsuit Against Apple Over AI Technology Claims,RTTNews,0.126682,Neutral,-0.113764,1.000000

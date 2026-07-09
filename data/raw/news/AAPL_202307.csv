@@ -1,0 +1,32 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20230703T094900,AAPL,Apple makes history as first $3 trillion company amid tech stock surge,Reuters,0.348302,Somewhat-Bullish,0.713016,1.000000
+20230703T234057,AAPL,"Settlement checks in the mail from Roundup, EpiPen, Zoom, others",Class Action Lawsuits,-0.177305,Somewhat-Bearish,-0.102211,0.741649
+20230704T151047,AAPL,"iMGP Berkshire Dividend Growth ETF ETF Price, Holdings, & News (NYSEARCA:BDVG)",MarketBeat,0.181389,Somewhat-Bullish,0.228571,0.619221
+20230705T090500,AAPL,Apple loses London appeal in 4G patent dispute with Optis,Reuters,-0.254718,Somewhat-Bearish,-0.271074,1.000000
+20230706T151122,AAPL,Kopin Corp is the Technology Seen Behind Smart AR Glasses,The Globe and Mail,0.171577,Somewhat-Bullish,0.314794,0.703269
+20230709T225314,AAPL,"Apple’s Vision Pro Will Take Far Longer Than iPad, Watch to Spur Big Revenue",Bloomberg,-0.243508,Somewhat-Bearish,-0.232064,1.000000
+20230710T060000,AAPL,"If You Like JEPI, You’ll Love This ETF With an 11.9% Dividend Yield",Yahoo Finance,0.314215,Somewhat-Bullish,0.315952,0.615003
+20230710T211200,AAPL,Apple executives fight subpoenas in shareholders' lawsuit against Qualcomm,Reuters,0.07552,Neutral,0.114694,0.967344
+20230711T060200,AAPL,Apple opens store on China's WeChat platform,Reuters,0.337168,Somewhat-Bullish,0.336654,0.984455
+20230712T050924,AAPL,SIT Investment Associates Inc Acquires Stake in Neuberger Berman High Yield Strategies Fund,GuruFocus,0.109352,Neutral,0.119010,0.612040
+20230712T225537,AAPL,"First-of-its-Kind App, TheStreet Powered by Tornado, Launches One-Stop Investing Experience",Business Wire,0.266492,Somewhat-Bullish,0.222845,0.749470
+20230713T135841,AAPL,RSPT: Right Idea for More Balanced Approach to Tech,ETF Trends,0.152804,Somewhat-Bullish,-0.136745,0.712959
+20230713T142859,AAPL,"For Long-Term EM Growth, India Answers the Bell",ETF Trends,0.329861,Somewhat-Bullish,0.333616,0.706713
+20230713T153308,AAPL,"For Long-Term EM Growth, India Answers the Bell",ETF Trends,0.387864,Bullish,0.340602,0.730224
+20230713T230708,AAPL,Unlocking Business Potential with Apple’s Vision Pro,EPAM,0.408189,Bullish,0.422363,0.908977
+20230714T163200,AAPL,Apple Inc. stock underperforms Friday when compared to competitors despite daily gains,MarketWatch,0.035616,Neutral,0.029245,1.000000
+20230717T110100,AAPL,A breakdown of the changes to the Nasdaq-100 and what it means for mega-cap tech stocks,CNBC,0.127578,Neutral,0.105972,0.698721
+20230717T232841,AAPL,Preparing for Upcoming QQQ Changes,ETF Trends,0.171534,Somewhat-Bullish,0.116165,0.780256
+20230719T000000,AAPL,"Apple maintains its spot as the world’s most valuable brand, per Kantar BrandZ",Kantar,0.611317,Bullish,0.624076,1.000000
+20230719T225314,AAPL,Report: Apple built ‘Apple GPT’ chatbot using internal AI development framework,SiliconANGLE,0.342741,Somewhat-Bullish,0.339376,1.000000
+20230720T100000,AAPL,Netflix Strategic Changes Led to User Base Expansion & Record Revenues in Q2 2023,FXCM Markets,0.181856,Somewhat-Bullish,0.050171,0.565803
+20230720T101000,AAPL,Nasdaq Is Reducing the Influence of Giant Tech Firms in a Popular Stock Market Index,Money,0.216205,Somewhat-Bullish,0.219820,0.969886
+20230720T150612,AAPL,How will the metaverse change our lives?,Lloyds Banking Group plc,0.148638,Neutral,0.105233,0.731764
+20230724T104600,AAPL,Apple faces $1 billion UK lawsuit by apps developers over app store fees,Reuters,-0.402834,Bearish,-0.413592,1.000000
+20230725T090000,AAPL,Introducing Norton Genie - Real-Time AI-powered Scam Detection at Your Fingertips,PR Newswire,0.358367,Bullish,0.319880,0.740561
+20230726T005000,AAPL,Why is Netflix lagging FAANG stocks?,CMC Markets,0.26501,Somewhat-Bullish,0.317981,0.817119
+20230726T211000,AAPL,"Apple, Meta, Google argue they're not 'bookies' in casino app appeal",Reuters,-0.113846,Neutral,-0.131125,1.000000
+20230727T231655,AAPL,Mutual Fund Top Trumps – TMT,Fund Selector Asia,0.224844,Somewhat-Bullish,0.267877,0.607319
+20230727T233317,AAPL,Small Account Options Trading: How to Scale,tastylive,0.14543,Neutral,0.101638,0.717920
+20230728T084049,AAPL,Is QYLD ETF’s 11.3% Dividend a High-Yield Trap?,TipRanks,0.037245,Neutral,0.124729,0.628455
+20230728T183600,AAPL,Is QYLD ETF’s 11.3% Dividend a High-Yield Trap?,Nasdaq,0.100447,Neutral,0.347129,0.629706

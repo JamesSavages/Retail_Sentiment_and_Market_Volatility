@@ -1,0 +1,55 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20230601T081500,AAPL,Apple Bets On The Emerging Markets Growth Story,Forbes,0.166938,Somewhat-Bullish,0.408388,0.970167
+20230601T154631,AAPL,"Apple, Microsoft Boost the S&P 500 Amid Tech Comeback",ETF Trends,0.397718,Bullish,0.324592,0.736604
+20230601T195953,AAPL,High Beta ETF 'SPHB' Lifted by Heavy Tech Sector Tilt,ETF Database,0.359318,Bullish,0.329741,0.639124
+20230602T064600,AAPL,PayPal and Venmo users shouldn't store money on the apps long term,Fortune,0.135904,Neutral,0.134234,0.735265
+20230602T091900,AAPL,Vimeo is tuning out its streaming TV apps,TechHive,0.053356,Neutral,0.004396,0.746551
+20230602T145600,AAPL,"In challenge to Meta, Apple expected to unveil mixed-reality headset",Reuters,0.175256,Somewhat-Bullish,0.219355,1.000000
+20230605T000000,AAPL,Introducing Apple Vision Pro: Apple’s first spatial computer,Apple,0.419334,Bullish,0.886875,1.000000
+20230605T001401,AAPL,Is Temu Shopping App a Communist China-Based Scam That Spies on Users?,Snopes.com,-0.189798,Somewhat-Bearish,-0.113027,0.714931
+20230606T235105,AAPL,Cisco Shows Breakthrough Innovation Towards AI-First Security Cloud,Cisco Newsroom,0.355833,Bullish,0.260665,0.743796
+20230608T154631,AAPL,Big Tech Is Outpacing Small-Caps Amid Market Rally,ETF Trends,0.43123,Bullish,0.427397,0.740611
+20230609T165900,AAPL,"Apple, Amazon must face consumer lawsuit over iPhone, iPad prices, US judge rules",Reuters,-0.207489,Somewhat-Bearish,-0.212431,1.000000
+20230612T124300,AAPL,Bank of America execs blew $93.6 billion. Here’s how they did it.,MarketWatch,-0.063677,Neutral,0.325319,0.711018
+20230612T130300,AAPL,Apple Vision Pro’s External Displays from LG Display; Internal Displays from Sony,Businesskorea,0.16473,Somewhat-Bullish,0.102929,0.713696
+20230613T085843,AAPL,The 3 Best ETFs to Buy to Balance Risk and Reward,InvestorPlace,0.357368,Bullish,0.305290,0.601008
+20230614T002558,AAPL,"Labor Ruling Offers Unionization Path to Uber, Lyft Drivers",GovTech,-0.150422,Somewhat-Bearish,-0.109379,0.609335
+20230614T133000,AAPL,Sonos Era 300 Review: Spatial Audio Is a Game Changer,How-To Geek,0.362943,Bullish,0.311895,0.717968
+20230614T175400,AAPL,"""나스닥 떨어질 것""…서학개미 인버스 뭉칫돈",한국경제,0.200124,Somewhat-Bullish,0.338676,0.624038
+20230615T050952,AAPL,Pacer Trendpilot 100 ETF Review and Aggregate Rating (PTNQ),MarketBeat,0.423116,Bullish,0.411355,0.862368
+20230615T061028,AAPL,ProShares Ultra Technology Review and Aggregate Rating (ROM),MarketBeat,0.242107,Somewhat-Bullish,0.215187,0.640505
+20230615T133925,AAPL,JPMorgan Active Growth ETF Review and Aggregate Rating (JGRO) $JGRO,MarketBeat,0.362232,Bullish,0.371584,0.622672
+20230615T141016,AAPL,NYLI U.S. Large Cap R&D Leaders ETF Review and Aggregate Rating (LRND),MarketBeat,0.312309,Somewhat-Bullish,0.279942,0.617096
+20230615T150912,AAPL,"T. Rowe Price's New ETF, TCAF, Is Worthy of Appreciation",ETF Database,0.260351,Somewhat-Bullish,0.312499,0.569963
+20230615T160912,AAPL,Principal Value ETF Review and Aggregate Rating (PY),MarketBeat,0.295338,Somewhat-Bullish,0.319155,0.726832
+20230615T165257,AAPL,Democratic Large Cap Core ETF Review and Aggregate Rating (DEMZ),MarketBeat,0.250661,Somewhat-Bullish,0.180797,0.722666
+20230616T015224,AAPL,Roundhill Ball Metaverse ETF Review and Aggregate Rating (METV),MarketBeat,0.285774,Somewhat-Bullish,0.270180,0.712828
+20230616T035242,AAPL,FlexShares Quality Dividend Index Fund Review and Aggregate Rating (QDF) $QDF,MarketBeat,0.283743,Somewhat-Bullish,0.244983,0.709938
+20230616T051035,AAPL,Global X S&P 500 Tail Risk ETF Review and Aggregate Rating (XTR) $XTR,MarketBeat,0.315528,Somewhat-Bullish,0.348384,0.619854
+20230616T090939,AAPL,Invesco Dorsey Wright Technology Momentum ETF Review and Aggregate Rating (PTF) $PTF,MarketBeat,0.093191,Neutral,0.014605,0.667790
+20230616T091049,AAPL,Dimensional US Core Equity Market ETF Review and Aggregate Rating (DFAU),MarketBeat,0.281824,Somewhat-Bullish,0.147470,0.703645
+20230616T100930,AAPL,Fidelity U.S. Multifactor ETF Review and Aggregate Rating (FLRG) $FLRG,MarketBeat,0.283579,Somewhat-Bullish,0.228850,0.788069
+20230616T101013,AAPL,Schwab US Large-Cap ETF Review and Aggregate Rating (SCHX),MarketBeat,0.252706,Somewhat-Bullish,0.310968,0.626614
+20230616T125141,AAPL,iShares MSCI ACWI ETF Review and Aggregate Rating (ACWI),MarketBeat,0.280627,Somewhat-Bullish,0.225024,0.751547
+20230616T150909,AAPL,SPDR MSCI USA Climate Paris Aligned ETF Review and Aggregate Rating (NZUS),MarketBeat,0.182206,Somewhat-Bullish,0.234748,0.759682
+20230616T161013,AAPL,Invesco S&P 500 Top 50 ETF Review and Aggregate Rating (XLG),MarketBeat,0.279588,Somewhat-Bullish,0.202646,0.642173
+20230616T173846,AAPL,T. Rowe Price Growth ETF Review and Aggregate Rating (TGRT) $TGRT,MarketBeat,0.276608,Somewhat-Bullish,0.277371,0.813717
+20230616T193857,AAPL,Aptus Drawdown Managed Equity ETF Review and Aggregate Rating (ADME) $ADME,MarketBeat,0.231472,Somewhat-Bullish,0.193935,0.629906
+20230616T221017,AAPL,First Trust NASDAQ BuyWrite Income ETF Review and Aggregate Rating (FTQI) $FTQI,MarketBeat,0.303982,Somewhat-Bullish,0.321215,0.711543
+20230616T221018,AAPL,iShares MSCI USA Quality Factor ETF Review and Aggregate Rating (QUAL) $QUAL,MarketBeat,0.357896,Bullish,0.356298,0.701533
+20230616T235237,AAPL,JPMorgan U.S. Research Enhanced Large Cap ETF Review and Aggregate Rating (JUSA),MarketBeat,0.431235,Bullish,0.339004,0.781034
+20230620T000642,AAPL,"Analysts highlight Masimo’s advantages over Apple, Fitbit ahead of proxy vote",MedTech Dive,0.147363,Neutral,0.104526,0.721119
+20230620T002155,AAPL,"Sonos Five review: is Sonos' biggest, priciest wireless speaker its best?",What Hi-Fi?,0.088123,Neutral,0.022064,0.640797
+20230621T002235,AAPL,Spotify has higher-priced subscription plan in the pipeline: report,Fox Business,0.169553,Somewhat-Bullish,0.122256,0.603703
+20230624T015148,AAPL,MUSQ Global Music Industry Index ETF Review and Aggregate Rating (MUSQ),MarketBeat,0.18806,Somewhat-Bullish,0.119548,0.715281
+20230626T051020,AAPL,Direxion HCM Tactical Enhanced US ETF,ETF Database,0.303166,Somewhat-Bullish,0.300476,0.680003
+20230628T002642,AAPL,Top 10 LGBT manufacturing leaders,Manufacturing Digital,0.461357,Bullish,0.454165,0.947633
+20230628T235729,AAPL,Road to UEFA Euro 2024™ Ramps up With European Qualifiers on FOX Sports and Fubo,FOX Sports,0.347085,Somewhat-Bullish,0.224804,0.623743
+20230629T145121,AAPL,Lenovo ‘overall winner’ of UK FRAND trial as InterDigital confirms appeal,JUVE Patent,-0.116613,Neutral,0.072086,0.636322
+20230630T000000,AAPL,How Apple Became a $3 Trillion Company,WSJ,0.876439,Bullish,0.856303,1.000000
+20230630T000000,AAPL,"Apple, world's most valuable public company, is first to hit $3 trillion in market value",USA Today,0.036235,Neutral,0.001845,0.306173
+20230630T000000,AAPL,Apple’s market value ends above $3 trillion for the first time,Al Jazeera,0.45846,Bullish,0.881539,1.000000
+20230630T010942,AAPL,iMGP Berkshire Dividend Growth ETF Holdings,Quiver Quantitative,0.261562,Somewhat-Bullish,0.249407,0.716985
+20230630T064100,AAPL,Proposal for new Costco store in region takes a step forward,WSOC TV,0.05649,Neutral,-0.171946,0.623940
+20230630T152006,AAPL,Oakmark Equity and Income Fund: Second Calendar Quarter 2023,Oakmark Funds,0.130945,Neutral,0.146613,0.789604
+20230630T234120,AAPL,Apple Is the World’s First $3 Trillion Company,The Wall Street Journal,0.366174,Bullish,0.839357,1.000000

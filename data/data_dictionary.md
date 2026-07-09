@@ -4,7 +4,7 @@
 |---|---|---|---|---|---|
 | `symbol` | All | string | - | key | Stock ticker symbol (e.g., AAPL). |
 | `date` | All | date | YYYY-MM-DD | key | Trading date (US/Eastern). |
-| `close` | Stooq | float | USD | raw | Daily closing price. |
+| `close` | Tiingo | float | USD | raw | Daily closing price. |
 | `log_return` | Derived | float | log points | control | ln(close_t / close_{t-1}). |
 | `abs_return` | Derived | float | log points | control | Absolute daily log return. |
 | `log_volume` | Derived | float | ln(shares) | control | log(1 + daily share volume). |

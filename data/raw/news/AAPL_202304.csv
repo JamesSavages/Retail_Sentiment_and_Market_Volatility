@@ -1,0 +1,53 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20230402T060904,AAPL,QARP Stock Price | Xtrackers Russell 1000 US QARP ETF,Investing.com,0.338355,Somewhat-Bullish,0.329039,0.739706
+20230402T131319,AAPL,JGRO Stock Price | Jpmorgan Active Growth ETF,Investing.com,0.327376,Somewhat-Bullish,0.122315,0.740063
+20230403T014121,AAPL,Garmin Forerunner 265 review: Brilliant but far too expensive,Expert Reviews,-0.068163,Neutral,0.057530,0.749915
+20230403T014738,AAPL,12 Most Advanced Countries in the World In 2023,WorldAtlas,0.389814,Bullish,0.404218,0.720954
+20230403T044354,AAPL,"iShares MSCI USA Quality Factor ETF (QUAL) Stock Price, Holdings, Dividend Yield",GuruFocus,0.224085,Somewhat-Bullish,0.264111,0.846386
+20230403T045136,AAPL,"ProShares Ultra QQQ 2x Shares (QLD) Stock Price, Holdings, Dividend Yield",GuruFocus,0.174279,Somewhat-Bullish,0.169587,0.748259
+20230403T055218,AAPL,"Schwab 1000 Index ETF (SCHK) Stock Price, Holdings, Dividend Yield",GuruFocus,0.239651,Somewhat-Bullish,0.269568,0.789621
+20230404T000850,AAPL,XBIL Stock Price | US Treasury 6 Month Bill ETF,Investing.com,0.083762,Neutral,-0.234204,0.630579
+20230404T080914,AAPL,"Abrdn Total Dynamic Dividend Fund (AOD) Stock Live Price, Chart & News",CoinCodex,0.065912,Neutral,0.112038,0.637377
+20230404T235208,AAPL,"iShares Russell Top 200 Growth ETF (IWY) Stock Price, Holdings, Dividend Yield",GuruFocus,0.191582,Somewhat-Bullish,0.126287,0.780038
+20230405T012042,AAPL,Apple and global suppliers expand renewable energy to 13.7 gigawatts,Apple,0.483439,Bullish,0.464456,0.992689
+20230405T073925,AAPL,"PGIM High Yield Bond Fund, Inc. (ISD) Stock Forecast & Price Prediction 2026–2030",CoinCodex,-0.200047,Somewhat-Bearish,-0.090362,0.642104
+20230405T090943,AAPL,"Nuveen Pennsylvania Quality Municipal Income Fund (NQP) Stock Live Price, Chart & News",CoinCodex,0.104822,Neutral,0.115431,0.608972
+20230405T144048,AAPL,Frontdoor App Changes the Game of Home Repair and Maintenance,Little Black Book | LBBOnline,0.257504,Somewhat-Bullish,0.136494,0.642667
+20230405T150948,AAPL,"Bullpen Parlay Acquisition Company (BPAC) Stock Live Price, Chart & News",CoinCodex,0.175198,Somewhat-Bullish,0.139786,0.614586
+20230405T175218,AAPL,EMBD Stock Price | Global X Emerging Markets Bond ETF,Investing.com,0.317413,Somewhat-Bullish,0.240561,0.609840
+20230405T181046,AAPL,"Green Visor Financial Technology Acquisition Corp. I (GVCI) Stock Live Price, Chart & News",CoinCodex,0.067049,Neutral,0.003256,0.625743
+20230405T195252,AAPL,"Flaherty & Crumrine Total Return Fund Inc. (FLC) Stock Live Price, Chart & News",CoinCodex,0.112605,Neutral,0.113667,0.628860
+20230406T014033,AAPL,General Motors hates your iPhone,Six Colors,-0.401157,Bearish,-0.414506,0.737805
+20230406T040246,AAPL,"iShares Global 100 ETF (IOO) Stock Price, Holdings, Dividend Yield",GuruFocus,0.189069,Somewhat-Bullish,0.135043,0.720888
+20230406T060800,AAPL,Apple says 'Hello Mumbai' at first India store launch,Reuters,0.197107,Somewhat-Bullish,0.313718,0.975760
+20230406T094115,AAPL,The Swiss Helvetia Fund Inc. (SWZ) Stock Forecast & Price Prediction 2026–2030,CoinCodex,-0.242383,Somewhat-Bearish,0.107514,0.600829
+20230408T175000,AAPL,Apple sued to stop App Store clones of Baidu's Ernie AI chatbot,AppleInsider,-0.16342,Somewhat-Bearish,-0.236450,0.921282
+20230409T014615,AAPL,Social Livestreaming Platform Bigo Live Removed From App Store,Pandaily,-0.104687,Neutral,-0.225623,0.734039
+20230410T070700,AAPL,Introducing Domino's® on Apple CarPlay®: The Easiest Way to Order Pizza on the Go,Stock Titan,0.335063,Somewhat-Bullish,0.325769,0.727015
+20230410T143006,AAPL,Domino’s Introduces In-Car Ordering,QSR Magazine,0.368562,Bullish,0.315570,0.741907
+20230410T181000,AAPL,"Baidu sues Apple, app developers over fake Ernie bot apps",Reuters,-0.266319,Somewhat-Bearish,-0.288500,0.916916
+20230412T013139,AAPL,"Apple iPhone 15 Pro, iPhone 15 Pro Max Might Stick To Physical Instead Of Solid State Buttons",Mashable India,-0.08151,Neutral,0.132520,0.926123
+20230412T020730,AAPL,"TSMC’s Taiwan factory plans have not changed, says minister",Al Jazeera,0.159269,Somewhat-Bullish,0.128267,0.706171
+20230413T000000,AAPL,Apple will use 100 percent recycled cobalt in batteries by 2025,Apple,0.463124,Bullish,0.452718,1.000000
+20230413T013018,AAPL,Legal Briefs: News From Around NH,NH Business Review,0.081892,Neutral,0.120507,0.619093
+20230413T015720,AAPL,"10 up-and-coming stocks, according to Gen Z",Fortune,0.387686,Bullish,0.398980,0.686142
+20230413T040600,AAPL,Apple Triples India iPhone Output to $7 Billion in China Shift,Bloomberg.com,0.437765,Bullish,0.411031,1.000000
+20230416T012042,AAPL,Apple Plans to Launch More Than Just Its New Headset at WWDC,Bloomberg.com,0.315067,Somewhat-Bullish,0.340901,0.982312
+20230416T133948,AAPL,"Tradr 2X Short TSLA Daily ETF (TSLQ) News, Articles, Events & Latest Updates",Stocktwits,-0.08063,Neutral,0.120403,0.619939
+20230417T093000,AAPL,Autodesk Technology Engagement Center breaks ground at CSUN,Urbanize LA,0.400191,Bullish,0.303418,0.717956
+20230417T113900,AAPL,Ben & Jerry's ice cream 'scoopers' launch union drive,Fortune,-0.116676,Neutral,-0.146856,0.621175
+20230417T115900,AAPL,Magna to engineer and build off-road electric vehicle for industrial group Ineos,TownAndCountryToday.com,0.082832,Neutral,0.112976,0.709732
+20230418T015911,AAPL,Samsung competes with Apple on rising non-terrestrial network market,KED Global,0.250617,Somewhat-Bullish,0.251850,0.852899
+20230418T050927,AAPL,YieldMax APLY ETF Seeks Income Through Call Options on Apple Stock,ETF Trends,0.183677,Somewhat-Bullish,0.148398,0.917318
+20230420T012525,AAPL,"Big Tech Illegally Uses NDAs to Silence Would-Be-Whistleblowers, SEC Tips Allege",Whistleblower Network News,-0.242829,Somewhat-Bearish,-0.200088,0.733602
+20230420T020730,AAPL,TSMC seeks $15B in U.S. support despite ‘unacceptable’ conditions,Fortune,-0.031001,Neutral,0.076079,0.637629
+20230420T020730,AAPL,Semiconductor industry electricity consumption to more than double by 2030: study,Greenpeace,-0.270248,Somewhat-Bearish,-0.280957,0.714868
+20230421T170901,AAPL,Evaluating ESG’s Role in Creating Value,ETF Trends,0.383022,Bullish,0.306746,0.714117
+20230422T163949,AAPL,New ETF Makes a Big Bet on Cleaning Up the Environment,NBC10 Philadelphia,0.214189,Somewhat-Bullish,0.216786,0.615980
+20230424T143940,AAPL,Eye on Tap to Pay: MagicCube Teams Up With ACI; Fiserv Offers Tap to Pay on Clover,Digital Transactions,0.32155,Somewhat-Bullish,0.302329,0.723928
+20230425T015156,AAPL,3 reasons why the Vanguard MSCI Index International Shares ETF (VGS) could be an excellent investment for beginners,The Motley Fool Australia,0.303304,Somewhat-Bullish,0.308935,0.716370
+20230427T014947,AAPL,"In Masimo v. Apple Trial Twist, Jurors Suddenly Learn Apple Hired Many Masimo Employees",Strata-gee.com,0.191792,Somewhat-Bullish,0.091285,0.942875
+20230427T015200,AAPL,Elon Musk Threatens to Sue Microsoft Over Alleged Illegal Data Usage,Vision Times,-0.06767,Neutral,0.146695,0.646792
+20230427T162000,AAPL,Webull expands to Japan,PR Newswire,0.355237,Bullish,0.330419,0.626790
+20230429T011021,AAPL,"iShares U.S. Equity Factor Rotation Active ETF (DYNF) Stock Price, Holdings, Dividend Yield",GuruFocus,0.298557,Somewhat-Bullish,0.274789,0.643141
+20230430T020202,AAPL,"Starbucks, Ford, Apple Lead Another Busy Earnings Week",The Wall Street Journal,0.098495,Neutral,0.175685,0.725428

@@ -1,0 +1,56 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20230901T151800,AAPL,Globalstar taps SpaceX to launch Apple's Emergency SOS satellites,AppleInsider,0.107985,Neutral,0.301167,0.939013
+20230901T214012,AAPL,IXN: Not A True Global Tech Play,Seeking Alpha,-0.381149,Bearish,-0.384584,0.738966
+20230901T215536,AAPL,"SAP nabs new global AI head from Microsoft, Walter Sun",ERP Today,0.250191,Somewhat-Bullish,0.080948,0.586559
+20230901T215705,AAPL,An Apple-leased building in Sunnyvale sold for $41M,The Business Journals,0.16351,Somewhat-Bullish,0.323658,0.946528
+20230905T000000,AAPL,"Claim Construction – We Agree . . . Or Do We? – One-E-Way, Inc. v. Apple Inc.",Crowell & Moring LLP,-0.200033,Somewhat-Bearish,-0.237780,1.000000
+20230906T215236,AAPL,Qualcomm CEO says AI may breathe new life into smartphones: 'It could create a new upgrade cycle',CNBC,0.166971,Somewhat-Bullish,0.127791,0.553425
+20230907T200300,AAPL,India's policy contradictions are making it harder for investors to crack its market,CNBC,0.17819,Somewhat-Bullish,0.134035,0.711148
+20230907T212351,AAPL,Nvidia Says It Will Invest In Arm’s IPO After Failed Acquisition,CRN,0.185944,Somewhat-Bullish,0.145607,0.747082
+20230907T220016,AAPL,Why Goldman Sachs believes that Spotify will remain the world’s dominant music streaming service in 2030,Music Business Worldwide,0.167347,Somewhat-Bullish,-0.109584,0.635401
+20230908T110000,AAPL,"Everything Apple Plans to Show on Sept. 12: iPhone 15, Watches, AirPods",Bloomberg.com,0.305899,Somewhat-Bullish,0.307955,1.000000
+20230908T161122,AAPL,"If You Like SPHQ, Check Out Quality ETFs XMHQ and XSHQ",ETF Trends,0.199051,Somewhat-Bullish,0.145236,0.590021
+20230908T213658,AAPL,"Self-care products set to grow big; no downtrading in healthcare, says Haleon CEO",The Economic Times,0.249561,Somewhat-Bullish,0.108105,0.572030
+20230910T171518,AAPL,"History of Apple in Photos, From Steve Jobs Era to $3 Trillion",Business Insider,-0.049606,Neutral,-0.119288,1.000000
+20230911T045235,AAPL,The pros and cons of the Vanguard FTSE All-World ex-US ETF (VEU),The Motley Fool Australia,-0.065336,Neutral,-0.132244,0.642935
+20230911T073500,AAPL,"Qualcomm will make Apple’s iPhone modems until 2026, and its stock surges",MarketWatch,0.340321,Somewhat-Bullish,0.243078,0.920540
+20230911T153002,AAPL,"Qualcomm, Meta Platforms rise; J.M. Smucker, RTX fall, Monday, 9/11/2023",Quartz,0.060329,Neutral,0.232267,0.600934
+20230911T183400,AAPL,Qualcomm to supply Apple Inc with 5G chips until 2026 under new deal,Business Standard,0.369568,Bullish,0.339907,0.922535
+20230911T213555,AAPL,Paul Jacobs Tapped to Lead Globalstar,San Diego Business Journal,0.320044,Somewhat-Bullish,0.183052,0.602508
+20230911T214255,AAPL,The hottest back-to-school accessory? A location sharing app,Fast Company,0.213107,Somewhat-Bullish,0.142616,0.703587
+20230912T000000,AAPL,Apple introduces the advanced new Apple Watch Series 9,Apple,0.6283,Bullish,0.734801,1.000000
+20230912T000000,AAPL,Apple unveils its first carbon neutral products,Apple,0.537558,Bullish,0.524536,1.000000
+20230912T000000,AAPL,Apple unveils iPhone 15 Pro and iPhone 15 Pro Max,Apple,0.419251,Bullish,0.410920,1.000000
+20230912T130000,AAPL,All else being equal: Making the case for equal-weight ETFs,Investment Executive,0.14861,Neutral,0.142497,0.643971
+20230912T163200,AAPL,Apple Inc. stock outperforms competitors despite losses on the day,MarketWatch,-0.217453,Somewhat-Bearish,-0.227147,1.000000
+20230912T202400,AAPL,"Apple unveils iPhone 15 Pro with titanium case, holds line on prices",Reuters,0.030445,Neutral,0.009691,0.977884
+20230912T211524,AAPL,Apple unveils its first carbon neutral products,Apple,0.475892,Bullish,0.482263,1.000000
+20230912T212145,AAPL,Trading the Treasury Bond ETF (TLT) in Different Markets,tastylive,0.059867,Neutral,0.136409,0.624200
+20230913T000000,AAPL,"Arm, the Chip Designer, Raises $4.87 Billion in the Year’s Largest I.P.O. (Published 2023)",The New York Times,0.322948,Somewhat-Bullish,0.185848,0.565271
+20230913T101300,AAPL,Netgear's Nighthawk MK93S Mesh Router Arrives As iPhone 15 Readies A Big Wi-Fi 6E Push,HotHardware,0.264631,Somewhat-Bullish,0.303950,0.918510
+20230913T214508,AAPL,Chipmaker Arm is valued at $55 billion after a blockbuster IPO that is this year's biggest by far,Fortune,0.306788,Somewhat-Bullish,0.393863,0.731343
+20230914T121100,AAPL,Arm climbs 25% in Nasdaq debut after pricing IPO at $51 a share,CNBC,0.333355,Somewhat-Bullish,0.206324,0.636851
+20230914T144000,AAPL,Apple: Streamlining Sustainability For Every Buyer's Perfect Product,Forbes,0.482114,Bullish,0.494804,1.000000
+20230915T110940,AAPL,"Invesco MSCI USA ETF (PBUS) Stock Price, Holdings, Dividend Yield",GuruFocus,0.169006,Somewhat-Bullish,0.202056,0.784204
+20230915T123500,AAPL,Infosys Only Indian Firm On TIME World's 100 Best Companies List,NDTV,0.548657,Bullish,0.377961,0.561011
+20230915T143506,AAPL,Equal Weight ETF EQL Hits Key Buy Signal,ETF Trends,0.000196,Neutral,-0.209897,0.740061
+20230915T213915,AAPL,Infosys only Indian company in top 100 TIME World's Best Companies list,Mint,0.321916,Somewhat-Bullish,0.276234,0.640505
+20230916T191020,AAPL,"JPMorgan Global Select Equity ETF ETF Price, Holdings, & News (NASDAQ:JGLO) $JGLO",MarketBeat,0.044251,Neutral,0.048519,0.607642
+20230917T000000,AAPL,"I Can't Stop Thinking About How Awkward Apple's 'Mother Nature' Ad Was, and I Finally Figured Out Why",Inc.com,0.236347,Somewhat-Bullish,0.208865,1.000000
+20230918T162600,AAPL,SK Telecom to unveil call recording service for iPhones,Korea JoongAng Daily,0.258878,Somewhat-Bullish,0.242062,0.724747
+20230918T214823,AAPL,Everything we know so far about Project Mugen,Pocket Gamer,0.280045,Somewhat-Bullish,0.210658,0.719881
+20230919T094200,AAPL,Why U.S. Bancorp is investing in the static point of sale,American Banker,0.168755,Somewhat-Bullish,0.122632,0.724173
+20230919T120940,AAPL,iShares MSCI ACWI ETF,Growbeansprout.com,0.339819,Somewhat-Bullish,0.333771,0.605805
+20230921T143548,AAPL,Expedia Group builds generative AI into multiple products in its “Fall Release”,PhocusWire,0.256448,Somewhat-Bullish,0.216897,0.707915
+20230922T000000,AAPL,Calix taps Jabil as part of $42B+ broadband manufacturing plan,St Pete Catalyst,0.307647,Somewhat-Bullish,0.108418,0.624259
+20230923T221100,AAPL,T-Mobile CEO Sievert recalls the first iPhone launch on T-Mobile,PhoneArena,0.233785,Somewhat-Bullish,0.223489,0.716612
+20230925T063857,AAPL,AB US Large Cap Strategic Equities ETF,ETF Database,0.381243,Bullish,0.446894,0.729135
+20230925T215759,AAPL,Uniqlo picks Tacoma Mall for its next Puget Sound-area store,The Business Journals,0.177726,Somewhat-Bullish,0.142154,0.613694
+20230926T000000,AAPL,"Buy the Dip in Apple, or Has the Trend Turned Rotten?",ETF Trends,0.082203,Neutral,-0.123046,1.000000
+20230926T062000,AAPL,Should Vanguard Russell 1000 Growth ETF (VONG) Be on Your Investing Radar?,Nasdaq,0.370831,Bullish,0.328654,0.733287
+20230926T195255,AAPL,"FNGG ETF Analysis: Dividends, Returns AMEX:FNGG",TradingView,0.119752,Neutral,0.106555,0.635952
+20230927T095300,AAPL,Qualcomm defeats consumers' antitrust claims over chip supply contracts,Reuters,0.282876,Somewhat-Bullish,0.121733,0.704411
+20230927T203500,AAPL,Apple is ordered to face Apple Pay antitrust lawsuit,Reuters,-0.285233,Somewhat-Bearish,-0.445667,1.000000
+20230927T220108,AAPL,Silicon Hegemon: Could China Take Over Taiwan’s Semiconductor Industry Without Invading?,Baker Institute,-0.171705,Somewhat-Bearish,-0.128734,0.614706
+20230928T195600,AAPL,"Nvidia's French offices raided in cloud-computing competition inquiry, Wall Street Journal reports",Reuters,-0.161397,Somewhat-Bearish,0.140497,0.715187
+20230928T223919,AAPL,JPMorgan Hedged Equity Laddered Overlay ETF Holdings,Quiver Quantitative,0.114721,Neutral,0.111795,0.748200

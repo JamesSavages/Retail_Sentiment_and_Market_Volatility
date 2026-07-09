@@ -1,0 +1,59 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20240301T000000,AAPL,Butterfly iQ+ Ultrasound System,Medical Device Network,0.136389,Neutral,0.102277,0.330632
+20240301T214000,AAPL,"Dow's nearly 125-point rally led by gains for shares of NVIDIA Corp., Cisco",MSN,0.057512,Neutral,-0.346200,0.622109
+20240304T000000,AAPL,Magnificent Seven vs. the ‘Granolas’: How does Europe’s version stack up?,Morningstar,0.143169,Neutral,0.136768,0.714969
+20240304T120100,AAPL,Apple Hit With €1.8 Billion EU Fine Over Music App Abuses,Bloomberg.com,-0.427635,Bearish,-0.435915,1.000000
+20240304T154523,AAPL,Eye on Travel: AmEx’s New Virtual Card Integration for Small-Business Travel and Expenses; IHG Hotels Endorses Grazzy for Digital Tipping,Digital Transactions,0.309343,Somewhat-Bullish,0.230489,0.584946
+20240305T000000,AAPL,‘Funflation’ & Technology Driving Music Industry Resurgence,ETF Trends,0.297163,Somewhat-Bullish,0.229849,0.706714
+20240306T120000,AAPL,HP Inc. CEO: Security Will Be A ‘Key Advantage’ In Our AI PC Strategy,CRN Magazine,0.266634,Somewhat-Bullish,0.102531,0.307999
+20240306T133000,AAPL,How to Invest in Technology,Investing News Network,0.368648,Bullish,0.422399,0.633585
+20240306T161915,AAPL,Why Mega-Cap Tech Stocks’ Dominance Is a Risk,Morgan Stanley,-0.243581,Somewhat-Bearish,-0.346289,0.718850
+20240307T035125,AAPL,Should iShares Russell 1000 ETF (IWB) Be on Your Investing Radar?,TradingView,0.331141,Somewhat-Bullish,0.306324,0.647803
+20240307T163212,AAPL,WhatsApp to Allow Cross-Functional Chatting Soon,INDOlink,0.182849,Somewhat-Bullish,0.129007,0.716237
+20240308T012900,AAPL,SCHX: As Cheap As It Gets For Large-Cap Exposure,Seeking Alpha,0.34163,Somewhat-Bullish,0.316146,0.616359
+20240308T155428,AAPL,Fortune 500 list: The top 10 companies dominating business,Fortune,0.26736,Somewhat-Bullish,-0.189576,0.882064
+20240308T163733,AAPL,TSMC to Win More Than $5 Billion in Grants for US Chip Plant,Transport Topics,0.253183,Somewhat-Bullish,0.101972,0.626957
+20240311T130900,AAPL,Alphabet is the bargain stock among the ‘Magnificent Seven’,MarketWatch,0.227149,Somewhat-Bullish,0.131933,0.620088
+20240311T154001,AAPL,COPP Stock Price | Sprott Copper Miners ETF,Investing.com,-0.080201,Neutral,0.035433,0.556964
+20240312T000000,AAPL,Apple v. Rivos: Lessons for Companies Facing Claims of Trade Secret Theft (US),Employment Law Worldview,-0.226413,Somewhat-Bearish,-0.231349,1.000000
+20240312T122000,AAPL,3 Stocks to Buy Before the Fintech Sector Starts to Sizzle Again,InvestorPlace,0.158425,Somewhat-Bullish,0.154448,0.794241
+20240312T161717,AAPL,Inverse/Leveraged Magnificent Seven ETFs Hit the Market,Nasdaq,0.238225,Somewhat-Bullish,0.219025,0.602297
+20240312T163505,AAPL,The Apple Effect: Magic Leap Founder’s Previous Company Launches App on Vision Pro,Road to VR,0.159322,Somewhat-Bullish,0.334182,0.913918
+20240312T163932,AAPL,"Forget Warren Buffett Stocks. Check Out What Todd Boehly Is Up to With RDE, Inc. [OTC: RSTN] Instead",Born2Invest,0.002752,Neutral,-0.149799,0.638654
+20240313T044000,AAPL,Will Warren Buffett Keep Selling Apple?,CMC Markets,-0.199619,Somewhat-Bearish,-0.203211,1.000000
+20240313T110000,AAPL,Sonos Era 100 review: Room-filling sound meets thoughtful improvements,Android Police,0.175746,Somewhat-Bullish,0.294529,0.731544
+20240313T154014,AAPL,Apple’s Restore Fund cultivates new roots in the Atlantic Forest,Apple,0.421752,Bullish,0.424782,0.978677
+20240314T074100,AAPL,LaCie Introduces New Rugged Mini SSD with Up to 4TB Capacity,digital terminal,0.378292,Bullish,0.317053,0.719069
+20240314T133300,AAPL,"Markets Showing Signs of Bubble on Big Tech, Crypto Surge, BofA’s Hartnett Says",Bloomberg.com,-0.174014,Somewhat-Bearish,-0.245589,0.712316
+20240314T154210,AAPL,Allstate Protection Plans Finds 78 Million Americans Damaged Their Smartphones in the Last Year. The Nation's Repair and Replacement Bill Now Totals $149 Billion Since the Introduction of the Smartphone,PR Newswire,0.211546,Somewhat-Bullish,0.130261,0.700058
+20240314T154534,AAPL,"Watch BofA’s Hartnett Sees Characteristics of a Bubble in Mag 7, Crypto",Bloomberg.com,-0.288592,Somewhat-Bearish,-0.329881,0.635243
+20240314T235740,AAPL,"VGT ETF: High Growth, High Concentration (NYSEARCA:VGT)",Seeking Alpha,0.258263,Somewhat-Bullish,0.229923,0.709120
+20240315T000000,AAPL,"Apple Highlights Stryker, an NJIT Alum's Medical Tech Group, for VisionPro App",NJIT News |,0.396515,Bullish,0.401176,0.824428
+20240318T123000,AAPL,"Gaia Launches Gaia+, the World’s Most Extensive Streaming Platform for Transformation",Yahoo Finance,0.178787,Somewhat-Bullish,0.114453,0.626580
+20240318T131500,AAPL,Options Bulls Resume Blitz on Alphabet Stock,Schaeffer's Investment Research,0.369547,Bullish,0.324838,0.719460
+20240319T000949,AAPL,"Meta Bows Down to EU Regulations After Apple And Google, Cut Subscription Prices for Ad-Free Facebook and Instagram",TradingView,0.175399,Somewhat-Bullish,0.114495,0.786188
+20240319T154534,AAPL,BofA Survey Shows Risk-On Rotation Out of US Tech Into European Stocks,Bloomberg.com,-0.249899,Somewhat-Bearish,-0.403738,0.645912
+20240319T163200,AAPL,Apple Inc. stock outperforms competitors on strong trading day,MarketWatch,0.413618,Bullish,0.447412,1.000000
+20240319T202700,AAPL,"Meta Bows Down to EU Regulations After Apple And Google, Cut Subscription Prices for Ad-Free Facebook and Instagram",Sahm,-0.115705,Neutral,0.115250,0.748784
+20240320T041055,AAPL,CONY Total Assets Under Management Insights,YCharts,0.034898,Neutral,0.008877,0.601871
+20240320T210600,AAPL,"Meta, Microsoft, X and Match join Epic Games' battle against Apple",Reuters,0.093429,Neutral,-0.440557,1.000000
+20240321T051205,AAPL,Impact Shares YWCA Women’s Empowerment ETF (WOMN) Reaches $50M in Assets Under Management,Yahoo Finance,0.368955,Bullish,0.345348,0.620745
+20240321T102900,AAPL,"The U.S. sues Apple, saying it abuses its power to monopolize the smartphone market",NPR,0.006949,Neutral,0.017238,0.301614
+20240321T181900,AAPL,Apple Loses $113 Billion in Value After Regulators Close In,Bloomberg.com,-0.408481,Bearish,-0.413386,1.000000
+20240322T000000,AAPL,DOJ faces tough road in Apple antitrust lawsuit,Legal Dive,-0.129907,Neutral,-0.325889,0.953291
+20240322T000000,AAPL,Get to know QQQ: Charting 25 years of performance,Invesco,0.369777,Bullish,0.333392,0.620945
+20240322T090853,AAPL,Seeking a Growth ETF with Strong Returns? Check Out ILCG,Nasdaq,0.439992,Bullish,0.413212,0.585932
+20240322T154014,AAPL,Under Pressure: Antitrust and Competition Authorities are Now Focusing on Apple,Tech Policy Press,-0.154494,Somewhat-Bearish,-0.274564,1.000000
+20240322T180000,AAPL,Masimo plans to spin off consumer business,CNBC,0.1222,Neutral,-0.104916,0.704103
+20240322T181700,AAPL,Explainer: US lawsuit against Apple could make iPhone experience more consumer-friendly,Reuters,-0.251177,Somewhat-Bearish,-0.292143,1.000000
+20240323T042249,AAPL,"Wait, Did Europe Really Outperform the U.S. over the Last Three Years?",ETF Trends,0.497175,Bullish,0.426672,0.616078
+20240325T091800,AAPL,"Apple’s stock has faltered, but a Steve Jobs moment in AI may be on the horizon",MarketWatch,0.088336,Neutral,0.235996,0.931386
+20240325T154738,AAPL,Baidu Shares Rise After Reports That Apple Will Use Its AI Services in China Products,The Wall Street Journal,0.387184,Bullish,0.300762,0.863054
+20240325T163538,AAPL,7 Best Brand Video Marketing Campaigns,Outbrain,0.17454,Somewhat-Bullish,0.128883,0.734339
+20240325T163753,AAPL,More Canadians ditch traditional TV as streamers are ‘winning the battle’: report,CityNews Toronto,0.06256,Neutral,0.211169,0.637883
+20240326T120000,AAPL,FTEC: Concentration Increases Volatility (NYSEARCA:FTEC),Seeking Alpha,0.238739,Somewhat-Bullish,0.234774,0.737513
+20240327T000000,AAPL,RERE: INITIATION: Leading Recycling Platform in China’s Burgeoning Circular Economy,Zacks Small Cap Research,0.582367,Bullish,0.324769,0.631976
+20240327T154225,AAPL,One Fifth of Applied Materials Shareholders Vote to Address the Pay Gap,Morningstar Canada,0.118516,Neutral,0.122998,0.700896
+20240328T072900,AAPL,A new product allows 5x leveraged bets on the Magnificent Seven. Traders should be wary.,MarketWatch,-0.136436,Neutral,-0.139962,0.717768
+20240328T172223,AAPL,"SEC sides with ADF attorneys, denies Wells Fargo, Charles Schwab attempts to dodge shareholders",Alliance Defending Freedom,0.20704,Somewhat-Bullish,0.248762,0.619501
+20240329T161921,AAPL,Executive Turntable: Sphere Gets Creative; PushaRod Joins Hallwood; Wasserman Orchestrates Division,Billboard,0.295155,Somewhat-Bullish,0.132024,0.644343

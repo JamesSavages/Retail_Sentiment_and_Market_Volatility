@@ -153,13 +153,19 @@ def build_news_panel() -> pd.DataFrame:
 # Merge
 # ----------------------------------------------------------------------
 def main() -> None:
+    # The historical RQ2-RQ4 panel is built from PRICES + NEWS only.
+    # StockTwits serves recent messages only, so it cannot supply features over
+    # the 2023-2024 window; it is the RQ1 labelled corpus, analysed at the
+    # message level directly from data/raw/stocktwits/ and intentionally NOT
+    # merged here. (build_stocktwits_panel remains available for a future
+    # recent-window extension.)
     price = build_price_panel()
-    st = build_stocktwits_panel()
     news = build_news_panel()
 
-    panel = price.merge(st, on=["symbol", "date"], how="left")
-    panel = panel.merge(news, on=["symbol", "date"], how="left")
+    panel = price.merge(news, on=["symbol", "date"], how="left")
     panel = panel.sort_values(["symbol", "date"]).reset_index(drop=True)
+    # Safety net: drop any column that is entirely empty in the current window.
+    panel = panel.dropna(axis=1, how="all")
 
     out = C.PROCESSED / "panel.csv"
     panel.to_csv(out, index=False)

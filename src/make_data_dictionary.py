@@ -24,18 +24,14 @@ SCHEMA = [
     ("rv", "Derived", "float", "daily sigma", "control", "Realized volatility at t (range-based estimator)."),
     ("rv_lag1", "Derived", "float", "daily sigma", "control", "Realized volatility at t-1."),
     ("rv_next", "Derived", "float", "daily sigma", "TARGET", "Next-day realized volatility (t+1) - primary Y."),
-    ("st_n_msgs", "StockTwits", "int", "messages", "predictor", "StockTwits message count on the ticker-day."),
-    ("st_log_msgs", "Derived", "float", "ln(messages)", "predictor", "log(1 + message count)."),
-    ("st_n_bull", "StockTwits", "int", "messages", "raw", "Self-tagged Bullish messages."),
-    ("st_n_bear", "StockTwits", "int", "messages", "raw", "Self-tagged Bearish messages."),
-    ("st_labelled", "Derived", "int", "messages", "raw", "Bullish + Bearish (labelled) messages."),
-    ("st_labelled_share", "Derived", "float", "0-1", "quality", "Share of messages carrying a self-tag."),
-    ("st_bullish_ratio", "Derived", "float", "0-1", "predictor", "Bullish / (Bullish + Bearish)."),
-    ("st_af_bullishness", "Derived", "float", "log ratio", "predictor", "Antweiler-Frank bullishness: ln((1+bull)/(1+bear))."),
-    ("st_af_agreement", "Derived", "float", "0-1", "predictor", "Antweiler-Frank agreement (dispersion) index."),
     ("news_sent_wmean", "Alpha Vantage", "float", "-1 to +1", "predictor", "Relevance-weighted mean ticker news sentiment."),
     ("news_article_count", "Alpha Vantage", "int", "articles", "predictor", "Number of news articles on the ticker-day."),
 ]
+
+# Note: the StockTwits labelled corpus (data/raw/stocktwits/*.csv) is the RQ1
+# sentiment-model validation set, analysed at the message level (fields: id,
+# created_at, symbol, body, sentiment_basic). It is recent-only and is not part
+# of the historical RQ2-RQ4 panel documented above.
 
 
 def main() -> None:

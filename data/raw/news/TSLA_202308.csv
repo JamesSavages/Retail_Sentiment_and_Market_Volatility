@@ -1,0 +1,35 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20230802T224810,TSLA,"2023 Tesla Model 3, Model Y investigated for loss of steering control",Green Car Reports,-0.424124,Bearish,-0.442449,1.000000
+20230807T115900,TSLA,"Lucid cuts prices by up to 11% on Air models, and stock slumps toward a 6-week low",MarketWatch,-0.395957,Bearish,-0.309518,0.645454
+20230807T181226,TSLA,TSLY ETF lags Tesla stock price as inflows hit $385 million,Invezz,0.080249,Neutral,0.216455,0.936987
+20230808T143021,TSLA,"DTE offers $2,000 in subsidies, special charging rates for EVs",Michigan Capitol Confidential,0.102235,Neutral,0.134005,0.614192
+20230808T143542,TSLA,How to Buy LG Energy Solution Stock [2025],Finbold,0.304048,Somewhat-Bullish,0.343818,0.553625
+20230808T221600,TSLA,"Blink Will Benefit From Industry Shift to Tesla Charging Standard, CEO Says",Bloomberg.com,0.258755,Somewhat-Bullish,0.340904,0.814306
+20230808T224810,TSLA,"10 Things You May Not Know About Tesla, Inc.",Mental Floss,0.342409,Somewhat-Bullish,0.322727,1.000000
+20230810T111300,TSLA,"ReElement Technologies Produces Ultra-High Purity, 99.99%, Battery-Grade Lithium from LFP Manufacturing Waste",CBS 42,0.407505,Bullish,0.288095,0.560980
+20230810T225249,TSLA,Elon Musk’s Twitter Sued For Race Discrimination During Mass Layoffs,peopleofcolorintech.com,-0.246073,Somewhat-Bearish,-0.427384,0.849818
+20230811T224556,TSLA,Stellantis COO calls UAW demands a 'losing proposition',The Detroit News,-0.166624,Somewhat-Bearish,-0.102408,0.627556
+20230814T221257,TSLA,When Will All Fast-Charging Stations Be Open to All EVs?,Cars.com,0.281811,Somewhat-Bullish,0.429176,1.000000
+20230815T000000,TSLA,8 Best Battery Stocks & ETFs to Watch,FinMasters,0.287097,Somewhat-Bullish,0.264171,0.867679
+20230815T094200,TSLA,"Tesla Rolls Out New Base Model S and X for $10,000 Less",Transport Topics,-0.200143,Somewhat-Bearish,-0.223090,1.000000
+20230815T155124,TSLA,"Tesla drops Model S, Model X base price with Standard Range versions",Green Car Reports,-0.21492,Somewhat-Bearish,-0.205958,1.000000
+20230816T224028,TSLA,Consumer Cyclical ETFs Can Continue Bullish Ways,ETF Trends,0.414837,Bullish,0.322269,0.614243
+20230817T145800,TSLA,"Tesla didn't fix Autopilot after fatal crash, engineers say",Automotive News,-0.445869,Bearish,-0.448701,1.000000
+20230817T222155,TSLA,Worldwide Auto Warranty Expenses:,Warranty Week,0.027019,Neutral,0.117098,0.820505
+20230817T222603,TSLA,"Hesai Reports Record Lidar Sales, Revenue",The BRAKE Report,0.377496,Bullish,0.232517,0.558271
+20230821T151500,TSLA,"Toyota, Honda, Nissan’s China sales all plummet YoY in July",Gasgoo,-0.35624,Bearish,0.344031,0.603608
+20230821T193300,TSLA,Tesla says two ex-employees behind May data breach,Reuters,-0.211896,Somewhat-Bearish,-0.213537,1.000000
+20230822T223856,TSLA,Technology continues to find fertile ground northeast of Austin,constructconnect.com,0.370579,Bullish,0.348896,0.596231
+20230823T025250,TSLA,NVD - GraniteShares 2x Short NVDA Daily ETF Stock Price and Quote,Finviz - Stock Screener,-0.078561,Neutral,-0.217891,0.626968
+20230823T095140,TSLA,"GraniteShares 2x Short TSLA Daily ETF ETF Price, Holdings, & News (NASDAQ:TSDD)",MarketBeat,-0.149451,Neutral,-0.237391,0.825109
+20230823T220750,TSLA,"GraniteShares' Single Stock ETFs Will Follow Nvidia, Tesla, AMD",ETF.com,0.232334,Somewhat-Bullish,0.330159,0.946268
+20230824T223003,TSLA,The 3 Most Undervalued Stocks Under $5 to Buy Now: August 2023,InvestorPlace,0.152699,Somewhat-Bullish,-0.119069,0.632544
+20230825T222350,TSLA,"United Auto Workers Members Approve Possible Strikes at GM, Ford and Stellantis",WTTW,-0.161139,Somewhat-Bearish,-0.141516,0.605051
+20230825T225209,TSLA,Is Xpeng (XPEV) a value in Electric Vehicles?,DataDrivenInvestor,-0.294803,Somewhat-Bearish,0.136887,0.724783
+20230827T155124,TSLA,"Tesla Powerwall owners will boost Texas power grid, make money",Green Car Reports,0.48768,Bullish,0.619032,1.000000
+20230827T221728,TSLA,Ski-doo maker BRP launches its most expensive off-road vehicle ever,The Globe and Mail,0.037185,Neutral,0.026509,0.642388
+20230828T221258,TSLA,Mercedes-Benz to Open First Charging Hubs in October,Cars.com,0.161681,Somewhat-Bullish,0.324658,0.647137
+20230828T224517,TSLA,S&P Global Mobility: August US auto sales trends remain familiar,S&P Global,-0.05235,Neutral,0.141528,0.622980
+20230829T150200,TSLA,Tesla Ordered by NHTSA to Address New Issue Over Autopilot,Transport Topics,-0.247831,Somewhat-Bearish,-0.230780,1.000000
+20230829T224730,TSLA,Explainer: What happened to shut down Toyota's production in Japan?,Reuters,-0.073323,Neutral,0.135683,0.619300
+20230829T224951,TSLA,"VinFast market cap reaches $191B, comparable to Tesla’s valuation in 2020",Teslarati,0.117891,Neutral,0.283061,0.821670

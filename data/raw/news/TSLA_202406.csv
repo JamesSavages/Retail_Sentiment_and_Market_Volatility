@@ -1,0 +1,36 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20240602T131958,TSLA,Well-to-Product Integrated Lithium Solutions,SLB,0.595226,Bullish,0.319550,0.580765
+20240603T000000,TSLA,Foresight to collaborate with KONEC on autonomous vehicle concept,The Robot Report,0.156602,Somewhat-Bullish,0.110910,0.608103
+20240604T125805,TSLA,GM CEO says commitment to all-electric fleet remains firm despite industry-wide sales slowdown,NBC News,0.147236,Neutral,0.118772,0.746942
+20240604T125805,TSLA,General Motors Shareholders Support First-Ever Deep-Sea Mining Proposal,As You Sow,-0.134442,Neutral,-0.059231,0.720796
+20240604T130453,TSLA,Private and public rules governing lithium mining in Argentina,Fundar,0.115601,Neutral,0.127924,0.602498
+20240604T161300,TSLA,Mercedes and Stellantis Press Pause on EV Battery Factories,Transport Topics,-0.163242,Somewhat-Bearish,-0.120061,0.606129
+20240604T180900,TSLA,"Sysco takes delivery of 10 Freightliner electric semi trucks, plans to buy 800",Electrek,0.275483,Somewhat-Bullish,0.260962,0.674188
+20240604T233600,TSLA,Sysco takes delivery of 10 Freightliner electric semi trucks - Autonews News,WION,0.407427,Bullish,0.318283,0.649041
+20240605T132648,TSLA,VivoPower’s Tembo Launches Full Electric Pick Up Utility Vehicle with Capital Light Global Supply Chain,VivoPower,0.382384,Bullish,0.270406,0.583431
+20240606T000000,TSLA,"LG Energy Solution Teams up with Analog Devices, Inc to Gain Competitive Edge in Battery Management Total Solution",Batteries News,0.302771,Somewhat-Bullish,0.187916,0.597410
+20240606T000000,TSLA,"Helping Enable 'Europe's EV Supply Chain' - Tony Sage, CEO & Chairman of Critical Metals Corp",Auto Futures,0.385381,Bullish,0.109179,0.588293
+20240606T124138,TSLA,Cathie Wood's Ark missed Nvidia tech rally but eyes other AI wins,InvestmentNews,0.083631,Neutral,0.314720,0.849261
+20240606T125240,TSLA,"Weekly Recalls: Audi, Honda, Land Rover, Lincoln, Mercedes-Benz, Rivian, Toyota/Lexus,Tesla",CarProUSA.com.,-0.212866,Somewhat-Bearish,-0.185480,0.804451
+20240607T132413,TSLA,Tesla Hires Former Geico Exec to Bring Down Costs for Owners of Its Electric Cars,Program Business,0.335173,Somewhat-Bullish,0.341538,1.000000
+20240611T000000,TSLA,What Does Nvidia’s Stock Split Mean for Investors?,Morningstar,0.175947,Somewhat-Bullish,0.125330,0.649686
+20240611T050857,TSLA,"VCR: Fueled By Amazon, But Weighed Down By Tesla",Seeking Alpha,0.035719,Neutral,-0.316132,0.719386
+20240612T000000,TSLA,POSCO Group strengthens core rechargeable battery material value chain with concurrent groundbreakings for nickel and precursor production plants,포스코그룹 뉴스룸,0.333898,Somewhat-Bullish,0.213382,0.623451
+20240612T094700,TSLA,EU to Impose Additional Tariffs on EV Imports From China,Bloomberg.com,-0.197739,Somewhat-Bearish,-0.249002,0.714837
+20240613T125737,TSLA,‘Record demonstration’: Dark horse in quantum race passes new milestone,Forbes Australia,-0.029806,Neutral,-0.130529,0.550376
+20240616T125805,TSLA,Opinion: A Window Of Opportunity Is Opening For General Motors,CleanTechnica,0.124448,Neutral,-0.094902,0.671298
+20240617T112741,TSLA,SK Hynix patents-owned Mimir IP files complaint against Micron,The Korea Economic Daily Global Edition,-0.056654,Neutral,0.005838,0.616592
+20240618T000000,TSLA,2024 Cars.com American-Made Index: Which Cars Are the Most American?,Cars.com,0.088184,Neutral,0.104196,0.902897
+20240618T074500,TSLA,Tesla defends its lead in American-Made Index; Honda and VW models close in,Automotive News,0.213587,Somewhat-Bullish,0.222240,1.000000
+20240618T124630,TSLA,2024 Cars.com American-Made Index: What About the Least American Cars?,Cars.com,0.110001,Neutral,0.212814,0.836043
+20240618T160800,TSLA,Tesla must face owners' lawsuit claiming it monopolizes vehicle repairs and parts,Reuters,-0.610579,Bearish,-0.605873,1.000000
+20240620T121900,TSLA,New lithium battery recycling plant planned for Chester County,South Carolina Daily Gazette,0.050965,Neutral,0.134331,0.644785
+20240620T132751,TSLA,Elon Musk Confirms AI Gains Traction Fast,TradingView,0.071733,Neutral,0.345839,0.818704
+20240621T130555,TSLA,Motor Mouth: Lotus vaults to top of the EV tech heap,Driving,-0.21976,Somewhat-Bearish,-0.402578,0.877325
+20240621T132840,TSLA,"Move Over, Lucid Air: Xpeng's Mona M03 Is The New Aero King",CarBuzz,0.128616,Neutral,-0.127902,0.842999
+20240624T162754,TSLA,Most American-Made Vehicle? The Tesla Model Y,CarProUSA.com.,0.410045,Bullish,0.417815,1.000000
+20240625T075700,TSLA,"Tesla recalls more than 11,000 Cybertrucks for issues with trunk bed, windshield wiper",Automotive News,-0.439603,Bearish,-0.414085,1.000000
+20240626T003955,TSLA,"The Nightview Fund ETF Price, Holdings, & News (NYSEARCA:NITE) $NITE",MarketBeat,0.073451,Neutral,0.138439,0.746420
+20240626T132840,TSLA,VW Latches Onto Rivian in $5 Billion EV Pact to Regain Momentum,Energy Connects,-0.060872,Neutral,-0.126521,0.834964
+20240627T123858,TSLA,"Vehicle lessee, Asbury employee sue CDK after cyberattacks",Automotive News,0.127757,Neutral,0.106373,0.639091
+20240627T131650,TSLA,Rivian receives VW investment boost,Recycling Today,0.15956,Somewhat-Bullish,-0.142964,0.647484

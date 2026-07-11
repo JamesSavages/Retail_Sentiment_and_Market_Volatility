@@ -9,7 +9,7 @@ dependencies = [
     "pandas>=2.0",
     "numpy>=1.24",
     "python-dateutil>=2.8",
-    "python-dotenv>=1.2.2",
+    "python-dotenv>=1.0",
 ]
 
 # Installed only when you reach the RQ1 sentiment-model stage (GPU recommended):

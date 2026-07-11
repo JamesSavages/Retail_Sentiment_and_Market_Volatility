@@ -1,0 +1,47 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20230301T023509,NVDA,HP CEO Lores: Hybrid Work Is ‘Driving Innovation Across Our Portfolio’,CRN Magazine,-0.045734,Neutral,0.335246,0.589902
+20230301T153845,NVDA,SFY Top Holdings List & Exposure (SoFi Select 500 ETF),MarketBeat,0.117524,Neutral,0.107575,0.843421
+20230301T163850,NVDA,OALC Top Holdings List & Exposure (OneAscent Large Cap Core ETF),MarketBeat,0.219978,Somewhat-Bullish,0.200242,0.890145
+20230301T221300,NVDA,ACVF Top Holdings List & Exposure (American Conservative Values ETF),MarketBeat,0.137069,Neutral,0.121169,0.814281
+20230301T235203,NVDA,IWV Top Holdings List & Exposure (iShares Russell 3000 ETF),MarketBeat,0.238869,Somewhat-Bullish,0.321218,0.906687
+20230302T024219,NVDA,"Microchip Technology, microchip manufacturer with capital of $50 billion, coming to Armenia",NEWS.am TECH,0.365148,Bullish,0.303839,0.612544
+20230302T113200,NVDA,A Comprehensive Guide to Video Gaming ETFs,Nasdaq,0.140591,Neutral,0.207298,0.635740
+20230303T024020,NVDA,GLOF Top Holdings List & Exposure (iShares Global Equity Factor ETF),MarketBeat,0.111246,Neutral,0.133156,0.944804
+20230303T025219,NVDA,Rockwell Automation acquires Knowledge Lens,www.varindia.com,0.182441,Somewhat-Bullish,0.145708,0.629775
+20230306T010920,NVDA,SUSL Top Holdings List & Exposure (iShares ESG MSCI USA Leaders ETF),MarketBeat,0.114107,Neutral,0.138840,0.926644
+20230306T095900,NVDA,Exclusive: Nvidia's plans for sales to Huawei imperiled if U.S. tightens Huawei curbs-draft,Reuters,-0.180602,Somewhat-Bearish,-0.286689,1.000000
+20230306T174155,NVDA,SUSA Top Holdings List & Exposure (iShares MSCI USA ESG Select ETF),MarketBeat,0.340823,Somewhat-Bullish,0.343555,0.905026
+20230307T021527,NVDA,TSMC customer billed NT$529bn,Taipei Times,0.115682,Neutral,0.110384,0.640008
+20230309T021720,NVDA,Buy Nvidia (NVDA) & Broadcom (AVGO) Stock for More Upside?,Nasdaq,0.291524,Somewhat-Bullish,0.252572,0.970914
+20230309T084000,NVDA,"ASML, China customers haunted by uncertainty on new Dutch chip export rules",Reuters,-0.102282,Neutral,-0.120528,0.633286
+20230310T021353,NVDA,Top Companies for Employee Engagement and Development,The Wall Street Journal,0.445529,Bullish,0.401375,0.845662
+20230313T021639,NVDA,Ssangyong E&C wins contract for building ASML Korea campus,KED Global,0.422549,Bullish,0.316983,0.603688
+20230314T030213,NVDA,Deal Roundup: WeRide files for $500m US listing,Global Venturing,0.169221,Somewhat-Bullish,0.115236,0.712478
+20230316T021853,NVDA,Demo of China’s Answer to ChatGPT Disappoints Investors,Time Magazine,-0.217894,Somewhat-Bearish,-0.107201,0.577536
+20230319T054001,NVDA,The 3 Best Artificial Intelligence ETFs to Buy for Long-Term Growth,TradingView,0.382689,Bullish,0.409963,0.735200
+20230319T103943,NVDA,The 3 Best Artificial Intelligence ETFs to Buy for Long-Term Growth,InvestorPlace,0.461066,Bullish,0.532847,0.611673
+20230321T023706,NVDA,"Raja Koduri, Main Driver Of Intel’s GPU Efforts, To Leave Company",CRN Magazine,-0.06044,Neutral,0.129542,0.749516
+20230322T015126,NVDA,AB US Low Volatility Equity ETF Holdings,Quiver Quantitative,0.104459,Neutral,0.111071,0.601905
+20230322T024227,NVDA,Medtronic to boost AI innovation with new platform introduction,PR Newswire,0.325064,Somewhat-Bullish,0.322735,0.879804
+20230322T024227,NVDA,Medtronic to boost AI innovation with new platform introduction,Medtronic,0.361074,Bullish,0.347689,0.869104
+20230322T025458,NVDA,Liquid Cooled AI Development Platform,Supermicro,0.330967,Somewhat-Bullish,0.301265,0.948357
+20230322T025458,NVDA,"Supermicro Expands GPU Solutions Portfolio with Deskside Liquid-Cooled AI Development Platform, Powered by NVIDIA",TechPowerUp,0.351031,Bullish,0.419535,0.907922
+20230322T141013,NVDA,AB US High Dividend ETF Holdings,Quiver Quantitative,0.149268,Neutral,0.142619,0.814659
+20230323T000000,NVDA,What Is Conversational AI? How It Enhances Customer Engagement,G2 Learning Hub,0.213864,Somewhat-Bullish,0.408797,0.607700
+20230323T025359,NVDA,"Fast, sustainable delivery—thanks to your friendly neighborhood robot",Morning Brew,0.367314,Bullish,0.342085,0.630223
+20230323T034016,NVDA,FWD Top Holdings List & Exposure (AB Disruptors ETF),MarketBeat,0.154908,Somewhat-Bullish,0.220699,0.926775
+20230323T051034,NVDA,DGIN Stock Price | VanEck Digital India ETF,Investing.com,-0.268153,Somewhat-Bearish,-0.321081,0.629309
+20230323T081059,NVDA,QGRW Stock Price | Wisdomtree U.S. Quality Growth Fund ETF,Investing.com,0.298217,Somewhat-Bullish,0.337166,0.606379
+20230323T130955,NVDA,"AB US High Dividend ETF ETF Price, Holdings, & News (NYSEARCA:HIDV)",MarketBeat,0.380232,Bullish,0.315795,0.610274
+20230323T194026,NVDA,"Lixiang Education Holding Co., Ltd. (LXEH) Stock Live Price, Chart & News",CoinCodex,0.189462,Somewhat-Bullish,0.232954,0.607224
+20230325T055700,NVDA,Intel co-founder and philanthropist Gordon Moore has died at 94,NPR,0.059706,Neutral,0.026418,0.649583
+20230326T024624,NVDA,"Cryptocurrencies add nothing useful to society, says chip-maker Nvidia",The Guardian,0.166799,Somewhat-Bullish,0.437439,1.000000
+20230327T080000,NVDA,Beamr teams with NVIDIA to accelerate Beamr technology on NVIDIA GPUs,Stock Titan,0.293176,Somewhat-Bullish,0.298073,0.866290
+20230328T122000,NVDA,Micron Could Report Largest Ever Loss in Q2,Investopedia,-0.210865,Somewhat-Bearish,-0.134385,0.625790
+20230329T022931,NVDA,Understanding ChatGPT: The Promise and Nuances of Large Language Models,FactSet Insight,0.233563,Somewhat-Bullish,0.246751,0.602203
+20230329T025458,NVDA,Supermicro has a new liquid-cooled server for AI,Network World,0.346621,Somewhat-Bullish,0.315063,0.603154
+20230329T025511,NVDA,"Synopsys.ai Unveiled as Industry's First Full-Stack, AI-Driven EDA Suite for Chipmakers",Synopsys,0.338317,Somewhat-Bullish,0.320778,0.614541
+20230330T021524,NVDA,The Netherlands Joins US Effort To Deny China Semiconductor Technology,Global Finance Magazine,-0.259564,Somewhat-Bearish,-0.121112,0.621712
+20230330T051022,NVDA,JAVA Chart | JPMorgan Active Value ETF,Investing.com,-0.086979,Neutral,-0.343344,0.627511
+20230331T025511,NVDA,"Synopsys Launches Full-Stack, AI-Driven EDA Suite",EE Times Asia,0.427882,Bullish,0.224994,0.574648
+20230331T025550,NVDA,SPDR S&P 500 (SPY) Stock: Breakout Leveraging Tech Stocks Rally?,The Coin Republic,0.358127,Bullish,0.415261,0.639977

@@ -1,0 +1,43 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20230501T180200,AAPL,"Forerunner 965, 265, 265S: Everything to know about Garmin’s first AMOLED display-toting running watches in India",The Financial Express,0.213593,Somewhat-Bullish,0.125247,0.616359
+20230502T000000,AAPL,"If Expense Ratio Really Mattered, Most of These ETFs Would Dominate",ETF Trends,0.088028,Neutral,0.116421,0.724702
+20230502T005813,AAPL,Masimo v. Apple – Judge Declares a Mistrial as Jury Hopelessly Deadlocked,Strata-gee.com,0.063838,Neutral,0.285662,1.000000
+20230502T153400,AAPL,Apple fights $2 billion London lawsuit for 'throttling' millions of iPhones,Reuters,-0.315289,Somewhat-Bearish,-0.309082,1.000000
+20230503T221600,AAPL,Qualcomm outlook grim as smartphone sales stay weak,Reuters,-0.343806,Somewhat-Bearish,-0.208981,0.745082
+20230504T005813,AAPL,"Joe Kiani, Co-founder and CEO of Masimo, Talks About Fighting Corporate Giants and His Fixation on Reducing Preventable Hospital Deaths",Grit Daily News,-0.126375,Neutral,-0.313847,0.730274
+20230504T053000,AAPL,CEO Tim Cook says layoffs are a 'last resort' and not something Apple is considering right now,CNBC,0.30446,Somewhat-Bullish,0.302005,0.998701
+20230504T172800,AAPL,Amkor Technology seeks to open Vietnam factory in fourth quarter,Theinvestor,0.165558,Somewhat-Bullish,0.143171,0.562324
+20230505T130000,AAPL,Warren Buffett's Berkshire Hathaway has been a fortress stock during recessions and bear markets. Here's how,CNBC,0.229252,Somewhat-Bullish,0.326085,0.741924
+20230505T143200,AAPL,"Apple stakes future growth on emerging markets, starting with India",Reuters,0.406756,Bullish,0.407902,1.000000
+20230506T230200,AAPL,Buffett says Apple is Berkshire portfolio's best business,Reuters,0.74156,Bullish,0.738350,0.959803
+20230508T003451,AAPL,My Favorite BlackBerry of All Time Is One That Everyone Hated,Inverse,-0.050648,Neutral,0.130338,0.740412
+20230508T010540,AAPL,CEO pay continues to soar – new study,Human Resources Director,0.240367,Somewhat-Bullish,0.221649,0.623434
+20230509T012004,AAPL,This Popular Brand Has Better Profit Margins Than Apple or Nike. Is the Stock a Buy?,The Globe and Mail,0.072446,Neutral,0.104984,0.710181
+20230510T005347,AAPL,IonQ Appoints Pat Tang as VP of Research & Development,citybiz,0.376882,Bullish,0.310641,0.636954
+20230511T083000,AAPL,"YieldMax™ Launches NVDY, the YieldMax™ NVDA Option Income Strategy ETF",GlobeNewswire,0.358755,Bullish,0.225448,0.605303
+20230511T134011,AAPL,"Galata Acquisition Corp. (GLTA) Stock Live Price, Chart & News",CoinCodex,-0.227306,Somewhat-Bearish,-0.220966,0.621916
+20230512T100000,AAPL,Best Buy Announces New Membership Programs to Save You Money,Market Realist,0.226751,Somewhat-Bullish,0.138777,0.629334
+20230512T160932,AAPL,"Nuveen California Municipal Value Fund (NCA) Stock Live Price, Chart & News",CoinCodex,0.121155,Neutral,0.006943,0.633880
+20230513T111013,AAPL,"ProFrac Holding Corp. (ACDC) Stock Live Price, Chart & News",CoinCodex,-0.067128,Neutral,-0.120097,0.649538
+20230515T005417,AAPL,Layoffs may cause organizational drag: Gartner,CFO Dive,-0.137155,Neutral,-0.111251,0.604782
+20230516T000000,AAPL,"Apple previews Live Speech, Personal Voice, and more new accessibility features",Apple,0.407151,Bullish,0.425168,1.000000
+20230516T003102,AAPL,Apple investments with European suppliers surpass €20 billion annual spend,Apple,0.488264,Bullish,0.465658,1.000000
+20230521T010445,AAPL,"What you need to know about Temu, the online shopping app dominating download charts",CBC,-0.060461,Neutral,0.121992,0.738121
+20230522T144400,AAPL,Steve Jobs: Apple Cofounder and Tech Innovator,Biography,0.274506,Somewhat-Bullish,0.720716,0.980221
+20230523T003103,AAPL,Apple announces multibillion-dollar deal with Broadcom for components made in the USA,Apple,0.373196,Bullish,0.439961,1.000000
+20230523T040218,AAPL,"Fidelity Metaverse ETF ETF Price, Holdings, & News (NASDAQ:FMET)",MarketBeat,0.305764,Somewhat-Bullish,0.324107,0.607069
+20230523T070851,AAPL,FTQI Top Holdings List & Exposure (First Trust NASDAQ BuyWrite Income ETF),MarketBeat,0.1317,Neutral,0.105322,0.872290
+20230523T083921,AAPL,"NYLI U.S. Large Cap R&D Leaders ETF ETF Price, Holdings, & News (NASDAQ:LRND)",MarketBeat,0.291793,Somewhat-Bullish,0.342529,0.739414
+20230523T154629,AAPL,Examining the Importance of Dividend Growth,ETF Trends,0.454829,Bullish,0.443307,0.569361
+20230523T173100,AAPL,Apple inks multi-billion-dollar deal with Broadcom for U.S.-made chips,Reuters,0.405716,Bullish,0.338942,0.931026
+20230523T193945,AAPL,TUG Top Holdings List & Exposure (STF Tactical Growth ETF),MarketBeat,0.109428,Neutral,0.132875,0.921225
+20230523T195204,AAPL,"Burney U.S. Factor Rotation ETF ETF Price, Holdings, & News (NASDAQ:BRNY) $BRNY",MarketBeat,0.255142,Somewhat-Bullish,0.275968,0.668320
+20230524T195220,AAPL,"Wahed FTSE USA Shariah ETF ETF Price, Holdings, & News (NASDAQ:HLAL) $HLAL",MarketBeat,0.018138,Neutral,0.002898,0.646881
+20230525T060000,AAPL,New HP and Sonos Devices Accentuate the Ultimate Home Office Workstation,TechNewsWorld,0.238046,Somewhat-Bullish,0.148912,0.733239
+20230525T152000,AAPL,Why Is Wearable Devices (WLDS) Stock Up 250%?,InvestorPlace,0.394256,Bullish,0.321966,0.736768
+20230528T003845,AAPL,Cadence Stock vs Synopsys Stock: The Winner Is?,Nanalyze,0.057199,Neutral,0.027934,0.582206
+20230528T180951,AAPL,3 Undervalued S&P 500 Stocks to Buy Before Wall Street Catches On,TradingView,0.34512,Somewhat-Bullish,0.203990,0.605417
+20230531T000000,AAPL,Everything you need to know about Salesforce’s Q1 2024 financial results,AlphaStreet,0.132548,Neutral,0.013794,0.635391
+20230531T003429,AAPL,American Express Is Approaching Generative AI Technology with Caution,PaymentsJournal,-0.096004,Neutral,-0.191223,0.628284
+20230531T003701,AAPL,Apple Dominates Berkshire’s Portfolio. The Tech Stock Is Near a Record.,Barron's,0.104996,Neutral,0.231096,1.000000
+20230531T180500,AAPL,Garmin debuts Pro versions of Fenix 7 and Epix 7 adventure smartwatches,www.stuff.tv,0.268285,Somewhat-Bullish,0.116289,0.741203

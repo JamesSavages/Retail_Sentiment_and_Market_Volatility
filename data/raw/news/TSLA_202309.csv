@@ -1,0 +1,24 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20230901T061500,TSLA,"Tesla freshens Model 3 with premium touches, cuts Model S, X prices",Automotive News,0.291673,Somewhat-Bullish,0.297932,1.000000
+20230901T074500,TSLA,Tesla releases refreshed Model 3 with longer driving range in China,Reuters,-0.228718,Somewhat-Bearish,-0.237069,1.000000
+20230901T151800,TSLA,Globalstar taps SpaceX to launch Apple's Emergency SOS satellites,AppleInsider,0.103531,Neutral,-0.143223,0.644381
+20230904T211657,TSLA,"Albemarle, Major Lithium Producer, Boosts Liontown Bid to $4.3 Billion",ChemAnalyst,0.367606,Bullish,0.341164,0.625384
+20230905T065900,TSLA,Tesla sues Chinese firm over tech secret infringement -Chinese state media,Reuters,-0.349324,Somewhat-Bearish,-0.349607,1.000000
+20230905T113100,TSLA,Should Investors Diversify With Hedge Fund Style ETFs?,24/7 Wall St.,0.385255,Bullish,0.122736,0.624256
+20230905T212317,TSLA,"2024 Volkswagen ID.4 Gets Power, Controls Update",Cars.com,-0.114273,Neutral,-0.138107,0.631814
+20230907T155125,TSLA,Honda to Adopt North American Charging Standard (NACS) for its EV Models in North America,Honda Newsroom,0.010558,Neutral,0.043133,0.344988
+20230908T072800,TSLA,Lotus launches electric GT model as mass expansion plan rolls on,Reuters,0.136529,Neutral,0.128674,0.630100
+20230908T211711,TSLA,"NHTSA pushes to recall 52 million airbag inflators that ruptured and caused injury, death",USA Today,-0.092299,Neutral,0.000010,0.644805
+20230911T061900,TSLA,"Tesla’s market value could surge by $500 billion because of its Dojo supercomputer, Morgan Stanley says",Fortune,0.303177,Somewhat-Bullish,0.470875,1.000000
+20230915T144700,TSLA,EV maker VinFast seeks 'daring' applicants in India hiring drive,Reuters,0.095649,Neutral,0.029059,0.893434
+20230915T214728,TSLA,"From Cheap Cash to Tax Breaks, EVs in China Get Lots of Love",Energy Connects,0.289577,Somewhat-Bullish,0.237990,0.702983
+20230918T121800,TSLA,"Tesla, Saudi Arabia in early talks for EV factory - WSJ",Reuters,0.225628,Somewhat-Bullish,0.235087,1.000000
+20230918T155757,TSLA,Should Investors Worry About EVs Overloading the Grid?,ETF Trends,0.199659,Somewhat-Bullish,0.147976,0.557613
+20230920T163100,TSLA,"Tesla Inc. stock falls Wednesday, still outperforms market",MarketWatch,-0.201029,Somewhat-Bearish,-0.224959,1.000000
+20230921T162300,TSLA,Thailand's new PM holds talks with Tesla chief Musk,Reuters,0.037521,Neutral,0.020054,0.322421
+20230922T144541,TSLA,Great Expectations: The Saturn Cars Story,MotorTrend,-0.063161,Neutral,0.013209,0.584952
+20230923T110000,TSLA,Going beyond Tesla: ETF bets solely on electric vehicle makers,CNBC,0.20996,Somewhat-Bullish,0.404958,0.997667
+20230925T195303,TSLA,Ford Motor Company 6.5 % Notes 2022-15.08.62 Trade Ideas — NYSE:F/PD,TradingView,0.109299,Neutral,0.072690,0.558388
+20230926T220015,TSLA,Toppling Tesla: Toyota Unveils Solid-State Battery Production Breakthrough,JAPAN Forward,0.28716,Somewhat-Bullish,0.119303,0.916466
+20230928T143532,TSLA,Honda and Acura Electric Vehicles Will Have Access to Largest EV Charging Networks in North America Aided by New Agreements with EVgo and Electrify America,Acura Newsroom,0.289243,Somewhat-Bullish,0.328033,0.746582
+20230929T213121,TSLA,"Dave Pericak, Director EV Truck Programs, Ford Motor Company",Vicarious Magazine,0.233464,Somewhat-Bullish,0.105301,0.611858

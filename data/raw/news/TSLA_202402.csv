@@ -1,0 +1,45 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20240201T083500,TSLA,"Volvo Cars to stop funding Polestar, may hand stake to Geely",Reuters,-0.379221,Bearish,-0.344990,0.626996
+20240201T165327,TSLA,"2024 Lexus GX 550 Review: Go Anywhere, Do Anything",Cars.com,0.217871,Somewhat-Bullish,0.204324,0.606013
+20240202T064300,TSLA,Tesla recalls nearly all its U.S. vehicles for incorrect font size on warning lights while NHTSA probes power steering loss,Automotive News,-0.444189,Bearish,-0.448374,1.000000
+20240205T160900,TSLA,"Hertz will stop buying EVs from Polestar, too",The Verge,-0.437806,Bearish,-0.449885,0.806177
+20240205T163100,TSLA,TSLL ETF: Leveraging Tesla's Volatility (NASDAQ:TSLL),Seeking Alpha,0.136513,Neutral,0.108250,0.818182
+20240205T181400,TSLA,Europe’s Biggest Software Company Stops Offering Teslas to Employees,Bloomberg.com,-0.341126,Somewhat-Bearish,-0.623410,0.971618
+20240206T131300,TSLA,"Toyota investing $1.3 billion in Kentucky to build all-electric, three-row SUV",CNBC,0.141276,Neutral,-0.114073,0.610543
+20240206T174126,TSLA,¿Cuáles son los CEDEAR más elegidos por los argentinos?,iProUP,0.09322,Neutral,-0.244385,0.789944
+20240206T194700,TSLA,Hertz shares regain traction after wider-than-expected Q4 loss,Reuters,-0.199745,Somewhat-Bearish,-0.201459,0.732306
+20240207T000000,TSLA,Best Electric Vehicle of 2024,Cars.com,0.135591,Neutral,0.065566,0.628082
+20240207T053000,TSLA,One of America’s last aluminum smelters just closed. Let’s rescue Kentucky’s from that fate.,Kentucky Lantern,0.184022,Somewhat-Bullish,0.328107,0.647265
+20240207T174348,TSLA,"Colorado regulator’s vision for Xcel virtual power plant: Tariff-driven, 50 MW and online by this fall",Utility Dive,0.231302,Somewhat-Bullish,0.330188,0.614737
+20240209T000000,TSLA,Protolabs surpasses $500 million in annual revenue,Digital Commerce 360,0.356431,Bullish,0.223164,0.610264
+20240209T000000,TSLA,Panasonic Energy Partners with NOVONIX for Sustainable Synthetic Graphite Supply in EV Battery Production,Panasonic,0.306595,Somewhat-Bullish,0.244528,0.631234
+20240209T123000,TSLA,(TSLA) Tesla Rakes In $9 Billion From Carmakers Failing to Sell Enough EVs,Bloomberg.com,0.260695,Somewhat-Bullish,0.296145,1.000000
+20240209T173908,TSLA,Tim Aten Knows: Tesla building service center in Naples area,Gulfshore Business,0.407931,Bullish,0.436709,1.000000
+20240210T200100,TSLA,Tesla temporarily slashes prices for some Model Y cars in the US,Reuters,-0.4065,Bearish,-0.411903,0.984064
+20240212T083928,TSLA,GraniteShares 2x Long NVDA Daily ETF (NVDL) Short Interest & Short Float | Updated Mar 2026,MarketBeat,0.031138,Neutral,0.010845,0.630892
+20240214T175300,TSLA,US auto retailers' falling new vehicle margins compress quarterly profits,Reuters,-0.273637,Somewhat-Bearish,-0.324993,0.648245
+20240215T000000,TSLA,2024 Could Be a Buyer’s Market — if You’re Buying New: Report,Cars.com,0.167783,Somewhat-Bullish,0.112527,0.642956
+20240215T033944,TSLA,YieldMax Magnificent 7 Fund of Option Income ETFs,ETF Database,0.091003,Neutral,0.122869,0.709251
+20240216T062700,TSLA,"Here's How Much Money You'd Have if You Invested $7,000 in the ""Magnificent Seven"" in 2017",The Motley Fool,0.37244,Bullish,0.272218,0.815201
+20240216T150849,TSLA,XCHG looks to juice up its business with New York IPO,thebambooworks.com,0.088624,Neutral,0.136686,0.852156
+20240220T040900,TSLA,Global Commercial Energy Storage Market Analysis and Outlook to 2028: A $4.91 Billion Opportunity,GlobeNewswire,0.441436,Bullish,0.472981,0.700745
+20240220T115700,TSLA,"Eli Lilly, Novo Nordisk get growth stock status on weight-loss drug boost",Reuters,0.359151,Bullish,0.268907,0.636872
+20240220T165327,TSLA,What's New With Electric Vehicles for 2024?,Cars.com,0.086403,Neutral,0.142044,0.643493
+20240220T184300,TSLA,Chinese EV maker Xpeng unveils capex blitz as it faces ‘new phase of bloodbath’,South China Morning Post,-0.191562,Somewhat-Bearish,-0.121349,0.559945
+20240222T000000,TSLA,The Companies We’re Watching During Proxy-Voting Season 2024,Morningstar,0.082645,Neutral,0.030055,0.866641
+20240222T050200,TSLA,"Lotus Tech completes merger with LCAA, to trade as LOT on Nasdaq",Investing.com Canada,0.161457,Somewhat-Bullish,-0.229450,0.616413
+20240222T070000,TSLA,"Here's How Much Money You'd Have if You Invested $10,000 Into the Ark Innovation ETF's Top 5 Stocks in 2019",The Motley Fool,0.272695,Somewhat-Bullish,0.344853,0.949306
+20240222T165327,TSLA,2024 Honda Prologue Review: A Wrapper-Fresh EV,Cars.com,0.051547,Neutral,-0.137234,0.617359
+20240223T000000,TSLA,YieldMax Adds MSTR ETF to Option Income Lineup,ETF Trends,0.220435,Somewhat-Bullish,0.128720,0.633103
+20240223T000000,TSLA,Episode #522: Wes Gray & Robert Elwood on How to Convert a Separately Managed Account (SMA) to an ETF,Meb Faber Research,0.436511,Bullish,0.610556,0.629487
+20240223T004600,TSLA,Lotus Tech Is Going Public Today At A $5.5 Billion Valuation,Carscoops,-0.147313,Neutral,-0.149541,0.606276
+20240223T084500,TSLA,"Tesla could break ground on big EV factory near Monterrey, Mexico, in March",San Antonio Express-News,0.031772,Neutral,0.035745,0.313575
+20240223T105000,TSLA,Cathie Wood Predicts Innovation Could Be Worth $220 Trillion by 2030,CMC Markets,0.250087,Somewhat-Bullish,0.501856,0.607537
+20240223T171658,TSLA,Lotus Cars Are Legit. What We Thought After Driving an Eletre.,Barron's,0.149384,Neutral,-0.119515,0.645587
+20240225T053300,TSLA,Vietnam's VinFast seeks India EV import duty cut as plant construction starts,Reuters,0.16594,Somewhat-Bullish,0.100996,0.737293
+20240226T000000,TSLA,Lotus Technology completes a satisfactory IPO,Luxus Plus,0.258503,Somewhat-Bullish,0.014297,0.588410
+20240226T160100,TSLA,"Now, Elon Musk-led Tesla’s rival VinFast wants India to reduce import duties on its electric cars",Times of India,-0.126572,Neutral,-0.189426,0.806166
+20240227T164416,TSLA,Apple Kills Its Electric Car Project (Published 2024),The New York Times,-0.06368,Neutral,0.121081,0.642002
+20240229T140851,TSLA,Inside Active Growth ETF TGRW’s Red Hot Returns,ETF Trends,0.353431,Bullish,-0.149390,0.633833
+20240229T172356,TSLA,Novonix eyes North American market for anode and cathode materials,www.bestmag.co.uk,0.487213,Bullish,0.211035,0.627553
+20240229T172629,TSLA,Destination Progressive… or One of These Other Carriers,Carrier Management,0.105475,Neutral,-0.302003,0.594077

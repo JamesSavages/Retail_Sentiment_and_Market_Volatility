@@ -1,0 +1,37 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20240102T154300,TSLA,"Tesla sales top forecast in 4th quarter, but still fall below Chinese EV maker BYD",San Antonio Express-News,-0.151506,Somewhat-Bearish,-0.235642,1.000000
+20240102T183722,TSLA,Trimble executive: GNSS still core of PNT,Inside GNSS,0.299974,Somewhat-Bullish,0.140215,0.619764
+20240103T000000,TSLA,"Survey Says: Affordability, U.S. Manufacturing at Top of Mind for Shoppers",Cars.com,0.091752,Neutral,0.123394,0.623377
+20240103T084000,TSLA,Tesla's China-made EV sales grow 68.7% y/y in December,Reuters,0.41783,Bullish,0.415492,1.000000
+20240103T182330,TSLA,"Nio Reveals ET9 EV Flagship, Promising Ultra-Fast 600-KW Charging",Car and Driver,0.286067,Somewhat-Bullish,0.129277,0.625190
+20240103T183752,TSLA,"Tesla loses EV sales crown to BYD in Q4, despite annual sales record",WardsAuto,-0.187384,Somewhat-Bearish,-0.253549,1.000000
+20240103T183753,TSLA,Exclusive: Tesla expands to suburb northeast of Austin as footprint grows,The Business Journals,0.252858,Somewhat-Bullish,0.290334,1.000000
+20240104T054400,TSLA,"ARKQ: A High P/E, Concentrated Allocation, Struggling Long-Term Momentum",Seeking Alpha,-0.256092,Somewhat-Bearish,-0.106394,0.622633
+20240106T223924,TSLA,"TSLY ETF Analysis: Dividends, Returns AMEX:TSLY",TradingView — Track All Markets,-0.082375,Neutral,-0.105645,0.719322
+20240109T161000,TSLA,Can Lithium Prices Recover from 2023’s Slump?,CMC Markets,0.125301,Neutral,0.091804,0.780970
+20240109T180932,TSLA,12 Lessons the Market Taught Investors in 2023,Morningstar,0.051934,Neutral,-0.269490,0.897875
+20240109T180932,TSLA,Naysayers Were Wrong About the 60/40 Portfolio. Here’s Why.,Morningstar,0.285878,Somewhat-Bullish,0.349344,0.883095
+20240109T183307,TSLA,The Automotive Industry’s Response to AI and E-Vehicles: Traveling Forward,INDOlink,0.267291,Somewhat-Bullish,0.419167,0.826887
+20240110T181843,TSLA,3 Stocks to Invest in China's EV Surge,Morningstar,0.433841,Bullish,0.107847,0.601696
+20240111T095140,TSLA,TSDD Stock Fund Price and Chart — NASDAQ:TSDD,TradingView,-0.056819,Neutral,-0.129867,0.814634
+20240111T181229,TSLA,Hertz will sell a third of its EV fleet to buy gasoline cars instead,Detroit Free Press,-0.196773,Somewhat-Bearish,0.046004,0.630976
+20240111T181229,TSLA,"Hertz to Sell 20,000 EVs in Shift Back to Gas-Powered Cars",Transport Topics,-0.351206,Bearish,-0.283699,0.855609
+20240112T181229,TSLA,"Hertz early terminates 20,000 EVs from US fleet",Global Fleet,-0.197319,Somewhat-Bearish,-0.299826,0.809730
+20240116T183127,TSLA,Puerto Rico is using residents’ home batteries to back up its grid,Grist,0.235403,Somewhat-Bullish,0.208366,0.620936
+20240116T184000,TSLA,Target seeing some disruption of India supplies due to Red Sea crisis,Reuters,-0.082699,Neutral,-0.247639,0.645313
+20240117T071000,TSLA,Musk wants 25% voting control at Tesla before fulfilling AI goal,Reuters,-0.125518,Neutral,-0.202731,1.000000
+20240117T155500,TSLA,"Albemarle to cut staff, pause expansions amid falling lithium prices",Reuters,-0.386541,Bearish,-0.133155,0.608793
+20240117T164000,TSLA,What Does 2024 Hold for the Magnificent Seven?,CMC Markets,0.114681,Neutral,-0.419840,0.712803
+20240117T175449,TSLA,How Do Hybrid Cars Work?,Cars.com,0.244952,Somewhat-Bullish,0.313354,0.620324
+20240118T103700,TSLA,"Charlotte-based Albemarle cuts back on ambitious plans, cuts jobs as lithium slumps",WFAE,-0.211139,Somewhat-Bearish,-0.100477,0.601014
+20240119T051900,TSLA,EPA sends vehicle emissions reduction plan to White House for review,Reuters,0.124857,Neutral,0.231207,0.833905
+20240121T225800,TSLA,S&P 500 Rises as US Stocks Build on Record High: Markets Wrap,Bloomberg.com,0.344982,Somewhat-Bullish,0.414652,0.627532
+20240123T110857,TSLA,T-Rex 2X Long Tesla Daily Target ETF (TSLT) Options Chain & Prices 2025,MarketBeat,0.032132,Neutral,0.020981,0.604330
+20240124T163600,TSLA,"3 Flying Car Stocks to Turn $5,000 Into $1 Million: January 2024",InvestorPlace,0.289903,Somewhat-Bullish,0.102670,0.635323
+20240125T125000,TSLA,Ark Invest’s aggressive accumulation of its Bitcoin ETF propels it into top 5 of ARKW portfolio,CryptoSlate,0.223094,Somewhat-Bullish,0.112047,0.612913
+20240126T141700,TSLA,Electric car maker Polestar to cut around 450 jobs globally,Reuters,-0.423074,Bearish,-0.346170,0.633130
+20240129T105800,TSLA,AMD earnings are around the corner: This number could be the ‘swing factor’,MarketWatch,0.213506,Somewhat-Bullish,0.116711,0.645866
+20240130T180858,TSLA,G.M. Profits Hurt by Electric Car Business and Strike (Published 2024),The New York Times,-0.244452,Somewhat-Bearish,-0.138713,0.615446
+20240131T065100,TSLA,GM’s ‘all-in’ electric future now includes gasoline,E&E News by POLITICO,-0.135664,Neutral,-0.210477,0.641632
+20240131T182331,TSLA,Top 10: Electric Scooters,EV Magazine,0.170274,Somewhat-Bullish,0.106499,0.618407
+20240131T235100,TSLA,Tesla sued by 25 California counties over hazardous waste handling,CNBC,-0.620762,Bearish,-0.608959,1.000000

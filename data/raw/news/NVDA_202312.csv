@@ -1,0 +1,44 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20231201T150300,NVDA,One ETF that focuses on employee happiness is outperforming the market this year,CNBC,0.369893,Bullish,0.347081,0.607546
+20231201T232400,NVDA,NVIDIA Corporation (NVDA) Morgan Stanley Raises Target Forecast,The Globe and Mail,0.236886,Somewhat-Bullish,0.439883,1.000000
+20231202T184518,NVDA,Amkor to invest US$2bn in US chip packaging,Taipei Times,0.344859,Somewhat-Bullish,0.229378,0.623842
+20231203T204000,NVDA,Netflix Stock Breaks Below 20-Day Moving Average Amid Selloff. Should You Buy the Dip?,Barchart.com,-0.062663,Neutral,0.132382,0.617617
+20231205T054011,NVDA,Hartford US Quality Growth ETF Holdings,Quiver Quantitative,0.292635,Somewhat-Bullish,0.262840,0.944026
+20231205T190704,NVDA,美股科技股“疯牛”行情未完待续? AI仍是引爆明年行情的关键,新浪财经,0.404324,Bullish,0.625260,0.983523
+20231206T144551,NVDA,Why Investors Should Keep An Eye on Small-Cap Stocks,Morningstar,-0.129908,Neutral,-0.109848,0.622920
+20231206T145603,NVDA,Oracle Recognized as a Leader in the 2023 Gartner® Magic Quadrant™ for Strategic Cloud Platform Services,Oracle,0.261933,Somewhat-Bullish,0.243871,0.614521
+20231206T150000,NVDA,AMD's highly anticipated MI300X AI chips hit general availability along with new Ryzen 8040 CPUs,SiliconANGLE,0.408942,Bullish,0.214756,0.821864
+20231206T195300,NVDA,Opinion: AMD’s new products represent the first real threat to Nvidia’s AI dominance,MarketWatch,0.056517,Neutral,-0.310389,0.879165
+20231206T210800,NVDA,AMD releases new chips to power faster AI training,The Verge,0.299392,Somewhat-Bullish,0.293720,0.841871
+20231207T184100,NVDA,Comparing Analog Devices With Industry Competitors In Semiconductors & Semiconductor Equipment Industry,Investing.com UK,0.063355,Neutral,0.300602,0.643893
+20231208T104700,NVDA,Nvidia set to discuss chip deals in Vietnam next week,Reuters,0.33468,Somewhat-Bullish,0.494892,1.000000
+20231208T184526,NVDA,AMD debuts new chip with eye to rival Nvidia product,Taipei Times,0.232498,Somewhat-Bullish,0.286328,0.824361
+20231209T031607,NVDA,"Themes Generative Artificial Intelligence ETF ETF Price, Holdings, & News (NASDAQ:WISE)",MarketBeat,0.289135,Somewhat-Bullish,0.336067,0.612538
+20231209T192602,NVDA,STMicroelectronics speeds up Edge AI adoption for product transformation,Manufacturing Today India,0.409183,Bullish,0.323840,0.634431
+20231209T194027,NVDA,WISE Top Holdings List & Exposure (Themes Generative Artificial Intelligence ETF),MarketBeat,0.428134,Bullish,0.415716,0.882640
+20231210T000000,NVDA,"AMD launches MI300, claims AI performance lead over Nvidia ...",eeNews Europe,0.225016,Somewhat-Bullish,-0.135389,0.861667
+20231211T192035,NVDA,The Nasdaq-100 Has Had a Monster 2023 So Far. Is It Too Late to Invest in It Before 2024 Arrives?,The Globe and Mail,0.321397,Somewhat-Bullish,0.313810,0.637176
+20231212T192926,NVDA,"TSMC Global Market Share Rises by 2% QoQ, Samsung, UMC, GlobalFoundries Saw 1% QoQ Decline",Electronics For You BUSINESS,0.208527,Somewhat-Bullish,0.301086,0.634803
+20231213T000000,NVDA,Top 10: Edge computing companies and solutions,Data Centre Magazine,0.701217,Bullish,0.749762,0.732128
+20231213T131000,NVDA,Lisa Su’s net worth: How she saved AMD & built her wealth,Baker City Herald,0.193711,Somewhat-Bullish,0.286208,0.649722
+20231213T192838,NVDA,"Despite Chinese Market Controls, Taiwan’s Semiconductor Supply Chain Remains Secure",Global Taiwan Institute,0.167836,Somewhat-Bullish,0.125858,0.618287
+20231215T192459,NVDA,Sony at CES2024 - The World's Largest Technology Event - Sony Group Portal,Sony,0.292685,Somewhat-Bullish,0.327660,0.631874
+20231216T184609,NVDA,Arm boss's chilling warning humans WILL lose control of AI as he demands 'override',The Mirror,0.13794,Neutral,0.337963,0.638390
+20231218T061009,NVDA,Themes Generative Artificial Intelligence ETF (WISE),Investing.com India,0.244177,Somewhat-Bullish,0.252595,0.729082
+20231219T000000,NVDA,The Best Artificial Intelligence ETFs of 2023,ETF.com,0.666402,Bullish,0.617300,0.831661
+20231219T115600,NVDA,Folsom Intel Campus To Cut 235 More Jobs By End Of The Month,Folsom Times,-0.293596,Somewhat-Bearish,-0.191664,0.643959
+20231219T184337,NVDA,Best Semiconductor Stocks With High Growth Potential To Invest in for 2026,Traders Union,0.471838,Bullish,0.480867,0.706655
+20231220T083000,NVDA,"Opinion: How Nvidia and AI changed the landscape of the chip industry, as rivals must now play catch-up",MarketWatch,0.122107,Neutral,0.479749,1.000000
+20231220T215227,NVDA,"ProShares S&P 500 High Income ETF ETF Price, Holdings, & News (NYSEARCA:ISPY) $ISPY",MarketBeat,0.29882,Somewhat-Bullish,0.348786,0.601154
+20231221T193135,NVDA,Best Flying Cars Stocks 2024: 3 Names to Add to Your Must-Buy List,InvestorPlace,0.356069,Bullish,0.315236,0.627015
+20231222T045302,NVDA,"QARP ETF Analysis: Dividends, Returns AMEX:QARP",TradingView,0.300953,Somewhat-Bullish,0.324207,0.740925
+20231222T143019,NVDA,The Rise of Smart Machines,Global X ETFs,0.525525,Bullish,0.506354,0.642364
+20231222T151050,NVDA,Megatrends: How to Invest in the AI Boom,Morgan Stanley,0.384911,Bullish,0.441332,0.862304
+20231226T021950,NVDA,미국은 레버리지·인버스도 배당 주네...서학개미 환호,매일경제 마켓,0.387456,Bullish,0.318869,0.633598
+20231226T190231,NVDA,Top 6 Portfolio Moves for 2024,Morningstar,0.188233,Somewhat-Bullish,0.216603,0.724943
+20231226T190616,NVDA,Israel grants Intel $3.2bn for new $25bn chip plant,Al Jazeera,0.230076,Somewhat-Bullish,0.124258,0.621197
+20231227T000000,NVDA,Wall Street’s 10 favorite stocks for 2024,MarketWatch.com Webstory,0.391574,Bullish,0.408307,0.902453
+20231227T000000,NVDA,Wall Street’s 10 favorite stocks for 2024,MarketWatch.com Webstory,0.368464,Bullish,0.376802,0.944789
+20231227T144600,NVDA,"One of the best-performing stocks of 2023 averted disaster to surge 1,000%",MarketWatch,0.583896,Bullish,0.333033,0.611447
+20231229T083000,NVDA,Apple's stock underperformed top tech peers in 2023 due to longest revenue slide in 22 years,CNBC,0.174253,Somewhat-Bullish,0.337644,0.631813
+20231230T201003,NVDA,"Cyber Hornet S&P 500 and Bitcoin 75/25 Strategy ETF ETF Price, Holdings, & News (NASDAQ:ZZZ)",MarketBeat,0.232805,Somewhat-Bullish,0.310329,0.627231

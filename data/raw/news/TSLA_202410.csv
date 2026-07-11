@@ -1,0 +1,53 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20241001T000000,TSLA,"Solar, Wind, Hydro: A Guide to Alternative Energy ETFs",ETF.com,0.405346,Bullish,0.409855,0.646763
+20241001T030500,TSLA,Threat assessment: ranking risk among US companies dealing with China,South China Morning Post,-0.246483,Somewhat-Bearish,-0.345515,0.860970
+20241001T091741,TSLA,"Tesla to End LiveOne Streaming Subsidies for Customers, Sending LiveOne Stock Down 23%",Billboard,-0.49367,Bearish,-0.205565,0.831643
+20241002T102600,TSLA,U.S. Ford Motor Company Sales Fell 11 Percent In September 2024,Ford Authority,-0.153187,Somewhat-Bearish,0.135375,0.643509
+20241004T000000,TSLA,Tesla to stop subsidizing LiveOne music subscriptions,IMDb,-0.092567,Neutral,-0.210756,0.935385
+20241005T093200,TSLA,"Oracle's Larry Ellison is getting richer, rivaling Musk, Bezos, Zuckerberg",Fox Business,0.205383,Somewhat-Bullish,0.149648,0.633374
+20241008T000000,TSLA,Vision Marine Technologies Energizes Electric Boating with Advanced Battery Systems,Southern Boating & Yachting,0.553381,Bullish,0.315215,0.637413
+20241009T053700,TSLA,"Tesla ETFs in Focus Ahead of ""Robotaxi"" Event",TradingView,0.295683,Somewhat-Bullish,0.333151,1.000000
+20241009T063800,TSLA,GM says its EV losses are peaking,E&E News by POLITICO,0.1792,Somewhat-Bullish,0.044512,0.501953
+20241009T100000,TSLA,"Tesla ETFs in Focus Ahead of ""Robotaxi"" Event",Nasdaq,0.370387,Bullish,0.418207,1.000000
+20241010T075000,TSLA,"Shift to EV-only future would spell job losses, Toyota chairman warns",Reuters,-0.180267,Somewhat-Bearish,-0.180861,0.607782
+20241010T091944,TSLA,Inside the CMI Hitlist: The Five Critical Minerals Shaping Global Supply Chains,InvestorNews,0.096572,Neutral,0.219003,0.636544
+20241011T083924,TSLA,PLTY Stock Price | YieldMax PLTR Option Income Strategy ETF,Investing.com,0.016391,Neutral,0.011266,0.620649
+20241011T102500,TSLA,"After Vistra Stock’s (VST) 200%+ Move This Year, Is There More Potential Upside Before Q3 Earnings?",Nasdaq,0.212172,Somewhat-Bullish,0.145602,0.559532
+20241011T213200,TSLA,"Tesla's stock price fell during the day! Investors are disappointed with the Robotaxi launch: limited surprises, insufficient details.",富途牛牛,0.026814,Neutral,-0.440607,0.960603
+20241014T000000,TSLA,"Jabil to close Kentucky plant, lay off 108 workers",Manufacturing Dive,0.078307,Neutral,0.121381,0.603140
+20241014T090527,TSLA,"Freedom Holding Corp. celebrates five years on Nasdaq, marking Cyprus’ strategic role",Cyprus Mail,0.301696,Somewhat-Bullish,0.108103,0.598192
+20241015T090942,TSLA,Honda Broadens Safety Efforts to Achieve Global Goal of Zero Traffic Collision Fatalities Focusing on Driver Behavior and Traffic Safety Ecosystem,Honda Newsroom,0.191307,Somewhat-Bullish,0.114709,0.636480
+20241017T000000,TSLA,Electric Vehicles May Be Struggling. G.M.’s Leader Is Still a Believer. (Published 2024),The New York Times,0.189828,Somewhat-Bullish,0.183235,0.702402
+20241017T081500,TSLA,XLY: Consumer Discretionary Dashboard For October,Seeking Alpha,0.072966,Neutral,0.005463,0.642978
+20241019T134700,TSLA,Autoliv's profits meet expectations as outperforms global light vehicle market,ET Auto,0.145855,Neutral,-0.211987,0.557836
+20241021T000000,TSLA,General Motors Invests $625M in Lithium Americas to Boost Nevada’s Thacker Pass Lithium Project,CarbonCredits.com,0.308518,Somewhat-Bullish,0.225675,0.622876
+20241021T000000,TSLA,Indonesia forms $1.2B EV battery venture with CATL,Telematics Wire,0.20128,Somewhat-Bullish,0.117887,0.348201
+20241021T084808,TSLA,"GM, Ford face investor scrutiny as EV losses persist and gasoline vehicle pricing power wanes",CBT News,-0.089648,Neutral,0.028912,0.646348
+20241022T000000,TSLA,Vicor Power Modules Enable 48V EV Power Systems,EE Times Asia,0.406739,Bullish,0.326414,0.606093
+20241022T081700,TSLA,GM overcomes U.S. sales drop to post 3rd quarter profit of $3 billion,CBS News,0.188731,Somewhat-Bullish,0.052294,0.575889
+20241022T093823,TSLA,NHTSA opens safety probe for up to 2.4M Tesla vehicles,WardsAuto,-0.420096,Bearish,-0.439973,1.000000
+20241023T035148,TSLA,Trade Invesco Optimum Yield Diversified Commodity Strategy No K-1 ETF - PDBC CFD,Capital.com,0.269199,Somewhat-Bullish,0.348889,0.625384
+20241023T092519,TSLA,Diese 6 skurrile ETFs solltet ihr kennen,Business Insider Deutschland,0.336089,Somewhat-Bullish,0.336617,0.612395
+20241023T093823,TSLA,"Feds investigating Tesla Full Self-Driving after four crashes, one fatality",Green Car Reports,0.022044,Neutral,0.025458,0.308188
+20241023T115303,TSLA,ARK Autonomous Technology & Robotics ETF (ARKQ) Stock Price Quote Today & Current Price Chart,Capital.com,0.099805,Neutral,0.112771,0.609270
+20241023T125145,TSLA,AI Powered Equity ETF (AIEQ) Stock Price Quote Today & Current Price Chart,Capital.com,0.110855,Neutral,0.135480,0.601124
+20241023T165227,TSLA,Yieldmax Short Tsla Option Income Strategy ETF (NYSE: CRSH) - Dividends,intelligentinvestor.com.au,0.112174,Neutral,0.107079,0.847400
+20241023T170948,TSLA,Vanguard Information Technology Index Fund ETF Shares (VGT) Stock Price Quote Today & Current Price Chart,Capital.com,0.072606,Neutral,0.105509,0.628943
+20241023T233947,TSLA,Vanguard Long-Term Corporate Bond ETF (VCLT) Stock Price Quote Today & Current Price Chart,Capital.com,0.088511,Neutral,0.123481,0.607199
+20241024T000000,TSLA,Rising Electric Vehicle Sales Spell Opportunity in These ETFs,ETF Trends,0.370831,Bullish,0.347152,0.612233
+20241024T000000,TSLA,2 New EV Chargers on the NACS Show Floor,CSP Daily News,0.328335,Somewhat-Bullish,0.310357,0.617552
+20241024T045600,TSLA,DUET Acquisition Corp. faces Nasdaq delisting over holder rule,Investing.com,-0.093246,Neutral,0.134246,0.515271
+20241024T121058,TSLA,Trade Invesco Exchange-Traded Fund Trust - Invesco Water Resources ETF - PHO CFD,Capital.com,0.134178,Neutral,0.113891,0.607652
+20241025T070000,TSLA,"Tesla's stock price soared by 22%, Elon Musk's wealth surged by over $26 billion overnight.",富途牛牛,0.472773,Bullish,0.932066,1.000000
+20241025T085357,TSLA,2024 GMC Hummer EV SUV Video: An Unexpected Favorite,Cars.com,0.199013,Somewhat-Bullish,0.256883,0.607536
+20241025T105400,TSLA,"Cathie Wood’s ETFs sell Tesla’s stock, after another earnings-related surge",MarketWatch,-0.090645,Neutral,-0.215218,1.000000
+20241025T160900,TSLA,China's self-driving startup WeRide's shares surge in Nasdaq debut,Reuters,0.077218,Neutral,0.134937,0.611593
+20241028T000000,TSLA,The Rise And Fall Of The Toyota And General Motors Joint-Venture,CarBuzz,0.035555,Neutral,0.115814,0.628581
+20241028T000000,TSLA,Rhineer's Rhyolite Ridge Lithium-Boron Mine Receives Final Approval from US Govt,ChemAnalyst,0.332468,Somewhat-Bullish,0.279446,0.554252
+20241028T055215,TSLA,Tradr 1X Short Innovation Daily ETF (SARK) Stock Price Quote Today & Current Price Chart,Capital.com,0.028865,Neutral,-0.067642,0.673273
+20241028T220800,TSLA,"Automaker Ford weakens profit outlook amid price war, shares fall",Reuters,-0.137363,Neutral,-0.104464,0.630097
+20241029T084852,TSLA,Is the ARK Innovation ETF (ARKK) Ready to Perform?,See It Market,0.184656,Somewhat-Bullish,0.114403,0.731698
+20241029T110000,TSLA,THOR INDUSTRIES ISSUES SEVENTH ANNUAL SUSTAINABILITY REPORT,PR Newswire,0.248796,Somewhat-Bullish,0.140077,0.571312
+20241030T000000,TSLA,ASML Holding N.V. (ASML): Institutional Investors Are Shorting This Semiconductor Stock Now,Yahoo Finance,-0.134186,Neutral,-0.322526,0.644560
+20241030T060000,TSLA,Solidion Develops a Lithium Battery that can be Charged in 5 minutes With Key Newly Granted US Patent,GlobeNewswire,0.299961,Somewhat-Bullish,0.232807,0.639093
+20241031T091741,TSLA,"Tesla, LiveOne announce new subscriptions and pricing after amended deal",Teslarati,0.424982,Bullish,0.319385,0.912654

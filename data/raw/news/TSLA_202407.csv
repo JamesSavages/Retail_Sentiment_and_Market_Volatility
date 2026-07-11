@@ -1,0 +1,55 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20240701T000000,TSLA,"NeoVolta Navigates NEM 3.0 Challenges, Opportunities",San Diego Business Journal,0.35272,Bullish,0.257174,0.715896
+20240703T064500,TSLA,"Nano Dimension to Acquire Desktop Metal, Creating a Leader in Additive Manufacturing",GlobeNewswire,0.459033,Bullish,0.306289,0.600142
+20240703T080600,TSLA,Cathie Wood’s ETFs sell Tesla’s stock for the first time in 9 months,MarketWatch,0.296947,Somewhat-Bullish,0.262263,0.822165
+20240703T113809,TSLA,Cathie Wood S Ark Sells Tesla Shares For 15 Million,Quartz,0.366711,Bullish,0.411690,1.000000
+20240703T122800,TSLA,Nano Dimension to acquire outstanding shares of Desktop Metal; Deal could be worth as little as $135m,TCT Magazine,0.282189,Somewhat-Bullish,0.229222,0.624500
+20240704T082100,TSLA,Ford U.S. EV Sales Improved In June And Q2 2024,InsideEVs,0.202439,Somewhat-Bullish,0.122103,0.628403
+20240704T225600,TSLA,"With its stock price rising for seven consecutive days, has Tesla passed its darkest moment?",富途牛牛,0.072434,Neutral,0.423400,1.000000
+20240705T100100,TSLA,Legal Fee Tracker: Lawyers' $170 million payday in limbo in credit card swipe fee case,Reuters,-0.089278,Neutral,0.127240,0.649505
+20240708T145000,TSLA,EV maker Lucid beats quarterly deliveries estimates helped by price cuts,Reuters,0.219593,Somewhat-Bullish,0.107826,0.642593
+20240709T070400,TSLA,"After 9 consecutive increases, can Tesla continue to rise?",富途牛牛,-0.162282,Somewhat-Bearish,0.300306,0.923901
+20240709T123320,TSLA,Tesla rally pushes stock to biggest-ever ARKK weighting,InvestmentNews,0.263506,Somewhat-Bullish,0.413981,1.000000
+20240709T182400,TSLA,Tesla Is Now Biggest-Ever Weighting in ARKK After 80% Stock Gain,Bloomberg.com,0.19624,Somewhat-Bullish,0.472324,1.000000
+20240710T114040,TSLA,Baidu Gets a Boost on Suggestions Its Robotaxi Business Is Taking Off,Investopedia,0.287147,Somewhat-Bullish,0.143163,0.637323
+20240710T122500,TSLA,Ryder Releases an Economic Study for Converting Diesel Fleets to Electric,The Institute for Energy Research,-0.17817,Somewhat-Bearish,-0.147669,0.626090
+20240710T123036,TSLA,Chinese Upstart Leapmotor Snags Lucrative Deal to Take EVs Global,Bloomberg.com,0.336967,Somewhat-Bullish,0.118087,0.614431
+20240710T220400,TSLA,"News | Simon Property Group, BP To Add Electric Vehicle Chargers at US Retail Locations",CoStar,0.225556,Somewhat-Bullish,0.223733,0.615289
+20240711T000000,TSLA,bp to Build EV Charging Stations at Simon Properties,CSP Daily News,0.105251,Neutral,-0.240916,0.728861
+20240711T000000,TSLA,Tractor Supply may have thought it solved a big problem. Now it has a few more.,Retail Dive,-0.161805,Somewhat-Bearish,0.145976,0.600216
+20240711T114248,TSLA,Which New Cars Have Free Maintenance?,Cars.com,0.195594,Somewhat-Bullish,0.218870,0.721531
+20240711T114248,TSLA,What’s Bidirectional Charging and Which EVs Offer It?,Cars.com,0.203814,Somewhat-Bullish,0.211878,0.605001
+20240712T000000,TSLA,What Does Broadcom’s Stock Split Mean for Investors?,Morningstar,0.151325,Somewhat-Bullish,0.105212,0.570921
+20240713T111200,TSLA,EV maker VinFast slashes full-year sales target by 20% as U.S. factory is delayed,Fortune,-0.25178,Somewhat-Bearish,-0.215753,0.622870
+20240714T143954,TSLA,BTCZ Stock Price | T-Rex 2X Inverse Bitcoin Daily Target ETF,Investing.com,-0.210971,Somewhat-Bearish,-0.333835,0.600810
+20240715T070800,TSLA,"Tradr ETFs Announces Leverage Increases Now in Effect for SARK, TSLQ and NVDS",FinancialContent,-0.08293,Neutral,-0.132604,0.882308
+20240716T000000,TSLA,Aehr Test Systems Reports Fiscal 2024 Fourth Quarter and Full Year Financial Results and Provides Fiscal 2025 Full Year Financial Guidance,Aehr Test Systems,0.16247,Somewhat-Bullish,-0.116590,0.562843
+20240716T103500,TSLA,The AI Revolution Continues,Seeking Alpha,0.206118,Somewhat-Bullish,0.053279,0.617965
+20240716T163300,TSLA,Shares rise as traders bet on Trump victory,Korea JoongAng Daily,0.133,Neutral,-0.317281,0.683891
+20240717T080000,TSLA,VCR: Consumer Discretionary Sector Dashboard For July (NYSEARCA:VCR),Seeking Alpha,0.215457,Somewhat-Bullish,0.217595,0.602257
+20240717T114248,TSLA,What to Do if Your Car’s Manufacturer Shuts Down,Cars.com,-0.192683,Somewhat-Bearish,-0.207058,0.728004
+20240717T120300,TSLA,Stocks to Buy: 7 Founder-Led Companies Set to Outperform,InvestorPlace,0.050368,Neutral,0.315557,0.949563
+20240718T123320,TSLA,Tesla Cybertruck off-road mode detailed,Green Car Reports,0.116792,Neutral,0.110677,1.000000
+20240718T123754,TSLA,XPeng and Baidu lead China's rise in autonomous driving tech,digitimes,0.346853,Somewhat-Bullish,0.275341,0.879259
+20240718T171300,TSLA,Retail Investors Pile Into Small Cap Stocks at Record Pace as Fed Rate-Cut Hopes Rise,Investopedia,0.279671,Somewhat-Bullish,0.274213,0.700300
+20240718T191500,TSLA,Skild AI估值100亿，今年最快独角兽诞生了,新浪财经,0.276944,Somewhat-Bullish,0.318412,0.629322
+20240719T090906,TSLA,KraneShares Hedgeye Hedged Equity Index ETF,ETF Database,0.124647,Neutral,0.109566,0.600736
+20240722T000000,TSLA,Business-Friendly Policies Drive Corporate Relocations to Texas,U.S. Global Investors,0.226238,Somewhat-Bullish,0.248603,0.613417
+20240722T054500,TSLA,Will Newmont’s Q2 Results Shine On Strong Gold Pricing?,Forbes,-0.054813,Neutral,-0.123880,0.330676
+20240722T213800,TSLA,Chip design software firm Cadence forecasts third-quarter results below estimates,Reuters,-0.146605,Neutral,0.013356,0.589359
+20240723T120100,TSLA,DuPont Capital calls time on a 30-year external client business,Pensions & Investments,-0.044857,Neutral,0.102313,0.615898
+20240723T121529,TSLA,3 ETFs That Are Outperforming the S&P 500,InvestorPlace,0.391059,Bullish,0.384629,0.615139
+20240723T123320,TSLA,Elon Musk: CrowdStrike outage caused ‘seizure’ for auto supply chain,WardsAuto,-0.237584,Somewhat-Bearish,-0.230672,1.000000
+20240723T213900,TSLA,Tesla Delays Robotaxi Event by Two Months to Oct. 10,Bloomberg.com,0.036547,Neutral,-0.126702,0.991263
+20240724T041400,TSLA,"Breakingviews - Donald Trump might be bad for EVs, good for Tesla",Reuters,-0.109883,Neutral,0.239500,1.000000
+20240724T123320,TSLA,"Rivian to face trial in Tesla trade secrets theft case, judge says",Reuters,0.015334,Neutral,0.037547,0.339882
+20240724T180000,TSLA,YieldMax™ Launches Short NVDA Option Income Strategy ETF (DIPS),Yahoo Finance,0.063607,Neutral,0.036091,0.645000
+20240725T100000,TSLA,"Tesla, Google Spark Sell-Off in Technology ETFs",Nasdaq,-0.353413,Bearish,-0.603948,1.000000
+20240725T222100,TSLA,"Ford slips as higher costs, EV unit take a toll on profit growth",Reuters,-0.100165,Neutral,-0.119208,0.619347
+20240725T224400,TSLA,"Gasgoo Daily: Tesla seeks regulatory approval for supervised FSD in China, Europe",Gasgoo,0.211929,Somewhat-Bullish,0.240012,0.948643
+20240726T123320,TSLA,Study: Traditional brands' EVs surpass Tesla in satisfaction,Green Car Reports,0.101304,Neutral,-0.238268,1.000000
+20240726T123555,TSLA,Q&A with Om Shankar: “Konect by GVR is the next piece of the Vontier EV story”,MobilityPlaza,0.258908,Somewhat-Bullish,0.276944,0.607861
+20240728T082900,TSLA,"Mitsubishi Motors to join Honda-Nissan alliance, Nikkei reports",Reuters,0.162636,Somewhat-Bullish,0.103854,0.632331
+20240729T120705,TSLA,President Trump Wants America to Become the World’s “Bitcoin Superpower”,USFunds,0.244943,Somewhat-Bullish,0.204748,0.711648
+20240730T113537,TSLA,Mytra: Helping Firms like Albertsons Transform Warehouses,Supply Chain Digital,0.370229,Bullish,0.293039,0.640532
+20240731T123304,TSLA,5 Reasons to Choose Short-Term Car Loans,LendingTree,0.094102,Neutral,0.093209,0.561218

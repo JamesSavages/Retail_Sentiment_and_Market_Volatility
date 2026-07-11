@@ -1,0 +1,55 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20240102T000000,NVDA,Top-Performing Stocks of 2023,Morningstar,0.403043,Bullish,0.509766,0.802029
+20240102T174959,NVDA,Netherlands Blocks ASML Exports of Some Chip-Making Equipment to China,The Wall Street Journal,-0.253313,Somewhat-Bearish,-0.346511,0.603202
+20240102T183752,NVDA,The U.S.-China Chip War: Who Dares to Win?,Citigroup,-0.025982,Neutral,0.126255,0.626520
+20240103T000000,NVDA,"Intel and DigitalBridge Launch Articul8, an Enterprise Generative AI Company",Intel Newsroom,0.172032,Somewhat-Bullish,0.133269,0.581754
+20240103T000000,NVDA,The best and worst performing funds and sectors of 2023,Fund Selector Asia,0.690674,Bullish,0.515732,0.621905
+20240103T174959,NVDA,Netherlands blocks some ASML exports to China,Taipei Times,-0.145297,Neutral,-0.141312,0.649363
+20240103T235200,NVDA,Cerebras Systems Appoints Shirley Li as General Counsel,Business Wire,0.125446,Neutral,0.112519,0.573703
+20240104T000000,NVDA,Markets in Focus: Concentrating on Diversification,MSCI,0.230795,Somewhat-Bullish,0.226657,0.749790
+20240104T164500,NVDA,US plans $162 million award to Microchip Technology to boost production,Reuters,0.428465,Bullish,0.344817,0.723226
+20240104T203853,NVDA,ProShares S&P 500 High Income ETF,ETF Database,0.319575,Somewhat-Bullish,0.326719,0.645417
+20240105T182435,NVDA,Nvidia Gains as Bank of America Names It Top Sector Pick on 'GenAI Dominance',Investopedia,0.338678,Somewhat-Bullish,0.635862,1.000000
+20240106T201600,NVDA,"NVIDIA, Xiaomi and other giants are competing to lay out their plans! AI glasses may become the next super Hardware market by 2025; which Concept stocks are likely to become big winners?",富途牛牛,0.429218,Bullish,0.498387,0.959611
+20240108T174816,NVDA,Amgen to Build Generative AI Models for Novel Human Data Insights and Drug Discovery,NVIDIA Blog,0.377701,Bullish,0.310773,0.863899
+20240108T181455,NVDA,Why Intel has declined to participate in the Science Based Targets initiative,Trellis Group (formerly GreenBiz),0.106768,Neutral,0.132819,0.636105
+20240108T181631,NVDA,Report: HPE closing on $13B deal to buy Juniper Networks,SiliconANGLE,0.21319,Somewhat-Bullish,0.116059,0.578910
+20240108T181720,NVDA,NVIDIA Drives AI Forward With Automotive Innovation on Display at CES,NVIDIA Blog,0.351602,Bullish,0.403328,0.904523
+20240109T000000,NVDA,"Kodiak Unveils First 'Driverless-Ready' Semi-Truck Designed for Scaled Deployment, Plans Commercial Runs on I-45 This Year",Dallas Innovates,0.493878,Bullish,0.307750,0.607449
+20240109T174625,NVDA,Aehr Reports Strong Revenue and Earnings Growth for the Second Quarter and First Six Months of Fiscal 2024,Aehr Test Systems,0.184688,Somewhat-Bullish,0.189275,0.618473
+20240109T180932,NVDA,Naysayers Were Wrong About the 60/40 Portfolio. Here’s Why.,Morningstar,0.248061,Somewhat-Bullish,0.306586,0.885059
+20240110T000000,NVDA,Luminar expands partnership with Mercedes-Benz and debuts LiDAR-enabled AES,World Business Outlook,0.298871,Somewhat-Bullish,0.329458,0.882628
+20240110T160218,NVDA,"Fundsmith Underperforms, Smith Takes Aim at AI Hype",Morningstar Canada,0.040604,Neutral,-0.347784,0.639848
+20240110T174812,NVDA,"Ambarella edge AI platform integrates hardware, tools and AI models",Embedded-Control-Europe,0.525196,Bullish,0.337904,0.622409
+20240110T175858,NVDA,Inside HPE’s acquisition of Juniper Networks and the battle for networking supremacy,SiliconANGLE,0.160389,Somewhat-Bullish,0.105824,0.643956
+20240110T181843,NVDA,Li Auto chooses NVIDIA DRIVE Thor™ for next-gen electric fleets,Telematics Wire,0.326987,Somewhat-Bullish,0.315738,0.913285
+20240110T182637,NVDA,"NVIDIA Remains Among Very Best Places to Work in US, Rising to No. 2 on Glassdoor’s Annual List",NVIDIA Blog,0.522866,Bullish,0.894442,1.000000
+20240111T075201,NVDA,SHOC Stock Fund Price and Chart — NYSE:SHOC,TradingView,0.290602,Somewhat-Bullish,0.323821,0.608555
+20240111T080000,NVDA,Upcoming Events,FinancialContent,0.397936,Bullish,0.325753,0.618459
+20240111T191800,NVDA,CORSAIR Pledges PSU Support for GeForce RTX 40 SUPER Series GPUs,TechPowerUp,0.326195,Somewhat-Bullish,0.418942,0.845633
+20240112T183752,NVDA,"Taiwan's strength in semiconductors could be its 'Achilles heel,' economist says",CNBC,-0.104735,Neutral,0.101760,0.638552
+20240114T104300,NVDA,"Infosys announces its first acquisition of the year 2024, here are the details",Times of India,0.289073,Somewhat-Bullish,0.236087,0.638539
+20240117T000000,NVDA,"Synopsys to acquire Ansys to join forces for silicon-to-system design, simulation, and analysis",The Robot Report,0.35296,Bullish,0.132997,0.631007
+20240117T164000,NVDA,What Does 2024 Hold for the Magnificent Seven?,CMC Markets,0.101052,Neutral,0.409281,0.801538
+20240117T182148,NVDA,3 Themes for 2024 and Beyond,Morgan Stanley,0.281922,Somewhat-Bullish,0.296477,0.639445
+20240118T161900,NVDA,Nvidia and AMD shares hit record highs on AI chip surge,CNBC,0.361546,Bullish,0.439899,1.000000
+20240118T163916,NVDA,T-Rex 2X Long NVIDIA Daily Target ETF Stock Data and Signals - NVDX,StockInvest.us,0.327375,Somewhat-Bullish,0.344425,0.864831
+20240118T165500,NVDA,Super Micro’s blowout numbers are latest bit of good news for chip industry,MarketWatch,0.403927,Bullish,0.336158,0.836143
+20240118T181600,NVDA,Mark Zuckerberg indicates Meta is spending billions of dollars on Nvidia AI chips,CNBC,0.281273,Somewhat-Bullish,0.448196,1.000000
+20240122T000000,NVDA,NVIDIA Corporation (NVDA) Stock Rocketed Over 200% in 2023,Yahoo Finance,0.236955,Somewhat-Bullish,0.463807,1.000000
+20240123T000000,NVDA,Western Digital snags top spot in Morgan Stanley's microchip ranking away from Nvidia,The Business Journals,0.052706,Neutral,-0.408331,0.818152
+20240123T182541,NVDA,Oracle debuts cloud generative AI service to help enterprises deploy and fine-tune language models,SiliconANGLE,0.262098,Somewhat-Bullish,0.230577,0.601649
+20240124T000000,NVDA,Top 10 Semiconductor IP Companies | A Reusable Technology,Market.us Scoop,0.461238,Bullish,0.416398,0.722347
+20240124T175850,NVDA,The Best Desktop PCs: Early 2024,TechSpot,0.268361,Somewhat-Bullish,0.216918,0.615366
+20240125T113000,NVDA,Nvidia billionaire Jensen Huang dines with TSMC execs in Taiwan to discuss the great AI chip shortage,Fortune,0.331894,Somewhat-Bullish,0.405170,1.000000
+20240125T181100,NVDA,Intel stock sinks more than 10% as early 2024 outlook comes up short,CNBC,0.079355,Neutral,0.324854,0.626920
+20240126T000000,NVDA,AI & The Dragon: What Trends Will Dominate 2024?,KraneShares,0.219797,Somewhat-Bullish,0.312092,0.618541
+20240129T105800,NVDA,AMD earnings are around the corner: This number could be the ‘swing factor’,MarketWatch,0.23174,Somewhat-Bullish,0.132647,0.822174
+20240129T151005,NVDA,Should You Invest in the Invesco AI and Next Gen Software ETF (IGPT)?,TradingView,0.347309,Somewhat-Bullish,0.305555,0.731004
+20240129T181759,NVDA,Rebellions Inc. Raises $124M in Series B Funding to Accelerate AI Chip Development,Maginative,0.271947,Somewhat-Bullish,0.423774,0.823369
+20240129T202706,NVDA,XLK ETF: A Better Way To Invest In Microsoft But Volatility Comes First (NYSEARCA:XLK),Seeking Alpha,0.223762,Somewhat-Bullish,0.332622,0.703327
+20240129T215400,NVDA,Opinion: Supermicro is heading toward an Nvidia-like second half — but is it sustainable?,MarketWatch,0.261755,Somewhat-Bullish,0.345961,0.847065
+20240131T000000,NVDA,Top metaverse investors and how to start investing,TechTarget,0.260578,Somewhat-Bullish,0.329044,0.768549
+20240131T062900,NVDA,"2 Unstoppable Technology ETFs That Could Turn $100,000 Into $1 Million Over the Next 30 Years",The Motley Fool,0.28201,Somewhat-Bullish,0.403172,0.874099
+20240131T111400,NVDA,15 semiconductor companies that have followed Nvidia's lead in two key areas,MarketWatch,0.260891,Somewhat-Bullish,0.473832,0.897865
+20240131T174734,NVDA,"Astera Labs uses CXL to accelerate AI, expand memory",TechTarget,0.136146,Neutral,-0.179596,0.645084

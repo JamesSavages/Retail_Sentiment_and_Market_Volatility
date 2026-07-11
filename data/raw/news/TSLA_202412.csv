@@ -1,0 +1,65 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20241202T000000,TSLA,S&P 500 rises 5.7% in November to log best month of 2024,S&P Global,0.352379,Bullish,0.336579,0.605143
+20241202T065118,TSLA,Marquis Who's Who Celebrates Erika Lauren Guerrero for Leadership in Battery Innovation,24-7 Press Release Newswire,0.161805,Somewhat-Bullish,0.210045,0.613803
+20241202T070000,TSLA,Chinese lidar maker Hesai adamant about global push amid EV tariffs,South China Morning Post,0.157849,Somewhat-Bullish,-0.186167,0.608255
+20241202T070849,TSLA,List of Companies and Funds with Bitcoin Holdings,BitPinas,0.302046,Somewhat-Bullish,0.348992,1.000000
+20241202T073904,TSLA,Delhi High Court to hear Tesla trademark dispute next in April 2025 as mediation continues,Mediate.com,-0.282722,Somewhat-Bearish,-0.292885,1.000000
+20241202T152600,TSLA,Tesla leads November's global market value surge,Reuters,0.419882,Bullish,0.625567,1.000000
+20241203T000000,TSLA,The UAW’s strike on General Motors might haunt workers,Michigan Capitol Confidential,-0.133627,Neutral,0.206271,0.626955
+20241203T000842,TSLA,General Motors faces water stress at 4 plants in Mexico,Opportimes,-0.196787,Somewhat-Bearish,-0.191239,0.596578
+20241203T232900,TSLA,"Coinbase CEO, legal chief warn law firms over SEC hires",Reuters,-0.150864,Somewhat-Bearish,0.034699,0.627528
+20241204T000000,TSLA,Bullish Traders Relishing Tesla's Recent Rally,ETF Trends,0.147075,Neutral,0.405429,1.000000
+20241204T134200,TSLA,Rivian Stock Plunge: Time to Buy the Dip?,24/7 Wall St.,0.21102,Somewhat-Bullish,0.113308,0.734421
+20241205T000000,TSLA,"Signet Jewelers’ Q3 Sales Slide Amid Slow Engagement Ring Sales, Tech Issues",nationaljeweler.com,-0.065284,Neutral,0.008737,0.646043
+20241205T070841,TSLA,Even the Pope has had an EV Epiphany,Hagerty UK,0.132341,Neutral,0.137506,0.636350
+20241205T131200,TSLA,GM’s China dream fades amid shift to EVs and rise of local rivals,South China Morning Post,-0.323533,Somewhat-Bearish,-0.230542,0.570825
+20241206T074304,TSLA,Uber and WeRide launch robotaxi service in Abu Dhabi,TechCrunch,0.057041,Neutral,-0.149824,0.627775
+20241206T092800,TSLA,An F-35 fight? Support for Fort Worth-produced aircraft could derail government efficiency cut,KERA News,-0.083321,Neutral,0.141025,0.739472
+20241209T050300,TSLA,Westwood Holdings Group named to 2024 Best Places to Work in Money Management program,Pensions & Investments,0.052768,Neutral,-0.315059,0.616510
+20241209T173951,TSLA,Gary Black Boosts Tesla Price Target By 27% To $380 Based On 'Increased Conviction' That Elon Musk-Led Co,Benzinga,0.216213,Somewhat-Bullish,0.432988,1.000000
+20241210T000000,TSLA,GM is killing its Cruise robotaxi,Axios,0.174753,Somewhat-Bullish,0.106959,0.603944
+20241210T000000,TSLA,Solar D’s robot sets new benchmark for Thailand’s solar projects,Nation Thailand,0.199976,Somewhat-Bullish,0.402189,0.623508
+20241210T144018,TSLA,First Trust NASDAQ Cybersecurity ETF (CIBR) Stock Price Quote Today & Current Price Chart,Capital.com,0.065875,Neutral,-0.236813,0.602851
+20241211T000000,TSLA,General Motors has Called Time on Cruise Self-Driving Robotaxis,Tech.co,-0.111988,Neutral,0.112186,0.718896
+20241211T000000,TSLA,GM shuts troubled Cruise robotaxi unit,Smart Cities Dive,-0.142154,Neutral,0.138819,0.630778
+20241211T014700,TSLA,GM to retreat from robotaxis and stop funding its Cruise autonomous vehicle unit,NPR,0.18047,Somewhat-Bullish,0.095768,0.606548
+20241211T072900,TSLA,GM to exit loss-making Cruise robotaxi business,Reuters,0.143094,Neutral,0.070256,0.591284
+20241211T101033,TSLA,Tesla's Comeback Fuels ETF Opportunities for 2025,TradingView,0.425624,Bullish,0.407884,0.995181
+20241211T151000,TSLA,Tesla again dominates the rankings of most American-made vehicles,Auto Remarketing,0.231799,Somewhat-Bullish,0.403446,1.000000
+20241212T064510,TSLA,Mary Barra warns of ‘substantial impact’ from proposed tariffs under Trump,CBT News,-0.05812,Neutral,0.117010,0.716164
+20241213T000000,TSLA,Cango’s latest pivot uncovers gold in bitcoin mining,Bamboo Works,0.057234,Neutral,-0.147972,0.556130
+20241213T194100,TSLA,"General Motors Scraps Cruise, Alphabet’s Waymo A Big Part Of The Reason Why (NYSE:GM)",Seeking Alpha,-0.025718,Neutral,0.014481,0.559998
+20241214T070841,TSLA,10 Classic Vehicles That Will Gain Value in 2025 According to Hagerty,Le Guide de l'auto,0.138416,Neutral,-0.111083,0.643342
+20241215T075308,TSLA,TSLG Stock Fund Price and Chart — NASDAQ:TSLG,TradingView,-0.16199,Somewhat-Bearish,-0.107100,0.729660
+20241216T061400,TSLA,ETW: Maintain Your Equity Exposure And Earn An Attractive Yield,Seeking Alpha,0.231568,Somewhat-Bullish,0.136567,0.620670
+20241216T101039,TSLA,"TSLT ETF Analysis: Dividends, Returns CBOE:TSLT",TradingView — Track All Markets,-0.087174,Neutral,-0.144226,0.873236
+20241216T110857,TSLA,TSLT Stock Fund Price and Chart — CBOE:TSLT,TradingView — Track All Markets,0.110432,Neutral,0.273475,0.861308
+20241217T000000,TSLA,Thought ESG was hard to define? Try its antithesis,Financial Times,0.055712,Neutral,0.127370,0.646891
+20241217T040908,TSLA,"EXCLUSIVE: Leveraged ETFs Offer Short-Term Edge As Traders Eye Semiconductors, China, And Quantum Tech In Post-Election Market",Sahm,0.200048,Somewhat-Bullish,0.306299,0.624265
+20241217T064454,TSLA,"Top Stock Movers Now: Amentum Holdings, Humana, Nvidia, Tesla, Pfizer, and More",Investopedia,-0.293288,Somewhat-Bearish,0.738489,0.631068
+20241217T075235,TSLA,"TSYY ETF Analysis: Dividends, Returns NASDAQ:TSYY",TradingView,-0.178673,Somewhat-Bearish,-0.125770,0.823703
+20241217T130800,TSLA,Japan's Honda and Nissan to reportedly begin merger talks,CNBC,0.171353,Somewhat-Bullish,0.225195,0.633054
+20241217T180942,TSLA,"TSLZ ETF Analysis: Dividends, Returns CBOE:TSLZ",TradingView — Track All Markets,-0.202832,Somewhat-Bearish,-0.340036,0.830070
+20241217T180942,TSLA,"T-Rex 2X Inverse Tesla Daily Target ETF ETF Price, Holdings, & News (BATS:TSLZ)",MarketBeat,-0.306192,Somewhat-Bearish,-0.219464,0.809698
+20241218T000000,TSLA,Saia Deploying Tesla Semi Trucks,NGT News,0.394532,Bullish,0.343344,0.905555
+20241219T050842,TSLA,NVYY Chart | GraniteShares YieldBOOST NVDA ETF,Investing.com,0.24867,Somewhat-Bullish,0.247243,0.622408
+20241219T070148,TSLA,Ford’s warranty woes and recall troubles spur leadership changes,CBT News,-0.135439,Neutral,-0.116103,0.597482
+20241219T075235,TSLA,TSYY Stock Fund Price and Chart — NASDAQ:TSYY,TradingView,-0.333341,Somewhat-Bearish,-0.267928,0.879864
+20241219T083931,TSLA,"TSYY: GraniteShares YieldBOOST TSLA ETF Latest Stock Price, Analysis, News and Trading Ideas",Stocktwits,0.146593,Neutral,0.123160,0.849389
+20241220T011020,TSLA,GraniteShares YieldBOOST TSLA ETF,ETF Database,0.256324,Somewhat-Bullish,0.105427,0.848371
+20241220T065518,TSLA,"New Ultra-Thin Solar Panel Beats Tesla, First Solar, SunPower, and Canadian Solar By a Mile With 20% Higher Energy Conversion, 30% Cheaper Manufacturing, and 15% Longer Lifespan",The Globe and Mail,-0.428,Bearish,-0.420307,0.830776
+20241220T074404,TSLA,XPeng Reaches 10th Consecutive Month Of Export Growth,GlobalChinaEV,0.490851,Bullish,0.107320,0.634748
+20241222T160000,TSLA,‘God Bless America’ fund beats political rivals with 33% gain,Fortune,0.749647,Bullish,0.734658,0.510350
+20241222T214015,TSLA,The 'boring' department store whose stock is outperforming Tesla,Fortune,-0.160401,Somewhat-Bearish,-0.409358,0.815331
+20241223T113500,TSLA,It’s Official: Honda and Nissan Merging to Create Third-Largest Automaker,Autoweek,0.260826,Somewhat-Bullish,0.395277,0.734086
+20241224T000000,TSLA,Royal Turf Club of Thailand Launches RTC AI Data Centre for Global Projects,Nation Thailand,0.035919,Neutral,-0.122037,0.612307
+20241226T073325,TSLA,Is Tesla set to Launch Self-Driving Taxis in 2025?,Sify News,0.073075,Neutral,0.387369,1.000000
+20241226T145500,TSLA,"Post-election riots, jail break kill 248 in Mozambique",Moneyweb,-0.496973,Bearish,-0.423333,0.719710
+20241227T000000,TSLA,Bitwise Files For ETF: Targets Companies With Big BTC Treasuries,99Bitcoins,0.053676,Neutral,0.106309,0.721821
+20241227T073201,TSLA,"Saia, Tesla Partner to Launch Two Electric Semis",Fleet Equipment Magazine,0.461469,Bullish,0.407462,0.948694
+20241227T123917,TSLA,Bitwise Files for ETF Tracking Companies Investing Heavily in Bitcoin,ValueWalk,0.097151,Neutral,0.141445,0.618289
+20241227T192857,TSLA,Bitwise proposes ETF for companies holding over 1000 Bitcoin,Bitget,0.096506,Neutral,0.117519,0.722984
+20241228T203914,TSLA,Bitwise to Create ETF Based on Shares of Companies That Have Bought Bitcoin,Bitget,0.15922,Somewhat-Bullish,0.210877,0.736507
+20241230T000000,TSLA,Bitwise CEO Predicts Major Bitcoin Adoption by 2025,Live Bitcoin News,0.091269,Neutral,0.132067,0.626906
+20241231T092723,TSLA,Beijing unveils plans to boost driverless vehicle use in capital,Reuters,0.497733,Bullish,0.415526,0.734552
+20241231T135500,TSLA,Lithium Market 2024 Year-End Review,Investing News Network,0.009961,Neutral,0.026152,0.616486

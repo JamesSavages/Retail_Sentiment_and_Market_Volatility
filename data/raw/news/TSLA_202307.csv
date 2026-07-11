@@ -1,0 +1,25 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20230703T094900,TSLA,Apple makes history as first $3 trillion company amid tech stock surge,Reuters,0.321029,Somewhat-Bullish,0.337861,0.628507
+20230703T175800,TSLA,UAE Cabinet approves testing of self-driving vehicles on its roads,Gulf News,0.267888,Somewhat-Bullish,0.285994,0.575464
+20230703T232705,TSLA,Korea-China battery minerals tie-up mutually beneficial: CNGR chief,KED Global,0.313382,Somewhat-Bullish,0.206201,0.603307
+20230707T140000,TSLA,"Hedge Fund and Insider Trading News: Crispin Odey, Cathie Wood, Said Haidar, Man Group, Black Diamond Therapeutics, Inc. (BDTX), Tri-Continental Corp (TY), and More",Insider Monkey,-0.058666,Neutral,-0.249324,0.817690
+20230707T225946,TSLA,Markets Brief: There’s Good News for Investors in Rates Staying Higher for Longer,Morningstar,0.236457,Somewhat-Bullish,0.327705,0.747306
+20230708T053915,TSLA,FIAX ETF Stock Price History,Investing.com,-0.256385,Somewhat-Bearish,-0.337492,0.601436
+20230711T032835,TSLA,Top Performing Leveraged/Inverse ETFs: 07/09/2023,ETF Trends,0.417998,Bullish,0.339232,0.616401
+20230711T122600,TSLA,Tesla settles class-action Solar Roof lawsuit for $6 million,CNBC,-0.275575,Somewhat-Bearish,-0.283369,1.000000
+20230712T070200,TSLA,How Tesla's price cuts almost put Scott Painter out of business,Automotive News,-0.473622,Bearish,-0.452372,1.000000
+20230712T112000,TSLA,Cathie Wood's ARK Takes Profit as Coinbase Trades at Highest Level This Year,Investopedia,0.149185,Neutral,-0.102352,0.573401
+20230713T085207,TSLA,"Texas Capital Texas Equity Index ETF ETF Price, Holdings, & News (NYSEARCA:TXS) $TXS",MarketBeat,0.11486,Neutral,0.140140,0.640816
+20230713T095600,TSLA,"Tesla looking to make about half million EVs annually in India, Times of India reports",Reuters,0.422177,Bullish,0.407430,1.000000
+20230713T232158,TSLA,Samsung takes on Micron with new flash auto memory UFS 3.1,KED Global,-0.058004,Neutral,-0.113263,0.615787
+20230717T095800,TSLA,"SpaceX valuation tops Boeing, Raytheon after insider share sale boosts it to near $150 billion",San Antonio Express-News,0.147367,Neutral,0.328456,0.732757
+20230717T233300,TSLA,Automotive semiconductor shortage mostly resolved: S&P Global,WardsAuto,0.255432,Somewhat-Bullish,0.273788,0.620668
+20230717T233929,TSLA,Why the Nasdaq 100 may not capture the full growth potential of AI,The Armchair Trader,0.228841,Somewhat-Bullish,0.309665,0.704298
+20230718T180919,TSLA,QIS Chart | Simplify Multi-Qis Alternative ETF,Investing.com,-0.143033,Neutral,0.113306,0.706161
+20230719T225635,TSLA,Avient gears new R-polymers for auto sector,Recycling Today,0.280991,Somewhat-Bullish,0.155805,0.571144
+20230724T163439,TSLA,The Fourth Turning Is Here,Hedgeye,-0.178812,Somewhat-Bearish,-0.302982,0.717097
+20230726T110100,TSLA,2014 Tesla Model S vs 2023 Tesla Model 3 Review: Is Newer Actually Better?,The Drive,0.281062,Somewhat-Bullish,0.293706,1.000000
+20230726T125500,TSLA,Volkswagen Takes $700 Million Xpeng Stake for EV Pact to Win Back China,Bloomberg,0.197336,Somewhat-Bullish,-0.143172,0.600921
+20230726T232547,TSLA,‘A tripling of electrical output’: Tesla’s Musk urges power sector to anticipate higher demand,Utility Dive,0.27672,Somewhat-Bullish,0.253273,0.835952
+20230727T135200,TSLA,Dallas firm's development could be biggest ever in Central Texas,WFAA,0.109576,Neutral,0.333120,0.626923
+20230727T233606,TSLA,Tesla created secret team to suppress thousands of driving range complaints,CNBC,-0.348802,Somewhat-Bearish,-0.747536,1.000000

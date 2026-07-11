@@ -1,0 +1,56 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20230201T000000,NVDA,Data Center Sales Drive AMD's Q4 Resurgence,Data Center Knowledge,0.051054,Neutral,0.145199,0.638764
+20230201T030546,NVDA,CEO longevity pays off for JPMorgan Chase’s Jamie Dimon and other chiefs of World’s Most Admired Companies,Fortune,0.113757,Neutral,0.328827,0.604644
+20230201T032734,NVDA,Rima Alameddine Joins IonQ to Expand Enterprise Sales,IonQ Quantum Computing,0.337938,Somewhat-Bullish,0.316484,0.600433
+20230202T032729,NVDA,Brutal Earnings From Intel Signal Changing of Guard in Chips,Bloomberg.com,-0.277745,Somewhat-Bearish,-0.111966,0.619316
+20230207T032734,NVDA,The 3 Best Quantum Computing Stocks to Buy for February 2023,InvestorPlace,0.252932,Somewhat-Bullish,0.313674,0.807173
+20230208T031818,NVDA,Equinix uses two-phase cooling on live Metal cloud servers,Data Center Dynamics,0.169544,Somewhat-Bullish,0.234573,0.632395
+20230209T131008,NVDA,Unusual Whales Subversive Democratic Trading ETF,ETF Database,0.225321,Somewhat-Bullish,0.237904,0.624826
+20230213T032021,NVDA,Wall Street ends sharply higher as investors eye inflation data,Reuters,0.141481,Neutral,0.236016,0.639298
+20230213T034756,NVDA,Here's A Simple Way To Bet On Semiconductor Plays Like NVDA Stock,Investor's Business Daily,0.345199,Somewhat-Bullish,0.310308,0.920527
+20230214T032612,NVDA,Quantum Brilliance raises $18M to develop miniaturized quantum machines that run at room temperature,SiliconANGLE,-0.016049,Neutral,0.344491,0.617667
+20230214T032800,NVDA,How enterprises can use ChatGPT and GPT-3,Computerworld,0.313779,Somewhat-Bullish,0.315927,0.647841
+20230215T031227,NVDA,Israeli cybersecurity startup Oligo launches out of stealth with $28M in funding,SiliconANGLE,0.104579,Neutral,0.138409,0.614138
+20230215T031547,NVDA,These Stocks Are Leading the Growth Rebound,Morningstar,0.437461,Bullish,0.505983,0.845944
+20230215T163600,NVDA,Advanced Micro Devices Inc. stock outperforms competitors despite losses on the day,MarketWatch,0.099282,Neutral,-0.293010,0.740397
+20230219T200919,NVDA,Long AI Short Hype for CME_MINI:MNQM2023 by mintdotfinance,TradingView — Track All Markets,0.027649,Neutral,-0.054021,0.558426
+20230221T033642,NVDA,Microsoft and NVIDIA Announce Expansive New Gaming Deal,NVIDIA Newsroom,0.022536,Neutral,0.031876,0.330755
+20230221T033642,NVDA,"NVIDIA GTC 2023 to Feature Latest Advances in AI Computing Systems, Generative AI, Industrial Metaverse, Robotics; Keynote by Jensen Huang; Talks by OpenAI, DeepMind Founders",NVIDIA Newsroom,0.482323,Bullish,0.848831,1.000000
+20230221T033643,NVDA,Ronnie Vasishta Author Page,NVIDIA Blog,0.215984,Somewhat-Bullish,0.436640,1.000000
+20230221T141800,NVDA,Microsoft teams up with Nvidia and Nintendo in 10-year deal to stream Xbox games,MarketWatch,0.222929,Somewhat-Bullish,0.420251,1.000000
+20230221T161100,NVDA,"Nvidia earnings overshadowed by Microsoft, ChatGPT, OpenAI, 10-year gaming partnership",MarketWatch,0.391718,Bullish,0.427538,1.000000
+20230222T030432,NVDA,How to invest in the right AI stocks,Morningstar Australia,0.279601,Somewhat-Bullish,0.439649,1.000000
+20230222T030545,NVDA,"AMD Puts Hopes on Packaging, Memory on Logic, Optical Comms for Decade Ahead",Tom's Hardware,0.125697,Neutral,0.123358,0.626325
+20230222T165900,NVDA,"Nvidia adds to AI hype with new cloud-based service, stock jumps on forecast",MarketWatch,0.279956,Somewhat-Bullish,0.425211,1.000000
+20230223T021255,NVDA,Capture Growth From Disruptive Technology With NBDS,ETF Trends,0.363804,Bullish,0.300775,0.739752
+20230223T033642,NVDA,"Meet the $10,000 Nvidia chip powering the race for A.I.",CNBC,0.196856,Somewhat-Bullish,0.496598,1.000000
+20230223T123600,NVDA,"As chatbots boom, Nvidia sales outlook beats Wall Street expectations",Reuters,0.335454,Somewhat-Bullish,0.479370,1.000000
+20230223T170100,NVDA,Intel Corp. stock outperforms market on strong trading day,MarketWatch,0.194878,Somewhat-Bullish,0.308117,0.617292
+20230224T032331,NVDA,Mercedes enlists Google’s help in hunt for billion-dollar software windfall,Taipei Times,0.259397,Somewhat-Bullish,0.202961,0.745552
+20230224T093900,NVDA,"This Week in the Metaverse: BlackRock's new ETF, Titanic artifacts as NFTs, and a Snow Crash Sotheby’s auction",Fortune,0.183467,Somewhat-Bullish,0.193323,0.636921
+20230226T105812,NVDA,SMOT ETF: Question & Answer,VanEck,0.384108,Bullish,0.343054,0.631226
+20230227T031009,NVDA,The Future of AI Stocks: 7 Companies to Keep Your Eye On,InvestorPlace,0.383339,Bullish,0.428867,0.991443
+20230228T013854,NVDA,IXN Top Holdings List & Exposure (iShares Global Tech ETF),MarketBeat,0.116722,Neutral,0.154858,0.927739
+20230228T020920,NVDA,iShares U.S. Tech Independence Focused ETF Holdings List (BATS:IETC),MarketBeat,0.130223,Neutral,0.079738,0.602639
+20230228T020936,NVDA,PBS Top Holdings List & Exposure (Invesco Next Gen Media and Gaming ETF),MarketBeat,0.110471,Neutral,0.112597,0.875748
+20230228T030654,NVDA,Applied Materials to Challenge ASML's Grip With New Machines,Financial Post,0.141342,Neutral,0.241474,0.607002
+20230228T040909,NVDA,JQUA Top Holdings List & Exposure (JPMorgan U.S. Quality Factor ETF),MarketBeat,0.025372,Neutral,0.035443,0.735570
+20230228T071014,NVDA,IBLC Top Holdings List & Exposure (iShares Blockchain and Tech ETF),MarketBeat,0.104178,Neutral,0.126549,0.605299
+20230228T080930,NVDA,SPUS Top Holdings List & Exposure (SP Funds S&P 500 Sharia Industry Exclusions ETF),MarketBeat,0.149145,Neutral,0.232684,0.928030
+20230228T081017,NVDA,VICE Top Holdings List & Exposure (AdvisorShares Vice ETF),MarketBeat,0.129876,Neutral,0.125726,0.810995
+20230228T093908,NVDA,IOO Top Holdings List & Exposure (iShares Global 100 ETF),MarketBeat,0.110718,Neutral,0.115083,0.829750
+20230228T100853,NVDA,CRBN Top Holdings List & Exposure (iShares MSCI ACWI Low Carbon Target ETF),MarketBeat,0.206341,Somewhat-Bullish,0.213632,0.804046
+20230228T111422,NVDA,QGRW Top Holdings List & Exposure (WisdomTree U.S. Quality Growth Fund),MarketBeat,0.068232,Neutral,0.013487,0.870439
+20230228T123932,NVDA,IUSG Top Holdings List & Exposure (iShares Core S&P U.S. Growth ETF),MarketBeat,0.135374,Neutral,0.112453,0.901225
+20230228T130952,NVDA,VOTE Top Holdings List & Exposure (TCW Transform 500 ETF),MarketBeat,0.081537,Neutral,0.058572,0.920599
+20230228T140000,NVDA,Applied Materials stock rises on new chip-making system that helps lower costs,MarketWatch,0.364756,Bullish,0.338151,0.632798
+20230228T143856,NVDA,BBLU Top Holdings List & Exposure (EA Bridgeway Blue Chip ETF),MarketBeat,0.040959,Neutral,0.043447,0.890918
+20230228T143952,NVDA,DGRW Top Holdings List & Exposure (WisdomTree U.S. Quality Dividend Growth Fund),MarketBeat,0.241598,Somewhat-Bullish,0.241607,0.928629
+20230228T171004,NVDA,SPXE Top Holdings List & Exposure (ProShares S&P 500 Ex-Energy ETF),MarketBeat,0.379392,Bullish,0.726978,0.804342
+20230228T171015,NVDA,SEIM Top Holdings List & Exposure (SEI Enhanced U.S. Large Cap Momentum Factor ETF),MarketBeat,0.094656,Neutral,0.334583,0.825329
+20230228T173957,NVDA,FTEC Top Holdings List & Exposure (Fidelity MSCI Information Technology Index ETF),MarketBeat,-0.125891,Neutral,-0.115067,0.849438
+20230228T191233,NVDA,XLG Top Holdings List & Exposure (Invesco S&P 500 Top 50 ETF),MarketBeat,0.146852,Neutral,0.230688,0.915535
+20230228T194004,NVDA,SPGP Top Holdings List & Exposure (Invesco S&P 500 GARP ETF),MarketBeat,0.119095,Neutral,0.127034,0.718713
+20230228T221304,NVDA,IQM Top Holdings List & Exposure (Franklin Intelligent Machines ETF),MarketBeat,0.112847,Neutral,0.141773,0.843263
+20230228T233935,NVDA,METV Top Holdings List & Exposure (Roundhill Ball Metaverse ETF),MarketBeat,0.134652,Neutral,0.105255,0.816343
+20230228T235136,NVDA,JGRO Top Holdings List & Exposure (JPMorgan Active Growth ETF),MarketBeat,0.144464,Neutral,0.128023,0.838755

@@ -1,0 +1,32 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20230402T000000,TSLA,Automotive News Top 150 Dealership Groups (2023),Automotive News,0.097434,Neutral,0.128671,0.640232
+20230403T000000,TSLA,Best-Performing Stocks of Q1 2023,Morningstar,0.552471,Bullish,0.544185,0.728403
+20230403T052900,TSLA,Tesla posts record quarterly deliveries after price cuts,Automotive News,0.490391,Bullish,0.484752,1.000000
+20230404T201020,TSLA,"ARK Autonomous Technology & Robotics ETF (ARKQ) Stock Price, Holdings, Dividend Yield",GuruFocus,0.178252,Somewhat-Bullish,0.190512,0.931374
+20230405T012813,TSLA,2023 Hyundai Ioniq 6 Garners 3 World Car Awards,Cars.com,0.16928,Somewhat-Bullish,0.101852,0.605150
+20230405T020500,TSLA,"Stellantis unveils Ram EV pickup, to debut late in 2024, at New York auto show",Reuters,0.179164,Somewhat-Bullish,0.140542,0.630443
+20230405T042349,TSLA,Elon Musk Makes Plea to Mine More Nickel,ETF Trends,0.30416,Somewhat-Bullish,0.339002,0.880228
+20230405T123000,TSLA,YieldMax Announces Monthly Distributions on TSLY and OARK ETFs,Yahoo Finance,0.152899,Somewhat-Bullish,0.289224,0.637695
+20230405T130855,TSLA,"ARK Next Generation Internet ETF (ARKW) Stock Price, Holdings, Dividend Yield",GuruFocus,0.047796,Neutral,0.131126,0.748339
+20230405T212830,TSLA,Elon Musk Makes Case to Mine More Nickel,ETF Database,0.334253,Somewhat-Bullish,0.315561,0.897765
+20230409T015335,TSLA,"Niu MQi+ Sport - Cycling News | electric bike reviews, buying advice and news - ebiketips",Road.cc,0.276212,Somewhat-Bullish,0.116575,0.583791
+20230409T020437,TSLA,TMW: the integral and beyond,The Worldfolio,0.235064,Somewhat-Bullish,0.343475,0.615974
+20230412T080500,TSLA,"American Airlines, Bed Bath & Beyond, Tesla and other stocks on the move",MarketWatch,-0.276842,Somewhat-Bearish,0.025478,0.812773
+20230413T072758,TSLA,Bloomberg plans to integrate GPT-style A.I. into its terminal,CNBC,0.213583,Somewhat-Bullish,0.106247,0.570606
+20230413T142700,TSLA,BHP wins over shareholders of Australia's Oz Minerals in $6.4 billion deal,Reuters,0.294573,Somewhat-Bullish,0.120097,0.635364
+20230414T020042,TSLA,Lifecycle Cost: BEV vs. ICEV — Pickup Truck Edition,CleanTechnica,0.175318,Somewhat-Bullish,0.132737,0.643354
+20230414T181500,TSLA,Hesai unveils ultra-thin LiDAR ET25 that can be placed behind windshield,CnEVPost,0.147877,Neutral,0.037726,0.631335
+20230415T015230,TSLA,Isida Tushe Joins Microvast as General Counsel,Energetica India Magazine,0.280122,Somewhat-Bullish,0.112735,0.643644
+20230416T133948,TSLA,"Tradr 2X Short TSLA Daily ETF (TSLQ) News, Articles, Events & Latest Updates",Stocktwits,-0.095888,Neutral,0.060840,0.856927
+20230417T100000,TSLA,"Rich matches boost employees' savings, support recruiting",Pensions & Investments,0.107052,Neutral,-0.111675,0.608683
+20230418T190800,TSLA,China’s Xpeng takes cues from Tesla for its new EV platform,Reuters,0.264736,Somewhat-Bullish,0.209962,0.948988
+20230419T014259,TSLA,"Hertz and Mayor Dickens Launch ""Hertz Electrifies Atlanta""",Hertz Newsroom,0.417417,Bullish,0.306767,0.647838
+20230420T162300,TSLA,"Chevron, Exxon pursue cleaner gasoline as alternative to EVs",Reuters,0.147883,Neutral,-0.147860,0.633753
+20230420T214800,TSLA,Musk counts on full self-driving as next Tesla profit driver,Reuters,0.01544,Neutral,-0.207372,1.000000
+20230423T014836,TSLA,Chinese EV dominance hastens end of gasoline engine era,Taipei Times,0.191371,Somewhat-Bullish,0.315599,0.892016
+20230425T182900,TSLA,Tesla drops starting price of Model Y below the cost of the average U.S. vehicle,CBS News,-0.298974,Somewhat-Bearish,-0.256227,1.000000
+20230426T003829,TSLA,"Direxion Daily TSLA Bull 2X Shares (TSLL) News, Articles, Events & Latest Updates",Stocktwits,0.075405,Neutral,0.026324,0.923077
+20230426T145300,TSLA,"Tesla broke U.S. labor law by silencing workers, official rules",Reuters,-0.419365,Bearish,-0.439001,1.000000
+20230427T015200,TSLA,Elon Musk Threatens to Sue Microsoft Over Alleged Illegal Data Usage,Vision Times,-0.077426,Neutral,-0.120745,0.895775
+20230427T022556,TSLA,Constellium to provide closed-loop recycling for the all-new Megane E-TECH Electric,GlobeNewswire,0.331305,Somewhat-Bullish,0.226149,0.628043
+20230427T105100,TSLA,Here’s an Early Glimpse of the Lucid Gravity SUV,Autoweek,0.064862,Neutral,0.010576,0.619037

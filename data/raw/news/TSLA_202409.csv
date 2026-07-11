@@ -1,0 +1,30 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20240902T133200,TSLA,Tesla's China-made EV sales in August up 3% yr/yr,Reuters,0.124795,Neutral,0.323887,1.000000
+20240903T050919,TSLA,What's Going On With NIO Stock Today?,TradingView — Track All Markets,0.106969,Neutral,0.147492,0.639212
+20240903T091500,TSLA,"Lucid Is in Trouble, Here’s Why",24/7 Wall St.,-0.362456,Bearish,-0.120506,0.702145
+20240903T102755,TSLA,EV firm Polestar taps former Stellantis finance executive as CFO,Reuters,0.148703,Neutral,0.047336,0.610075
+20240904T050000,TSLA,Why First Solar Stock Gained 30% This Year,Forbes,0.153563,Somewhat-Bullish,0.028121,0.632190
+20240904T101028,TSLA,"GraniteShares 2x Short COIN Daily ETF (CONI) stock price, news, quote and history",Yahoo Finance Singapore,-0.342913,Somewhat-Bearish,-0.343012,0.643208
+20240905T000000,TSLA,Rob Arnott Is Launching an ETF Made Up of Stock-Index Rejects,WealthManagement.com,0.075231,Neutral,-0.098962,0.608898
+20240905T233846,TSLA,Liberty Global plc Class C (LBTYK) Stock Price Quote Today & Current Price Chart,Capital.com,0.032772,Neutral,0.046552,0.582647
+20240906T000000,TSLA,"Making sense of the markets this week: September 8, 2024",MoneySense,-0.196474,Somewhat-Bearish,-0.160475,0.631310
+20240909T000000,TSLA,Rob Arnott builds a Lazarus small cap ETF,ETF Stream,0.290409,Somewhat-Bullish,0.331082,0.714105
+20240909T100100,TSLA,"Natalie Walker, partner, StepStone Group",Pensions & Investments,0.094077,Neutral,-0.327080,0.649292
+20240911T000000,TSLA,The 2024 Proxy Season: Which ESG Proposals Made the Podium?,Morningstar,0.101302,Neutral,0.112780,0.860001
+20240911T200400,TSLA,How to Invest in ARK Autonomous Technology & Robotics ETF (ARKQ),The Motley Fool,0.251233,Somewhat-Bullish,0.327628,0.621981
+20240911T200400,TSLA,"Algorhythm holdings insider sells over $23,000 in company stock",Investing.com,-0.141177,Neutral,0.142500,0.634257
+20240912T000000,TSLA,"GM, Hyundai plan global alliance on EVs, clean-energy tech",WardsAuto,0.32085,Somewhat-Bullish,0.335171,0.617157
+20240916T000000,TSLA,ARK Loves This Drone Stock. Is It a Buy?,Nanalyze,0.008361,Neutral,0.249664,0.602788
+20240917T085700,TSLA,GM collaborates with Hyundai on sourcing and production,Automotive Logistics,0.279186,Somewhat-Bullish,0.206346,0.631096
+20240917T095341,TSLA,2024 Hyundai IONIQ 5: Where Efficiency Meets Fun | News,Cars.com,0.245152,Somewhat-Bullish,0.106565,0.633490
+20240918T060000,TSLA,"Gauzy: The Israeli Innovator Optimising Safety, Efficiency For OEMs",Mobility Outlook,0.368171,Bullish,0.144335,0.620092
+20240921T000000,TSLA,Ford Motor Co’s Knickers In A Twist About Accurate Characterization Of EV Failures,Medium,-0.064539,Neutral,0.327662,0.738604
+20240924T000000,TSLA,STMicroelectronics unveils new generation of silicon carbide power technology tailored for next-generation EV traction inverters,STMicroelectronics,0.471537,Bullish,0.343131,0.649601
+20240925T102200,TSLA,NIO Power Revolutionizes EV Mobility and Energy Storage in Europe,NIO - Home,0.594327,Bullish,0.503771,0.643956
+20240926T083900,TSLA,Two major catalysts coming in October! Goldman Sachs recommends buying call options on Tesla.,富途牛牛,0.130142,Neutral,0.498058,1.000000
+20240927T103800,TSLA,Personal Auto Insurance Could Be Obsolete in 20 Years: Morningstar,Carrier Management,0.038589,Neutral,0.138316,0.639254
+20240927T103804,TSLA,Sony Honda Mobility Adopts North American Charging Standard (NACS) for AFEELA EVs in the U.S. and Japan,Sony Honda Mobility Afeela,0.415211,Bullish,0.442543,1.000000
+20240927T103805,TSLA,Elon Musk is looking into Tesla’s German workers calling in sick,The Detroit News,-0.54531,Bearish,-0.529501,1.000000
+20240927T113300,TSLA,"Toyota Production Falls on Car Safety Scandals, US Recalls",Transport Topics,-0.101483,Neutral,-0.125829,0.627946
+20240927T223800,TSLA,"tesla Q3 sales figures will be released on Wednesday! The stock price has rebounded by nearly 40% from its recent low, exceeding the most optimistic expectations of major banks by more than 20%.",富途牛牛,0.367558,Bullish,0.493639,1.000000
+20240928T181800,TSLA,Is Polestar Automotive Stock a Buy?,The Motley Fool,-0.437745,Bearish,-0.147849,0.616035

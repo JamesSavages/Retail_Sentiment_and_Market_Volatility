@@ -1,0 +1,44 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20231002T030926,TSLA,Q4 Stock Predictions: 3 Flying Car Stocks Ready to Roar Into 2024,InvestorPlace,0.236852,Somewhat-Bullish,0.110247,0.644879
+20231002T114100,TSLA,Chinese demand outlook pressures lithium prices to 2-year lows,South China Morning Post,-0.222192,Somewhat-Bearish,-0.228233,0.629705
+20231002T140928,TSLA,Tesla's Stock Drops After Deliveries Data Missed Lowered Expectations,Moomoo,-0.22931,Somewhat-Bearish,-0.417760,1.000000
+20231003T065500,TSLA,Tesla reintroduces rear-wheel drive Model Y at lower price,Automotive News,0.336902,Somewhat-Bullish,0.340025,1.000000
+20231003T205513,TSLA,China’s latest rare earths quota could sustain weak prices,Benchmark Mineral Intelligence,-0.105617,Neutral,-0.141921,0.621768
+20231004T101236,TSLA,New Lithium Stock Trades Today. It's Another Way to Play the EV Trend.,Barron's,0.241852,Somewhat-Bullish,0.305294,0.600073
+20231006T130000,TSLA,Bitwise CIO expects U.S. spot bitcoin ETFs to see $55 billion of inflows in first 5 years,Pensions & Investments,0.169078,Somewhat-Bullish,-0.323068,0.636051
+20231010T000000,TSLA,"Top Performing ETFs: Gold, Income ETFs Top the Charts",ETF Trends,0.362729,Bullish,0.268821,0.608792
+20231010T020400,TSLA,Chinese EV startup WM Motor files for bankruptcy,The Business Times,-0.193711,Somewhat-Bearish,-0.123431,0.625264
+20231011T050900,TSLA,"Tesla rejects union claims, reports of health and safety issues at German plant",Automotive News,-0.37242,Bearish,-0.398535,1.000000
+20231011T185000,TSLA,Tesla Taps European Stainless Steel Producer for Long-Awaited Cybertruck,Bloomberg.com,0.161573,Somewhat-Bullish,0.187623,1.000000
+20231011T211051,TSLA,"Fermata Energy's FE-20 Bidirectional EV Charger and V2G Software Platform Achieves UL 9741 and UL 1741 SA Certifications, Signaling Shift in EV Charging Landscape",Business Wire,0.210829,Somewhat-Bullish,0.250995,0.648778
+20231012T210750,TSLA,Tesla picks Europe’s largest stainless steel producer for Cybertruck production: Report,Drive Tesla Canada,0.108991,Neutral,0.432148,1.000000
+20231013T092600,TSLA,Man faces four years behind bars after tricking Tesla into handing him five cars he never paid for,Fortune,-0.298557,Somewhat-Bearish,-0.268417,1.000000
+20231016T101300,TSLA,"Tesla earnings: investors watching margins, deliveries, self-driving",Reuters,-0.237772,Somewhat-Bearish,-0.207571,1.000000
+20231018T120700,TSLA,Tesla CEO Elon Musk sounds pessimistic note about economy on earnings call,CNBC,-0.417166,Bearish,-0.409331,1.000000
+20231018T203300,TSLA,"Tesla in no rush to build Mexico plant, focuses on difficult Cybertruck ramp, Musk says",Automotive News,-0.21084,Somewhat-Bearish,-0.211279,1.000000
+20231018T211011,TSLA,Expectations For Tesla [TSLA] Have Just Gotten Too Ridiculous,CleanTechnica,-0.407597,Bearish,-0.429856,1.000000
+20231019T054048,TSLA,REX Shares Partners with Tuttle Capital Management to Launch T-REX Single-Stock ETFs,Business Wire,0.163794,Somewhat-Bullish,0.336838,0.807813
+20231019T080000,TSLA,BPAS - REX Shares Partners with Tuttle Capital Management to Launch T-REX Single-Stock ETFs,FinancialContent,0.223457,Somewhat-Bullish,0.236196,0.683879
+20231019T095136,TSLA,"TSLZ Stock Price, News & Analysis",Stock Titan,-0.236618,Somewhat-Bearish,-0.213839,0.726940
+20231019T204723,TSLA,Chinese Tesla Suppliers to Invest Almost USD1 Billion in Mexico,Yicai Global,-0.177403,Somewhat-Bearish,0.135558,0.904675
+20231020T000000,TSLA,German government proposes legislation to make fast chargers mandatory at gas stations – ADS-TEC Energy battery buffered ultra-fast charging systems are the ideal solution,Batteries News,0.351558,Bullish,0.219578,0.642174
+20231020T092826,TSLA,"T-REX 2X Long Tesla Daily Target ETF (TSLT) Stock Price, Quote, News & History",Benzinga,0.044954,Neutral,0.011876,0.803289
+20231020T113400,TSLA,Cathie Wood explains how the artificial intelligence boom could propel Ark's Innovation ETF,CNBC,0.092843,Neutral,0.315702,0.710979
+20231020T220841,TSLA,Check out T-Rex 2X Inverse Tesla Daily Target ETF's stock price (TSLZ) in real time,CNBC,-0.080683,Neutral,-0.124495,0.628823
+20231023T090000,TSLA,Investors look beyond largest emerging markets ETFs,Pensions & Investments,-0.073759,Neutral,-0.161034,0.647740
+20231023T090000,TSLA,The P&I/Thinking Ahead Institute World 500: Largest asset managers,Pensions & Investments,-0.206538,Somewhat-Bearish,-0.389638,0.619607
+20231024T062600,TSLA,"It's Not Just Lithium: Tesla, Rivian, And The Green Revolution Rely On These Precious Metals",Nasdaq,0.212858,Somewhat-Bullish,0.302573,0.921802
+20231024T064049,TSLA,Top Performing Leveraged/Inverse ETFs: 10/22/2023,ETF Database,-0.160166,Somewhat-Bearish,-0.636752,0.855778
+20231025T202745,TSLA,Honda halts $5 billion project with GM to develop smaller EVs,CBT News,-0.053314,Neutral,0.111395,0.749484
+20231026T065300,TSLA,Tesla's Cybertruck promises to test America's great political divide,Automotive News,0.002276,Neutral,0.010989,1.000000
+20231026T131500,TSLA,Tesla gets $100 mln US ultra-fast charger order from BP EV charging unit,Reuters,0.470832,Bullish,0.498961,1.000000
+20231026T204702,TSLA,"Honda, GM scrap $5B plan to jointly build affordable EVs",WardsAuto,-0.193083,Somewhat-Bearish,-0.110378,0.622508
+20231026T210108,TSLA,China self-driving start-up Pony.ai gets US$100 million investment from Neom,South China Morning Post,0.511099,Bullish,0.237496,0.637621
+20231026T210825,TSLA,bp Orders $100 Million Worth of EV Chargers From Tesla,CSP Daily News,0.186829,Somewhat-Bullish,0.334822,0.929848
+20231026T210825,TSLA,bp boosts EV charging network with $100 million order of Tesla ultra-fast chargers | News and insights | Home,BP Global,0.257966,Somewhat-Bullish,0.489035,0.975191
+20231027T022200,TSLA,"Tesla Reverses China Price Cut, Adding $2,000 to Model Y Variant",Bloomberg.com,0.254083,Somewhat-Bullish,0.261313,1.000000
+20231027T040919,TSLA,"Kurv Yield Premium Strategy Tesla (TSLA) ETF ETF Price, Holdings, & News (BATS:TSLP)",MarketBeat,0.036927,Neutral,0.015888,0.884170
+20231027T210825,TSLA,BP buys $100M worth of Tesla chargers,C-Store Dive,0.15146,Somewhat-Bullish,0.311406,0.980339
+20231029T134033,TSLA,TSLY Dividend Yield Insights,YCharts,0.043554,Neutral,0.049732,0.635964
+20231029T232000,TSLA,"VinFast Auto, rival to Elon Musk's Tesla, starts shopping for land in India for EV plant; sees ""tremendous potential""",Times of India,0.303514,Somewhat-Bullish,0.290042,0.890937
+20231031T105149,TSLA,"NWTN Stock Price, Forecast & Analysis | NWTN INC - CLASS B (NASDAQ:NWTN)",ChartMill,0.007032,Neutral,0.024531,0.646690

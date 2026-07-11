@@ -1,0 +1,57 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20230503T143016,NVDA,"Msci Kld 400 Social Index: Meaning, Example, FAQs",Investopedia,0.320632,Somewhat-Bullish,0.352192,0.625059
+20230503T154700,NVDA,Super Micro stock surged more than 30% after it offered a bullish forecast based on AI demand,The Business Journals,0.538422,Bullish,0.317132,0.634341
+20230504T010236,NVDA,Meet the Maker: Software Developer Builds Fully Functional Superhero Helmet,NVIDIA Blog,0.497775,Bullish,0.452444,1.000000
+20230505T003232,NVDA,AMD to Make 'New' 2019-Era 3000G APUs to Sell Old Motherboards,Tom's Hardware,0.038095,Neutral,0.137346,0.633949
+20230506T150902,NVDA,"Tradr 1.5X Short NVDA Daily ETF (NVDS) stock price, news, quote and history",Yahoo Finance Singapore,-0.131403,Neutral,-0.203394,0.819661
+20230507T230931,NVDA,NVDL Price History for GraniteShares 2X Long NVDA Daily ETF,Barchart,0.035143,Neutral,0.017788,0.882529
+20230508T000000,NVDA,Growing chip supply helps Baxter slash backlog,Supply Chain Dive,0.174,Somewhat-Bullish,0.114793,0.612318
+20230508T010710,NVDA,Notable Wins,IO Fund,0.710008,Bullish,0.848677,0.902567
+20230511T083000,NVDA,"YieldMax™ Launches NVDY, the YieldMax™ NVDA Option Income Strategy ETF",GlobeNewswire,0.395234,Bullish,0.433388,0.865640
+20230511T134011,NVDA,"Galata Acquisition Corp. (GLTA) Stock Live Price, Chart & News",CoinCodex,-0.184046,Somewhat-Bearish,-0.232373,0.613163
+20230512T073000,NVDA,Here's how AI is driving the rise of GPU cloud specialists,Fierce Network,0.314204,Somewhat-Bullish,0.304435,0.824299
+20230512T160932,NVDA,"Nuveen California Municipal Value Fund (NCA) Stock Live Price, Chart & News",CoinCodex,0.15275,Somewhat-Bullish,0.315721,0.622752
+20230513T111013,NVDA,"ProFrac Holding Corp. (ACDC) Stock Live Price, Chart & News",CoinCodex,-0.031846,Neutral,-0.047487,0.607562
+20230516T000000,NVDA,Best AI ETFs,Dr Wealth,0.218426,Somewhat-Bullish,0.392555,0.628242
+20230517T151519,NVDA,ServiceNow and NVIDIA Announce Partnership to Build Generative AI Across Enterprise IT,NVIDIA Newsroom,0.425758,Bullish,0.449761,0.938898
+20230518T000000,NVDA,Roundhill Launches Generative AI & Technology ETF With CHAT,ETF Trends,0.295494,Somewhat-Bullish,0.303400,0.866071
+20230518T000000,NVDA,Implications and Updates From China’s National People’s Conference,Global X ETFs,0.320121,Somewhat-Bullish,0.305435,0.608974
+20230518T082500,NVDA,Roundhill Investments Launches Generative AI & Technology ETF (NYSE Arca: CHAT),Stock Titan,0.378452,Bullish,0.409442,0.893296
+20230518T170919,NVDA,CHAT ETF: 10 Things to Know as the New AI Stocks Fund Starts Trading,InvestorPlace,0.355911,Bullish,0.306715,0.723692
+20230521T010236,NVDA,"NVIDIA, Rolls-Royce and Classiq Announce Quantum Computing Breakthrough for Computational Fluid Dynamics in Jet Engines",NVIDIA Newsroom,0.011227,Neutral,0.034504,0.334017
+20230521T154058,NVDA,Supermicro Launches Industry's First NVIDIA HGX H100 8 and 4-GPU H100 Servers with Liquid Cooling -- Reduces Data Center Power Costs by Up to 40%,Supermicro,0.31941,Somewhat-Bullish,0.334585,0.866247
+20230522T000000,NVDA,Applied Materials plans $4B Silicon Valley R&D facility,Manufacturing Dive,0.354953,Bullish,0.314792,0.611441
+20230522T011110,NVDA,Supermicro Launches Industry's First NVIDIA HGX H100 8 and 4-GPU H100 Servers with Liquid Cooling -- Reduces Data Center Power Costs by Up to 40%,PR Newswire,0.593353,Bullish,0.725462,0.840462
+20230523T000000,NVDA,Applied Materials plans to build US$4bn R&D center,Taipei Times,0.240343,Somewhat-Bullish,0.185386,0.615431
+20230523T003115,NVDA,Adobe introduces ‘generative fill’ to Photoshop with its Firefly AI tool,SiliconANGLE,0.432416,Bullish,0.340286,0.647467
+20230523T010236,NVDA,"Dell Technologies and NVIDIA Introduce Project Helix for Secure, On-Premises Generative AI",NVIDIA Newsroom,0.431351,Bullish,0.485132,1.000000
+20230523T013933,NVDA,"Tradr 1.5X Short NVDA Daily ETF ETF Price, Holdings, & News (NASDAQ:NVDS)",MarketBeat,-0.146655,Neutral,-0.245579,0.816330
+20230523T013933,NVDA,Tradr 1.5X Short NVDA Daily ETF (NVDS) Options Chain & Prices 2026,MarketBeat,0.031548,Neutral,0.001030,0.616031
+20230523T040218,NVDA,"Fidelity Metaverse ETF ETF Price, Holdings, & News (NASDAQ:FMET)",MarketBeat,0.327736,Somewhat-Bullish,0.318283,0.634794
+20230523T070851,NVDA,FTQI Top Holdings List & Exposure (First Trust NASDAQ BuyWrite Income ETF),MarketBeat,0.122826,Neutral,0.148091,0.888242
+20230523T075221,NVDA,"Invesco PHLX Semiconductor ETF ETF Price, Holdings, & News (NASDAQ:SOXQ)",MarketBeat,0.340352,Somewhat-Bullish,0.355139,0.899617
+20230523T075237,NVDA,SOXQ Top Holdings List & Exposure (Invesco PHLX Semiconductor ETF),MarketBeat,0.100479,Neutral,0.139856,0.907853
+20230523T083921,NVDA,"NYLI U.S. Large Cap R&D Leaders ETF ETF Price, Holdings, & News (NASDAQ:LRND)",MarketBeat,0.28261,Somewhat-Bullish,0.314733,0.827739
+20230523T145224,NVDA,"GraniteShares 2x Long COIN Daily ETF ETF Price, Holdings, & News (NASDAQ:CONL)",MarketBeat,-0.015732,Neutral,0.117003,0.611164
+20230523T151056,NVDA,NVIDIA Collaborates With Microsoft to Accelerate Enterprise-Ready Generative AI,NVIDIA Newsroom,0.455467,Bullish,0.471869,1.000000
+20230523T193945,NVDA,TUG Top Holdings List & Exposure (STF Tactical Growth ETF),MarketBeat,0.131141,Neutral,0.124532,0.924661
+20230523T195204,NVDA,"Burney U.S. Factor Rotation ETF ETF Price, Holdings, & News (NASDAQ:BRNY) $BRNY",MarketBeat,0.230679,Somewhat-Bullish,0.250002,0.696675
+20230523T233934,NVDA,"Tradr 2X Long Innovation ETF ETF Price, Holdings, & News (NASDAQ:TARK)",MarketBeat,0.117903,Neutral,0.260838,0.631534
+20230524T010107,NVDA,Intel's Arc A750 graphics card is only $200 at Newegg,Eurogamer,0.219647,Somewhat-Bullish,0.128431,0.607270
+20230524T082300,NVDA,'Extremely regrettable': SoftBank hits back after S&P cuts credit rating further into junk,CNBC,0.1027,Neutral,0.102501,0.624304
+20230524T133000,NVDA,How to Invest in Gaming,Investing News Network,0.218945,Somewhat-Bullish,0.437807,0.812189
+20230524T171013,NVDA,"Spear Alpha ETF ETF Price, Holdings, & News (NASDAQ:SPRX)",MarketBeat,0.318591,Somewhat-Bullish,0.323939,0.614193
+20230525T010236,NVDA,Nvidia stock price is surging thanks to ChatGPT and an expected boom in generative AI,Fast Company,0.421123,Bullish,0.475278,1.000000
+20230525T040800,NVDA,"BlackRock’s $9 Billion Quant ETF Set to Lean in on Nvidia, Tech",Bloomberg.com,0.223762,Somewhat-Bullish,0.448838,0.884868
+20230525T121700,NVDA,Stock of the week - Micron Technology (25.05.2023),XTB.com,0.146992,Neutral,0.339052,0.616972
+20230525T152800,NVDA,Why Intel’s stock is falling as Nvidia leads the rest of the semiconductor sector on a massive surge,MarketWatch,0.09094,Neutral,0.714550,0.940493
+20230526T003845,NVDA,Cadence Cerebrus garners Singapore Business Review's tech award for AI-semiconductor services,Singapore Business Review,0.380435,Bullish,0.298397,0.633633
+20230528T003845,NVDA,Cadence Stock vs Synopsys Stock: The Winner Is?,Nanalyze,0.030568,Neutral,0.316429,0.632895
+20230528T010236,NVDA,NVIDIA Grace Hopper Superchips Designed for Accelerated Generative AI Enter Full Production,Nvidia investor,0.29054,Somewhat-Bullish,0.457897,1.000000
+20230528T010236,NVDA,NVIDIA Announces DGX GH200 AI Supercomputer,NVIDIA Newsroom,0.405184,Bullish,0.844851,1.000000
+20230530T011021,NVDA,"Serve Robotics to deploy up to 2,000 delivery robots with Uber",The Robot Report,0.311601,Somewhat-Bullish,0.367641,0.614162
+20230530T011849,NVDA,WPP shakes up creative process with AI-powered content engine,Marketing Dive,0.253939,Somewhat-Bullish,0.506346,0.963212
+20230530T235746,NVDA,"For the First Time Ever, Single-Stock ETFs Will Close Soon",ETF Database,-0.268458,Somewhat-Bearish,-0.228390,0.710713
+20230531T000000,NVDA,"CoreWeave Secures $200 Million Series B Extension, Bringing Total Round to $421 Million",Business Wire,0.175926,Somewhat-Bullish,0.300144,0.642879
+20230531T124500,NVDA,"A.I. ETF Sold Out Of Monster Energy, Three Ways To Look At It",FinancialContent,0.206493,Somewhat-Bullish,0.314663,0.732702
+20230531T204800,NVDA,"Opinion: Nvidia created an AI bubble, and software stocks are already paying the price",MarketWatch,-0.361914,Bearish,-0.418420,1.000000

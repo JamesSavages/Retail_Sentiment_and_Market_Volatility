@@ -1,0 +1,79 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20230601T000000,NVDA,Chart of the Week: How To Benefit From AI on Advisors' Minds,ETF Trends,0.220688,Somewhat-Bullish,0.335714,0.647434
+20230601T195953,NVDA,High Beta ETF 'SPHB' Lifted by Heavy Tech Sector Tilt,ETF Database,0.345815,Somewhat-Bullish,0.302551,0.616308
+20230601T201900,NVDA,"Cramer's Lightning Round: Gold is great, stick with Franco-Nevada",CNBC,0.071705,Neutral,-0.119682,0.642231
+20230602T234433,NVDA,Broadcom Stock Pulls into the Buy Zone: Analysts Raise Targets,MarketBeat,0.210361,Somewhat-Bullish,0.255586,0.728610
+20230605T000000,NVDA,Microsoft Inks Deal With NVIDIA-Backed CoreWeave,Spiceworks,0.341211,Somewhat-Bullish,0.699740,0.865434
+20230605T184038,NVDA,WTAI Stock Price | WisdomTree Artificial Intelligence and Innovation ETF,Investing.com,-0.178242,Somewhat-Bearish,-0.247553,0.648174
+20230606T000000,NVDA,Cathie Wood Dodged Nvidia Stock Before Its Enormous Surge: Is This a Warning for Investors?,The Globe and Mail,-0.074265,Neutral,0.115140,0.973563
+20230606T000039,NVDA,Intel Reveals Fastest Arc Pro Workstation GPUs Yet,CRN,0.022109,Neutral,-0.203675,0.948875
+20230607T140400,NVDA,Applied Materials Announces $4 Billion Investment In EPIC Center For R&D Collaboration,Forbes,0.391375,Bullish,0.324575,0.617379
+20230608T151114,NVDA,$9B Momentum ETF Is Unrecognizable After Makeover,ETF.com,0.287581,Somewhat-Bullish,0.317369,0.620954
+20230608T153300,NVDA,Nvidia and Oracle back $270M funding round for generative AI startup Cohere,SiliconANGLE,0.306288,Somewhat-Bullish,0.320074,0.878710
+20230608T154631,NVDA,Big Tech Is Outpacing Small-Caps Amid Market Rally,ETF Trends,0.44476,Bullish,0.442282,0.718716
+20230612T000000,NVDA,A breakdown of AI ETFs as tech names burn bright,ETF Stream,0.235661,Somewhat-Bullish,0.301779,0.960067
+20230613T062850,NVDA,What will a Vodafone/Three merger mean for 5G in the UK?,CMC Markets,0.267738,Somewhat-Bullish,0.218985,0.611237
+20230613T133000,NVDA,"AMD launches new data-center AI chips, software to go up against Nvidia and Intel",MarketWatch,0.036243,Neutral,0.137274,0.827887
+20230613T141015,NVDA,ETFs Head-to-Head: BetaShares RBTZ' vs Global X ROBO',Selfwealth,0.245972,Somewhat-Bullish,0.288587,0.647331
+20230613T152035,NVDA,Oracle founder Larry Ellison confirms new gen AI service with Cohere during earnings call,VentureBeat,0.221818,Somewhat-Bullish,0.320956,0.705336
+20230613T214600,NVDA,AMD launches new Instinct MI300X AI chip to take on Nvidia’s GPUs,SiliconANGLE,-0.030799,Neutral,0.331666,0.944070
+20230613T232700,NVDA,AMD's AI chip challenge to Nvidia remains uphill fight with no big customers named,Reuters,0.113281,Neutral,0.440433,0.913829
+20230614T060913,NVDA,"Fidelity Disruptive Technology ETF ETF Price, Holdings, & News (NASDAQ:FDTX)",MarketBeat,0.262335,Somewhat-Bullish,0.334637,0.891243
+20230614T081400,NVDA,"AMD is chasing down Nvidia in AI, but one analyst worries the company is ‘somewhat late’",MarketWatch,-0.088843,Neutral,0.092161,0.867623
+20230614T140938,NVDA,Fidelity Disruptive Communications ETF,ETF Database,0.109231,Neutral,0.113936,0.722949
+20230614T145800,NVDA,The A.I. Race Is Now Between Two Chip Giants Led by Taiwanese American CEOs,Observer,0.36047,Bullish,0.447259,0.975085
+20230614T175400,NVDA,"""나스닥 떨어질 것""…서학개미 인버스 뭉칫돈",한국경제,0.248224,Somewhat-Bullish,0.311058,0.646621
+20230615T040218,NVDA,Fidelity Metaverse ETF Review and Aggregate Rating (FMET),MarketBeat,0.215609,Somewhat-Bullish,0.313428,0.611877
+20230615T050952,NVDA,Pacer Trendpilot 100 ETF Review and Aggregate Rating (PTNQ),MarketBeat,0.446276,Bullish,0.464512,0.880581
+20230615T055123,NVDA,Invesco Semiconductors ETF Review and Aggregate Rating (PSI) $PSI,MarketBeat,0.107663,Neutral,0.319402,0.813899
+20230615T061019,NVDA,WisdomTree U.S. Value Fund Review and Aggregate Rating (WTV) $WTV,MarketBeat,0.231884,Somewhat-Bullish,0.320806,0.878742
+20230615T061028,NVDA,ProShares Ultra Technology Review and Aggregate Rating (ROM),MarketBeat,0.251436,Somewhat-Bullish,0.208437,0.701765
+20230615T065221,NVDA,iShares MSCI Global Sustainable Development Goals ETF Review and Aggregate Rating (SDG),MarketBeat,0.349668,Somewhat-Bullish,0.433937,0.813133
+20230615T100926,NVDA,Invesco S&P 500 GARP ETF Review and Aggregate Rating (SPGP),MarketBeat,0.387803,Bullish,0.386502,0.710893
+20230615T133925,NVDA,JPMorgan Active Growth ETF Review and Aggregate Rating (JGRO) $JGRO,MarketBeat,0.375269,Bullish,0.370430,0.621856
+20230615T141016,NVDA,NYLI U.S. Large Cap R&D Leaders ETF Review and Aggregate Rating (LRND),MarketBeat,0.336899,Somewhat-Bullish,0.326757,0.635929
+20230615T165257,NVDA,Democratic Large Cap Core ETF Review and Aggregate Rating (DEMZ),MarketBeat,0.217919,Somewhat-Bullish,0.246059,0.817825
+20230616T015224,NVDA,Roundhill Ball Metaverse ETF Review and Aggregate Rating (METV),MarketBeat,0.283727,Somewhat-Bullish,0.268359,0.734084
+20230616T020920,NVDA,iShares U.S. Tech Independence Focused ETF Review and Aggregate Rating (IETC),MarketBeat,0.329259,Somewhat-Bullish,0.350828,0.605754
+20230616T035242,NVDA,FlexShares Quality Dividend Index Fund Review and Aggregate Rating (QDF) $QDF,MarketBeat,0.308861,Somewhat-Bullish,0.330461,0.641712
+20230616T051035,NVDA,Global X S&P 500 Tail Risk ETF Review and Aggregate Rating (XTR) $XTR,MarketBeat,0.298038,Somewhat-Bullish,0.323481,0.606076
+20230616T060913,NVDA,Fidelity Disruptive Technology ETF Review and Aggregate Rating (FDTX),MarketBeat,0.217973,Somewhat-Bullish,0.337326,0.742459
+20230616T071156,NVDA,Direxion Daily NYSE FANG+ Bull 2X Shares Review and Aggregate Rating (FNGG),MarketBeat,0.305029,Somewhat-Bullish,0.315085,0.735258
+20230616T090939,NVDA,Invesco Dorsey Wright Technology Momentum ETF Review and Aggregate Rating (PTF) $PTF,MarketBeat,0.097825,Neutral,0.009101,0.661463
+20230616T091049,NVDA,Dimensional US Core Equity Market ETF Review and Aggregate Rating (DFAU),MarketBeat,0.282933,Somewhat-Bullish,0.348754,0.728611
+20230616T093950,NVDA,Spear Alpha ETF Review and Aggregate Rating (SPRX),MarketBeat,0.335042,Somewhat-Bullish,0.334873,0.837857
+20230616T095218,NVDA,STF Tactical Growth ETF Review and Aggregate Rating (TUG) $TUG,MarketBeat,0.272715,Somewhat-Bullish,0.318955,0.630103
+20230616T100930,NVDA,Fidelity U.S. Multifactor ETF Review and Aggregate Rating (FLRG) $FLRG,MarketBeat,0.291653,Somewhat-Bullish,0.319273,0.893018
+20230616T101013,NVDA,Schwab US Large-Cap ETF Review and Aggregate Rating (SCHX),MarketBeat,0.206705,Somewhat-Bullish,0.342210,0.644392
+20230616T125141,NVDA,iShares MSCI ACWI ETF Review and Aggregate Rating (ACWI),MarketBeat,0.289733,Somewhat-Bullish,0.329923,0.896058
+20230616T125155,NVDA,Alger 35 ETF Review and Aggregate Rating (ATFV),MarketBeat,0.274807,Somewhat-Bullish,0.302547,0.885601
+20230616T144006,NVDA,Anfield U.S. Equity Sector Rotation ETF Review and Aggregate Rating (AESR),MarketBeat,0.3146,Somewhat-Bullish,0.495508,0.858711
+20230616T150909,NVDA,SPDR MSCI USA Climate Paris Aligned ETF Review and Aggregate Rating (NZUS),MarketBeat,0.188555,Somewhat-Bullish,0.258458,0.873702
+20230616T150949,NVDA,InfraCap Equity Income Fund ETF Review and Aggregate Rating (ICAP),MarketBeat,0.244318,Somewhat-Bullish,0.302952,0.628350
+20230616T161013,NVDA,Invesco S&P 500 Top 50 ETF Review and Aggregate Rating (XLG),MarketBeat,0.27644,Somewhat-Bullish,0.346616,0.856697
+20230616T173846,NVDA,T. Rowe Price Growth ETF Review and Aggregate Rating (TGRT) $TGRT,MarketBeat,0.248982,Somewhat-Bullish,0.318910,0.868168
+20230616T193857,NVDA,Aptus Drawdown Managed Equity ETF Review and Aggregate Rating (ADME) $ADME,MarketBeat,0.24905,Somewhat-Bullish,0.341127,0.803997
+20230616T210853,NVDA,WisdomTree Artificial Intelligence and Innovation Fund Review and Aggregate Rating (WTAI),MarketBeat,0.1406,Neutral,0.319877,0.722619
+20230616T220939,NVDA,Fidelity Disruptive Automation ETF Review and Aggregate Rating (FBOT) $FBOT,MarketBeat,0.61603,Bullish,0.798633,0.851604
+20230616T221017,NVDA,First Trust NASDAQ BuyWrite Income ETF Review and Aggregate Rating (FTQI) $FTQI,MarketBeat,0.334436,Somewhat-Bullish,0.308119,0.723998
+20230616T221018,NVDA,iShares MSCI USA Quality Factor ETF Review and Aggregate Rating (QUAL) $QUAL,MarketBeat,0.37332,Bullish,0.367371,0.655215
+20230616T233851,NVDA,American Century Sustainable Equity ETF Review and Aggregate Rating (ESGA),MarketBeat,0.281945,Somewhat-Bullish,0.367707,0.607663
+20230616T235237,NVDA,JPMorgan U.S. Research Enhanced Large Cap ETF Review and Aggregate Rating (JUSA),MarketBeat,0.436441,Bullish,0.490942,0.870705
+20230618T033937,NVDA,Fidelity Disruptive Automation ETF Technical Analysis,Investing.com,0.39398,Bullish,0.312938,0.604275
+20230619T235333,NVDA,Best Gaming Stocks,Benzinga,0.335234,Somewhat-Bullish,0.427353,0.816460
+20230620T000000,NVDA,Comparing the Expense Ratios of ETFs Investing in AI: Which One Is Right for You?,ETF Trends,0.281846,Somewhat-Bullish,0.385006,0.872179
+20230621T000051,NVDA,Intel pairs its hardware with HPE solutions to drive enterprise AI success,SiliconANGLE,0.370449,Bullish,0.207806,0.636800
+20230621T070855,NVDA,KT to invest $5.4 bn by 2027 to develop AI platforms,KED Global,0.318201,Somewhat-Bullish,0.340195,0.630528
+20230622T050212,NVDA,TGRW Doubling Returns of SPY,ETF Database,0.613833,Bullish,0.509884,0.611550
+20230622T141019,NVDA,Active Growth ETF TGRW Doubling Returns of SPY,ETF Trends,0.569595,Bullish,0.549759,0.604194
+20230623T000000,NVDA,Artificial Intelligence Opens a Generational Opportunity for Chipmakers,Global X ETFs,0.407446,Bullish,0.702856,0.981158
+20230626T051020,NVDA,Direxion HCM Tactical Enhanced US ETF,ETF Database,0.302095,Somewhat-Bullish,0.328124,0.704162
+20230627T183000,NVDA,Nvidia and AMD shares fall on report of new U.S. ban on AI chip exports to China,MarketWatch,-0.442177,Bearish,-0.438335,1.000000
+20230628T000040,NVDA,HP Laptop Buying Guide,HP,0.28311,Somewhat-Bullish,0.218595,0.628657
+20230628T001131,NVDA,Nvidia stock falls after CFO says no material impact from prospective wider ban on AI chip sales to China,MarketWatch,-0.413813,Bearish,-0.429177,1.000000
+20230628T001259,NVDA,Oracle is no longer buying Intel processors for its data centers,The Business Journals,0.173585,Somewhat-Bullish,0.412263,0.830750
+20230628T203500,NVDA,"Chipmaker Micron beats on demand from booming AI, easing glut",Reuters,0.281311,Somewhat-Bullish,0.333465,0.556841
+20230629T112000,NVDA,Stock of the week - Advanced Micro Devices (29.06.2023),XTB.com,-0.089092,Neutral,-0.225544,0.877209
+20230629T152627,NVDA,The Best QQQ Stocks To Buy Now,Kiplinger,0.388115,Bullish,0.452429,0.947873
+20230630T000000,NVDA,Apple’s market value ends above $3 trillion for the first time,Al Jazeera,0.453379,Bullish,0.305665,0.624728
+20230630T002921,NVDA,XPeng Announces G6 Ultra Smart Coupe SUV,The EV Report,0.170842,Somewhat-Bullish,0.317470,0.617854

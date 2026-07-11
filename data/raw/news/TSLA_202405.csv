@@ -1,0 +1,45 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20240501T031200,TSLA,"Tesla’s top HR executive has left the company, sources say",Fortune,-0.296059,Somewhat-Bearish,-0.293785,1.000000
+20240501T075156,TSLA,Tesla's Volatility Offers Traders Plenty of Opportunities,ETF Trends,0.338614,Somewhat-Bullish,0.305009,0.938492
+20240501T085244,TSLA,Tesla's Volatility Offers Traders Plenty of Opportunities,ETF Trends,0.318601,Somewhat-Bullish,0.236299,0.812082
+20240502T000000,TSLA,YieldMax's New ETF Can Capitalize on Tesla Volatility,ETF Trends,0.21461,Somewhat-Bullish,0.115279,0.933148
+20240502T000000,TSLA,Lululemon billionaire pledges shares to Goldman for margin loan,Crain Currency,0.044497,Neutral,0.142824,0.621273
+20240502T135102,TSLA,EV Transportation Startup Aims To Fill Industry Gap,WilmingtonBiz,0.07571,Neutral,0.231643,0.648891
+20240504T141843,TSLA,"Tesla cancels cheapest Model Y, adds Long Range version",Green Car Reports,0.062585,Neutral,0.035325,1.000000
+20240507T141647,TSLA,"Tesla expands Semi testing program, partners with Costco, Sysco, and US Foods",Drive Tesla Canada,0.267141,Somewhat-Bullish,0.347090,0.913663
+20240508T134114,TSLA,"Carvana trends report: Used EVs narrow price gap with ICE cars, triggering sales growth potential",Electrek,0.275635,Somewhat-Bullish,0.205698,0.604841
+20240508T134507,TSLA,Top 10: Energy Storage Companies,Energy Digital Magazine,0.366439,Bullish,0.422726,0.862042
+20240508T141020,TSLA,"Electric trucking costs could be more than twice diesel, report says",Commercial Carrier Journal,-0.173893,Somewhat-Bearish,-0.148379,0.622838
+20240509T202500,TSLA,Idan Ofer again loses on EVs,Globes - Israel Business News,-0.07989,Neutral,-0.139138,0.597832
+20240510T000000,TSLA,Zeekr IPO: Stock price for China-based Tesla rival will be closely watched in NYSE debut today,Fast Company,0.13684,Neutral,-0.145733,0.816422
+20240510T000000,TSLA,Ford CFO tapped as vice chair; Lucid Motors exec set to succeed,CFO Dive,-0.173747,Somewhat-Bearish,-0.235224,0.628331
+20240513T214600,TSLA,NLRB judge says courts must decide Starbucks' challenge to agency's structure,Reuters,-0.153031,Somewhat-Bearish,-0.117743,0.643781
+20240515T000000,TSLA,"Pegatron, NXP launch EV application testing lab",Taipei Times,0.324697,Somewhat-Bullish,0.328840,0.602409
+20240515T061016,TSLA,SVIX Total Assets Under Management Insights,YCharts,-0.133223,Neutral,-0.159365,0.646601
+20240515T071500,TSLA,"Down 20% This Year, Will Under Armour’s Stock Recover Following Q4 Results?",Forbes,-0.073006,Neutral,-0.134932,0.600911
+20240515T105600,TSLA,Tesla must face vehicle owners' lawsuit over self-driving claims,Reuters,-0.608181,Bearish,-0.639589,1.000000
+20240515T110857,TSLA,TSLT Financial Statements & Charts - Etf Opportunities Trust - T-rex 2x Long Tesla Daily Target Etf MacroTrends,CMLviz,-0.154548,Somewhat-Bearish,-0.176019,0.864265
+20240515T204100,TSLA,Tesla must face claims it misled buyers about Autopilot and self-driving,Automotive News,-0.427586,Bearish,-0.403786,1.000000
+20240516T115700,TSLA,GM Stock Forecast: Is General Motors Headed to $100 by 2025?,Nasdaq,0.158851,Somewhat-Bullish,-0.202158,0.619369
+20240516T133233,TSLA,"Aqua Metals raises more capital, reports loss",Recycling Today,0.122076,Neutral,0.104003,0.578210
+20240517T134716,TSLA,"Regulatory Risks, Investment Sentiment and the India/Bharat Conundrum",FTI Consulting,0.250701,Somewhat-Bullish,0.300370,0.608888
+20240520T000000,TSLA,This Might Just Be YieldMax’s Craziest ETF Yet (104.56% Dividend Yield),DataDrivenInvestor,0.250012,Somewhat-Bullish,0.316303,0.727590
+20240521T142400,TSLA,Tesla Semi Fleet Grows As PepsiCo Takes Delivery Of Another 50 EV Trucks,Sahm,0.287449,Somewhat-Bullish,0.252993,0.999696
+20240521T143903,TSLA,IQM Stock Price | Franklin Intelligent Machines ETF,Investing.com,0.333824,Somewhat-Bullish,0.207404,0.600594
+20240522T000000,TSLA,Is Allegro Stock a Fabulous Play on Fabless EV Chips?,Nanalyze,-0.102475,Neutral,-0.332790,0.687593
+20240522T000000,TSLA,Guiding the Future: Garrett’s Controls Technology Pushes E-Motor Performance to New Heights,Garrett Motion,0.37421,Bullish,0.294091,0.556097
+20240523T000000,TSLA,Risks automakers face as they reimagine their business,AIG,0.182661,Somewhat-Bullish,0.143461,0.604821
+20240523T141020,TSLA,Ryder: Can we Bridge the Cost Parity Gap Between Electric and Diesel Truck Operations?,Heavy Duty Trucking,0.016798,Neutral,0.140829,0.645007
+20240523T141843,TSLA,Tesla data center delay highlights industrywide challenges,Construction Dive,-0.294971,Somewhat-Bearish,-0.277230,1.000000
+20240524T080000,TSLA,Big Lithium Processing Plant Planned in Oklahoma,Autoweek,0.240706,Somewhat-Bullish,0.204637,0.628182
+20240528T135846,TSLA,Who Makes Lucid Cars?,JD Power,0.141834,Neutral,0.121843,0.707128
+20240529T080000,TSLA,"If You Can Only Buy One Battery Stock in May, It Better Be One of These 3 Names",InvestorPlace,0.271393,Somewhat-Bullish,0.186649,0.630468
+20240529T133208,TSLA,Volkswagen targets 2027 for launch of affordable EV,CBT News,0.048724,Neutral,0.126571,0.633321
+20240529T141843,TSLA,Tesla Settles Fatal Crash Suit as Another Jury Trial Loomed,Insurance Journal,-0.238624,Somewhat-Bearish,-0.200450,1.000000
+20240529T152600,TSLA,"EV switch to hit auto suppliers hard, Stellantis CEO says",Reuters,0.035211,Neutral,0.129869,0.631003
+20240530T044429,TSLA,Why Investing Guru Jeremy Grantham’s New ETF Shuns Nvidia and Tesla Stock,Barron's,-0.033462,Neutral,-0.223429,0.847158
+20240530T170922,TSLA,Why Investing Guru Jeremy Grantham’s New ETF Shuns Nvidia and Tesla Stock,Barron's,0.064642,Neutral,-0.219100,0.801986
+20240531T052200,TSLA,STMicro to build €5B plant in Italy with EU Chips Act aid,Automotive News,0.310922,Somewhat-Bullish,0.115128,0.621048
+20240531T093900,TSLA,Tesla supplier STMicroelectronics to build €5B EV chip fab in Italy,TNW | The heart of tech,0.36435,Bullish,0.323895,0.731252
+20240531T131800,TSLA,"EU approves Italian aid for $5.4 bln STMicro chip plant, more to come",Reuters,0.402214,Bullish,0.327400,0.608871
+20240531T141602,TSLA,Apple Supplier STMicroelectronics to Build $5.4 Billion Chip Plant in Italy,The Wall Street Journal,0.271123,Somewhat-Bullish,0.238950,0.623321

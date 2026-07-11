@@ -1,0 +1,45 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20240401T000000,TSLA,These Growth Funds Continued to Shine in Q1 2024,Morningstar,0.27351,Somewhat-Bullish,-0.405947,0.593959
+20240401T000000,TSLA,Aqua Metals is building a more sustainable battery recycling ecosystem,Charged EVs,0.428721,Bullish,0.307208,0.641140
+20240401T154000,TSLA,Self-driving semi-trucks are the future of US transport — and they’ve already hit the road,New York Post,0.185833,Somewhat-Bullish,0.100724,0.646900
+20240404T145132,TSLA,Edison Scholar Says Ditch the Gas Guzzler,Energized by Edison,0.359495,Bullish,0.337965,0.617680
+20240404T151206,TSLA,Mechatronics - fusion of mechanical and electronic,Magna International,0.456065,Bullish,0.301225,0.643933
+20240408T153347,TSLA,Tesla settles lawsuit over Autopilot crash that killed Apple engineer,CNBC,-0.313852,Somewhat-Bearish,-0.349795,1.000000
+20240409T151530,TSLA,Billionaire Bargain Bin: 3 Stocks the Forbes 400 Loves (That You’ve Never Heard Of),InvestorPlace,0.065444,Neutral,-0.310062,0.629111
+20240410T000000,TSLA,Prevention through Design (PtD) Award,Centers for Disease Control and Prevention | CDC (.gov),0.356942,Bullish,0.331218,0.618117
+20240410T153238,TSLA,The Metals Company names new board vice chairman,Mining.com,0.280468,Somewhat-Bullish,0.301169,0.613860
+20240411T000000,TSLA,PAL IPO News - On the road again: Auto transport roll-up Proficient Auto Logistics files for a $100 million IPO,Renaissance Capital,0.182685,Somewhat-Bullish,0.101515,0.647773
+20240411T000000,TSLA,"Electric Vehicles: Slow, then Fast",Citigroup,0.13141,Neutral,-0.127478,0.555755
+20240411T142732,TSLA,"Cathie Wood, ARK CEO, on Tesla and Nvidia Stock, Favorite AI Plays",Barron's,0.319462,Somewhat-Bullish,0.361031,0.901683
+20240411T151206,TSLA,Auto giant Magna to pilot Sanctuary AI’s humanoid robots for factory use,The Logic,0.24259,Somewhat-Bullish,0.195339,0.602147
+20240411T154000,TSLA,"3 EV Charging Stocks to Turn $100,000 Into $1 Million: April 2024",InvestorPlace,0.343483,Somewhat-Bullish,0.135624,0.642769
+20240415T153347,TSLA,Tesla reportedly to lay off a tenth of its workforce after dismal first-quarter sales,PBS,-0.603926,Bearish,-0.616362,1.000000
+20240416T055500,TSLA,Piedmont Lithium takes a big step forward in plans to build $1B mine near Charlotte,Charlotte Observer,0.214313,Somewhat-Bullish,0.303490,0.601559
+20240416T152515,TSLA,Runway Growth Capital Provides a $40 Million Growth Investment to CarNow,PR Newswire,0.265224,Somewhat-Bullish,0.205922,0.607332
+20240417T000000,TSLA,Powering the Future: Top 10 EV Charging Companies Leading the Charge,EV Magazine,0.320597,Somewhat-Bullish,0.319645,0.908052
+20240417T134000,TSLA,LCID Stock: Lucid Unveils Details of Its 2024 Air Grand Touring,InvestorPlace,0.220407,Somewhat-Bullish,0.147849,0.629504
+20240418T111046,TSLA,ETF Explainer: PBW,ETF.com,-0.143454,Neutral,-0.240034,0.747758
+20240418T150811,TSLA,Wholesale used vehicle prices slip in early April as sales pace slows,CBT News,-0.082974,Neutral,-0.117577,0.626845
+20240418T205400,TSLA,T. Rowe Price says 2018 Tesla pay aligned with investor interests,Reuters,0.396083,Bullish,0.321413,0.921159
+20240419T153013,TSLA,Checking in on the Tesla Diner at 7001 W. Santa Monica Boulevard in Hollywood,Urbanize LA,0.052459,Neutral,0.142257,1.000000
+20240420T053200,TSLA,"Tesla cuts US prices of Models Y, X, S by $2,000",Reuters,-0.617736,Bearish,-0.603412,1.000000
+20240420T090719,TSLA,"“수익률 3배 노린다”…진격의 서학개미, 하락장에도 ‘풀베팅’",매일경제 마켓,-0.055051,Neutral,0.128755,0.723671
+20240422T000000,TSLA,"The pressure’s on for big tech firms, says BofA",InvestmentNews,0.136825,Neutral,0.122096,0.704723
+20240422T041303,TSLA,Themes Humanoid Robotics ETF Holdings,Quiver Quantitative,0.132944,Neutral,0.127190,0.641080
+20240422T065500,TSLA,China's Li Auto cuts car prices in market share battle,Reuters,-0.211423,Somewhat-Bearish,-0.231992,0.742228
+20240422T141700,TSLA,Why Investors Should Choose the Nasdaq-100 Over the Ark Innovation ETF,The Motley Fool,-0.08076,Neutral,0.141899,0.719140
+20240422T151952,TSLA,Heavy-Duty Electric Trucks With Solar Panels Are Here For Your Food,CleanTechnica,0.299601,Somewhat-Bullish,0.100340,0.627390
+20240423T000000,TSLA,Grid Storage Batteries Could Charge Up Lithium Demand,ETF Trends,0.377607,Bullish,0.280172,0.575904
+20240423T145943,TSLA,The Advantage of Low Stock Market Expectations,Morningstar,-0.045173,Neutral,-0.328107,0.816431
+20240424T060954,TSLA,"Themes Robotics & Automation ETF ETF Price, Holdings, & News (NASDAQ:BOTT) $BOTT",MarketBeat,0.150147,Somewhat-Bullish,0.336564,0.612532
+20240424T073700,TSLA,Today’s Biggest Pre-Market Stock Movers: 10 Top Gainers and Losers on Wednesday,InvestorPlace,0.311316,Somewhat-Bullish,0.293994,0.873486
+20240424T145101,TSLA,Tesla Is Not the Next Ford. It’s the Next Con Ed.,The Atlantic,-0.06182,Neutral,-0.442749,1.000000
+20240424T190400,TSLA,Expedia to make second round of layoffs in Austin this year,The Business Journals,-0.44584,Bearish,-0.419984,0.625316
+20240425T000000,TSLA,"Honda Plans to Establish Comprehensive Electric Vehicle Value Chain in Ontario, Canada",Honda Newsroom,0.30195,Somewhat-Bullish,0.342711,0.315290
+20240426T041300,TSLA,Tesla's plan for affordable cars takes page from Detroit rivals,Reuters,0.162583,Somewhat-Bullish,0.254066,1.000000
+20240426T153017,TSLA,Stellantis And Tesla: Combine These Stocks For The Ultimate Automotive Portfolio (STLA),Seeking Alpha,0.458799,Bullish,0.474360,0.939454
+20240429T151843,TSLA,PAL IPO News - Take it for a spin: Auto transport roll-up Proficient Auto Logistics sets terms for $215 million IPO,Renaissance Capital,0.203915,Somewhat-Bullish,0.134905,0.609930
+20240429T152903,TSLA,S&P Global Mobility: April auto sales to sustain spring volume push,PR Newswire,0.179879,Somewhat-Bullish,-0.130264,0.632452
+20240429T174016,TSLA,Today’s Biggest Pre-Market Stock Movers: 10 Top Gainers and Losers on Monday,InvestorPlace,0.36364,Bullish,0.410300,0.821194
+20240430T085800,TSLA,Tesla Semi spotted being used by another customer,Electrek,0.31481,Somewhat-Bullish,0.298264,0.968498
+20240430T142629,TSLA,Automotive Collision Avoidance System Market is Likely to Experience a Tremendous Growth in Near Future As ...,WhaTech,0.331811,Somewhat-Bullish,0.266323,0.601580

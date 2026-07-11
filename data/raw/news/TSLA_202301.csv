@@ -1,0 +1,57 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20230102T045149,TSLA,"Tesla Says Company Sold a Record 1.3 Million Vehicles Last Year, Falls Short of 50% Growth Pledge",WTTW Chicago,-0.079599,Neutral,-0.214536,1.000000
+20230103T043025,TSLA,Better Chinese EV Stock: Nio vs. Li Auto,The Globe and Mail,0.2022,Somewhat-Bullish,0.112308,0.727046
+20230103T044742,TSLA,Tesla stock suffers worst-ever year in 2022 despite deliveries hitting record high,FOREX.com,-0.234827,Somewhat-Bearish,-0.421980,1.000000
+20230103T064900,TSLA,Foxconn to use Nvidia chips to build self-driving vehicle platforms,Reuters,0.212082,Somewhat-Bullish,0.144260,0.608776
+20230103T115300,TSLA,"Lucid, Rivian and others should explore distribution deals with established brands",Automotive News,0.173072,Somewhat-Bullish,0.121471,0.647014
+20230103T120500,TSLA,Tuesday's ETF with Unusual Volume: IWL,Nasdaq,-0.14624,Neutral,-0.546022,0.877909
+20230104T042048,TSLA,GM ships 2.2 million U.S. vehicles in 2022,General Motors,0.13428,Neutral,-0.086766,0.576679
+20230104T042106,TSLA,Market Insights: EVs and plug-in hybrids to represent 81 percent of new U.S. vehicle sales in 2045,Aftermarket Matters,0.31013,Somewhat-Bullish,0.324937,0.609703
+20230104T043646,TSLA,"Hyundai, BYD, Polestar adopt Nvidia’s cloud gaming service",KED Global,0.35081,Bullish,0.227796,0.636628
+20230104T045150,TSLA,Report: South Korea fines Tesla $2.2M over cold-weather range,Green Car Reports,-0.41747,Bearish,-0.421637,1.000000
+20230105T044204,TSLA,Sony and Honda unveil Afeela EV as part of CES 2023,Alabama News Center,0.227536,Somewhat-Bullish,0.147344,0.602996
+20230106T040200,TSLA,The ARK Innovation ETF: Tesla Is Cathie Wood’s Latest Problem,Seeking Alpha,-0.299969,Somewhat-Bearish,-0.285310,0.828623
+20230106T045149,TSLA,Tesla's stock lost over $700 billion in value. Elon Musk's Twitter deal didn't help,NPR,-0.678506,Bearish,-0.845809,1.000000
+20230106T045600,TSLA,Chinese companies lead in LiDAR tech,China Daily,0.31049,Somewhat-Bullish,0.237720,0.638126
+20230106T121800,TSLA,"XPeng stock just misses a record selloff, snaps 5-day win streak",MarketWatch,-0.254301,Somewhat-Bearish,-0.323579,0.891000
+20230106T163300,TSLA,"CES 2023: AMD, Nvidia, auto applications get the hype, but analysts say this one chip maker ruled",MarketWatch,0.129486,Neutral,0.064699,0.586478
+20230109T040127,TSLA,"CEO Carlos Tavares says Stellantis might shutter more auto plants, cites high EV costs",CBT News,-0.200535,Somewhat-Bearish,-0.201925,0.572635
+20230109T044959,TSLA,Pepsi turns on Tesla semis,Ticker,0.234092,Somewhat-Bullish,0.319014,1.000000
+20230109T045150,TSLA,Tesla: what 2023 holds for the electric vehicle company and why it might be time for Musk to go,The Conversation,-0.109482,Neutral,-0.268101,1.000000
+20230109T143500,TSLA,Ford U.S. Vehicle Sales Fell 2.2% In 2022 As Industry Suffered Weakest Year Since 2011,Seeking Alpha,0.027358,Neutral,0.127538,0.693219
+20230109T180200,TSLA,Disney asks employees to work from office four days a week - CNBC,Reuters,0.100407,Neutral,0.107538,0.604713
+20230110T041729,TSLA,A look back at the year in ETFs,Investment Executive,0.150944,Somewhat-Bullish,0.320850,0.641070
+20230111T040212,TSLA,ARK Invest's Cathie Wood Bets Big on Crypto,BeInCrypto,0.37922,Bullish,0.266806,0.627726
+20230111T045150,TSLA,Tesla to spend $775 million expanding its Gigafactory Texas electric vehicle plant near Austin,San Antonio Express-News,-0.22988,Somewhat-Bearish,-0.210859,1.000000
+20230112T042956,TSLA,"EV Startup Lucid Beats Production Target, Struggles to Deliver Cars",The Wall Street Journal,0.019682,Neutral,0.023979,0.581263
+20230113T045149,TSLA,Tesla slashes prices on new electric vehicle models in the U.S.,Axios,-0.219432,Somewhat-Bearish,-0.207364,1.000000
+20230113T045149,TSLA,Tesla cuts prices across the board up to 20%,Green Car Reports,0.023651,Neutral,-0.209120,1.000000
+20230113T072800,TSLA,Pulte Lawsuit Update: A 2nd Exec Named In Twitter Activity Inquiry,HousingWire,-0.189669,Somewhat-Bearish,-0.102084,0.602811
+20230117T000000,TSLA,Ryder layoffs: 800 jobs to be cut at Applied Materials site,The Business Journals,-0.104762,Neutral,0.141329,0.648949
+20230117T032500,TSLA,"Ev Charging Stations Market to See Massive Growth by 2028 | Siemens, Tesla, Schneider Electric",openPR.com,0.427708,Bullish,0.454903,0.855989
+20230117T075200,TSLA,"Chinese EV maker Xpeng joins Tesla, Seres in price cuts",Reuters,-0.193038,Somewhat-Bearish,-0.349035,0.815195
+20230117T075800,TSLA,Xpeng Follows Tesla With Major Price Cuts on China Electric Cars,Bloomberg.com,-0.24859,Somewhat-Bearish,-0.219072,0.705109
+20230118T045150,TSLA,"2023 Tesla Model Y Review, Ratings, Specs, Prices, and Photos",The Car Connection,0.233247,Somewhat-Bullish,0.203153,1.000000
+20230118T051800,TSLA,"Tesla video promoting self-driving was staged, engineer testifies",Reuters,-0.380051,Bearish,-0.382156,1.000000
+20230119T035853,TSLA,Cotações de BDRs: Bolsa de Valores ao Vivo e últimas notícias,Money Times,0.301645,Somewhat-Bullish,0.396405,0.815987
+20230119T043925,TSLA,Frito-Lay Focuses on Sustainability in Transformation of California Facility,Convenience Store News,0.410329,Bullish,0.310182,0.638342
+20230119T083000,TSLA,"""Hertz Electrifies"" Launches in Denver; New Public-Private Partnership between Hertz and Cities aims to Transform the Rental Car Industry and Accelerate Mainstream Consumer Adoption of Electric Vehicles",PR Newswire,0.324669,Somewhat-Bullish,0.241978,0.586595
+20230120T043615,TSLA,EV Charging Firm Volta Acquired by Shell,RV PRO,-0.08012,Neutral,-0.125942,0.707708
+20230123T043813,TSLA,Silicon Valley 2.0? 5 US cities that could be the new tech start-up central,South China Morning Post,0.302582,Somewhat-Bullish,0.332100,0.728581
+20230123T112000,TSLA,Should You Invest in the iShares U.S. Consumer Discretionary ETF (IYC)?,Yahoo Movies UK,0.274662,Somewhat-Bullish,0.307932,0.624381
+20230123T185000,TSLA,"Ford to cut up to 3,200 European jobs, union says, vowing to fight",Reuters,-0.034012,Neutral,0.142950,0.718047
+20230124T121300,TSLA,‘The Nasdaq is our favorite short.’ This market strategist sees recession and a credit crunch slamming stocks in 2023.,MarketWatch,-0.326811,Somewhat-Bearish,-0.635046,0.633190
+20230124T121300,TSLA,‘The Nasdaq is our favorite short.’ This market strategist sees recession and a credit crunch slamming stocks in 2023.,MarketWatch,-0.111677,Neutral,-0.446580,0.604001
+20230125T041241,TSLA,Bad Week of Earnings Pulls Q4 Growth Rate Lower,See It Market,0.204057,Somewhat-Bullish,0.105666,0.705485
+20230125T042427,TSLA,"Stocks Making the Biggest Moves After Hours: Tesla, Chevron, ServiceNow, Levi Strauss, IBM and More",NBC 7 San Diego,0.047692,Neutral,0.133795,0.878575
+20230126T044909,TSLA,STMicroelectronics Tops Estimates. The Tesla Supplier’s Stock Is Rising.,Barron's,0.560339,Bullish,0.334815,0.731733
+20230126T045105,TSLA,Toyota CEO and President Akio Toyoda to step down,CNBC,0.060595,Neutral,0.142744,0.639585
+20230127T042012,TSLA,"Por toma de ganancias, concluyó la racha positiva de la Bolsa",Somos Pymes,-0.114358,Neutral,0.426480,0.812077
+20230130T040728,TSLA,Used Tesla Prices Take a Dive; Should I Buy One?,Cars.com,-0.114182,Neutral,-0.243155,1.000000
+20230130T040740,TSLA,Ford slashes cost of EVs as it plans to boost production of Mustang Mach-E,upi,0.175148,Somewhat-Bullish,0.055397,0.856520
+20230130T044959,TSLA,WSJ News Exclusive | TravelCenters of America to Add EV Fast-Charger Stations,The Wall Street Journal,0.210246,Somewhat-Bullish,0.130576,0.631055
+20230131T042053,TSLA,Generac introduces residential EV charger,pv magazine USA,0.217922,Somewhat-Bullish,0.117020,0.636799
+20230131T044959,TSLA,"TravelCenters of America to deploy 1,000 EV charging ports by 2028",Utility Dive,0.32186,Somewhat-Bullish,0.349584,0.644740
+20230131T124500,TSLA,"Ford to cut prices of Mustang Mach-E, following Tesla's lead",Reuters,0.064594,Neutral,0.226261,0.927106
+20230131T141016,TSLA,Top Performing Leveraged/Inverse ETFs: 01/29/2023,ETF Trends,0.411809,Bullish,0.713173,0.814624
+20230131T154000,TSLA,"Austin company lays off 250 janitorial, maintenance workers after Tesla cancels contract",Austin American-Statesman,-0.233101,Somewhat-Bearish,-0.118482,0.865111

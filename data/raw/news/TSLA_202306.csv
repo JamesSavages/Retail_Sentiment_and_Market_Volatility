@@ -1,0 +1,42 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20230601T122400,TSLA,Tesla doubles discounts on Model 3 cars in US inventory,Reuters,-0.246002,Somewhat-Bearish,-0.210346,1.000000
+20230601T235544,TSLA,Nearshoring in Mexico – Where Are the Opportunities?,FTI Consulting,0.162664,Somewhat-Bullish,0.339109,0.864166
+20230602T080000,TSLA,"Billionaire Tom Siebel faces tumult at C3.ai as investor lawsuit, short sellers question metrics",CNBC,-0.238162,Somewhat-Bearish,0.087803,0.586673
+20230605T173600,TSLA,"Tesla Inc. stock rises Monday, outperforms market",MarketWatch,0.400988,Bullish,0.425191,1.000000
+20230605T234308,TSLA,"Car prices in flux, may decline from overproduction, ‘price wars’",CBT News,-0.281734,Somewhat-Bearish,-0.360157,0.881181
+20230605T234335,TSLA,IONIQ 5 set for fully driverless public taxi service,KED Global,0.163337,Somewhat-Bullish,-0.115132,0.609117
+20230605T235434,TSLA,UK-based company to repurpose electric vehicle batteries in shuttered Chippewa Falls frac sand plant,WPR,0.097467,Neutral,0.130271,0.627941
+20230607T063939,TSLA,"Invesco S&P 500 Equal Weight Consumer Discretionary ETF ETF Price, Holdings, & News (NYSEARCA:RSPD)",MarketBeat,0.12412,Neutral,0.121171,0.708605
+20230608T002302,TSLA,"Sanan, STMicroelectronics to Invest USD3.2 Billion in China EV Chipmaking Project",Yicai Global,0.310264,Somewhat-Bullish,0.229072,0.604378
+20230608T093949,TSLA,Invesco S&P 500 Equal Weight Consumer Discretionary ETF,ETF Database,0.031728,Neutral,0.020007,0.683922
+20230608T185900,TSLA,Microvast EV battery plant in Hopkinsville in doubt after federal agency halts $200M grant,Hoptown Chronicle,-0.063892,Neutral,0.109187,0.587502
+20230608T220917,TSLA,3 Low-Cost EV ETFs to Buy for Solid Diversification,InvestorPlace,0.298718,Somewhat-Bullish,0.208300,0.744967
+20230608T234626,TSLA,Tesla Will Open Its Charging Network to G.M.’s Electric Vehicles (Published 2023),The New York Times,0.296049,Somewhat-Bullish,0.426075,1.000000
+20230609T085246,TSLA,"Tradr 2X Short TSLA Daily ETF (TSLQ) Dividend Yield 2026, Date & History",MarketBeat,0.150541,Somewhat-Bullish,0.038803,0.730545
+20230609T124700,TSLA,Tesla Eyes $3 Billion Boost From Chargers at Rivals’ Expense,Transport Topics,0.358459,Bullish,0.476780,1.000000
+20230613T235407,TSLA,Musk says triple the electricity needed for sustainable energy future,Daily Energy Insider,0.336691,Somewhat-Bullish,0.413482,1.000000
+20230614T234626,TSLA,Blink Charging Unveils Final Design for New Dual-Port EV DC Fast Charger at EVS36,The EV Report,0.222681,Somewhat-Bullish,0.130761,0.601336
+20230614T235406,TSLA,Three takeaways from Tesla CEO Elon Musk's keynote at EEI energy event,Austin American-Statesman,0.326119,Somewhat-Bullish,0.427353,1.000000
+20230615T002027,TSLA,SolarEdge Reveals Advanced Bi-Directional DC EV Charger at Intersolar 2023,The EV Report,0.453356,Bullish,0.341068,0.644203
+20230615T074109,TSLA,iShares U.S. Consumer Discretionary ETF Review and Aggregate Rating (IYC),MarketBeat,0.198545,Somewhat-Bullish,0.062054,0.637934
+20230615T134300,TSLA,Elon Musk slams woke S&P rating after Tesla scores lower than Philip Morris,New York Post,0.076731,Neutral,0.021876,0.918278
+20230616T081700,TSLA,Get Out Now! 3 EV Stocks That Are Poised to Plunge.,InvestorPlace,-0.097467,Neutral,0.319265,0.630035
+20230616T083906,TSLA,Tesla Stock: The Impact of Opening the Supercharger Network,Morningstar,0.061483,Neutral,0.000840,0.903797
+20230616T141110,TSLA,"SK파워텍, 美 실바코와 손잡고 차세대 SiC 전력반도체 개발",더구루,0.367078,Bullish,0.325663,0.602124
+20230616T170852,TSLA,TESL Simplify Volt TSLA Revolution ETF Review and Aggregate Rating (VCAR),MarketBeat,0.06263,Neutral,0.129927,0.908704
+20230619T235801,TSLA,Elon Musk Loses Key Litigator Amid Lawsuit Over Dogecoin Insider Trading Claims,Decrypt,-0.187441,Somewhat-Bearish,-0.314630,0.998034
+20230621T001842,TSLA,Rivian 3rd OEM since May to sign Tesla Supercharger network agreement,Repairer Driven News,0.304627,Somewhat-Bullish,0.300884,0.921942
+20230621T100700,TSLA,Blink Charging Announces New Dual-Port CCS And NACS Fast Charger,InsideEVs,0.354831,Bullish,0.306130,0.819996
+20230621T234803,TSLA,2023 Cars.com American-Made Index: What About the Least American Cars?,Cars.com,0.149858,Neutral,0.341400,0.999735
+20230622T120900,TSLA,Applied Materials to invest $400 million in India for new engineering center,Reuters,0.331224,Somewhat-Bullish,0.210103,0.648294
+20230623T000000,TSLA,"Alan McKim founded Clean Harbors. As technology chief, he’ll guide it into the future",Northeastern Global News,0.198906,Somewhat-Bullish,0.139300,0.596331
+20230623T155127,TSLA,Is Tesla's Stock Losing Its Charge?,ETF Trends,0.257159,Somewhat-Bullish,0.138982,0.976779
+20230624T013000,TSLA,Toyota tackles Tesla trauma with radical EV production overhaul,Automotive News,0.316003,Somewhat-Bullish,0.252516,0.801391
+20230625T001842,TSLA,"EV, Charging & Battery News: Volvo, Nikola, Rivian, StoreDot, Rheinmetall, Hyundai, Cadillac & Hyundai",AUTO Connected Car News,0.233152,Somewhat-Bullish,0.247795,0.732344
+20230626T000529,TSLA,"Lucid, Aston Martin sign $450M EV powertrain deal",WardsAuto,0.315889,Somewhat-Bullish,0.104543,0.638996
+20230626T065800,TSLA,Aston Martin turns to U.S. EV company Lucid for high-tech help,CNBC,0.177937,Somewhat-Bullish,0.122024,0.617679
+20230629T162300,TSLA,"Polestar to adopt Tesla's supercharger network in the US, Canada",Reuters,0.257584,Somewhat-Bullish,0.311065,0.914982
+20230629T234144,TSLA,ADS-TEC Energy further develops its battery-based fast charging systems for the US market; supports CCS1 and NACS standards in North America,Mynewsdesk,0.245459,Somewhat-Bullish,0.133360,0.604556
+20230630T002921,TSLA,XPeng Announces G6 Ultra Smart Coupe SUV,The EV Report,0.174123,Somewhat-Bullish,0.203904,0.553127
+20230630T085100,TSLA,"Chinese EV maker Xpeng's shares jump after pricing SUV below Tesla Model Y, lifts peers",ET Auto,0.088858,Neutral,-0.139833,0.852722
+20230630T152006,TSLA,TThe High Price of Low Volatility | U.S. Equity market commentary 2Q23,Oakmark Funds,0.111978,Neutral,-0.110677,0.575108

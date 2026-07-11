@@ -1,0 +1,55 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20230301T003700,TSLA,"As Tesla prepares a Mexico plant, a look at auto plants in Mexico",Reuters,0.126431,Neutral,0.137515,1.000000
+20230301T192800,TSLA,Tesla CEO Musk to unveil Part 3 of Master Plan at Investor Day,Reuters,0.336035,Somewhat-Bullish,0.324267,1.000000
+20230302T021405,TSLA,Aehr Comments on Recent Tesla Statements on Silicon Carbide and Reiterates its Annual Guidance,Aehr Test Systems,0.223826,Somewhat-Bullish,0.112140,0.824581
+20230302T024711,TSLA,On Semi Has a Tesla Problem. That’s Just One Reason the Stock Is Falling.,Barron's,-0.291617,Somewhat-Bearish,-0.138783,0.837443
+20230302T084300,TSLA,Tesla union labor battle shows need for church’s leadership and teaching voice,OSV News,-0.238077,Somewhat-Bearish,-0.304972,1.000000
+20230302T110000,TSLA,News | Tesla To Bring Lithium Processing Plant Online in South Texas Later This Year,CoStar,0.400789,Bullish,0.449515,1.000000
+20230302T130300,TSLA,Tesla's plan to slash silicon carbide use sends some chipmakers' shares down,CNBC,-0.225788,Somewhat-Bearish,0.093809,0.905588
+20230302T165600,TSLA,Elon Musk's 'Master Plan' for Tesla fails to charge up investors,Reuters,-0.289073,Somewhat-Bearish,-0.254183,1.000000
+20230302T180156,TSLA,Tesla's plan to slash its use of rare-earth metals in future vehicle production sends semiconductor stocks tumbling,markets.businessinsider.com,-0.125707,Neutral,0.247092,0.746673
+20230303T173800,TSLA,"Honda CEO touts EVs, but combustion engines could last until 2040",Reuters,0.110447,Neutral,0.135661,0.639825
+20230304T021405,TSLA,Tesla moves to cut SiC use in electric vehicles shakes market ...,eeNews Europe,0.182221,Somewhat-Bullish,-0.128447,0.903829
+20230304T025912,TSLA,Empresas de sector automotriz en NL buscan ser proveedoras de Tesla,Milenio,0.272223,Somewhat-Bullish,0.397083,0.953923
+20230306T010920,TSLA,SUSL Top Holdings List & Exposure (iShares ESG MSCI USA Leaders ETF),MarketBeat,0.148759,Neutral,0.143278,0.743312
+20230306T025408,TSLA,South America looks at creating “lithium OPEC”,Mining.com,0.303739,Somewhat-Bullish,0.347384,0.648578
+20230306T025451,TSLA,Bank of America sees lithium surplus in 2023 as demand eases,CNBC,-0.160477,Somewhat-Bearish,-0.100481,0.621364
+20230306T152100,TSLA,"Silver mines will likely be bought by automakers like Tesla, silver to $125 per ounce - Keith Neumeyer",KITCO,0.172774,Somewhat-Bullish,0.346903,0.884768
+20230306T163200,TSLA,"Tesla Inc. stock falls Monday, underperforms market",MarketWatch,-0.2838,Somewhat-Bearish,-0.285252,1.000000
+20230307T050347,TSLA,Consider Mexico ETF FLMX as U.S. Industries Look South,ETF Database,0.363744,Bullish,0.319925,0.730081
+20230307T081600,TSLA,Tesla's next generation smaller car to operate mostly autonomously-Musk,Reuters,0.439122,Bullish,0.414887,1.000000
+20230307T134900,TSLA,News | Salesforce Executive Calls In-Office Work Critical to Tech Giant’s Profitability,CoStar,0.166551,Somewhat-Bullish,0.105446,0.621915
+20230308T074949,TSLA,U.S. opens Tesla probe into reports steering wheels fell off,Reuters,-0.22672,Somewhat-Bearish,-0.412293,1.000000
+20230309T021621,TSLA,Cathie Wood Is Buying Tesla Again,Barron's,0.216049,Somewhat-Bullish,0.444105,1.000000
+20230310T025851,TSLA,Tesla's next phase: Manufacturing powerhouse,Automotive News,0.405222,Bullish,0.434227,1.000000
+20230310T125400,TSLA,Australian lithium miners plunge as prices hit one-year low,ET Auto,-0.327257,Somewhat-Bearish,-0.339539,0.633296
+20230312T022344,TSLA,Four Ways to Cluster based on Correlation,DataDrivenInvestor,0.138563,Neutral,0.101189,0.945709
+20230313T021932,TSLA,Moore recommits Maryland to highest national climate goals for electric vehicle sales,Maryland Matters,0.375776,Bullish,0.260211,0.592019
+20230314T021928,TSLA,Opinion: Layoffs like Meta’s show corporate social responsibility is just flowery words and big talk,The Globe and Mail,0.022273,Neutral,0.018883,0.615046
+20230315T015100,TSLA,China battery giant CATL's $5 bln Swiss listing delayed amid Beijing regulatory concerns - sources,Reuters,-0.133842,Neutral,-0.219030,0.813025
+20230315T023246,TSLA,“GMC” doesn’t mean what you think it means,Hagerty,0.110567,Neutral,0.139258,0.600650
+20230315T025852,TSLA,Tesla hit with 'right to repair' antitrust class actions,Reuters,-0.42532,Bearish,-0.437768,1.000000
+20230316T023246,TSLA,General Motors’ Deborah Wahl to retire from position as CMO,CBT News,-0.096734,Neutral,-0.143495,0.582683
+20230316T155125,TSLA,Tesla owners sue over parts-and-service monopoly,Green Car Reports,-0.233873,Somewhat-Bearish,-0.393049,1.000000
+20230316T173100,TSLA,Workhorse Group Inc. stock underperforms Thursday when compared to competitors,MarketWatch,-0.043463,Neutral,0.225825,0.734134
+20230317T030036,TSLA,Vietnam's VinFast says three sales executives have left EV company,The Times of India,-0.105562,Neutral,0.103631,0.729432
+20230321T053116,TSLA,"For Broad-Based Large-Cap ESG Exposure, See CVLC",ETF Database,0.34958,Somewhat-Bullish,0.342193,0.639874
+20230321T145122,TSLA,The 3 Best Electric Vehicle ETFs to Buy for the Future of Transportation,InvestorPlace,0.36067,Bullish,0.335154,0.647037
+20230321T195234,TSLA,"Consider CVLC for Broad-Based, Large-Cap ESG Exposure",ETF Trends,0.419009,Bullish,0.444056,0.715826
+20230322T022907,TSLA,Ford is about to break out big EV losses for the first time,CNBC,-0.104005,Neutral,0.135599,0.676549
+20230322T070918,TSLA,Sprott Launches Nickel Miners ETF,ETF Trends,0.397481,Bullish,0.326793,0.641701
+20230322T180030,TSLA,Sprott Launches Nickel Miners ETF,ETF Trends,0.331681,Somewhat-Bullish,0.225078,0.571658
+20230323T021502,TSLA,Albemarle to invest $1.3B in South Carolina lithium processing facility,Manufacturing Dive,0.323844,Somewhat-Bullish,0.228473,0.610955
+20230323T024043,TSLA,Tesla Started a China Price War That May Destroy Some Carmakers,Bloomberg.com,-0.330041,Somewhat-Bearish,-0.615374,1.000000
+20230323T163900,TSLA,How Ford plans to turn a profit on EVs in under four years,CNBC,0.106606,Neutral,0.048881,0.586686
+20230327T054049,TSLA,"Direxion Daily TSLA Bull 2X Shares (TSLL) Stock Price, News, Quote & History",Yahoo! Finance Canada,-0.424894,Bearish,-0.419122,0.857986
+20230328T041500,TSLA,Cathie Wood Just Sold Xpeng (XPEV) Stock,InvestorPlace,0.050464,Neutral,0.427208,0.704406
+20230328T042500,TSLA,China's Nio opens trial for high-speed EV battery swapping stations,Reuters,0.132294,Neutral,-0.281461,0.852004
+20230328T084800,TSLA,EV startup Lucid to cut about 18% of its workforce,Reuters,-0.326531,Somewhat-Bearish,-0.220729,0.738259
+20230329T022754,TSLA,"Traction Battery Market 2023: leading Countries, Consumption, Drivers and leading companies – Panasonic, Contemporary Amperex Technology Limited (CATL), LG Chem",Digital Journal,0.271568,Somewhat-Bullish,0.307435,0.806306
+20230330T022734,TSLA,"Quebec lithium mine up and running to supply Tesla, LG Chem",Automotive News,0.204379,Somewhat-Bullish,0.411990,0.847537
+20230330T022734,TSLA,Canada takes small step forward in critical mineral ambitions with restart of Quebec lithium mine,The Globe and Mail,0.136378,Neutral,0.129131,0.611069
+20230330T180910,TSLA,"Gen Z, Memes, Digital Revolution Kicked to Curb in Fad-ETF Purge",AdvisorHub,-0.426932,Bearish,-0.305836,0.648034
+20230331T000000,TSLA,ARKW: Right Approach for Futuristic Internet Investing,ETF Trends,0.333271,Somewhat-Bullish,0.291523,0.606417
+20230331T072741,TSLA,"News snapshot: Talon Metals, Steppe Gold, PyroGenesis Canada, Jushi Holdings, Amaroq Minerals, FansUnite Entertainment UPDATE...",Proactive financial news,0.07201,Neutral,-0.326682,0.643587
+20230331T092400,TSLA,"GM says it expects some EVs to receive $7,500 US tax credits",Reuters,0.137975,Neutral,-0.301355,0.604222

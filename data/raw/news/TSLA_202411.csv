@@ -1,0 +1,53 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20241101T100000,TSLA,Ford cost challenges pervade Q3 earnings,Automotive News,-0.136505,Neutral,-0.077167,0.563739
+20241103T151014,TSLA,Earnings call: Silvercrest reports growth amid strategic expansions,Investing.com,0.184953,Somewhat-Bullish,0.110914,0.583314
+20241106T082148,TSLA,Celebrated inventor driving NextEra Energy’s commitment to meeting energy demand,NextEra Energy Newsroom,0.333744,Somewhat-Bullish,0.277735,0.574898
+20241107T082204,TSLA,Wheels of Change: the Story of NIO (Part 1),Gasgoo,0.146676,Neutral,0.100566,0.617010
+20241107T211100,TSLA,"Lucid beats revenue estimates, reaffirms annual production",Reuters,0.286541,Somewhat-Bullish,0.111210,0.613779
+20241108T082643,TSLA,POSCO completes silicon anode material plant for secondary batteries,Daum,0.476292,Bullish,0.344952,0.669464
+20241108T162900,TSLA,"No, Elon Musk Is Not Acquiring Ford Motor Company",Ford Authority,0.131718,Neutral,0.138831,0.718356
+20241110T060700,TSLA,Hedge funds shorting Tesla just lost more than $5 billion,Fortune,0.075417,Neutral,0.483995,1.000000
+20241110T060700,TSLA,Hedge funds shorting Tesla just lost more than $5 billion,Fortune,0.044212,Neutral,0.429400,1.000000
+20241110T083600,TSLA,Ford responds to rumors about Elon Musk acquisition,MySA,0.04316,Neutral,0.107579,0.808617
+20241110T095500,TSLA,Can Xpeng Motors Eat Tesla’s Lunch in Humanoid Robots the Way BYD Did in EVs?,Barchart.com,0.027015,Neutral,0.145074,1.000000
+20241111T000000,TSLA,Wolfspeed laying off 20% of workforce,Manufacturing Dive,-0.181665,Somewhat-Bearish,-0.135998,0.606916
+20241111T045932,TSLA,"Ross Gerber, Cathie Wood Or Gary Black? Whose Funds Stack Up Against S&P 500's Gains In 2024?",TradingView — Track All Markets,0.194642,Somewhat-Bullish,-0.116813,0.616754
+20241112T054600,TSLA,Earnings call: Lincoln Tech reports strong Q3 growth and expansion plans,Investing.com,0.334983,Somewhat-Bullish,0.196013,0.614992
+20241112T170904,TSLA,"TSLP ETF Analysis: Dividends, Returns CBOE:TSLP",TradingView — Track All Markets,0.040488,Neutral,-0.051379,0.867184
+20241113T034414,TSLA,3 Great US Active ETFs for Stock Investors,Morningstar Canada,0.225072,Somewhat-Bullish,0.073669,0.635958
+20241113T045129,TSLA,Top Performing Leveraged/Inverse ETFs: 11/10/2024,ETF Database,0.303017,Somewhat-Bullish,0.315066,0.627791
+20241113T063500,TSLA,"Tesla recalls 2,431 Cybertrucks in sixth U.S. callback this year",Automotive News,-0.418536,Bearish,-0.413156,1.000000
+20241113T085255,TSLA,Top Performing Leveraged/Inverse ETFs: 11/10/2024,ETF Trends,0.393556,Bullish,0.409258,0.842960
+20241113T160921,TSLA,Top Performing Leveraged/Inverse ETFs: 11/10/2024,ETF Database,0.38133,Bullish,0.358152,0.784554
+20241114T000000,TSLA,"No, Elon Musk did not buy Ford Motor Co.",PolitiFact,-0.114568,Neutral,-0.112248,0.844180
+20241114T053902,TSLA,Fidelity Electric Vehicles and Future Transportation ETF Holdings,Quiver Quantitative,0.190888,Somewhat-Bullish,0.208025,0.855321
+20241114T082519,TSLA,"Proficient Auto Logistics, Inc SEC 10-Q Report",TradingView,0.134571,Neutral,0.114646,0.609243
+20241114T083034,TSLA,Rivian and Volkswagen Launch Joint Venture,Assembly Magazine,0.220098,Somewhat-Bullish,0.130504,0.605606
+20241114T083904,TSLA,"Tesla Cybertruck recalled for sixth time, may lose drive power",Green Car Reports,-0.620288,Bearish,-0.632998,1.000000
+20241115T031200,TSLA,Barclays Reaffirms Their Buy Rating on Aptiv (APTV),The Globe and Mail,0.270087,Somewhat-Bullish,0.130891,0.626613
+20241115T090855,TSLA,"No Trippin’: Trump Trade Pushes PSIL, VCAR Higher",ETF.com,0.436204,Bullish,0.435806,0.834147
+20241116T135235,TSLA,"TSLI ETF Analysis: Dividends, Returns XETR:TSLI",TradingView,-0.070026,Neutral,-0.094937,0.875028
+20241116T195304,TSLA,Trade Schwab Fundamental Emerging Markets Equity ETF - FNDE CFD,Capital.com,0.201981,Somewhat-Bullish,0.127202,0.612181
+20241117T000938,TSLA,ProShares Ultra 20+ Year Treasury (UBT) Stock Price Quote Today & Current Price Chart,Capital.com,0.185505,Somewhat-Bullish,0.104235,0.640387
+20241117T133958,TSLA,PIMCO Enhanced Short Maturity Active Exchange-Traded Fund (MINT) Stock Price Quote Today & Current Price Chart,Capital.com,0.20425,Somewhat-Bullish,0.122847,0.614043
+20241117T174000,TSLA,VictoryShares US EQ Income Enhanced Volatility Wtd ETF (CDC) Stock Price Quote Today & Current Price Chart,Capital.com,0.238393,Somewhat-Bullish,0.147473,0.639331
+20241118T080723,TSLA,"GM announces more layoffs, auto expert sees possible shift from EV production",CBS News,-0.203218,Somewhat-Bearish,-0.127605,0.636241
+20241118T181400,TSLA,Vanguard adds 3 funds to its ‘Investors Choice’ proxy voting program,Pensions & Investments,0.042364,Neutral,-0.185579,0.614545
+20241119T044500,TSLA,The Smartest Megacap Growth ETF to Buy With $500 Right Now,The Motley Fool,0.51871,Bullish,0.406279,0.632184
+20241119T074734,TSLA,California and Michigan lead the way in EV technician training,CBT News,0.185128,Somewhat-Bullish,0.238152,0.612505
+20241119T093000,TSLA,Elon Musk Just Teased Tesla’s ‘Most Memorable Product Unveil Ever’ with Roadster in Development and New ‘Electric Flying Car’,Barchart.com,0.493653,Bullish,0.475460,1.000000
+20241120T071100,TSLA,Is Tesla Setting Up for a Year-End Rebound—or a Collapse?,The Globe and Mail,0.042683,Neutral,0.036566,1.000000
+20241120T083904,TSLA,Examining Litigation Against Tesla,Law Street Media,-0.071369,Neutral,-0.251229,1.000000
+20241121T080040,TSLA,"Tesla robot toy sells out, prompting eBay frenzy",Automotive News,0.135578,Neutral,0.110405,0.712781
+20241121T163900,TSLA,Intuit's Stock Drops as Its Outlook Disappoints,Investopedia,-0.276326,Somewhat-Bearish,-0.123086,0.635135
+20241121T222100,TSLA,"US utilities want Trump, Republicans to save IRA tax credits, Edison CEO says",Reuters,0.15307,Somewhat-Bullish,-0.215427,0.602420
+20241122T000000,TSLA,AAPEX 2024: New Steering Racks and Upgraded Filter Housings From Dorman Products,autosphere.ca,0.318971,Somewhat-Bullish,0.248973,0.613149
+20241122T200200,TSLA,"Cathie Wood's ARK buys Teradyne and Ibotta, sells Tesla and Palantir stock",Investing.com,-0.171854,Somewhat-Bearish,-0.409787,0.749677
+20241125T000000,TSLA,Elon Musk and Trump Push for Self-Driving Cars: 3 Stocks to Gain,MarketBeat,0.211545,Somewhat-Bullish,0.191582,0.612730
+20241127T042126,TSLA,Top Performing Leveraged/Inverse ETFs: 11/24/2024,ETF Database,0.42068,Bullish,0.309145,0.751719
+20241127T200400,TSLA,Pony AI fetches $5.25 bln valuation as shares jump 15% in Nasdaq debut,Reuters,0.27972,Somewhat-Bullish,0.121858,0.625932
+20241128T000000,TSLA,Advanced Micro Devices (AMD) Faces Competition as Chinese Chips from Zhaoxin Close the Gap in AI Race,Yahoo Finance,-0.075035,Neutral,0.083924,0.645524
+20241128T075335,TSLA,"2025 GMC Sierra EV - Specs, Prices, Range, Reviews & Photos",Cars.com,0.139352,Neutral,0.137311,0.623835
+20241128T081952,TSLA,US Automotive Industry is Set to Fly High in Years to Come,openPR.com,0.401058,Bullish,0.408570,0.600515
+20241128T170859,TSLA,"Top KingWin (WAI) Stock Price, News & Analysis",MarketBeat,0.151135,Somewhat-Bullish,0.328936,0.581524
+20241130T114400,TSLA,"JPMorgan drops suit against Tesla over Musk tweet, warrants",Fortune,0.038917,Neutral,0.015842,0.341375

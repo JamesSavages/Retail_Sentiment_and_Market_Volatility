@@ -1,0 +1,32 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20230502T060000,TSLA,"REE Automotive Unveils P7-C Chassis Cab, a New Addition to",GlobeNewswire,0.453549,Bullish,0.307087,0.565805
+20230502T141600,TSLA,Ryder Introduces Electric Vehicle Service,Transport Topics,0.344874,Somewhat-Bullish,0.326325,0.633790
+20230502T205000,TSLA,Here’s How Some Unusual ETFs Performed Against the S&P 500,The Wall Street Journal,-0.229849,Somewhat-Bearish,-0.416500,0.714266
+20230502T223500,TSLA,Ford's profit rises on strong truck demand but EV outlook weighs,Reuters,0.049945,Neutral,-0.132137,0.800331
+20230505T094400,TSLA,"Who says water and electricity don’t mix? For today’s navies, their radars, weapons, and propulsion depend on it",Breaking Defense,0.582459,Bullish,0.532347,0.636139
+20230506T150902,TSLA,"Tradr 1.5X Short NVDA Daily ETF (NVDS) stock price, news, quote and history",Yahoo Finance Singapore,-0.115406,Neutral,-0.194918,0.579834
+20230510T003622,TSLA,Top 10 most successful EV charging businesses,EV Magazine,0.376981,Bullish,0.440558,0.858096
+20230510T005707,TSLA,The 3 Most Promising Lithium Mining Stocks for the EV Revolution,InvestorPlace,0.355707,Bullish,0.345563,0.630138
+20230510T151400,TSLA,3 Solid-State Battery Stocks for Electrifying Long-Term Gains,InvestorPlace,0.255625,Somewhat-Bullish,0.245451,0.626938
+20230511T083000,TSLA,"YieldMax™ Launches NVDY, the YieldMax™ NVDA Option Income Strategy ETF",GlobeNewswire,0.352733,Bullish,0.232709,0.605392
+20230512T173000,TSLA,"George Soros bet on railroads, fitness, gig economy and lightened load on Disney, Amazon, dumped Tesla",MarketWatch,-0.091257,Neutral,-0.409902,0.739787
+20230513T122754,TSLA,[증권상품 풍향계] 달러 파킹형 ETF 연이어 출시 주목,시사저널e,0.164925,Somewhat-Bullish,0.334398,0.831587
+20230515T011818,TSLA,Vehicle network startup Ethernovia raises $64 million,eeNews Europe,0.369715,Bullish,0.221048,0.589732
+20230518T000000,TSLA,Implications and Updates From China’s National People’s Conference,Global X ETFs,0.292302,Somewhat-Bullish,0.205443,0.600588
+20230518T000000,TSLA,The EV Revolution and Going Public in the US: IPO Edge Q&A with CEO Jake Dingle,Carbon Revolution,0.364627,Bullish,0.239759,0.594597
+20230518T131000,TSLA,GM's 2025 EV output could be crimped by battery bottleneck,Reuters,-0.177067,Somewhat-Bearish,-0.069116,0.596395
+20230518T143122,TSLA,Views From the Ground: Mexico,Global X ETFs,0.253822,Somewhat-Bullish,0.291947,0.604953
+20230522T000000,TSLA,Blue Bird is an EV Company that Actually Makes Money,MarketBeat,0.324679,Somewhat-Bullish,0.108614,0.616428
+20230523T000000,TSLA,4 Base Metal ETFs to Buy Right Now,Cabot Wealth Network,0.380288,Bullish,0.328266,0.606916
+20230523T005203,TSLA,New materials increase EV battery performance and protection,eeNews Europe,0.35421,Bullish,0.302180,0.649910
+20230523T161600,TSLA,Ford offers investors big bets but finds few takers,Reuters,0.119098,Neutral,0.014415,0.733765
+20230523T233934,TSLA,"Tradr 2X Long Innovation ETF ETF Price, Holdings, & News (NASDAQ:TARK)",MarketBeat,0.130093,Neutral,0.340844,0.641706
+20230524T011302,TSLA,Fort Collins-based Prieto Battery unveils 'game-changer': Battery can charge in 3 minutes,The Coloradoan,0.266718,Somewhat-Bullish,0.291257,0.599940
+20230524T011524,TSLA,Quanta Computer to invest US$1 billion in Mexico,Taipei Times,0.203812,Somewhat-Bullish,0.320058,0.623429
+20230524T212204,TSLA,강남 부자들이 줄섰다는데…年19% 배당에 차익 노리는 이 상품은,매일경제 마켓,0.17655,Somewhat-Bullish,-0.339424,0.636873
+20230525T004557,TSLA,Ford EV Customers To Gain Access to Tesla Superchargers,Ford,0.21779,Somewhat-Bullish,0.202002,0.815678
+20230525T011509,TSLA,Ford strikes deal with Tesla to gain access to rival charging stations starting 2024,Reuters,0.448385,Bullish,0.491622,1.000000
+20230525T040932,TSLA,ICZOOM Group (IZM) Short Interest & Short Float | Updated Dec 2025,MarketBeat,0.060211,Neutral,0.041953,0.628161
+20230530T011509,TSLA,"China was top market for Tesla Model Y, world's best-selling car in Q1",Reuters,0.182679,Somewhat-Bullish,0.410544,1.000000
+20230530T235746,TSLA,"For the First Time Ever, Single-Stock ETFs Will Close Soon",ETF Database,-0.271487,Somewhat-Bearish,-0.328010,0.928929
+20230531T003429,TSLA,American Express Is Approaching Generative AI Technology with Caution,PaymentsJournal,-0.111553,Neutral,-0.188918,0.619497

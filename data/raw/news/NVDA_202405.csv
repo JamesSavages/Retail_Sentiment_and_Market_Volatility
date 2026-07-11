@@ -1,0 +1,84 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20240501T000000,NVDA,Alphabet's First Dividend: What You Need to Know,Morningstar Canada,0.203316,Somewhat-Bullish,-0.109481,0.551690
+20240501T041500,NVDA,"Nvidia Could Help This Stock-Split ETF Turn $200,000 Into $1 Million in 10 Years",The Motley Fool,0.35144,Bullish,0.461821,0.913544
+20240501T141422,NVDA,"Super Micro suffers drop following outlook, AI-related stocks follow suit: update",Seeking Alpha,-0.258448,Somewhat-Bearish,-0.212033,0.849579
+20240501T141525,NVDA,Positive Tech Earnings Could Accelerate This Momentum ETF,ETF Trends,0.327315,Somewhat-Bullish,0.361992,0.701485
+20240501T171300,NVDA,"AMD AI chip revenue forecast fails to impress, shares dive 7%",Reuters,-0.107444,Neutral,0.130017,0.726715
+20240502T000000,NVDA,Consider This Award-Winning Disruptive Tech ETF,ETF Trends,0.230183,Somewhat-Bullish,0.316547,0.627834
+20240502T060000,NVDA,The 3 Best ETFs to Beat the S&P 500 Through 2030,InvestorPlace,0.374238,Bullish,0.334101,0.625238
+20240502T133124,NVDA,Astera Labs Inc call volume above normal and directionally bullish,TipRanks,0.368832,Bullish,0.316948,0.641802
+20240503T133811,NVDA,"AI In Chip Design Market Size, Share | CAGR of 31.4%",Market.us,0.339064,Somewhat-Bullish,0.406285,0.938845
+20240503T140440,NVDA,Who’s making chips for AI? Chinese manufacturers lag behind US tech giants,Nature,0.104453,Neutral,0.018409,0.323808
+20240504T140215,NVDA,Alchip says revenue to grow in 2026,Taipei Times,0.216645,Somewhat-Bullish,-0.213478,0.601066
+20240505T053919,NVDA,RND Stock Price | First Trust Bloomberg R&D Leaders ETF,Investing.com,0.216332,Somewhat-Bullish,-0.186180,0.652465
+20240506T000000,NVDA,NVIDIA and Alphabet’s Intrinsic Put Next-Gen Robotics Within Grasp,NVIDIA Blog,0.326421,Somewhat-Bullish,0.409006,1.000000
+20240506T140417,NVDA,Evolving AI GTM at NetApp | NetApp Blog,NetApp,0.309825,Somewhat-Bullish,0.408796,0.882029
+20240506T141149,NVDA,Rapid7 Earnings: What To Look For From RPD,The Globe and Mail,0.306732,Somewhat-Bullish,0.547396,0.614213
+20240506T150000,NVDA,"Can Palantir Stock be the Next NVIDIA, and Is It Worth Buying?",The Globe and Mail,0.072337,Neutral,0.276469,0.822187
+20240507T000000,NVDA,2 Great Large-Cap ETFs,Morningstar,0.305613,Somewhat-Bullish,0.257518,0.640833
+20240508T000000,NVDA,Amdocs Accelerates Generative AI Performance and Lowers Costs with NVIDIA NIM | NVIDIA Technical Blog,NVIDIA Developer,0.428941,Bullish,0.417588,0.805578
+20240508T000000,NVDA,Can Crowding Scores Quantify US Stocks’ Fragility?,MSCI,0.065376,Neutral,0.108926,0.637122
+20240508T140440,NVDA,"AI microservices level up with Red Hat, Nvidia partnership",SiliconANGLE,0.367312,Bullish,0.448160,1.000000
+20240508T234607,NVDA,"The market's attention is focused after Stanley Druckenmiller, a Wall Street billionaire investor, b..",매일경제,0.117616,Neutral,-0.245891,0.861644
+20240509T000000,NVDA,Roundhill Reaches $1B AUM Milestone,ETF.com,0.310565,Somewhat-Bullish,0.338732,0.624694
+20240509T101600,NVDA,"Nvidia, Micron and Super Micro among companies that shine in Wall Street’s ‘beat-and-raise’ game",MarketWatch,0.453251,Bullish,0.441231,0.811258
+20240509T130400,NVDA,The 3 Best ETFs to Buy in May 2024,InvestorPlace,0.381332,Bullish,0.339372,0.570922
+20240510T000000,NVDA,Should You Buy Nvidia Stock Before the AI Chipmaker Reports Earnings on May 22?,Barchart.com,0.124761,Neutral,0.247834,1.000000
+20240510T044342,NVDA,Missed Out on Nvidia? Buy the Invesco Semiconductors ETF (PSI) Instead.,www.sharewise.com,0.239109,Somewhat-Bullish,0.113480,0.832447
+20240510T090200,NVDA,"EPAM Q1 Earnings Beat, Shares Fall on Downbeat FY24 Guidance",Nasdaq,0.167967,Somewhat-Bullish,0.510585,0.639320
+20240510T153800,NVDA,"Nvidia's next-generation GPU revealed: integrating eight HBM 4, TSMC N3 process",富途牛牛,0.236158,Somewhat-Bullish,0.477385,0.987062
+20240510T201003,NVDA,Cloud and AI Service Provider DigitalOcean Stock Soars - Here's Why,Quantisnow,0.318492,Somewhat-Bullish,0.322873,0.647429
+20240514T000000,NVDA,"CaLLM, Cool and Connected: Cerence Uses Generative AI to Transform the In-Car Experience",NVIDIA Blog,0.705833,Bullish,0.741795,0.839164
+20240514T140002,NVDA,Autonomous Operations Could Threaten Intuitive Surgical's Moat in Robotic Surgery,Yahoo Finance,0.149464,Neutral,0.322537,0.606508
+20240514T140052,NVDA,3 Funds With Double-Digit Stakes in a Single Stock,Morningstar,0.124058,Neutral,0.143495,0.947242
+20240514T140417,NVDA,"NetApp refreshes storage hardware, software for AI era",Blocks and Files,0.312499,Somewhat-Bullish,0.348043,0.606096
+20240514T140417,NVDA,NetApp and Lenovo Offer Converged Infrastructure Solution Optimized for GenAI,NetApp,0.270985,Somewhat-Bullish,0.326863,0.898524
+20240514T140440,NVDA,NVIDIA to Help Elevate Japan’s Sovereign AI Efforts Through Generative AI Infrastructure Build-Out,NVIDIA Blog,0.489689,Bullish,0.497481,1.000000
+20240515T000000,NVDA,NetApp and Lenovo Offer Converged Infrastructure Solution Optimized for GenAI,Laotian Times,0.425017,Bullish,0.409216,0.824368
+20240515T000000,NVDA,"NVIDIA, Teradyne and Siemens Gather in the ‘City of Robotics’ to Discuss Autonomous Machines and AI",NVIDIA Blog,0.401188,Bullish,0.421502,0.913572
+20240515T000000,NVDA,NetApp Unveils Unified Data Storage Built for the AI Era,Laotian Times,0.360522,Bullish,0.314036,0.582801
+20240515T133731,NVDA,Two chip cos pull TASE upwards,Globes - Israel Business News,0.391033,Bullish,0.305238,0.708776
+20240515T135608,NVDA,Needle-Moving AI Research Trains Surgical Robots in Simulation,NVIDIA Blog,0.320783,Somewhat-Bullish,0.433363,0.862691
+20240515T140417,NVDA,NetApp’s partner-focused strategy: Analyzing the Partner Sphere program,SiliconANGLE,0.362216,Bullish,0.324179,0.631098
+20240516T135958,NVDA,Prioritizing partnerships pays off for Purdue,Purdue University,0.328425,Somewhat-Bullish,0.337459,0.615181
+20240516T144100,NVDA,Wall Street Favorites: 3 ETFs With Strong Buy Ratings for May 2024,InvestorPlace,0.480172,Bullish,0.506072,0.634516
+20240517T000000,NVDA,SoundHound AI Spotlights Voice AI Innovation at 2024 Viva Technology Conference,SoundHound,0.33247,Somewhat-Bullish,0.198609,0.643234
+20240520T000000,NVDA,This Might Just Be YieldMax’s Craziest ETF Yet (104.56% Dividend Yield),DataDrivenInvestor,0.270151,Somewhat-Bullish,0.305231,0.728796
+20240520T000000,NVDA,"Every Company to Be an ‘Intelligence Manufacturer,’ Declares NVIDIA CEO Jensen Huang at Dell Technologies World",NVIDIA Blog,0.307969,Somewhat-Bullish,0.404940,1.000000
+20240520T000000,NVDA,Liqid composability tech aims to turn Dell servers into GPU powerhouses,Blocks and Files,0.303032,Somewhat-Bullish,0.434341,0.823056
+20240520T071700,NVDA,7 Cheap Quantum Computing Stocks to Buy Now: May 2024,InvestorPlace,0.351898,Bullish,0.309583,0.726849
+20240520T133000,NVDA,5 Biggest Robotics ETFs,Investing News Network,0.322682,Somewhat-Bullish,0.307634,0.830118
+20240520T172100,NVDA,Three insights from theCUBE on latest news from NetApp,SiliconANGLE,0.393358,Bullish,0.312323,0.625161
+20240521T000000,NVDA,"Advanced Micro Devices to set up an R&D center in Taiwan, ministry says",Taipei Times,0.340266,Somewhat-Bullish,0.349044,0.648980
+20240521T143903,NVDA,IQM Stock Price | Franklin Intelligent Machines ETF,Investing.com,0.327808,Somewhat-Bullish,0.331183,0.726658
+20240522T000000,NVDA,NVIDIA Announces Financial Results for First Quarter Fiscal 2025,NVIDIA Newsroom,0.602988,Bullish,0.923474,1.000000
+20240522T065806,NVDA,"Trading Strategies For Nvidia Stock Before And After Q1 Earnings, A Top Holding In Spear Invest ETF (SPRX)",Sahm,0.265926,Somewhat-Bullish,0.330649,0.957306
+20240522T071600,NVDA,"Modine Manufacturing Stock Drops After Weak Quarterly Sales, Mixed Guidance",Investopedia,-0.035505,Neutral,0.108742,0.639016
+20240522T111000,NVDA,This Nvidia-heavy investing strategy has been outperforming the S&P 500,MarketWatch,0.295746,Somewhat-Bullish,0.443673,1.000000
+20240522T133200,NVDA,"From the Office to the Lab, Amgen Uses AI Tools to Unlock Innovation",Amgen,0.69124,Bullish,0.619738,0.625815
+20240522T140440,NVDA,Nvidia shares jump 4% as the AI boom fuels another blockbuster quarter and better-than-expected forecast,Fortune,0.335817,Somewhat-Bullish,0.483586,1.000000
+20240522T165800,NVDA,"HVAC Stock Tumbles On Earnings, Guidance Mixed Despite Increased AI Data Center Demand",Investor's Business Daily,0.122342,Neutral,0.426792,0.630852
+20240523T042500,NVDA,TSMC sees annual sales growth to reach 10% in semiconductor industry,Reuters,0.488602,Bullish,0.610328,0.871832
+20240523T104500,NVDA,"Nvidia Earnings Surge Pulls Up Nasdaq, Chip ETFs, and Others in AI Ecosystem",Investopedia,0.428521,Bullish,0.736355,1.000000
+20240524T000000,NVDA,Applied Materials scales AI chips as revenue stagnates,Manufacturing Dive,0.238954,Somewhat-Bullish,0.302252,0.610241
+20240524T083400,NVDA,"With the rise of Ethernet, Nvidia Infiniband is being encroached upon",富途牛牛,0.187513,Somewhat-Bullish,0.409767,0.972903
+20240524T141400,NVDA,SOXS ETF: iflas etmenin başka bir pahalı yolu,Invezz,0.535263,Bullish,0.710626,0.816851
+20240524T141422,NVDA,"AMD, Workday, Alibaba, Super Micro Computer, and Other Tech Stocks in Focus Today",Barron's,0.235569,Somewhat-Bullish,-0.134621,0.561316
+20240524T141535,NVDA,Druckenmiller Sold NVDA and Bought IWM: Should You?,ETF.com,0.103785,Neutral,0.245486,1.000000
+20240528T000000,NVDA,When You Should Consider Fundamentally Weighted ETFs,Morningstar,0.051317,Neutral,-0.149734,0.832418
+20240529T000000,NVDA,"The NVIDIA Spider Web, Pt. 1: Applied Materials and Lam Research",DataDrivenInvestor,0.32127,Somewhat-Bullish,0.331155,0.705534
+20240529T000000,NVDA,The Newest Diabetes Stock That’s Running!,StocksToTrade,0.308547,Somewhat-Bullish,0.106777,0.712498
+20240529T000000,NVDA,Data Center Powerplay: The Chips Have to Go Somewhere,Citigroup,0.342201,Somewhat-Bullish,0.445288,0.731169
+20240529T035128,NVDA,Top Performing Leveraged/Inverse ETFs: 05/26/2024,ETF Database,0.348262,Somewhat-Bullish,0.422480,0.744119
+20240529T054039,NVDA,Top Performing Leveraged/Inverse ETFs: 05/26/2024,ETF Trends,0.242786,Somewhat-Bullish,0.731345,0.917984
+20240529T083916,NVDA,Artificial Intelligence ETFs: Have They Beaten The Market In 2024?,TradingView,0.204695,Somewhat-Bullish,0.413050,0.802134
+20240529T133124,NVDA,Astera Labs Extends Interoperability Leadership Driving PCIe 6.x Deployment,StorageNewsletter,0.355971,Bullish,0.326313,0.641956
+20240529T133237,NVDA,Arbe Robotics (NASDAQ:ARBE): They Have the High Definition Radar Self Driving Enabling Chipset,The Wall Street Transcript,0.186908,Somewhat-Bullish,-0.116809,0.601580
+20240529T173700,NVDA,Samsung partner Corning enters glass substrate market as AI chips boom,Korea JoongAng Daily,0.271506,Somewhat-Bullish,0.203874,0.590125
+20240530T044429,NVDA,Why Investing Guru Jeremy Grantham’s New ETF Shuns Nvidia and Tesla Stock,Barron's,-0.030661,Neutral,-0.246048,0.840754
+20240530T110400,NVDA,"Stocks to Watch | Nvidia Stock: 4 Reasons to Buy, 4 Reasons to Sell",Sahm,-0.125947,Neutral,0.443263,1.000000
+20240530T170922,NVDA,Why Investing Guru Jeremy Grantham’s New ETF Shuns Nvidia and Tesla Stock,Barron's,0.083363,Neutral,-0.202685,0.845852
+20240531T130927,NVDA,TCW Transform 500 ETF Review and Aggregate Rating (VOTE),MarketBeat,0.38209,Bullish,0.392246,0.622876
+20240531T140417,NVDA,"NetApp Leads AI Innovation With Tech Partners Like Nvidia, Cisco, Lenovo: CEO George Kurian",CRN,0.314182,Somewhat-Bullish,0.307968,0.748761
+20240531T140911,NVDA,Data Centers Set to Consume 9% of U.S. Electricity by 2030,Crude Oil Prices Today | OilPrice.com,0.337998,Somewhat-Bullish,0.257249,0.573548
+20240531T141602,NVDA,Apple Supplier STMicroelectronics to Build $5.4 Billion Chip Plant in Italy,The Wall Street Journal,0.287437,Somewhat-Bullish,0.228542,0.608537

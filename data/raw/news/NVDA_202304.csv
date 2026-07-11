@@ -1,0 +1,51 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20230402T014506,NVDA,The 7 Best Robotics Stocks to Buy for Long-Term Growth,InvestorPlace,0.699402,Bullish,0.720712,0.829835
+20230402T040911,NVDA,"First Trust NASDAQ Clean Edge Smart Grid Infrastru (GRID) Stock Price, Holdings, Dividend Yield",GuruFocus,0.173119,Somewhat-Bullish,0.123206,0.642249
+20230402T060904,NVDA,QARP Stock Price | Xtrackers Russell 1000 US QARP ETF,Investing.com,0.328658,Somewhat-Bullish,0.314755,0.624846
+20230402T071311,NVDA,"GLOBAL X FDS (BOTZ) Stock Price, Holdings, Dividend Yield",GuruFocus,0.14452,Neutral,0.242896,0.809587
+20230402T131319,NVDA,JGRO Stock Price | Jpmorgan Active Growth ETF,Investing.com,0.290968,Somewhat-Bullish,0.326149,0.867819
+20230403T000000,NVDA,Best-Performing Stocks of Q1 2023,Morningstar,0.565744,Bullish,0.513996,0.834638
+20230403T014249,NVDA,3 Best Desktop Computers for Business from HP India,HP,0.301023,Somewhat-Bullish,0.289287,0.619861
+20230403T044354,NVDA,"iShares MSCI USA Quality Factor ETF (QUAL) Stock Price, Holdings, Dividend Yield",GuruFocus,0.25635,Somewhat-Bullish,0.302538,0.935103
+20230403T045136,NVDA,"ProShares Ultra QQQ 2x Shares (QLD) Stock Price, Holdings, Dividend Yield",GuruFocus,0.170901,Somewhat-Bullish,0.298347,0.806761
+20230403T055218,NVDA,"Schwab 1000 Index ETF (SCHK) Stock Price, Holdings, Dividend Yield",GuruFocus,0.258731,Somewhat-Bullish,0.273290,0.825570
+20230403T155242,NVDA,"State Street SPDR S&P Semiconductor ETF (XSD) Stock Price, Holdings, Dividend Yield",GuruFocus,0.215922,Somewhat-Bullish,0.201515,0.652338
+20230404T014908,NVDA,LG is creating new 4K and Ultrawide OLED displays with refresh rates of 240 Hz,TweakTown,0.324968,Somewhat-Bullish,0.245085,0.716780
+20230404T080914,NVDA,"Abrdn Total Dynamic Dividend Fund (AOD) Stock Live Price, Chart & News",CoinCodex,0.053405,Neutral,0.147495,0.643586
+20230404T111002,NVDA,"DoubleLine Mortgage ETF ETF Price, Holdings, & News (NYSEARCA:DMBS)",MarketBeat,0.176157,Somewhat-Bullish,0.160762,0.605869
+20230404T231005,NVDA,"JPMorgan U.S. Quality Factor ETF (JQUA) Stock Price, Holdings, Dividend Yield",GuruFocus,0.238035,Somewhat-Bullish,0.222699,0.614105
+20230404T235208,NVDA,"iShares Russell Top 200 Growth ETF (IWY) Stock Price, Holdings, Dividend Yield",GuruFocus,0.181104,Somewhat-Bullish,0.274133,0.820330
+20230405T013600,NVDA,"Google says its AI supercomputer is faster, greener than Nvidia A100 chip",Reuters,0.0037,Neutral,0.006381,0.307339
+20230405T050925,NVDA,"iShares MSCI USA Momentum Factor ETF (MTUM) Stock Price, Holdings, Dividend Yield",GuruFocus,0.250877,Somewhat-Bullish,0.346758,0.807791
+20230405T073925,NVDA,"PGIM High Yield Bond Fund, Inc. (ISD) Stock Forecast & Price Prediction 2026–2030",CoinCodex,-0.199078,Somewhat-Bearish,-0.308184,0.626383
+20230405T090943,NVDA,"Nuveen Pennsylvania Quality Municipal Income Fund (NQP) Stock Live Price, Chart & News",CoinCodex,0.117657,Neutral,0.146349,0.610891
+20230405T093950,NVDA,"Voya Global Advantage and Premium Opportunity Fund (IGA) Stock Live Price, Chart & News",CoinCodex,-0.118282,Neutral,-0.181392,0.612488
+20230405T123932,NVDA,"Locust Walk Acquisition Corp. (LWAC) Stock Live Price, Chart & News",CoinCodex,-0.131895,Neutral,-0.320159,0.555453
+20230405T150948,NVDA,"Bullpen Parlay Acquisition Company (BPAC) Stock Live Price, Chart & News",CoinCodex,0.160315,Somewhat-Bullish,-0.110818,0.622266
+20230405T175218,NVDA,EMBD Stock Price | Global X Emerging Markets Bond ETF,Investing.com,0.311105,Somewhat-Bullish,0.323294,0.610018
+20230405T181046,NVDA,"Green Visor Financial Technology Acquisition Corp. I (GVCI) Stock Live Price, Chart & News",CoinCodex,0.073387,Neutral,0.047642,0.639004
+20230405T195252,NVDA,"Flaherty & Crumrine Total Return Fund Inc. (FLC) Stock Live Price, Chart & News",CoinCodex,0.124606,Neutral,0.144938,0.616317
+20230405T231036,NVDA,"ProKidney Corp. (PROK) Stock Live Price, Chart & News",CoinCodex,0.16736,Somewhat-Bullish,0.126987,0.606668
+20230406T040246,NVDA,"iShares Global 100 ETF (IOO) Stock Price, Holdings, Dividend Yield",GuruFocus,0.20106,Somewhat-Bullish,0.205607,0.845952
+20230406T094115,NVDA,The Swiss Helvetia Fund Inc. (SWZ) Stock Forecast & Price Prediction 2026–2030,CoinCodex,-0.286162,Somewhat-Bearish,-0.305796,0.606139
+20230406T101026,NVDA,IBOT ETF: Question and Answer,VanEck,0.409282,Bullish,0.319451,0.605204
+20230406T161015,NVDA,"Tradr 1.5X Short NVDA Daily ETF (NVDS) News, Articles, Events & Latest Updates",Stocktwits,0.134158,Neutral,0.278069,0.917426
+20230407T012843,NVDA,Cadence Launches Cloud AI Tool to Shrink PCB Placement and Routing Times,All About Circuits,0.400672,Bullish,0.238584,0.569902
+20230407T210200,NVDA,"Qualcomm, Nvidia spar for top spot in AI chip efficiency tests",Reuters,0.180012,Somewhat-Bullish,-0.113619,0.977101
+20230410T000000,NVDA,2 Under-The-Radar Small Chip Stocks Poised For Big Growth,Entrepreneur,0.340504,Somewhat-Bullish,0.344855,0.708434
+20230410T175340,NVDA,Rebellions CEO aims to outrival Qualcomm within a decade,The Korea Economic Daily Global Edition,0.246424,Somewhat-Bullish,0.239624,0.745269
+20230411T144018,NVDA,DFEM Stock Price | Dimensional Emerging Markets Core Equity 2 ETF,Investing.com,0.271635,Somewhat-Bullish,-0.059444,0.577691
+20230413T014446,NVDA,Best Workplaces in Canada 2023: 1000+ employees,The Globe and Mail,0.315246,Somewhat-Bullish,0.260729,0.617807
+20230413T031800,NVDA,Alibaba's Hong Kong shares slump on SoftBank's stake sale report,Reuters,-0.095336,Neutral,0.130415,0.649581
+20230417T191020,NVDA,IBOT Stock Price | Vaneck Robotics ETF,Investing.com,0.082858,Neutral,0.104081,0.703425
+20230420T020730,NVDA,TSMC seeks $15B in U.S. support despite ‘unacceptable’ conditions,Fortune,-0.049828,Neutral,-0.086393,0.597611
+20230421T012356,NVDA,"Zacks Investment Ideas feature highlights: Nvidia, First Solar, Intuitive Surgical, Dexcom and Asure Software",TradingView,0.392678,Bullish,0.420722,0.788397
+20230421T015429,NVDA,Prime Minister Pashinyan receives the President and CEO of Nvidia company Jensen Huang,Վարչապետ,0.429238,Bullish,0.427272,1.000000
+20230421T202700,NVDA,PM Pashinyan receives the President and CEO of Nvidia company Jensen Huang,Armenpress,0.485577,Bullish,0.462382,1.000000
+20230422T163949,NVDA,New ETF Makes a Big Bet on Cleaning Up the Environment,NBC10 Philadelphia,0.227873,Somewhat-Bullish,0.229139,0.607223
+20230425T015151,NVDA,Cognitive Computing Brings Human Touch,Morgan Stanley,0.312324,Somewhat-Bullish,0.307572,0.805216
+20230425T015429,NVDA,"NVIDIA Enables Trustworthy, Safe, and Secure Large Language Model Conversational Systems",NVIDIA Developer,0.400254,Bullish,0.430931,1.000000
+20230425T015429,NVDA,Right on Track: NVIDIA Open-Source Software Helps Developers Add Guardrails to AI Chatbots,NVIDIA Blog,0.405038,Bullish,0.418092,1.000000
+20230425T015429,NVDA,Nvidia open-sources software to add guardrails to AI chatbots,SiliconANGLE,0.487806,Bullish,0.455215,1.000000
+20230426T060400,NVDA,"Alibaba Cloud cuts prices by up to 50% for core, storage products",Reuters,0.112506,Neutral,0.105283,0.747860
+20230429T011021,NVDA,"iShares U.S. Equity Factor Rotation Active ETF (DYNF) Stock Price, Holdings, Dividend Yield",GuruFocus,0.261055,Somewhat-Bullish,0.334235,0.617383

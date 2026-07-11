@@ -1,0 +1,108 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20240602T000000,NVDA,Computer Industry Joins NVIDIA to Build AI Factories and Data Centers for the Next Industrial Revolution,NVIDIA,0.479697,Bullish,0.816992,1.000000
+20240602T000000,NVDA,"‘Accelerate Everything,’ NVIDIA CEO Says Ahead of COMPUTEX",NVIDIA Blog,0.539358,Bullish,0.829418,1.000000
+20240602T083000,NVDA,"Nvidia dominates the AI chip market, but there's more competition than ever",CNBC,0.047491,Neutral,0.007251,0.336919
+20240602T131039,NVDA,"NVIDIA Enables Real-Time Healthcare, Industrial and Scientific AI Applications at the Edge With Enterprise Software Support for NVIDIA IGX With Holoscan",Nvidia investor,0.3154,Somewhat-Bullish,0.429753,1.000000
+20240602T131040,NVDA,"Foxconn Trains Robots, Streamlines Assembly With NVIDIA AI and Omniverse",NVIDIA Blog,0.018296,Neutral,0.005499,0.341282
+20240602T131040,NVDA,"NVIDIA NIM Revolutionizes Model Deployment, Now Available to Transform World’s Millions of Developers Into Generative AI Developers",NVIDIA Investor Relations,0.408722,Bullish,0.836032,1.000000
+20240602T131040,NVDA,NVIDIA Brings AI Assistants to Life With GeForce RTX AI PCs,NVIDIA Investor Relations,0.291771,Somewhat-Bullish,0.408915,1.000000
+20240602T131040,NVDA,NVIDIA Robotics Adopted by Industry Leaders for Development of Tens of Millions of AI-Powered Autonomous Machines,NVIDIA Newsroom,0.343038,Somewhat-Bullish,0.483118,1.000000
+20240602T132249,NVDA,NVIDIA Robotics Adopted by Industry Leaders for Development of Tens of Millions of AI-Powered Autonomous Machines,Nvidia Investor Relations,0.407293,Bullish,0.511976,0.988577
+20240603T000000,NVDA,AMD-Nvidia ETFs in Focus Amid New Chip Introductions,Yahoo Finance,0.40645,Bullish,0.482909,0.921360
+20240603T032700,NVDA,"AMD announces new AI chips amid intensifying competition with Nvidia, Intel",CNBC,0.23774,Somewhat-Bullish,0.282743,0.815666
+20240603T075800,NVDA,大模型，正在排队寻求卖身,新浪网,0.1739,Somewhat-Bullish,0.229106,0.742840
+20240603T222300,NVDA,Rockwell Automation expands AI collaboration with Nvidia to include mobile robots,The Business Journals,0.410935,Bullish,0.438195,0.830755
+20240604T110600,NVDA,Cisco Live Day 1 news brings together networking and security,SiliconANGLE,0.307824,Somewhat-Bullish,0.337067,0.601336
+20240604T124045,NVDA,"AMD, TSMC to produce new chips",Taipei Times,0.342747,Somewhat-Bullish,0.216587,0.649896
+20240604T124100,NVDA,Which AI Stocks Are Turning Hype Into Revenue?,Morningstar,0.276686,Somewhat-Bullish,0.475589,0.931841
+20240604T130712,NVDA,估值1000亿，辍学90后华裔天才，刚刚融了72亿,新浪财经,0.245477,Somewhat-Bullish,0.330599,0.872208
+20240604T220600,NVDA,5 things you need to know before nvidia's stock split.,富途牛牛,0.270442,Somewhat-Bullish,0.403829,1.000000
+20240605T124530,NVDA,HotStocks USA: +41% bei WalkMe,stock3,0.148176,Neutral,0.276280,0.895922
+20240605T132010,NVDA,Supermicro Introduces Rack Scale Plug-and-Play Liquid-Cooled AI SuperClusters for NVIDIA Blackwell and NVIDIA HGX H100/H200,HPCwire,0.269123,Somewhat-Bullish,0.326656,0.907355
+20240605T165000,NVDA,Nvidia surpasses Apple to become the second-largest public company in the US,CNN,0.015632,Neutral,0.025977,0.317182
+20240606T065803,NVDA,VanEck Semiconductor ETF (SMH) 2024 Holdings and Performance Recap,VanEck,0.448609,Bullish,0.620734,0.915351
+20240606T123913,NVDA,"REX AI Equity Premium Income ETF (AIPI) Stock Price, Quote, News & History",Benzinga,0.254107,Somewhat-Bullish,0.430933,0.892527
+20240606T124138,NVDA,Cathie Wood's Ark missed Nvidia tech rally but eyes other AI wins,InvestmentNews,0.07833,Neutral,0.406216,0.953392
+20240606T124547,NVDA,Bit Digital offers AI cloud services alongside its Bitcoin mining operations,Proactive financial news,0.378718,Bullish,0.312217,0.640707
+20240606T124833,NVDA,Core Scientific rejects CoreWeave acquisition offer,Data Center Dynamics,0.213711,Somewhat-Bullish,0.124559,0.621865
+20240606T130534,NVDA,Is Life360 still an opportunity after shares have surged?,Morningstar Australia,0.145256,Neutral,0.304067,0.608013
+20240606T132010,NVDA,Nvidia’s Huang champions Supermicro’s direct liquid cooling tech,Taipei Times,0.318321,Somewhat-Bullish,0.345141,0.934505
+20240606T132417,NVDA,TSMC Shares Hit Record High as AI Demand Boosts Chip Industry,The Wall Street Journal,0.613302,Bullish,0.519572,0.620421
+20240606T150100,NVDA,Nvidia overtakes Apple as No. 2 most valuable company,Reuters,0.215471,Somewhat-Bullish,0.445070,1.000000
+20240606T223600,NVDA,Arista releases Etherlink platforms for AI networking focused on large clusters,SiliconANGLE,0.405096,Bullish,0.328174,0.628135
+20240607T071500,NVDA,Is Super Micro Computer a Top Artificial Intelligence (AI) Stock to Buy Right Now?,The Motley Fool,-0.078176,Neutral,0.296720,0.846165
+20240607T124045,NVDA,NVIDIA and AMD Make Their Next Move in the AI Chip War,InvestorPlace,0.243469,Somewhat-Bullish,0.322752,0.913210
+20240610T000000,NVDA,Mitigate Concentration Risk With Equal Weight ETF EQL,ETF Trends,0.088962,Neutral,-0.129374,0.601564
+20240610T081100,NVDA,Hoth Therapeutics Announces Joint Development Agreement with Wise Systems International SRL to Utilize Artificial Intelligence for Drug Discovery,PR Newswire,0.383406,Bullish,0.344931,0.818766
+20240610T124059,NVDA,ANET Stock – A Pure Play on Data Center Growth,Nanalyze,0.146622,Neutral,0.223619,0.912850
+20240610T132010,NVDA,"If You'd Invested $1,000 in Super Micro Computer Stock 5 Years Ago, Here's How Much You'd Have Today",Nasdaq,0.426145,Bullish,0.344048,0.749471
+20240610T134200,NVDA,"S&P 500: If you didn't bet on US stocks, 'then you look like a moron'",Fortune,0.061238,Neutral,0.217343,0.673505
+20240611T000000,NVDA,Top Performing Leveraged/Inverse ETFs: 06/09/2024,ETF Trends,0.426346,Bullish,0.474012,0.907196
+20240611T000000,NVDA,What Does Nvidia’s Stock Split Mean for Investors?,Morningstar,0.195158,Somewhat-Bullish,0.405093,1.000000
+20240611T074041,NVDA,Nvidia's Stock Split Could Spell Upside For Spear Alpha ETF's (SPRX) Top Holding,Investing.com UK,0.545418,Bullish,0.730407,0.948462
+20240611T123852,NVDA,Apple execs explain why its AI is different from competitors,CNBC,0.182013,Somewhat-Bullish,0.119584,0.558909
+20240611T131155,NVDA,OpenAI Selects Oracle Cloud Infrastructure to Extend Microsoft Azure AI Platform,Oracle,0.347433,Somewhat-Bullish,0.284545,0.605437
+20240612T124145,NVDA,Arrow Electronics and NVIDIA Collaborate on New AI-Based Steering System for SAM Car,Yahoo Finance,0.412386,Bullish,0.425067,0.893737
+20240612T145900,NVDA,South Korean AI chip developers Rebellions and Sapeon to merge,Reuters,0.204415,Somewhat-Bullish,0.326250,0.867179
+20240613T113000,NVDA,3 Stocks to Buy in the Wake of Nvidia’s 10-for-1 Split,InvestorPlace,0.300756,Somewhat-Bullish,0.543718,0.956234
+20240614T035300,NVDA,"SOXX: See 'Red' On Semiconductor Stocks, High Risk/High Reward",Seeking Alpha,0.117801,Neutral,0.322539,0.896740
+20240614T124045,NVDA,AMD Confident About Increasing Market Share In India,Entrepreneur,0.361531,Bullish,0.341197,0.610129
+20240614T125806,NVDA,This Stock Is About to Get an AI Boost. No One Is Paying Attention—Yet.,Barron's,0.38919,Bullish,0.402482,0.710606
+20240614T131521,NVDA,Semiconductors Hit Record Highs As Industry Reaches $6.3 Trillion: 5 Chip Stocks That Outpaced Nvidia This Week,TradingView,0.401475,Bullish,0.431574,1.000000
+20240617T000000,NVDA,3 Great Funds for the Class of 2024,Morningstar,0.310257,Somewhat-Bullish,0.267404,0.603359
+20240617T000000,NVDA,Trade the AI Trend With This Pair of Leveraged ETFs,ETF Trends,0.308334,Somewhat-Bullish,0.424882,0.740873
+20240617T045213,NVDA,Trade the AI Trend With This Pair of Leveraged ETFs,ETF Trends,0.235492,Somewhat-Bullish,0.440022,0.872010
+20240617T053034,NVDA,Trade the AI Trend With This Pair of Leveraged ETFs,ETF Trends,0.470586,Bullish,0.715885,0.817108
+20240617T112741,NVDA,SK Hynix patents-owned Mimir IP files complaint against Micron,The Korea Economic Daily Global Edition,-0.064307,Neutral,0.225365,0.865184
+20240617T125119,NVDA,DigitalOcean Appoints Bratin Saha as Chief Product and Technology Officer,citybiz,0.258293,Somewhat-Bullish,0.122847,0.574406
+20240617T155500,NVDA,Broadcom just keeps getting bigger as it’s deemed best AI stock besides Nvidia,MarketWatch,0.423372,Bullish,0.326091,0.612283
+20240618T000000,NVDA,Light Bulb Moment: NVIDIA CEO Sees Bright Future for AI-Powered Electric Grid,NVIDIA Blog,0.317496,Somewhat-Bullish,0.444997,0.953446
+20240618T000000,NVDA,"Nvidia Becomes Most Valuable Public Company, Topping Microsoft (Published 2024)",The New York Times,0.169773,Somewhat-Bullish,0.800567,1.000000
+20240618T061700,NVDA,Nvidia becomes world's most valuable company,Reuters,0.021846,Neutral,0.013793,0.330886
+20240618T132837,NVDA,A major tech ETF is set to load up on Nvidia at the expense of Apple,Finimize,0.250165,Somewhat-Bullish,0.444665,0.997249
+20240618T154347,NVDA,Nvidia set to overtake Apple in $72 billion technology ETF shakeup after its monster 164% rally this year,markets.businessinsider.com,0.196016,Somewhat-Bullish,0.412233,0.970266
+20240618T174400,NVDA,Nvidia eclipses Microsoft as world's most valuable company,VOA - Voice of America English News,0.311503,Somewhat-Bullish,0.471938,1.000000
+20240618T184400,NVDA,Nvidia becomes world’s most valuable company amid AI boom,The Guardian,0.347635,Somewhat-Bullish,0.804564,1.000000
+20240618T194400,NVDA,Nvidia surpasses Microsoft to become the world’s most valuable company,SiliconANGLE,0.243519,Somewhat-Bullish,0.948534,1.000000
+20240619T000000,NVDA,"Nvidia becomes world’s most valuable company, dethroning Microsoft",Al Jazeera,0.330871,Somewhat-Bullish,0.945547,1.000000
+20240619T000000,NVDA,Nvidia beats Microsoft to become world's most valuable company,BBC,0.421535,Bullish,0.899328,1.000000
+20240619T105300,NVDA,"Nvidia Beats Apple, Microsoft to Become Most Valuable Company On Earth",ProPakistani,0.169926,Somewhat-Bullish,0.904127,1.000000
+20240619T124152,NVDA,"US wants Netherlands, Japan to further restrict chipmaking equipment to China",Reuters,0.037679,Neutral,0.112079,0.742726
+20240619T125959,NVDA,Hewlett Packard Enterprise hosts first conference at Sphere,AV Magazine,0.327982,Somewhat-Bullish,0.330537,0.839235
+20240619T132501,NVDA,Former TSMC and UMC leadership unite to chart future semiconductor ecosystem,digitimes,0.209634,Somewhat-Bullish,0.313077,0.637767
+20240619T230951,NVDA,iShares Expanded Tech Sector ETF Trade Ideas — AMEX:IGM,TradingView,0.445059,Bullish,0.400549,0.729805
+20240620T000000,NVDA,3 ETFs to Watch as Tech Looks Unlikely to Slow Down,ETF Trends,0.382924,Bullish,0.409622,0.704709
+20240620T073000,NVDA,Here’s why AMD’s stock was just dubbed a top pick,MarketWatch,0.164764,Somewhat-Bullish,0.131442,0.730280
+20240620T073000,NVDA,Here’s why AMD’s stock was just dubbed a top pick,MarketWatch,0.112091,Neutral,-0.130344,0.608091
+20240620T164100,NVDA,Semiconductor cycle: Going up or down?,The Edge Singapore,0.153213,Somewhat-Bullish,0.412693,0.953940
+20240620T170000,NVDA,Not all semiconductor ETFs are the same. What investors need to know before betting on Nvidia and other chip stocks.,MarketWatch,0.156813,Somewhat-Bullish,0.328624,0.864592
+20240620T170000,NVDA,Not all semiconductor ETFs are the same. What investors need to know before betting on Nvidia and other chip stocks.,MarketWatch,0.087597,Neutral,0.268834,0.846399
+20240621T075000,NVDA,3 Vegan Stocks to Buy Now: June 2024,Nasdaq,0.255484,Somewhat-Bullish,0.308089,0.640377
+20240621T130816,NVDA,How Nvidia surpassed Microsoft and Apple to become world’s most valuable company,Bobsguide,0.329421,Somewhat-Bullish,0.818967,1.000000
+20240621T132558,NVDA,3 Vegan Stocks to Buy Now: June 2024,InvestorPlace,0.143765,Neutral,0.125056,0.609132
+20240623T122200,NVDA,"IWF Is a Great Choice for Most, But I Like VUG ETF Better",The Globe and Mail,0.196895,Somewhat-Bullish,0.222821,0.619684
+20240624T024200,NVDA,"AOSL is a new GB200 supplier, leading beneficiaries of NVIDIA's process certification changes",TweakTown,0.313468,Somewhat-Bullish,0.314283,0.902668
+20240624T094500,NVDA,"Nvidia ETFS NVD, NVDQ Jump as Chipmaker Weighs Down QQQ, USD, SHOC",ETF.com,0.033176,Neutral,-0.404289,0.852677
+20240624T131937,NVDA,What’s new in Azure app service at Build 2024: Key announcements and features,INDOlink,0.294386,Somewhat-Bullish,0.336656,0.827974
+20240625T000000,NVDA,"DIGIASIA's Digi Tech Secures 5,120 NVIDIA H200 GPUs for AI Solutions",FinTech Magazine,0.20614,Somewhat-Bullish,0.415555,1.000000
+20240625T064100,NVDA,Here Are 5 Things Smart Investors Should Know About Broadcom's Upcoming 10-for-1 Stock Split,Nasdaq,0.309587,Somewhat-Bullish,0.318107,0.613119
+20240625T094000,NVDA,"Tech, AI Drive $12.2B Inflows Into Growth ETFs, Marking Record Outperformance Over Value",Quantisnow,0.381245,Bullish,0.347828,0.622203
+20240625T124600,NVDA,"Anthony Denier, President of Webull - Building a $7Bn Disruptor, Expanding US Markets Access Globally, What Makes a Great Trader",Fintech Leaders | Miguel Armaza,0.493848,Bullish,0.527324,0.607415
+20240625T130239,NVDA,Wall Street Favorites: 3 ETFs With Strong Buy Ratings for June 2024,InvestorPlace,0.084421,Neutral,0.118956,0.653834
+20240626T000000,NVDA,"What Exactly Does NVIDIA Do, and Why Should You Care?",CX Today,0.336436,Somewhat-Bullish,0.883618,1.000000
+20240626T000000,NVDA,Intel Demonstrates First Fully Integrated Optical I/O Chiplet,Intel Newsroom,0.501034,Bullish,0.326477,0.631080
+20240626T003955,NVDA,"The Nightview Fund ETF Price, Holdings, & News (NYSEARCA:NITE) $NITE",MarketBeat,0.113864,Neutral,0.105200,0.689319
+20240626T090000,NVDA,Bit Origin Ltd Provides Updates on Collaborations with Aethir,KRON4,0.392614,Bullish,0.349696,0.644844
+20240627T000000,NVDA,What Does Chipotle’s Stock Split Mean for Investors?,Morningstar,0.131635,Neutral,0.119638,0.623590
+20240627T000000,NVDA,Why Blue Chips Are Ripe for Growth Investing,ETF Trends,0.343465,Somewhat-Bullish,0.328213,0.615616
+20240627T000000,NVDA,What’s the Secret Sauce in this High-Income Fund?,Morningstar Canada,0.307351,Somewhat-Bullish,0.415114,0.647115
+20240627T000000,NVDA,A Shakeup for Technology ETFs,ETF Trends,0.00046,Neutral,0.019436,0.887310
+20240627T095855,NVDA,The Case for Investing in a Capital Appreciation ETF,ETF Trends,0.248983,Somewhat-Bullish,0.147413,0.600981
+20240627T124159,NVDA,ASE to open US testing fab next month,Taipei Times,0.368089,Bullish,0.320834,0.634459
+20240627T125543,NVDA,New York Community Bank Plans 1-for-3 Reverse Stock Split in July,Investopedia,0.035504,Neutral,0.029514,0.575163
+20240627T131841,NVDA,Nvidia CEO Huang's multibillion-dollar charitable windfall puts philanthropic strategy in focus,InvestmentNews,0.075658,Neutral,0.247498,1.000000
+20240627T142800,NVDA,Micron tumbles as AI revenue surge falls short of lofty expectations,Reuters,0.014506,Neutral,0.348338,0.631594
+20240627T221523,NVDA,FBCG ETF – Not Compelled To Buy (BATS:FBCG),Seeking Alpha,-0.079603,Neutral,0.146428,0.642390
+20240628T123900,NVDA,The garbage car of the future is a fact (VIDEO) ᐉ News from Fakti.bg - Technozone,Fakti.bg,0.442225,Bullish,0.348155,0.720575
+20240628T172741,NVDA,South Korea sets sights on fostering EDA tech to win HBM chip war,The Korea Economic Daily Global Edition,0.160102,Somewhat-Bullish,0.138577,0.609651
+20240630T040000,NVDA,3 ETFs to Buy for Nvidia Stock Dominance,InvestorPlace,0.27274,Somewhat-Bullish,0.306294,0.886999

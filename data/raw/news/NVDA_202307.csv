@@ -1,0 +1,40 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20230703T094900,NVDA,Apple makes history as first $3 trillion company amid tech stock surge,Reuters,0.31468,Somewhat-Bullish,0.541377,0.604092
+20230703T152520,NVDA,Growth-Stock Funds Fly High but Fall Short in 2023′s First Half,Morningstar,0.222536,Somewhat-Bullish,0.307165,0.617545
+20230705T070942,NVDA,ProShares Ultra S&P500 Review and Aggregate Rating (SSO) $SSO,MarketBeat,0.244581,Somewhat-Bullish,0.216668,0.848593
+20230706T145005,NVDA,"HIVE Blockchain Rebrands, Leveraging The Breakthrough Of AI",CryptoRank,0.376908,Bullish,0.307074,0.634840
+20230706T225453,NVDA,"ASE, Amkor, UMC and Samsung Getting a Slice of the CoWoS Market from AI Chips, Challenging TSMC",TrendForce,0.268843,Somewhat-Bullish,0.321232,0.700755
+20230706T232358,NVDA,"Nvidia AI Tech Ramps Up Carbon Capture & Storage Predictions 700,000x",CarbonCredits.com,0.449135,Bullish,0.401417,1.000000
+20230707T232358,NVDA,"4 questions for Danny Shapiro, Nvidia's head of automotive marketing",The Business Journals,0.343974,Somewhat-Bullish,0.314134,1.000000
+20230708T053915,NVDA,FIAX ETF Stock Price History,Investing.com,-0.258299,Somewhat-Bearish,-0.318311,0.639830
+20230708T155220,NVDA,Dimensional U.S. Core Equity 2 ETF Review and Aggregate Rating (DFAC),MarketBeat,0.299106,Somewhat-Bullish,0.328600,0.622556
+20230710T000000,NVDA,Advanced Micro Devices Inc. – More market share gains expected,StocksBNB,0.33724,Somewhat-Bullish,0.237848,0.613990
+20230711T154100,NVDA,Semiconductor Stocks Are Hot -- So Is Their Long-Term Outlook,ETF Trends,0.354899,Bullish,0.496053,0.834704
+20230712T145005,NVDA,"HIVE Rebrands, Announces Expansion Into Cloud Computing Services",Bitcoin Magazine,0.24901,Somewhat-Bullish,0.422035,0.841718
+20230713T000000,NVDA,Aehr Reports Record Revenue and Profit for Fiscal 2023 and Guides for Over 50% Increase in Revenue for Fiscal 2024 on Strength from Semiconductor Wafer Level Test and Burn-in Demand,Aehr Test Systems,0.448111,Bullish,0.339071,0.558434
+20230713T000000,NVDA,NVIDIA Drives Performance Gap Between AI Funds,ETF Trends,0.372607,Bullish,0.505039,0.932393
+20230713T133909,NVDA,Principal Focused Blue Chip ETF Holdings,Quiver Quantitative,0.241298,Somewhat-Bullish,0.216124,0.608662
+20230714T141100,NVDA,"Fortinet’s stock nabs record closing high, while Microsoft, Nvidia, Broadcom bids all fall short",MarketWatch,0.13433,Neutral,-0.110741,0.737163
+20230717T091200,NVDA,"Nvidia’s stock could have a pathway to $600, Citi says",MarketWatch,0.23634,Somewhat-Bullish,0.418103,0.910902
+20230717T110100,NVDA,A breakdown of the changes to the Nasdaq-100 and what it means for mega-cap tech stocks,CNBC,0.083674,Neutral,0.136969,0.711254
+20230717T232841,NVDA,Preparing for Upcoming QQQ Changes,ETF Trends,0.148577,Neutral,0.125194,0.684220
+20230717T233929,NVDA,Why the Nasdaq 100 may not capture the full growth potential of AI,The Armchair Trader,0.212869,Somewhat-Bullish,0.344494,0.834803
+20230718T180919,NVDA,QIS Chart | Simplify Multi-Qis Alternative ETF,Investing.com,-0.11299,Neutral,-0.301152,0.898656
+20230718T232142,NVDA,Microsoft and Meta expand their AI partnership with Llama 2 on Azure and Windows,The Official Microsoft Blog,0.56812,Bullish,0.327570,0.637841
+20230719T225454,NVDA,Samsung primed for graphics chip leadership with GDDR7,KED Global,0.262034,Somewhat-Bullish,0.203156,0.689726
+20230720T101000,NVDA,Nasdaq Is Reducing the Influence of Giant Tech Firms in a Popular Stock Market Index,Money,0.215138,Somewhat-Bullish,0.232641,0.833437
+20230720T130000,NVDA,Startup Cerebras Takes on Nvidia With Chain of AI Supercomputers,Bloomberg.com,-0.393305,Bearish,-0.353354,1.000000
+20230721T152800,NVDA,Applied Materials: Excessive AI Hype Drives Semiconductor Stock Overvaluation,Seeking Alpha,-0.268693,Somewhat-Bearish,0.119529,0.606022
+20230724T070600,NVDA,"Nvidia is ‘dominating’ and could unlock $300 billion in AI revenue by 2027, analyst says",MarketWatch,0.172857,Somewhat-Bullish,0.456692,1.000000
+20230724T154818,NVDA,KT invests over $11 mn in AI software company Moreh,KED Global,0.153006,Somewhat-Bullish,0.334028,0.835214
+20230724T231728,NVDA,NVIDIA Names Melissa Lora to Board of Directors,NVIDIA Newsroom,0.157737,Somewhat-Bullish,0.288122,0.969500
+20230725T225506,NVDA,New YieldMax ETF Seeks Synthetic Covered Call Strategy on Amazon,ETF Trends,0.262965,Somewhat-Bullish,0.209671,0.623340
+20230726T092000,NVDA,"Micron Delivers Industry's Fastest, Highest-Capacity HBM to Advance Generative AI Innovation",TechPowerUp,0.440509,Bullish,0.405566,0.802959
+20230726T232330,NVDA,ServiceNow adds new features to its Now Assist generative AI assistant,CIO,0.334154,Somewhat-Bullish,0.203287,0.607556
+20230726T232330,NVDA,ServiceNow CEO Bill McDermott: Generative AI Could Boost Global GDP By Almost $7 Trillion,CRN,0.424964,Bullish,0.498779,0.867375
+20230727T201025,NVDA,"ICZOOM Group Inc. (IZM) Stock Live Price, Chart & News",CoinCodex,-0.023781,Neutral,0.115794,0.621259
+20230727T225459,NVDA,"No Better Time Than Now to Work in Biotech, Amgen CEO Tells Summer Interns",Amgen,0.398054,Bullish,0.310951,0.645540
+20230727T230735,NVDA,One in ten retail investors using Chat GPT-style AI to help pick and manage investments,eToro,0.196163,Somewhat-Bullish,0.303116,0.628147
+20230727T231655,NVDA,Mutual Fund Top Trumps – TMT,Fund Selector Asia,0.195558,Somewhat-Bullish,0.228395,0.599539
+20230727T233653,NVDA,UMC forecasts utilization rate to fall to 65%,Taipei Times,-0.341948,Somewhat-Bearish,-0.346461,0.601533
+20230728T101800,NVDA,U.S. chipmaker AMD to invest $400 million in India by 2028,Reuters,0.251389,Somewhat-Bullish,-0.136225,0.574606

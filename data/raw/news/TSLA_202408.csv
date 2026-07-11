@@ -1,0 +1,37 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20240801T145500,TSLA,VinFast Delays Production After North Carolina Seizes Property for Factory Site,Reason Magazine,-0.148088,Neutral,0.059993,0.602830
+20240802T111112,TSLA,How Eli Lilly went from pharmaceutical slowpoke to $791 billion juggernaut,Fortune,0.238169,Somewhat-Bullish,0.101307,0.605725
+20240805T180942,TSLA,ETF Opportunities Trust - T-Rex 2X Inverse Tesla Daily Target ETF,CMLviz,0.060565,Neutral,0.109790,1.000000
+20240806T112928,TSLA,Tesla testing 320+ kw output with Superchargers and Cybertruck,Green Car Reports,0.210592,Somewhat-Bullish,0.226973,1.000000
+20240806T152200,TSLA,"Tesla to fix 1.7 mln vehicles in China, says market regulator",Reuters,-0.201555,Somewhat-Bearish,-0.234108,1.000000
+20240807T000000,TSLA,Albemarle says help is needed to beat China,Business North Carolina,-0.121047,Neutral,0.046291,0.640459
+20240807T160000,TSLA,Future Vehicles Spotlight: 3 Reasons to Buy CARZ ETF on the Dip,InvestorPlace,0.160427,Somewhat-Bullish,0.237853,0.720102
+20240808T000000,TSLA,Tesla Electric partners with SunRun to bolster Texas grid,Green Car Reports,0.271836,Somewhat-Bullish,0.709248,0.994373
+20240808T000000,TSLA,ECD Automotive Design Reveals One-Off Custom All-Electric Jaguar Series III E-Type Restomod,Top Speed,0.095836,Neutral,0.182715,0.556547
+20240808T000000,TSLA,"Citron Research has been charged by the SEC with market manipulation, including shares of Freedom Holding",European Business Magazine,-0.395133,Bearish,-0.107727,0.615853
+20240808T000000,TSLA,Sunrun storage attachment rate jumps to 54% as CEO cheers rising VPP potential,Utility Dive,0.354005,Bullish,0.347255,0.705689
+20240808T103300,TSLA,"China auto market hits milestone as EVs, hybrids make up half of July sales",Reuters,0.228753,Somewhat-Bullish,0.278440,0.639923
+20240808T105315,TSLA,ChargePoint Eliminates EV Charging Connector Confusion with Omni Port Adaptable Charging Solution,Business Wire,0.252467,Somewhat-Bullish,0.243982,0.743692
+20240809T091900,TSLA,"WeRide May Seek Up to $400 Million in US IPO, Placement",Transport Topics,0.172494,Somewhat-Bullish,0.123983,0.649157
+20240809T104629,TSLA,China reaches milestone with over 50% of July vehicle sales as electric or hybrid,CBT News,0.077574,Neutral,0.110960,0.618199
+20240811T111739,TSLA,ON Semiconductor Corporation (ON): A Humanoid Robot Stock Approved by Morgan Stanley?,Yahoo Finance,0.208801,Somewhat-Bullish,0.344587,0.639778
+20240812T142500,TSLA,Enphase Energy’s Level 2 home EV chargers now come with NACS connectors,Electrek,0.310457,Somewhat-Bullish,0.125466,0.643110
+20240813T112928,TSLA,Trump and Musk discussed firing striking workers. The UAW is now seeking an NLRB investigation,PBS,-0.307437,Somewhat-Bearish,-0.344726,1.000000
+20240814T142700,TSLA,"1,000% stock increase: The story behind Eli Lilly’s pharmaceutical dominance",CTech,0.316291,Somewhat-Bullish,0.127321,0.643211
+20240815T000000,TSLA,Wall Street Just Got Its Most Volatile ETF as Risky Bets Boom,AdvisorHub,0.145347,Neutral,0.043539,0.620911
+20240816T111536,TSLA,Why Is Nio Stock Down 55% Despite Surging Deliveries?,Forbes,-0.32813,Somewhat-Bearish,-0.272128,0.712786
+20240816T180400,TSLA,Yield Max TSLA Option Income Strategy ETF: One Of The Worst Constructed Covered Call Funds,Seeking Alpha,-0.666597,Bearish,-0.601136,0.838011
+20240819T193800,TSLA,US Gives Tiny Canadian Firm Electra $20 Million to Build Cobalt Plant,Bloomberg.com,0.41423,Bullish,0.303887,0.618135
+20240821T105643,TSLA,Can-Am Announces The Launch Of Its Pulse And Origin Electric Motorcycles,Canadian Manufacturing,0.299926,Somewhat-Bullish,0.125469,0.583469
+20240822T134500,TSLA,Nine-figure podcast deals are back. Will it go any better this time?,Sherwood News,0.053862,Neutral,-0.429917,0.828628
+20240823T174400,TSLA,Tesla's steep price reductions are fueling used eletric vehicle sales,Business Standard,0.302011,Somewhat-Bullish,0.340481,0.905625
+20240825T000000,TSLA,Canada’s Cobalt Cache: Pentagon Invests US$20 Million on Electra Battery Materials,CarbonCredits.com,0.347019,Somewhat-Bullish,0.218598,0.637782
+20240826T112928,TSLA,Longtime Tesla finance VP bids farewell,WardsAuto,-0.211314,Somewhat-Bearish,-0.227944,1.000000
+20240826T171100,TSLA,This ETF Could Be the Easiest Way to Own the Future of AI,The Globe and Mail,0.337896,Somewhat-Bullish,0.303825,0.733900
+20240827T112928,TSLA,Tesla suit challenging ban on direct car sales revived by court,San Antonio Express-News,0.147222,Neutral,0.335164,1.000000
+20240828T000000,TSLA,"Milei, Elon Musk and the Lithium Triangle",Monthly Review,0.191386,Somewhat-Bullish,0.341233,0.919918
+20240828T103000,TSLA,"Lotus slashes 2024 sales forecast as EU, U.S. tariffs on EVs take hold",Automotive News,-0.192193,Somewhat-Bearish,-0.337221,0.603685
+20240828T114200,TSLA,Lotus slashes delivery target over tariffs on Chinese-made EVs,The Detroit News,-0.296442,Somewhat-Bearish,-0.205169,0.627598
+20240830T112928,TSLA,"Musk, Tesla win dismissal of Dogecoin 'pyramid scheme' suit",InvestmentNews,-0.061985,Neutral,0.139418,0.972141
+20240830T160300,TSLA,Tesla to unveil its robotaxi at Warner Bros. movie studio in October,Fortune,0.274438,Somewhat-Bullish,0.325696,1.000000
+20240831T044015,TSLA,"TSLW: Roundhill TSLA WeeklyPay ETF Latest Stock Price, Analysis, News and Trading Ideas",Stocktwits,-0.140134,Neutral,-0.215485,0.807124

@@ -1,0 +1,61 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20230201T030546,TSLA,CEO longevity pays off for JPMorgan Chase’s Jamie Dimon and other chiefs of World’s Most Admired Companies,Fortune,0.142538,Neutral,-0.499789,0.736281
+20230201T033535,TSLA,"NIO, XPeng, and Li Auto Deliveries Struggle in January. The Stocks Rise Anyway.",Barron's,-0.073795,Neutral,-0.183453,0.627219
+20230201T035235,TSLA,"Tesla Investors Lost $12 Billion After Musk Tweet, Experts Tell Jury",Transport Topics,-0.438407,Bearish,-0.448447,1.000000
+20230201T100800,TSLA,Geely’s Lotus going public via SPAC at US$5.4 billion valuation,The Business Times,0.210167,Somewhat-Bullish,0.115789,0.644548
+20230201T122500,TSLA,Rivian to lay off 6% of its workforce as EV price war concerns grow,CNBC,-0.173367,Somewhat-Bearish,-0.243546,0.705376
+20230201T162741,TSLA,A battle may be shaping up between the two richest men in the world over who controls the luxury electric car market,Fortune,0.181022,Somewhat-Bullish,0.093425,0.877287
+20230202T000000,TSLA,Ten Questions About the Disruptive Materials at the Center of the Clean Energy Transition,Global X ETFs,0.325609,Somewhat-Bullish,0.296425,0.635938
+20230202T032315,TSLA,General Motors Files to Trademark ‘GM Financial Insurance Company’ Name,Insurance Journal,0.246638,Somewhat-Bullish,0.116710,0.645234
+20230202T120900,TSLA,Enphase (ENPH) introduces bi-directional EV charging for an all-in-one solar home energy system,Electrek,0.316157,Somewhat-Bullish,0.226407,0.433066
+20230203T092700,TSLA,Tesla sales of China-made electric vehicles up 18% in January,Reuters,0.401203,Bullish,0.438185,1.000000
+20230204T210924,TSLA,"State Street Consumer Discretionary Select Sector SPDR ETF (XLY) Stock Price, Holdings, Dividend Yield",GuruFocus,0.344768,Somewhat-Bullish,0.312185,0.811044
+20230206T101500,TSLA,Why Tesla Suddenly Raised Model Y Prices After Suddenly Lowering Them,The Autopian,0.025409,Neutral,0.146506,0.906455
+20230207T210000,TSLA,Hertz has fewer Teslas in its fleet than planned,Reuters,-0.107233,Neutral,-0.332554,0.866086
+20230208T030640,TSLA,Cathie Wood's Ark Invest has loaded up on these 2 small-cap names for the last 7 trading sessions,markets.businessinsider.com,0.245786,Somewhat-Bullish,0.120550,0.613449
+20230209T032250,TSLA,GM reaches computer chip supply deal with GlobalFoundries,CBS News,0.237654,Somewhat-Bullish,0.133863,0.631779
+20230209T032315,TSLA,General Motors signs deal with GlobalFoundries for exclusive U.S. semiconductor production,CNBC,0.339012,Somewhat-Bullish,0.318684,0.648737
+20230210T032540,TSLA,"Buy Hertz Stock. It’s Cheap, Well-Run, and Renting Teslas.",Barron's,0.354583,Bullish,0.317744,0.608156
+20230213T035154,TSLA,Toyota’s CEO-to-be outlines leadership team bullish on EVs,AP News,0.268666,Somewhat-Bullish,0.147155,0.632753
+20230213T142300,TSLA,"Class 8 Truck Sales Reach 19,932 in January",Transport Topics,0.296928,Somewhat-Bullish,0.138329,0.648084
+20230215T031547,TSLA,These Stocks Are Leading the Growth Rebound,Morningstar,0.463985,Bullish,0.502026,0.713339
+20230215T032539,TSLA,"bp plans to invest $1 billion in EV charging across US by 2030, helping to meet demand from Hertz’s expanding EV rentals",bp global,0.369142,Bullish,0.316518,0.649417
+20230215T035355,TSLA,US Foods Takes Initial Delivery of Battery-Electric Trucks,The EV Report,0.097306,Neutral,0.094811,0.559600
+20230215T070500,TSLA,Tesla opens its EV charging network to the masses,E&E News by POLITICO,0.224706,Somewhat-Bullish,0.471274,1.000000
+20230216T032456,TSLA,How Detroit’s Big Three cashed in on coachbuilders,Hagerty,0.09095,Neutral,-0.143872,0.545448
+20230216T035235,TSLA,"Tesla workers at New York plant fired after labor push, union says",PBS,-0.402999,Bearish,-0.433079,1.000000
+20230216T035235,TSLA,"Tesla Fires Unionizing Autopilot Workers, Complaint Alleges",Transport Topics,-0.085512,Neutral,-0.290025,1.000000
+20230217T035235,TSLA,"Regulators force Tesla to recall 363,000 'Full Self-Driving' vehicles",PBS,-0.434288,Bearish,-0.423221,1.000000
+20230217T063900,TSLA,Musk undercuts Biden’s pro-worker climate push,E&E News by POLITICO,-0.448566,Bearish,-0.429784,1.000000
+20230217T114200,TSLA,Lithium miner Sigma jumps on report Tesla considering buyout,Reuters,0.356123,Bullish,0.308118,0.924480
+20230217T123400,TSLA,"Tesla recalls 362,000 U.S. vehicles over Full Self-Driving software",Reuters,-0.427134,Bearish,-0.385645,1.000000
+20230220T080500,TSLA,Tesla Consider The Acquisition Of Logistics Mining Company Sigma Lithium Corp,VOI.id,0.387698,Bullish,0.322458,0.943013
+20230221T032526,TSLA,Tesla appoints former Dish Network attorney as general counsel,| Governance Intelligence,0.173908,Somewhat-Bullish,0.315922,1.000000
+20230221T034535,TSLA,Resources Top 5: Elon Musk’s Tesla continues battery metals buying spree,Stockhead,0.171439,Somewhat-Bullish,0.301818,0.864301
+20230221T064900,TSLA,"EV maker Nio to build 1,000 battery-swap stations in China in 2023",Reuters,0.142196,Neutral,-0.247374,0.647079
+20230221T101500,TSLA,My Lucid (LCID) Stock Price Prediction for 2025,InvestorPlace,-0.098838,Neutral,-0.231030,0.839281
+20230221T131800,TSLA,"Tesla may get into the lithium-mining business, and these stocks are cratering",MarketWatch,-0.168303,Somewhat-Bearish,0.135248,0.826055
+20230222T034453,TSLA,Sunrun Solar Installations Topple Record Set by Tesla’s SolarCity,Energy Connects,0.209912,Somewhat-Bullish,0.119925,0.721256
+20230222T060000,TSLA,Gentherm Reports 2022 Fourth Quarter and Full Year Results; Provides Strategic Update with 2026 Outlook,GlobeNewswire,0.241135,Somewhat-Bullish,0.213137,0.625437
+20230222T143400,TSLA,Tesla to Open HQ in Palo Alto Less than Two Years After Loudly Ditching California,The San Francisco Standard,0.328801,Somewhat-Bullish,0.331629,1.000000
+20230223T030520,TSLA,The EV transition needs lithium. Can a decommissioned mine help provide it?,Tech Brew,0.344,Somewhat-Bullish,0.331257,0.724004
+20230223T030859,TSLA,2023 Clean200,As You Sow,0.409449,Bullish,0.424934,0.588976
+20230223T034658,TSLA,"Vertical Integration is all the Rage in the EV Industry, is Musk the New Ford?",InvestorNews,0.312124,Somewhat-Bullish,0.339946,0.935723
+20230223T034838,TSLA,S&P Global Mobility: February 2023 US auto sales holding the line,S&P Global,0.354555,Bullish,0.313219,0.722236
+20230223T035843,TSLA,"TikTok, Angry Birds, Zoom to Appear on Touchscreen in Newest Mercedes",Business Insider,0.016402,Neutral,-0.340960,0.624267
+20230223T085100,TSLA,Tesla to open global engineering HQ in Palo Alto,The Almanac,0.296028,Somewhat-Bullish,0.492578,1.000000
+20230223T101400,TSLA,7 Super Speculative Stocks That Could Make You Very Rich,InvestorPlace,0.348657,Somewhat-Bullish,0.344728,0.682902
+20230223T152500,TSLA,Lucid tumbles on dour forecast as Tesla's price war takes toll,Reuters,-0.320397,Somewhat-Bearish,-0.434825,0.865076
+20230224T032505,TSLA,"Top Stories This Week: Gold M&A Spree Continues, Tesla Mulls Bid for Lithium Company",Investing News Network,0.321649,Somewhat-Bullish,0.345726,0.926828
+20230224T034033,TSLA,POSCO Chemical Rebrands as POSCO Future M,ChemAnalyst,0.358522,Bullish,0.307831,0.674682
+20230224T114400,TSLA,"Nio plans new 40 GWh battery plant in Hefei, report says",CnEVPost,0.202252,Somewhat-Bullish,0.109293,0.601514
+20230226T031634,TSLA,EVs will still get a break when DTE switches to new electric rates in March: What to know,Detroit Free Press,0.214821,Somewhat-Bullish,0.151074,0.632761
+20230227T033230,TSLA,"From McDonald’s to Ralph Lauren, U.S. Companies Are Planning China Expansions",The Wall Street Journal,0.261002,Somewhat-Bullish,-0.246874,0.603411
+20230227T034838,TSLA,S&P Global Mobility Recognizes General Motors as Top Manufacturer; Tesla as Top Make in its 27th Annual Automotive Loyalty Awards,S&P Global,0.35477,Bullish,0.300767,0.921146
+20230227T034838,TSLA,"Tesla takes customer loyalty title from Ford, ending Dearborn automaker's 12-year streak",Detroit Free Press,0.106017,Neutral,0.301296,0.912532
+20230227T034932,TSLA,SpaceX could soon be getting its steel from South Korea,Drive Tesla Canada,-0.130636,Neutral,-0.119681,0.648009
+20230227T043200,TSLA,Who is Xpeng and why should you be excited about its expansion into Europe?,Pocket-lint,0.140777,Neutral,0.107376,0.630285
+20230227T052000,TSLA,Cisco works with Mercedes-Benz to create mobile office,Reuters,0.198039,Somewhat-Bullish,0.109691,0.561478
+20230227T111100,TSLA,Arbe Robotics: Buy The Rumour (NASDAQ:ARBE),Seeking Alpha,0.240373,Somewhat-Bullish,0.299976,0.741041
+20230228T115211,TSLA,XLY Top Holdings List & Exposure (Consumer Discretionary Select Sector SPDR Fund),MarketBeat,0.067072,Neutral,0.070537,0.847149
+20230228T221304,TSLA,IQM Top Holdings List & Exposure (Franklin Intelligent Machines ETF),MarketBeat,0.124199,Neutral,0.134808,0.616309

@@ -173,6 +173,21 @@ def main() -> None:
     print(f"[panel] date range: {panel['date'].min()} .. {panel['date'].max()}")
     print(f"[panel] columns: {list(panel.columns)}")
 
+    # ---- Analysis-sample summary (rows usable for RQ2-RQ4) ----
+    # A ticker-day is usable only if it has both the target and a sentiment value.
+    has_sent = panel["news_sent_wmean"].notna() if "news_sent_wmean" in panel else False
+    has_target = panel["rv_next"].notna() if "rv_next" in panel else False
+    usable = panel[has_sent & has_target] if "news_sent_wmean" in panel else panel.iloc[0:0]
+    print("\n[analysis-sample] rows with sentiment + target (RQ2-RQ4 usable):")
+    print(f"  total usable ticker-days : {len(usable)}")
+    if len(usable):
+        print(f"  tickers with sentiment   : {usable['symbol'].nunique()}")
+        print("  usable ticker-days per symbol:")
+        for sym, cnt in usable["symbol"].value_counts().sort_index().items():
+            print(f"    {sym:6s} {cnt:5d}")
+    else:
+        print("  (none yet - run collect_news_sentiment.py to populate sentiment)")
+
 
 if __name__ == "__main__":
     main()

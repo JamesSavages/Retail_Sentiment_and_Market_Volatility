@@ -14,8 +14,15 @@ NOTE ON ACCESS: the public stream is recent-only and rate limited; it may return
 Endpoint:
     https://api.stocktwits.com/api/2/streams/symbol/<SYMBOL>.json?max=<message_id>
 
+PRIVACY: no user-identifying fields are retained. The API returns a user object
+(id, username, follower count), but persisting it would allow individual users to
+be profiled, which the study's ethics statement rules out. Only the message id,
+timestamp, symbol, body text and the self-tagged sentiment label are stored, and
+all downstream analysis is either message-level-anonymous or aggregated to the
+ticker-day. See also strip_user_fields() for cleaning any legacy files.
+
 Output: data/raw/stocktwits/<TICKER>.csv
-    columns: id, created_at, symbol, body, sentiment_basic, user_id, user_followers
+    columns: id, created_at, symbol, body, sentiment_basic
 
 Run (safe to re-run; it merges, not overwrites):
     uv run src/collect_stocktwits.py
@@ -41,17 +48,27 @@ def _parse_messages(payload: dict, symbol: str) -> list[dict]:
         sent = entities.get("sentiment")
         if isinstance(sent, dict):
             sentiment = sent.get("basic")  # "Bullish" / "Bearish"
-        user = m.get("user") or {}
+        # The API also returns m["user"] (id, username, followers). It is
+        # deliberately NOT captured -- see the PRIVACY note in the module
+        # docstring. Do not reinstate these fields.
         rows.append({
             "id": m.get("id"),
             "created_at": m.get("created_at"),
             "symbol": symbol,
             "body": (m.get("body") or "").replace("\n", " ").strip(),
             "sentiment_basic": sentiment,
-            "user_id": user.get("id"),
-            "user_followers": user.get("followers"),
         })
     return rows
+
+
+# Fields that must never persist to disk (legacy files may still contain them).
+USER_FIELDS = ["user_id", "user_followers", "username", "user_name"]
+
+
+def strip_user_fields(df: pd.DataFrame) -> pd.DataFrame:
+    """Drop any user-identifying columns inherited from earlier collection runs."""
+    drop = [c for c in df.columns if c in USER_FIELDS]
+    return df.drop(columns=drop) if drop else df
 
 
 def fetch_ticker(symbol: str, pages: int) -> pd.DataFrame:
@@ -87,10 +104,11 @@ def merge_and_save(symbol: str, new_df: pd.DataFrame) -> tuple[int, int]:
     """Union new messages with any existing file; de-dup by id. Returns (total, labelled)."""
     out = C.RAW_ST / f"{symbol}.csv"
     if out.exists():
-        old = pd.read_csv(out)
+        old = strip_user_fields(pd.read_csv(out))
         combined = pd.concat([old, new_df], ignore_index=True)
     else:
         combined = new_df
+    combined = strip_user_fields(combined)
     combined = combined.drop_duplicates(subset="id").reset_index(drop=True)
     combined.to_csv(out, index=False)
     labelled = combined["sentiment_basic"].notna().sum()

@@ -4,14 +4,31 @@ Assemble the modelling panel (one row per ticker-day) from the raw sources.
 For each ticker-day it computes:
   * the PRIMARY TARGET  -> next-day realized volatility  rv_next  (t+1)
   * price-based controls -> log_return, realized volatility (t), log volume
+  * HAR components -> rv (daily), rv_w (weekly, 5d), rv_m (monthly, 22d)
   * StockTwits sentiment features (recent sample) -> counts, bullish ratio,
     Antweiler-Frank bullishness and agreement indices, sentiment dispersion
   * Alpha Vantage news sentiment features (historical) -> mean relevance-weighted
-    ticker sentiment, article count
+    ticker sentiment, article count, zero-attention flag
 
 Volatility is estimated from daily OHLC (no intraday needed) using a range-based
 estimator selected in config (Parkinson by default; Garman-Klass or rolling std
 also available).
+
+TIMING / LEAKAGE CONVENTION
+    rv_t is computed from day t's high and low, so it is observable at the close
+    of day t. The target is rv_{t+1}. Every predictor in this panel is therefore
+    restricted to information dated <= t, and the HAR components deliberately
+    INCLUDE day t (rv_w = mean of rv over t-4..t) rather than being shifted.
+    src/validate_panel.py enforces this with a point-in-time reconstruction test.
+
+ZERO-ATTENTION CONVENTION
+    A trading day on which Alpha Vantage returned no articles for a ticker is a
+    genuine LOW-ATTENTION observation, not a missing one, so it is recorded as
+    news_article_count = 0, news_sent_wmean = 0.0 (neutral), news_missing = 1.
+    This is applied ONLY to tickers in config.NEWS_TICKERS, i.e. tickers that
+    were actually queried. For every other ticker no request was ever made, so
+    the news columns stay NaN -- recording a zero there would fabricate a
+    negative observation from an absence of collection.
 
 Output: data/processed/panel.csv
 
@@ -27,6 +44,10 @@ import pandas as pd
 
 sys.path.append(str(Path(__file__).resolve().parents[1]))
 import config as C  # noqa: E402
+
+# HAR aggregation windows (trading days), inclusive of day t.
+HAR_WEEK = 5
+HAR_MONTH = 22
 
 
 # ----------------------------------------------------------------------
@@ -66,8 +87,16 @@ def build_price_panel() -> pd.DataFrame:
         # lagged controls (what the market already knew at t)
         df["rv_lag1"] = df["rv"].shift(1)
         df["abs_return"] = df["log_return"].abs()
+
+        # HAR (heterogeneous autoregressive) components. These windows END at t
+        # and include it, because rv_t is known at the close of day t while the
+        # target is t+1. Corsi's HAR specification is:
+        #     rv_{t+1} = b0 + b_d*rv_t + b_w*rv_t^(w) + b_m*rv_t^(m) + e
+        df["rv_w"] = df["rv"].rolling(HAR_WEEK, min_periods=HAR_WEEK).mean()
+        df["rv_m"] = df["rv"].rolling(HAR_MONTH, min_periods=HAR_MONTH).mean()
+
         frames.append(df[["symbol", "date", "close", "log_return", "abs_return",
-                           "log_volume", "rv", "rv_lag1", "rv_next"]])
+                           "log_volume", "rv", "rv_lag1", "rv_w", "rv_m", "rv_next"]])
     return pd.concat(frames, ignore_index=True)
 
 
@@ -164,6 +193,26 @@ def main() -> None:
 
     panel = price.merge(news, on=["symbol", "date"], how="left")
     panel = panel.sort_values(["symbol", "date"]).reset_index(drop=True)
+
+    # ---- Zero-attention convention (see module docstring) ----------------
+    # Only tickers we actually queried can have a *meaningful* zero. For every
+    # other ticker the absence of news reflects absence of collection, so the
+    # news columns must stay NaN.
+    queried = panel["symbol"].isin(C.NEWS_TICKERS)
+    no_articles = queried & panel["news_article_count"].isna()
+
+    panel["news_missing"] = np.where(queried, no_articles.astype("int8"), np.nan)
+    panel.loc[no_articles, "news_article_count"] = 0
+    panel.loc[no_articles, "news_sent_wmean"] = 0.0
+
+    # Attention proxy. log1p is used so that a zero-article day maps to 0 rather
+    # than to -inf; this is only well defined now that zero days are retained.
+    panel["log_articles"] = np.log1p(panel["news_article_count"])
+
+    n_recovered = int(no_articles.sum())
+    print(f"[panel] zero-attention days recorded for {len(C.NEWS_TICKERS)} queried "
+          f"tickers: {n_recovered} ticker-days set to article_count=0")
+
     # Safety net: drop any column that is entirely empty in the current window.
     panel = panel.dropna(axis=1, how="all")
 
@@ -174,19 +223,32 @@ def main() -> None:
     print(f"[panel] columns: {list(panel.columns)}")
 
     # ---- Analysis-sample summary (rows usable for RQ2-RQ4) ----
-    # A ticker-day is usable only if it has both the target and a sentiment value.
-    has_sent = panel["news_sent_wmean"].notna() if "news_sent_wmean" in panel else False
-    has_target = panel["rv_next"].notna() if "rv_next" in panel else False
-    usable = panel[has_sent & has_target] if "news_sent_wmean" in panel else panel.iloc[0:0]
-    print("\n[analysis-sample] rows with sentiment + target (RQ2-RQ4 usable):")
-    print(f"  total usable ticker-days : {len(usable)}")
-    if len(usable):
-        print(f"  tickers with sentiment   : {usable['symbol'].nunique()}")
-        print("  usable ticker-days per symbol:")
-        for sym, cnt in usable["symbol"].value_counts().sort_index().items():
-            print(f"    {sym:6s} {cnt:5d}")
-    else:
-        print("  (none yet - run collect_news_sentiment.py to populate sentiment)")
+    # A ticker-day is usable when every model input and the target are present.
+    # HAR needs rv_m, so the first 21 trading days of each ticker drop out.
+    if "news_sent_wmean" not in panel:
+        print("\n[analysis-sample] (none yet - run collect_news_sentiment.py)")
+        return
+
+    required = ["news_sent_wmean", "log_articles", "rv", "rv_w", "rv_m", "rv_next"]
+    usable = panel[panel["symbol"].isin(C.NEWS_TICKERS)].dropna(subset=required)
+
+    # Reported for comparison with the pre-fix figure quoted in earlier drafts.
+    strict = usable[usable["news_missing"] == 0]
+
+    print("\n[analysis-sample] RQ2-RQ4 usable ticker-days")
+    print(f"  ANALYSIS SAMPLE (incl. zero-attention days) : {len(usable)}")
+    print(f"    of which days with >=1 article            : {len(strict)}")
+    print(f"    of which zero-attention days              : {len(usable) - len(strict)}")
+    print(f"  distinct tickers                            : {usable['symbol'].nunique()}")
+    print(f"  distinct trading dates                      : {usable['date'].nunique()}")
+    print("\n  per symbol (usable / with-article / zero-attention):")
+    for sym in sorted(usable["symbol"].unique()):
+        u = usable[usable["symbol"] == sym]
+        w = int((u["news_missing"] == 0).sum())
+        print(f"    {sym:6s} {len(u):5d} {w:6d} {len(u) - w:6d}")
+
+    print("\n  NOTE: quote the ANALYSIS SAMPLE figure above in the report; the "
+          "price panel row count is a separate, larger number.")
 
 
 if __name__ == "__main__":

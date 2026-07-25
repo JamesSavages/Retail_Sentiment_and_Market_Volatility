@@ -1,0 +1,45 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20230103T000000,META,A Brutal Year in the Markets Doesn’t Rattle ETF Investors,Morningstar,-0.178244,Somewhat-Bearish,-0.344436,0.638034
+20230103T035902,META,Apple’s market value drops below $2 trillion,Al Jazeera,-0.193536,Somewhat-Bearish,-0.106114,0.605792
+20230103T120200,META,Meta acquires 3D printed optics firm Luxexcel for undisclosed amount,www.tctmagazine.com,0.376762,Bullish,0.439475,0.913775
+20230103T235143,META,"First Trust Dow Jones Internet Index Fund (FDN) Stock Price, Holdings, Dividend Yield",GuruFocus,0.055146,Neutral,0.014104,0.713486
+20230104T041031,META,Salesforce to cut 10% of workforce in latest tech layoffs,Al Jazeera,0.163056,Somewhat-Bullish,0.149871,0.729121
+20230104T092600,META,Salesforce to lay off 10% of workforce to cut costs amid economic downturn,Fox Business,-0.282556,Somewhat-Bearish,-0.276733,0.635798
+20230105T035902,META,Apple brings AI narration to audiobooks,SiliconANGLE,0.175437,Somewhat-Bullish,-0.146074,0.592344
+20230105T062400,META,"Amazon to cut 18,000 jobs as layoffs expand in tech sector",Reuters,-0.257867,Somewhat-Bearish,-0.308761,0.666393
+20230105T094100,META,Meta must face U.S. copyright lawsuit over Facebook ads,Reuters,-0.311221,Somewhat-Bearish,-0.314966,1.000000
+20230106T042848,META,WSJ News Exclusive | KKR Picking Up Manhattan Office Space Vacated by Facebook,The Wall Street Journal,0.088652,Neutral,-0.217926,0.802532
+20230109T161500,META,U.S. Supreme Court lets Meta's WhatsApp pursue 'Pegasus' spyware suit,Reuters,0.239633,Somewhat-Bullish,0.302621,1.000000
+20230110T043234,META,Meta Says New Ad-Targeting System Won't Discriminate Against People,Business Insider,0.256396,Somewhat-Bullish,0.251646,1.000000
+20230111T041254,META,Trump Facebook ban: Will the social media platform reinstate former president after two-year ban?,ABC7 Chicago,0.031785,Neutral,0.039627,0.927296
+20230111T043234,META,DOJ Provides Settlement Update with Meta Over Allegedly Discriminatory Housing Advertising Practices,Consumer Financial Services Law Monitor,-0.427536,Bearish,-0.447246,1.000000
+20230111T044341,META,Stocks waver as traders eye US inflation and interest rates,Philstar.com,0.312785,Somewhat-Bullish,0.407896,0.639785
+20230112T043234,META,Meta faces a future of more legal woes and falling revenues,DW.com,-0.256572,Somewhat-Bearish,-0.676084,1.000000
+20230113T043234,META,"Meta plans to sublease Seattle office, backs out of Bellevue project",The Business Journals,-0.435399,Bearish,-0.401583,1.000000
+20230114T212300,META,"Families joined in lawsuit targeting social media as addictive, harmful to teens",The National Desk,-0.378442,Bearish,-0.404464,0.839618
+20230117T000000,META,SoundHound axes nearly 50% of staff less than a year after IPO,Music Business Worldwide,-0.171086,Somewhat-Bearish,-0.229675,0.713717
+20230118T000000,META,How to Find Stocks Poised to Outperform,Morningstar,0.04772,Neutral,-0.216776,0.712536
+20230118T035400,META,Take a Global View with This ETF,Stock Investor,0.179381,Somewhat-Bullish,0.196769,0.687947
+20230118T041254,META,Trump Could Screw Over His Own Social Media Company If He Returns To Twitter,Mother Jones,-0.214166,Somewhat-Bearish,-0.115315,0.741908
+20230118T043357,META,"Microsoft to shed 10,000 jobs, adding to glut of tech layoffs",Reuters,-0.23768,Somewhat-Bearish,-0.215060,0.603305
+20230118T044644,META,Author: Bhagya Ayyavoo,INDOlink,0.127742,Neutral,0.141392,0.637887
+20230118T092500,META,Israel's Cognyte won tender to sell intercept spyware to Myanmar before coup -documents,Reuters,-0.49135,Bearish,-0.341802,0.641755
+20230119T043234,META,"Meta files lawsuit claiming AI company scrapes, sells Facebook users’ data",Class Action Lawsuits,-0.426822,Bearish,-0.406474,1.000000
+20230120T043925,META,A Survival Guide for When You’ve Been Laid Off,The Wall Street Journal,-0.23429,Somewhat-Bearish,-0.231317,0.818890
+20230120T123700,META,"Here are the layoff severance packages Google, Microsoft, Amazon and other tech giants have promised",CNBC,-0.27283,Somewhat-Bearish,-0.273397,0.703530
+20230123T000000,META,AMC class action claims streaming service shares viewer data with Facebook,Class Action Lawsuits,-0.333008,Somewhat-Bearish,-0.252889,0.825935
+20230123T062700,META,How Apple’s Upcoming Mixed-Reality Headset Will Work,Bloomberg.com,0.219232,Somewhat-Bullish,0.101992,0.710881
+20230123T102100,META,"AMD can keep eating Intel’s lunch, Barclays says as stock surges",MarketWatch,0.346646,Somewhat-Bullish,0.225073,0.649911
+20230123T130100,META,"Spotify to slash 6% of workforce, adding to tech layoffs glut | Daily Sabah",Daily Sabah,-0.234831,Somewhat-Bearish,-0.193209,0.620138
+20230124T041057,META,News | King Charles's Property Company 'Sues' Twitter Over Unpaid Rent,CoStar,-0.13801,Neutral,-0.346204,0.743896
+20230124T041254,META,Trump Plans to Ditch His Own Social Media Site With Pompous Return to Twitter — Report,Truthout,-0.110459,Neutral,0.105413,0.708905
+20230125T041254,META,Meta allows Donald Trump back on Facebook and Instagram,NPR,0.03331,Neutral,0.102340,1.000000
+20230125T042357,META,IMAA welcomes seven new media partners for 2023,Mediaweek,0.246171,Somewhat-Bullish,0.328753,0.595627
+20230125T043234,META,Meta says it will restore Donald Trump's Facebook and Instagram accounts,WTHI-TV,0.25616,Somewhat-Bullish,0.283917,1.000000
+20230126T042427,META,"Tech layoffs continue as IBM, SAP announce massive cuts",Fox Business,-0.339531,Somewhat-Bearish,-0.336113,0.648520
+20230126T163700,META,"Dow Chemical to cut 2,000 jobs",upi,-0.167245,Somewhat-Bearish,-0.140578,0.620197
+20230126T214300,META,Home Depot Canada found sharing customer personal data with Meta - privacy regulator,Reuters,-0.18447,Somewhat-Bearish,-0.129217,0.865645
+20230127T042219,META,"Home Depot didn't get customer consent before sharing data with Facebook's owner, privacy watchdog finds",CBC,-0.3458,Somewhat-Bearish,-0.298112,0.892315
+20230130T042100,META,Google continued to ramp up federal lobbying spending before DOJ filed second antitrust lawsuit,OpenSecrets,-0.345328,Somewhat-Bearish,-0.161533,0.647122
+20230130T044552,META,"After A Slow Start, TikTok Doubles Down On Ambition to Dominate Social Commerce",Hello Partner,0.129838,Neutral,0.136613,0.639747
+20230131T043624,META,"NetApp to lay off 8% of workforce, blames economy",TechTarget,-0.174834,Somewhat-Bearish,-0.135858,0.614108

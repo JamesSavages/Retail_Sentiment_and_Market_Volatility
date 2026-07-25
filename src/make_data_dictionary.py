@@ -40,7 +40,7 @@ SCHEMA = [
      "Split- and dividend-adjusted daily closing price.",
      "> 0 USD",
      "None observed; a null would indicate a failed collection.",
-     "Adjusted series (adjClose), so corporate actions do not create false volatility."),
+     "Adjusted series (adjClose), so corporate actions do not create false volatility e.g stock split."),
 
     ("log_return", "Derived", "float", "control",
      "Daily logarithmic return, ln(close_t / close_{t-1}).",

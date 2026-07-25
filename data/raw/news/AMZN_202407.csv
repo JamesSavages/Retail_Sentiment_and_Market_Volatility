@@ -1,0 +1,77 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20240701T000000,AMZN,'We are famously unprofitable': A 36-year-old Jeff Bezos on Amazon,BBC,0.431344,Bullish,0.449032,1.000000
+20240701T115037,AMZN,Amdocs says its GenAI is ready to move on from PoC stage,Light Reading,0.366982,Bullish,0.333569,0.639912
+20240701T121905,AMZN,"The AI Revolution's Next Phase Isn't Possible Without ""Einstein's Blueprint""",Money Morning,0.284824,Somewhat-Bullish,0.110322,0.634734
+20240702T000000,AMZN,Fortinet is an Undervalued Cybersecurity Stock Worth Owning,MarketBeat,0.15658,Somewhat-Bullish,0.119175,0.594438
+20240702T122819,AMZN,"Hybrid and Multi-Cloud technologies in 2024: Developments, challenges, and Innovations",INDOlink,0.358788,Bullish,0.346764,0.557996
+20240702T123255,AMZN,"Best Grocery Store Ideas, Themes and Concepts (2025)",Toast POS,0.234534,Somewhat-Bullish,0.106730,0.619363
+20240702T132200,AMZN,"3 Reasons to Buy BULZ, and 4 Reasons Not To",The Globe and Mail,0.275674,Somewhat-Bullish,0.302446,0.621749
+20240703T000000,AMZN,HepsiJet launches EVs to enhance sustainable delivery services,World Business Outlook,0.214157,Somewhat-Bullish,0.392519,0.649514
+20240703T064500,AMZN,"Nano Dimension to Acquire Desktop Metal, Creating a Leader in Additive Manufacturing",GlobeNewswire,0.447179,Bullish,0.309618,0.636430
+20240703T121837,AMZN,"Declare your AIndependence: block AI bots, scrapers and crawlers with a single click",The Cloudflare Blog,0.190661,Somewhat-Bullish,0.120264,0.619393
+20240703T122800,AMZN,Nano Dimension to acquire outstanding shares of Desktop Metal; Deal could be worth as little as $135m,TCT Magazine,0.271267,Somewhat-Bullish,0.235206,0.641294
+20240705T000000,AMZN,Laird Superfood Protein Creamer,Beverage Industry,0.151672,Somewhat-Bullish,0.337644,0.615576
+20240705T120731,AMZN,REWE opens Europe’s largest computer vision-based supermarket: this week's coolest retail technology plays,Retail Technology Innovation Hub,0.381921,Bullish,0.312301,0.796678
+20240706T164400,AMZN,Nike CFO Matthew Friend sells $889k in company stock,Investing.com,-0.034582,Neutral,0.048779,0.635321
+20240708T092839,AMZN,Twilio Under Investigation for Data Breach of Over 33 Million Authy MFA Users,Schubert Jonckheer & Kolbe,-0.487627,Bearish,-0.321562,0.607281
+20240708T122706,AMZN,Enterprises near migration bottleneck as SAP deadlines approach,CIO Dive,0.044421,Neutral,0.123486,0.641372
+20240709T000000,AMZN,What broadening rally? AI stocks dominate US market again in Q2,Morningstar,0.406622,Bullish,0.268118,0.725895
+20240709T000000,AMZN,Revisiting Hong Kong: Optimism Still Improving Even As Rally Gets Tested,KraneShares,0.426007,Bullish,0.417793,0.634586
+20240709T055000,AMZN,"Driving surge in demand for power, data centers eye Kentucky",Kentucky Lantern,0.237937,Somewhat-Bullish,0.276288,0.878756
+20240709T123252,AMZN,New Winnie the Pooh Movie Coming Out This Christmas Has Fans Worried,disneydining.com,-0.108223,Neutral,0.130027,0.732660
+20240709T123408,AMZN,Tyler Technologies expands agreement with Arizona Supreme Court to bring enterprise supervision for juvenile probation statewide,Police1,0.348255,Somewhat-Bullish,0.229490,0.633748
+20240710T000000,AMZN,"Newly-appointed UPS CFO faces shipping, cost quandary",CFO Dive,-0.084738,Neutral,-0.092767,0.562519
+20240710T000000,AMZN,"Oxy, Microsoft clinch “record” carbon removal deal to handle AI-associated emissions",World Oil,0.198113,Somewhat-Bullish,0.133821,0.606896
+20240710T114038,AMZN,"Palworld Entertainment Established by Aniplex, Pocketpair, and Sony Music Entertainment Japan",GamingBolt,0.338824,Somewhat-Bullish,0.345386,0.607715
+20240710T114132,AMZN,Amazon Prime Day Special: BODi By Beachbody Partners with CAP Barbell to Offer Four Exclusive Fitness Program Bundles,Business Wire,0.381282,Bullish,0.346074,0.745804
+20240710T121917,AMZN,"Oxy, Microsoft clinch “record” carbon removal deal to handle AI-associated emissions",World Oil,0.260311,Somewhat-Bullish,0.209267,0.600808
+20240710T122828,AMZN,"Generative AI upskilling demands multiple methods, partners",TechTarget,0.352556,Bullish,0.335939,0.646564
+20240710T160200,AMZN,Costco memberships set to increase for first time since 2017,SiliconValley.com,0.24076,Somewhat-Bullish,0.117620,0.640933
+20240711T000000,AMZN,Value investors cooling their heels as growth stocks stay hot,InvestmentNews,0.284274,Somewhat-Bullish,0.312493,0.604301
+20240711T000000,AMZN,NetApp Expands Intelligent Data Infrastructure Capabilities to Power Strategic Cloud Workloads,Laotian Times,0.357516,Bullish,0.313961,0.741672
+20240711T000000,AMZN,"Intuit Slashes 1,800 Jobs in AI Embrace",Inc.com,-0.082059,Neutral,-0.144423,0.603243
+20240711T122227,AMZN,PLDT completes biggest data center,Philstar.com,0.238219,Somewhat-Bullish,0.318979,0.640886
+20240715T121608,AMZN,2 Major Risks Investors Should Know Before Buying MercadoLibre's Stock,The Motley Fool,-0.093243,Neutral,0.132040,0.734772
+20240715T145100,AMZN,AES Corp (AES) August 16 puts purchased as share price down 9.5%,StreetInsider,0.119475,Neutral,0.312254,0.634196
+20240716T121137,AMZN,JD.com said to be considering buying Evri,Transport Intelligence,0.14724,Neutral,-0.125343,0.639593
+20240716T122600,AMZN,Amazon Prime Day deals could lead to over $10B in gross merchandise volume: analysts,Proactive financial news,0.238427,Somewhat-Bullish,0.493121,1.000000
+20240716T122835,AMZN,Production Begins for New Plug & Play Recessed Light,Streetwise Reports,0.317247,Somewhat-Bullish,0.203261,0.612879
+20240716T141500,AMZN,Traeger grills are 20% off during Prime Day deals,Yahoo,0.388485,Bullish,0.204699,0.628049
+20240717T080000,AMZN,VCR: Consumer Discretionary Sector Dashboard For July (NYSEARCA:VCR),Seeking Alpha,0.228116,Somewhat-Bullish,0.225864,0.712718
+20240717T093000,AMZN,Best Amazon Prime Day Garmin deals 2024,BikeRadar,0.305624,Somewhat-Bullish,0.335807,0.906507
+20240717T114829,AMZN,This reliable Corsair Vengeance 32GB kit of DDR4-3200 RAM is a Prime Day bargain,Eurogamer,-0.096406,Neutral,-0.140929,0.611241
+20240717T120704,AMZN,My favourite beginner running watch has hit its lowest ever price in the Amazon Prime Day sale,Runner's World,0.331096,Somewhat-Bullish,0.214608,0.744348
+20240718T000000,AMZN,This Cybersecurity Stock Gains Analysts' Favor for Strong Growth,MarketBeat,0.337052,Somewhat-Bullish,0.319174,0.730424
+20240718T101700,AMZN,Amazon Prime Day Drives Online Sales Up 11% to $14.2 Billion,Transport Topics,0.342991,Somewhat-Bullish,0.323418,1.000000
+20240718T114841,AMZN,"OpenAI, Nvidia, Google and others launch AI cybersecurity consortium",SiliconANGLE,0.302596,Somewhat-Bullish,0.323438,0.746186
+20240718T121616,AMZN,Can Value Stocks Really Make a Comeback?,Morningstar,-0.1391,Neutral,-0.109482,0.733531
+20240719T070952,AMZN,Invesco QQQ Income Advantage ETF,ETF Database,0.230607,Somewhat-Bullish,0.245961,0.627482
+20240719T120303,AMZN,"FedEx, UPS Warn of Delivery Delays From Global Tech Outage",Transport Topics,-0.110913,Neutral,0.111247,0.601816
+20240721T160912,AMZN,"KQQQ ETF Analysis: Dividends, Returns BOATS:KQQQ",TradingView,0.300163,Somewhat-Bullish,0.305389,0.580591
+20240722T090000,AMZN,WaterWorld - 3 Essential Stocks to Own During Market Rotation,FinancialContent,0.108733,Neutral,-0.102846,0.566851
+20240723T042000,AMZN,iRobot Is a Falling Knife That's Too Risky for Most,The Motley Fool,-0.360504,Bearish,-0.201833,0.707564
+20240723T113530,AMZN,Staples Stock Price and Symbol 2026: Are They Public?,Bullish Bears,0.273601,Somewhat-Bullish,0.317914,0.629498
+20240723T144327,AMZN,Kurv Investment Management Launches Kurv Technology Titans Select ETF (KQQQ),Business Wire,0.325582,Somewhat-Bullish,0.339334,0.635258
+20240724T000000,AMZN,World’s largest industrial warehouse owner says customer demand is subdued but improving,American Journal of Transportation,0.138524,Neutral,0.147613,0.716776
+20240724T000000,AMZN,IDEXX Laboratories to bring 275 new jobs to Wilson County with new manufacturing plant,ABC11,0.308343,Somewhat-Bullish,0.105935,0.599843
+20240724T020500,AMZN,Silicon Valley firm buys 3 Philippine data centers,Inquirer.net,0.352303,Bullish,0.308663,0.612027
+20240724T114826,AMZN,Nike appoints ex-Salesforce executive as new CIO amid tech division overhaul,Apparel Resources,0.199422,Somewhat-Bullish,0.105093,0.639390
+20240724T140100,AMZN,Microsoft aims to boost AI workload capacity with Lumen partnership,Reuters,0.248548,Somewhat-Bullish,0.106513,0.605464
+20240724T171000,AMZN,"Data Center Market size is set to grow by USD 434.8 billionn from 2024-2028, Rise in adoption of multi-cloud and network upgrades to support 5G to boost the market growth, Technavio",PR Newswire,0.372275,Bullish,0.403721,0.725206
+20240724T190918,AMZN,This Vanguard ETF Is Tumbling as Big Tech Stocks Sink,Barron's,-0.418172,Bearish,-0.447550,0.637612
+20240725T132922,AMZN,Bitcoin Rewards Company Fold to Go Public on Nasdaq Via SPAC Merger,The Defiant,0.199193,Somewhat-Bullish,0.204585,0.600112
+20240726T171214,AMZN,WBD takes NBA to court in legal showdown over broadcast rights,WRAL News,0.135972,Neutral,0.280301,0.776154
+20240729T113537,AMZN,Kroger and Albertsons spent $864M so far on merger-related costs,WCPO 9 Cincinnati,-0.113025,Neutral,0.136826,0.630393
+20240729T121432,AMZN,5 School Essentials You Didn’t Know You Needed in 2024,Life360,0.237665,Somewhat-Bullish,0.278145,0.646786
+20240729T182100,AMZN,"Amazon.com, Inc. (AMZN): A Good Stock to Buy According to Peconic Partners?",Insider Monkey,0.420105,Bullish,0.409212,1.000000
+20240730T000000,AMZN,"Robots Are Coming, and They’re on a Mission: Install Solar Panels (Published 2024)",The New York Times,0.333881,Somewhat-Bullish,0.324371,0.708691
+20240730T000000,AMZN,Sprouts Farmers Market Sees Q2 Stock Surge as CEO Eyes Whole Foods’ Market Position in Natural & Healthy Foods,vegconomist,0.498323,Bullish,0.142944,0.639470
+20240730T000000,AMZN,40 Under 40: Champions of Construction 2021,Autodesk,0.350757,Bullish,0.436284,0.365448
+20240730T000000,AMZN,AES Maximo robot designed to save time and money for solar panel installation,The Robot Report,0.372161,Bullish,0.344436,0.644359
+20240730T061028,AMZN,GIAX Top Holdings List & Exposure (Nicholas Global Equity and Income ETF),MarketBeat,0.102608,Neutral,0.133785,0.730272
+20240731T000000,AMZN,StubHub Faces Lawsuit from D.C. Attorney General Over Deceptive Fees and Inflated Ticket Pricing,Law Commentary,-0.214798,Somewhat-Bearish,-0.324231,0.633624
+20240731T000000,AMZN,AES launches AI-enabled solar installation robot Maximo,pvbuzz media,0.514657,Bullish,0.335821,0.740439
+20240731T113602,AMZN,AI-enabled solar installation robot,pv magazine India,0.32258,Somewhat-Bullish,0.317541,0.703605
+20240731T114706,AMZN,Clean Energy opens new clean-fuel RNG station in Florida,TheTrucker.com,0.324617,Somewhat-Bullish,0.237543,0.615851
+20240731T121616,AMZN,Navigating the future of data centers amidst rapid expansion,Moody's,0.264174,Somewhat-Bullish,0.237962,0.602351
+20240731T123900,AMZN,Meta Platforms ahead of Q2 2024 earnings📊 What to expect?🔎,XTB.com,0.143407,Neutral,0.135149,0.587359

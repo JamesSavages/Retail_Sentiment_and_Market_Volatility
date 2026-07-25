@@ -1,0 +1,34 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20240501T041500,AMD,"Nvidia Could Help This Stock-Split ETF Turn $200,000 Into $1 Million in 10 Years",The Motley Fool,0.393462,Bullish,0.326245,0.638047
+20240501T135633,AMD,"Jaguar Health, Inc. (JAGX) Surges 30.31% Amid High Volume: Technical and Fundamental Analysis",StockInvest.us,0.055413,Neutral,-0.310768,0.583264
+20240501T164800,AMD,AMD is the latest company to show that AI is an expensive proposition,MarketWatch,-0.231084,Somewhat-Bearish,-0.217867,1.000000
+20240501T171300,AMD,"AMD AI chip revenue forecast fails to impress, shares dive 7%",Reuters,-0.148365,Neutral,-0.430672,1.000000
+20240501T231800,AMD,"AMD, Super Micro tumble as earnings fall short",Reuters,7.1e-05,Neutral,0.044078,0.346971
+20240502T133124,AMD,Astera Labs Inc call volume above normal and directionally bullish,TipRanks,0.409308,Bullish,0.320780,0.633770
+20240503T133811,AMD,"AI In Chip Design Market Size, Share | CAGR of 31.4%",Market.us,0.316576,Somewhat-Bullish,0.276333,0.746728
+20240503T140440,AMD,Who’s making chips for AI? Chinese manufacturers lag behind US tech giants,Nature,0.09804,Neutral,0.106020,0.830591
+20240506T141149,AMD,Rapid7 Earnings: What To Look For From RPD,The Globe and Mail,0.303962,Somewhat-Bullish,0.528699,0.616096
+20240508T141602,AMD,ST rolls a new FD-SOI microcontroller with phase-change memory (PCM) for automotive applications,EEJournal,0.156263,Somewhat-Bullish,0.129290,0.632692
+20240508T205700,AMD,"Robert Dennard, Inventor of Computer DRAM at IBM, Dies at 91",Bloomberg.com,0.113608,Neutral,0.147340,0.567483
+20240510T000000,AMD,Should You Buy Nvidia Stock Before the AI Chipmaker Reports Earnings on May 22?,Barchart.com,0.112865,Neutral,0.143613,0.710709
+20240510T135633,AMD,"Jaguar Health (JAGX) Surges 15.74%: Technical & Fundamental Analysis, Stock Outlook & Long-term Potential",StockInvest.us,0.1787,Somewhat-Bullish,0.117987,0.648404
+20240510T153800,AMD,"Nvidia's next-generation GPU revealed: integrating eight HBM 4, TSMC N3 process",富途牛牛,0.226887,Somewhat-Bullish,0.268686,0.728155
+20240520T000000,AMD,Liqid composability tech aims to turn Dell servers into GPU powerhouses,Blocks and Files,0.342435,Somewhat-Bullish,0.219100,0.616537
+20240520T143300,AMD,HP Unlocks New Era of AI Experiences Powering Work and Creation,TechPowerUp,0.244421,Somewhat-Bullish,0.125613,0.641269
+20240521T000000,AMD,"Advanced Micro Devices to set up an R&D center in Taiwan, ministry says",Taipei Times,0.351113,Bullish,0.417268,1.000000
+20240521T133202,AMD,AMD Instinct MI300X Accelerators Power Microsoft Azure OpenAI Service Workloads and New Azure ND MI300X V5 VMs,AMD,0.869262,Bullish,0.862258,1.000000
+20240521T133202,AMD,"Supermicro Introduces High-Density, Efficient, and Cost Optimized Solutions Powered by the AMD EPYC™ 4004 Series Processors",Supermicro,0.374302,Bullish,0.464141,1.000000
+20240521T220400,AMD,Opinion: Intel and AMD take a backseat as Qualcomm plays starring role in Microsoft’s AI PCs,MarketWatch,0.105186,Neutral,-0.206783,0.818026
+20240522T000000,AMD,NVIDIA Announces Financial Results for First Quarter Fiscal 2025,NVIDIA Newsroom,0.64769,Bullish,0.304848,0.639167
+20240522T065806,AMD,"Trading Strategies For Nvidia Stock Before And After Q1 Earnings, A Top Holding In Spear Invest ETF (SPRX)",Sahm,0.276287,Somewhat-Bullish,0.112586,0.646524
+20240524T083400,AMD,"With the rise of Ethernet, Nvidia Infiniband is being encroached upon",富途牛牛,0.221425,Somewhat-Bullish,0.123535,0.638968
+20240524T141400,AMD,SOXS ETF: iflas etmenin başka bir pahalı yolu,Invezz,0.520861,Bullish,0.516043,0.648979
+20240524T141422,AMD,"AMD, Workday, Alibaba, Super Micro Computer, and Other Tech Stocks in Focus Today",Barron's,0.244421,Somewhat-Bullish,0.340396,0.860753
+20240529T000000,AMD,Data Center Powerplay: The Chips Have to Go Somewhere,Citigroup,0.319239,Somewhat-Bullish,0.341225,0.643085
+20240529T133124,AMD,Astera Labs Extends Interoperability Leadership Driving PCIe 6.x Deployment,StorageNewsletter,0.374608,Bullish,0.294339,0.583048
+20240529T135310,AMD,HP CEO: AI PCs To Make Up A Tenth Of Shipments In Fiscal Year’s Second Half,CRN,0.240814,Somewhat-Bullish,0.229840,0.609807
+20240529T141457,AMD,"SoFi, AMD, Robinhood, Salesforce, and Other Tech Stocks in Focus Today",Barron's,-0.216278,Somewhat-Bearish,-0.207162,0.847874
+20240529T173700,AMD,Samsung partner Corning enters glass substrate market as AI chips boom,Korea JoongAng Daily,0.261669,Somewhat-Bullish,0.236276,0.583262
+20240530T110400,AMD,"Stocks to Watch | Nvidia Stock: 4 Reasons to Buy, 4 Reasons to Sell",Sahm,-0.102668,Neutral,-0.311678,0.773663
+20240530T140214,AMD,Marvell Expands Connectivity Portfolio With New PCIe Retimer Product Line to Scale Compute Fabrics of Accelerated Infrastructure,PR Newswire,0.332929,Somewhat-Bullish,0.253812,0.723818
+20240530T155300,AMD,More Than Half Of HDDs Could Use HAMR By 2027,Forbes,0.079711,Neutral,0.039912,0.647955

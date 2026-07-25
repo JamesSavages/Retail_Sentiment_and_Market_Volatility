@@ -1,0 +1,83 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20240401T000000,AMZN,Pixie Dust Technologies “kikippa” Speaker Ranked First on the Rakuten Sound Bar Ranking,"Pixie Dust Technologies, Inc.",0.380665,Bullish,0.275994,0.643447
+20240402T000000,AMZN,Esports Investing: Opportunities & Strategies,MarketBeat,0.59448,Bullish,0.813870,0.872939
+20240402T000000,AMZN,"Astec harmonizes BMH, Con-E-Co, RexCon offerings across dealer base",Concrete Products,0.239117,Somewhat-Bullish,0.142649,0.554870
+20240402T062000,AMZN,EQT Corp. (EQT) to Acquire Avetta from WCAS,StreetInsider,0.280321,Somewhat-Bullish,0.309413,0.635640
+20240402T070300,AMZN,F5 Networks (FFIV) Appoints Kunal Anand as Chief Technology Officer,StreetInsider,0.245531,Somewhat-Bullish,0.312256,0.734443
+20240402T071028,AMZN,Should Invesco S&P 500 Revenue ETF (RWL) Be on Your Investing Radar?,TradingView,0.216584,Somewhat-Bullish,0.131533,0.627625
+20240402T144623,AMZN,Introducing the Newest Innovation from Clorox Brands,The Clorox Company,0.421338,Bullish,0.327867,0.646715
+20240403T015100,AMZN,VanEck Retail ETF: The Landscape May Turn (NASDAQ:RTH),Seeking Alpha,0.131501,Neutral,0.149582,0.608850
+20240403T150140,AMZN,Why The Honest Company believes their customers are 'brilliant',BBC,0.258871,Somewhat-Bullish,0.103244,0.625915
+20240403T161300,AMZN,"Spotify to raise prices of plans in some markets, Bloomberg News reports",Reuters,0.20227,Somewhat-Bullish,0.111733,0.731447
+20240403T191100,AMZN,Costco offering members access to weight-loss programs including medication,Reuters,0.186019,Somewhat-Bullish,0.138156,0.603332
+20240403T193800,AMZN,"Kristen Wiig's Target Lady to tout Target Circle Week sale, which runs April 7-13",USA Today,0.2188,Somewhat-Bullish,0.133343,0.625506
+20240405T000000,AMZN,Alger Launches 2 Transparent Actively Managed ETFs,ETF Trends,0.346898,Somewhat-Bullish,0.315472,0.626977
+20240405T185210,AMZN,Alger Concentrated Equity ETF Holdings,Quiver Quantitative,0.348438,Somewhat-Bullish,0.329926,0.835190
+20240408T144556,AMZN,"Uber Freight hires CH Robinson, Amazon veterans",Trucking Dive,0.13983,Neutral,0.238792,0.754195
+20240408T153203,AMZN,Target rolls out Target Circle 360 paid membership,Fox Business,0.227352,Somewhat-Bullish,0.101323,0.615668
+20240409T000000,AMZN,Apple Signs Deal For AI Training Data from Image Service Shutterstock,Inc.com,0.069828,Neutral,0.041429,0.641894
+20240409T000000,AMZN,Capital One’s Discover bid tops biggest Q1 tech-related deals,CFO Dive,0.027164,Neutral,-0.333669,0.581916
+20240409T023925,AMZN,Fidelity Hedged Equity ETF Holdings,Quiver Quantitative,0.215548,Somewhat-Bullish,0.217301,0.609812
+20240409T144500,AMZN,Google introduces new Arm-based AI chip for data centers,Fox Business,0.228053,Somewhat-Bullish,0.109029,0.601646
+20240409T151800,AMZN,"As Amazon's stock hovers near a record, its bonds are also looking attractive",MarketWatch,0.413192,Bullish,0.435204,1.000000
+20240409T151800,AMZN,"As Amazon's stock hovers near a record, its bonds are also looking attractive",MarketWatch,0.435863,Bullish,0.404313,1.000000
+20240409T152107,AMZN,Cereal giant Post is bringing a distribution center to North Texas,WFAA,0.241403,Somewhat-Bullish,0.225981,0.631371
+20240410T000000,AMZN,Prevention through Design (PtD) Award,Centers for Disease Control and Prevention | CDC (.gov),0.35395,Bullish,0.310680,0.725570
+20240410T020914,AMZN,Alger AI Enablers & Adopters ETF,ETF Database,0.302234,Somewhat-Bullish,0.247677,0.612895
+20240410T144748,AMZN,News | Macy's Burning Buyout Question: How Much Is the Retailer's Real Estate Worth?,CoStar,0.097444,Neutral,-0.125226,0.623166
+20240410T225300,AMZN,Apple's New Jersey store workers file petition for unionization,Reuters,-0.102445,Neutral,0.032005,0.636713
+20240411T000000,AMZN,Implications of AI for cloud computing companies,ETF Stream,0.264132,Somewhat-Bullish,0.204865,0.706757
+20240411T000000,AMZN,Data Center REITs Support Case for This Real Estate ETF,ETF Trends,0.321535,Somewhat-Bullish,0.230073,0.626973
+20240411T000000,AMZN,Amazon appears to be moving forward with long-planned delivery station,The Business Journals,0.436719,Bullish,0.420417,1.000000
+20240411T215152,AMZN,Fidelity Yield Enhanced Equity ETF Holdings,Quiver Quantitative,0.238113,Somewhat-Bullish,0.232467,0.645628
+20240412T060000,AMZN,Birmingham-area stocks pace gainers,AL.com,0.363031,Bullish,0.320657,0.746529
+20240412T071007,AMZN,FBUF Top Holdings List & Exposure (Fidelity Dynamic Buffered Equity ETF),MarketBeat,0.180562,Somewhat-Bullish,0.162052,0.684964
+20240412T153639,AMZN,Have a Fiver? 3 Under-$5 Stocks That Are About to Take Off,InvestorPlace,0.354707,Bullish,0.295260,0.579577
+20240415T052000,AMZN,Abbott Laboratories to close Bay Area site; almost 200 jobs to be cut,The Mercury News,-0.227235,Somewhat-Bearish,-0.221935,0.581789
+20240415T063000,AMZN,Akamai expands cloud services with dedicated GPUs for media workloads,SiliconANGLE,0.171646,Somewhat-Bullish,0.046696,0.639378
+20240416T080000,AMZN,Infinium and Kinetik Reach Innovative CO2 Utilization Agreement to Advance eFuels Production,PR Newswire,0.451748,Bullish,0.340989,0.554766
+20240416T143047,AMZN,Cloud Software Engineering Veteran Jeremy Ung Joins BlackLine as Chief Technology Officer,PR Newswire,0.122438,Neutral,0.223614,0.639759
+20240416T143244,AMZN,Cardinal Health breaks ground on 4th Ohio distribution center,Supply Chain Dive,0.309897,Somewhat-Bullish,0.118963,0.600903
+20240416T151200,AMZN,Amazon Prime Memberships in US Gain 8% to New High,Transport Topics,0.198521,Somewhat-Bullish,0.429795,1.000000
+20240416T153456,AMZN,UNFI refinances term loan with $500M agreement,Supermarket News,-0.194712,Somewhat-Bearish,-0.103180,0.619293
+20240416T153917,AMZN,Fidelity Hedged Equity ETF,ETF Database,0.30215,Somewhat-Bullish,0.345730,0.614559
+20240417T000000,AMZN,"J.P. Morgan Chase, Amazon, Wells Fargo among LinkedIn’s Top Companies of 2024",Brand Innovators,0.315294,Somewhat-Bullish,0.311049,0.935578
+20240417T192500,AMZN,"JEPI: Do Not Make The Same Mistake Two Years In A Row, Buy This Covered Call ETF Instead",Sahm,0.030453,Neutral,0.133478,0.640732
+20240418T030000,AMZN,Cisco debuts new AI-focused security system after $28 billion deal to buy Splunk,CNBC,0.265027,Somewhat-Bullish,0.234747,0.612078
+20240419T000000,AMZN,How to Find Cloud Software Company Stocks to Trade and Invest,MarketBeat,0.239209,Somewhat-Bullish,0.299659,0.807360
+20240422T000000,AMZN,Hyperscale data center capacity to double every four years - report,Data Center Dynamics,0.30558,Somewhat-Bullish,0.433179,0.918335
+20240422T000000,AMZN,"HanesBrands Announces Substantial Progress Toward Reaching Sustainability Goals Around People, Planet and Product",Business Wire,0.361406,Bullish,0.217378,0.648190
+20240423T000000,AMZN,PCA’s corrugated product shipments rise as demand rebounds,Packaging Dive,0.16005,Somewhat-Bullish,0.103475,0.634860
+20240423T142654,AMZN,Amazon Introduces Low-Cost Grocery Delivery Subscription for Prime Members and Customers Using EBT,Business Wire,0.227208,Somewhat-Bullish,0.499391,1.000000
+20240423T144615,AMZN,Clean Energy Announces First Injection of Renewable Natural Gas at Victory Farms Dairy,Business Wire,0.347357,Somewhat-Bullish,0.291912,0.554835
+20240423T150519,AMZN,3 reasons the iShares S&P 500 ETF (IVV) is a great long-term investment,The Motley Fool Australia,0.362154,Bullish,0.347149,0.572292
+20240423T152153,AMZN,Here’s a look at the world’s first civil space traffic coordination system,Fast Company,0.262356,Somewhat-Bullish,0.214070,0.731689
+20240424T000000,AMZN,Hillwood Acquires 3-Building Office Portfolio in Irving,Dallas Innovates,0.284457,Somewhat-Bullish,0.255630,0.594632
+20240424T123600,AMZN,Marathon Petroleum (MPC) Declares $0.825 Quarterly Dividend; 1.7% Yield,StreetInsider,0.254878,Somewhat-Bullish,0.215588,0.608467
+20240424T124400,AMZN,Graham Holdings moving headquarters to trophy high-rise building in Rosslyn,WTOP,0.171006,Somewhat-Bullish,0.129224,0.632597
+20240424T142653,AMZN,Amazon fined by Italian antitrust regulator,Proactive financial news,-0.385653,Bearish,-0.377653,0.942159
+20240424T143700,AMZN,"6 Questions For Adam Singolda, Founder & CEO, Taboola",Forbes,0.252099,Somewhat-Bullish,0.245941,0.607780
+20240425T000000,AMZN,"Newegg creates free membership program, offering perks to participants",Digital Commerce 360,0.250456,Somewhat-Bullish,0.111464,0.601836
+20240425T000000,AMZN,Microsoft Reports Rising Revenues as A.I. Investments Bear Fruit (Published 2024),The New York Times,0.285499,Somewhat-Bullish,0.128153,0.612090
+20240425T152900,AMZN,"Focus: UPS, FedEx transition to electric vans slowed by battery shortages, low supply",Reuters,-0.127267,Neutral,0.129756,0.647492
+20240425T160600,AMZN,"Alphabet issues first-ever dividend, $70 billion buyback",CNBC,0.28304,Somewhat-Bullish,-0.131389,0.605486
+20240426T000000,AMZN,HRH the Hereditary Grand Duke and Xavier Bettel on a working visit to the United States,Le gouvernement luxembourgeois,0.215297,Somewhat-Bullish,0.205849,0.610205
+20240426T123100,AMZN,"Sundar Pichai confirms Alphabet Inc. is going to issue first-ever dividend, $70 billion buyback - Hindustan Times",Hindustan Times,0.44317,Bullish,0.120220,0.618916
+20240426T143027,AMZN,Creativity and innovation drive Chinese animation industry,www.citynewsservice.cn,0.321763,Somewhat-Bullish,0.140594,0.579435
+20240426T144734,AMZN,Upgrade your Steam Deck storage with Corsair's MP600 Mini 1TB SSD for just £70,Rock Paper Shotgun,0.150184,Somewhat-Bullish,0.317043,0.601185
+20240426T151606,AMZN,Netgear Orbi 970 mesh router review: A groundbreaking mesh with huge potential for the future,Expert Reviews,0.156844,Somewhat-Bullish,0.160573,0.622745
+20240426T151630,AMZN,"CEOs of Microsoft, Nvidia and other tech giants join federal AI advisory board",SiliconANGLE,0.295647,Somewhat-Bullish,0.293761,0.803312
+20240426T151717,AMZN,Biz Buzz: Office Depot to depart from Galveston; Chipotle crews are busy on Stewart Road,Galveston County Daily News,0.16826,Somewhat-Bullish,0.102607,0.612210
+20240427T150613,AMZN,Why I Just Added This Ultra-High-Yield Dividend ETF to My Retirement Account,The Globe and Mail,0.347845,Somewhat-Bullish,0.333920,0.638454
+20240428T040939,AMZN,Forget Individual Consumer Stocks: Buy This ETF Instead,The Globe and Mail,0.367157,Bullish,0.439277,0.749637
+20240429T063500,AMZN,"Fox’s New Ad-Sales Chief Will Tout Tom Brady, Super Bowl LIX in TV Upfront",Variety,-0.020072,Neutral,-0.149453,0.690404
+20240429T120100,AMZN,How to Buy Roku Stock Online in 2021,LearnBonds,0.182408,Somewhat-Bullish,0.117123,0.570652
+20240429T120100,AMZN,How to Buy Alphabet (Google) Stock Online in 2025,LearnBonds,0.360493,Bullish,0.109061,0.596932
+20240429T144556,AMZN,"Over the past decade, C.H. Robinson lost its moat to innovation and competition",FreightWaves,0.079483,Neutral,0.137212,0.588199
+20240430T000000,AMZN,"After Earnings, Is Meta Stock a Buy, a Sell, or Fairly Valued?",Morningstar,0.045645,Neutral,0.109006,0.638626
+20240430T000000,AMZN,"Ingles, a dynasty: Founding family still in control",Asheville Watchdog,-0.006976,Neutral,0.121656,0.626667
+20240430T142653,AMZN,Amazon’s stock inches up as cost-cutting measures and AI investment boost AWS profits,SiliconANGLE,0.309959,Somewhat-Bullish,0.404701,1.000000
+20240430T150414,AMZN,As You Sow Calls Out Big Tech for $5 Billion Loss in 401(k) Returns,401k Specialist,-0.20991,Somewhat-Bearish,-0.224436,0.740044
+20240430T152307,AMZN,TV Shopping Networks Aren't Doing Great — So QVC And HSN Are Merging,Scripps News,-0.108607,Neutral,-0.148420,0.734395
+20240430T174010,AMZN,Why Is Marin Software (MRIN) Stock Up 23% Today?,TradingView,0.383958,Bullish,0.206499,0.620699
+20240430T174400,AMZN,Amazon sales surge as company trains focus on artificial intelligence,Fox Business,0.614235,Bullish,0.605186,1.000000

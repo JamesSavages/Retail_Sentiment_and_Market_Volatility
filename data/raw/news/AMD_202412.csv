@@ -1,0 +1,44 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20241202T120800,AMD,What Wall Street Analysts Think of HPE's Stock Ahead of Earnings,Investopedia,0.235295,Somewhat-Bullish,0.134691,0.307210
+20241202T165700,AMD,Bitcoin ETFs Showdown: BTCW Falls Short Against IBIT,Seeking Alpha,0.072803,Neutral,0.220143,0.562068
+20241203T123927,AMD,"GraniteShares 2x Long PLTR Daily ETF (PTIR) News, Articles, Events & Latest Updates",Stocktwits,0.240834,Somewhat-Bullish,0.104510,0.641830
+20241204T130000,AMD,Silvaco Joins SMART USA Institute to Propel Digital Twin Innovations Under CHIPS Manufacturing USA Program,Yahoo Finance,0.365474,Bullish,0.260028,0.588205
+20241204T145157,AMD,REX Crypto Equity Premium Income ETF Holdings,Quiver Quantitative,0.230278,Somewhat-Bullish,0.193942,0.667751
+20241205T140918,AMD,REX Crypto Equity Premium Income ETF,ETF Database,0.351989,Bullish,0.257866,0.634061
+20241205T141100,AMD,Broadcom Inc. Launches 3.5D eXtreme Dimension System in Package (XDSiP) Platform for Custom AI Accelerators,Quiver Quantitative,0.366033,Bullish,0.265999,0.606388
+20241205T161700,AMD,"Intel Shores Up Board With Microchip CEO, Former ASML Chief",Bloomberg.com,0.276949,Somewhat-Bullish,0.104284,0.644598
+20241206T110400,AMD,"Is AMD Stock's 7.19X P/S Still Worth it? Buy, Sell or Hold?",Nasdaq,0.170318,Somewhat-Bullish,0.101531,0.964137
+20241206T182744,AMD,Soluna Holdings (SLNH) Partners with SF Compute to Power AI with NVIDIA H100 GPUs,Yahoo Finance,0.208176,Somewhat-Bullish,0.124113,0.604802
+20241206T183600,AMD,Report: Apple will ship custom 5G modem chip with the 2025 iPhone SE,SiliconANGLE,-0.113541,Neutral,0.066868,0.600813
+20241207T000000,AMD,"Advanced Micro Devices (AMD) Challenges NVIDIA with Faster, Cheaper AI Chip Alternatives",Yahoo Finance,0.065806,Neutral,0.428762,1.000000
+20241207T110000,AMD,"AI's growth is just getting started, BlackRock's thematic ETF head says",CNBC,0.366204,Bullish,0.334027,0.791212
+20241209T064811,AMD,The next wave of AI: Demand and adoption,Barclays Investment Bank,0.436091,Bullish,0.583292,0.813790
+20241209T073228,AMD,"Schwab Trading Activity Index™: November Score Rises Modestly Following Fed, Election Decisions",About Schwab,0.233395,Somewhat-Bullish,0.332042,0.602793
+20241209T100000,AMD,AMD Redefines Business Productivity with Third-Gen Ryzen™ AI PRO Processors: Powering the Future of Advanced AI Computing,PR Newswire,0.342937,Somewhat-Bullish,0.403885,1.000000
+20241210T073857,AMD,Nvidia slapped with a Chinese antitrust probe as Beijing collects ‘bargaining chips’ ahead of Trump’s return,Fortune,-0.221552,Somewhat-Bearish,-0.121726,0.622735
+20241210T081400,AMD,Monolithic Power Systems: Big Growth At A Reasonable Price (NASDAQ:MPWR),Seeking Alpha,0.22842,Somewhat-Bullish,0.107755,0.624434
+20241210T160800,AMD,STMicro launches 'edge' AI microcontroller,Reuters,0.230747,Somewhat-Bullish,0.336989,0.555092
+20241211T071334,AMD,"Vultr Collaborates with AMD, Broadcom and Juniper Networks to Pioneer New GPU Data Center Architecture",Business Wire,0.425915,Bullish,0.410553,0.919819
+20241211T071335,AMD,"Vultr, AMD, Broadcom, Juniper Team for ‘AI Innovation’",Channel Futures,0.476288,Bullish,0.495624,0.931742
+20241211T213100,AMD,Report: Apple working with Broadcom to develop custom chipset for AI,SiliconANGLE,0.26565,Somewhat-Bullish,0.116941,0.617511
+20241213T070921,AMD,"Lenovo, HP And Dell Are Betting Big On A PC Refresh In 2025 (So Is The Channel)",CRN,0.259817,Somewhat-Bullish,0.225227,0.583020
+20241213T092500,AMD,1 Spectacular Artificial Intelligence (AI) ETF to Buy With $40 During the S&P 500 Bull Market,Yahoo Finance,0.297451,Somewhat-Bullish,0.331404,0.633720
+20241213T181057,AMD,"Broadcom's AI Chip Leadership Puts Pressure on Nvidia and Marvell, Analysts Say",Yahoo Finance,0.253286,Somewhat-Bullish,0.110599,0.689146
+20241214T091500,AMD,"A decade ago, she took over a struggling chipmaker—now she's worth $1 billion: 'Everything takes time'",CNBC,0.208149,Somewhat-Bullish,0.435108,1.000000
+20241214T113941,AMD,iShares Future AI & Tech ETF Holdings,Quiver Quantitative,0.131919,Neutral,0.148998,0.872081
+20241214T191001,AMD,Invesco Large Cap Growth ETF Holdings,Quiver Quantitative,0.111269,Neutral,0.148929,0.705835
+20241217T000000,AMD,"First Trust Debuts Defense, Semiconductor ETFs",ETF.com,0.168071,Somewhat-Bullish,0.223163,0.565269
+20241218T000000,AMD,Channel Brief: Onapsis Plans to Double Revenue With New CRO,ChannelE2E,0.389514,Bullish,0.436265,0.830912
+20241218T110015,AMD,Nvidia's Blackwell chip could push the company into a new stratosphere as the AI revolution continues,Yahoo Finance,0.298835,Somewhat-Bullish,0.109104,0.564743
+20241218T175250,AMD,"YieldMax Dorsey Wright Hybrid 5 Income ETF ETF Price, Holdings, & News (NASDAQ:FIVY)",MarketBeat,0.306682,Somewhat-Bullish,0.319586,0.724225
+20241218T210500,AMD,Micron Set for Biggest Drop Since 2020 on Sluggish Sales Outlook,Bloomberg.com,-0.269367,Somewhat-Bearish,-0.244104,0.620092
+20241219T113923,AMD,COYY Stock Price | GraniteShares YieldBOOST COIN ETF,Investing.com,-0.321329,Somewhat-Bearish,-0.308697,0.613988
+20241220T093000,AMD,Is It Worth Investing in Advanced Micro (AMD) Based on Wall Street's Bullish Views?,Nasdaq,-0.20262,Somewhat-Bearish,-0.205471,0.954029
+20241220T110200,AMD,Advanced Micro Devices (AMD) Co-Leads $3.5 Billion Financing Round for Vultr to Boost AI and Cloud Infrastructure,Insider Monkey,0.42713,Bullish,0.441747,1.000000
+20241223T131100,AMD,Advanced Micro Devices Stock Pops on Bullish Coverage,Schaeffer's Investment Research,0.383694,Bullish,0.425799,1.000000
+20241227T065423,AMD,2025 Crypto Outlook: Eight Themes To Watch,Streetwise Reports,0.335617,Somewhat-Bullish,0.014085,0.559797
+20241228T123100,AMD,"Cipher Mining Stock: Capitalizing On Bitcoin, AI, And HPC Trends (Upgrade) (NASDAQ:CIFR)",Seeking Alpha,0.376903,Bullish,0.312257,0.647961
+20241229T000000,AMD,Nvidia Supplier Ibiden Weighs Faster Expansion for AI Demand,Yahoo Finance,0.279802,Somewhat-Bullish,0.234974,0.612817
+20241230T000000,AMD,Returns On Capital Signal Tricky Times Ahead For Intchains Group (NASDAQ:ICG),Simply Wall Street,0.041891,Neutral,0.131265,0.621329
+20241230T055243,AMD,"Jim Cramer Says ‘Amazon.com, Inc. (AMZN) Is A Buy, And I Think It Will Continue To Perform Well’",Yahoo Finance,0.242769,Somewhat-Bullish,0.129524,0.600071
+20241230T073325,AMD,Unbelievable: How China’s Outsmarting US Chip Ban to Dominate AI,Sify News,0.160188,Somewhat-Bullish,0.219549,0.615001

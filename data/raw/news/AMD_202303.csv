@@ -1,0 +1,27 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20230301T021527,AMD,AMD Unveils Its First 400G Network Performance IPSec Device at OFC 2023,AMD,0.421464,Bullish,0.432250,1.000000
+20230301T021527,AMD,Induction for Members Elected in 2020 and 2021,American Academy of Arts and Sciences,0.123822,Neutral,0.128305,0.708650
+20230301T021527,AMD,Sony Becomes AMD's Largest Customer on Booming PS5 Sales,Tom's Hardware,0.156612,Somewhat-Bullish,0.345064,1.000000
+20230301T224025,AMD,RYT Top Holdings List & Exposure (Invesco S&P 500 Equal Weight Technology ETF),MarketBeat,-0.047772,Neutral,-0.057882,0.936628
+20230302T021405,AMD,Aehr Comments on Recent Tesla Statements on Silicon Carbide and Reiterates its Annual Guidance,Aehr Test Systems,0.226536,Somewhat-Bullish,0.123193,0.606042
+20230302T024219,AMD,"Microchip Technology, microchip manufacturer with capital of $50 billion, coming to Armenia",NEWS.am TECH,0.335467,Somewhat-Bullish,0.306030,0.718189
+20230306T021527,AMD,RANOVUS demonstrates industry’s lowest power consumption 800Gbps Ethernet interoperable link to scale AMD adaptive SoCs for AI/ML,Business Wire,0.41718,Bullish,0.429579,1.000000
+20230306T022148,AMD,Argentina’s copper rush lures top power generator Central Puerto,Mining.com,0.052701,Neutral,-0.110769,0.642975
+20230306T025034,AMD,Why Hidden Artificial Intelligence Features Make Such an Impact in Education,EdSurge,0.247548,Somewhat-Bullish,0.148620,0.622772
+20230306T095900,AMD,Exclusive: Nvidia's plans for sales to Huawei imperiled if U.S. tightens Huawei curbs-draft,Reuters,-0.173537,Somewhat-Bearish,-0.189762,0.611413
+20230307T000000,AMD,Supermicro Expands Storage Solutions Portfolio for Intensive I/O Workloads with All-Flash Servers Utilizing EDSFF E3.S and E1.S Storage Drives,TechPowerUp,0.415897,Bullish,0.335908,0.708299
+20230307T021527,AMD,TSMC customer billed NT$529bn,Taipei Times,0.120429,Neutral,0.108678,0.822579
+20230307T023508,AMD,Smaller Oregon companies looking for semiconductor funding,Oregon Capital Chronicle,0.156018,Somewhat-Bullish,0.143025,0.597457
+20230309T084000,AMD,"ASML, China customers haunted by uncertainty on new Dutch chip export rules",Reuters,-0.082463,Neutral,-0.113246,0.649245
+20230314T024016,AMD,Emerging Leaders 2023: Ankur Prakash,Global Venturing,0.227534,Somewhat-Bullish,0.238879,0.624545
+20230316T021527,AMD,"AMD Shoots Down EPYC Genoa Memory Bug Claims, Says Update On Track",Tom's Hardware,0.254447,Somewhat-Bullish,0.410805,1.000000
+20230321T023706,AMD,"Raja Koduri, Main Driver Of Intel’s GPU Efforts, To Leave Company",CRN Magazine,-0.070979,Neutral,0.024541,0.646173
+20230322T025458,AMD,"Supermicro Expands GPU Solutions Portfolio with Deskside Liquid-Cooled AI Development Platform, Powered by NVIDIA",TechPowerUp,0.331292,Somewhat-Bullish,0.227969,0.587873
+20230323T034016,AMD,FWD Top Holdings List & Exposure (AB Disruptors ETF),MarketBeat,0.182694,Somewhat-Bullish,0.117684,0.827276
+20230324T025855,AMD,Taiwan PCB makers moving production to Southeast Asia,digitimes,0.149589,Neutral,0.193225,0.613061
+20230325T055700,AMD,Intel co-founder and philanthropist Gordon Moore has died at 94,NPR,0.066071,Neutral,0.034793,0.632828
+20230327T021527,AMD,The Strange Case of an Israeli Computer Lab Flagged by the U.S.,Haaretz,0.121955,Neutral,0.142786,0.936499
+20230328T021403,AMD,AutoCAD for Mac 2024: New Collaboration Enhancements and Improved Performance With M-Series Chips,Autodesk,0.328437,Somewhat-Bullish,0.236061,0.565241
+20230328T023506,AMD,ECE Expeditions rides to the Lone Star State for a tour of engineering companies,University of Michigan,0.335819,Somewhat-Bullish,0.279707,0.618950
+20230328T122000,AMD,Micron Could Report Largest Ever Loss in Q2,Investopedia,-0.24654,Somewhat-Bearish,-0.116960,0.607520
+20230329T135100,AMD,Intel’s stock set for best month in 22 years as execs lay out plans to take on AMD’s rise in servers,MarketWatch,0.242571,Somewhat-Bullish,-0.126918,0.886803

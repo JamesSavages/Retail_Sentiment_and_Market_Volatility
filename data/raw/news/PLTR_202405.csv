@@ -1,0 +1,11 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20240501T135633,PLTR,"Jaguar Health, Inc. (JAGX) Surges 30.31% Amid High Volume: Technical and Fundamental Analysis",StockInvest.us,0.084705,Neutral,0.145532,0.635076
+20240506T150000,PLTR,"Can Palantir Stock be the Next NVIDIA, and Is It Worth Buying?",The Globe and Mail,0.029654,Neutral,-0.209305,1.000000
+20240507T000000,PLTR,Palantir Earnings: AI Platform Drives Strong Start to 2024,Morningstar,0.292724,Somewhat-Bullish,0.273753,1.000000
+20240508T134250,PLTR,Palantir Technologies (PLTR) Earnings Breakdown: Potential Growth Opportunity?,TradingView,0.216028,Somewhat-Bullish,0.405853,1.000000
+20240510T141226,PLTR,"SAIC Secures $232M Army Award for IT Modernization, Systems Engineering Support; Josh Jackson Quoted",GovCon Wire,0.158955,Somewhat-Bullish,-0.101938,0.617502
+20240514T140353,PLTR,US Navy hires new innovation director: DC Power Moves,Technical.ly,0.344479,Somewhat-Bullish,0.130090,0.634954
+20240522T165800,PLTR,"HVAC Stock Tumbles On Earnings, Guidance Mixed Despite Increased AI Data Center Demand",Investor's Business Daily,0.089179,Neutral,0.308688,0.618465
+20240523T140803,PLTR,Palantir executive sells over $3.6 million in stock,Investing.com UK,0.124049,Neutral,0.120386,1.000000
+20240529T000000,PLTR,Disruptive Theme of the Week: Defense Technology,ETF Trends,0.399923,Bullish,0.315393,0.704638
+20240531T140803,PLTR,Pentagon getting ready to onboard new vendors and applications for CJADC2 tech,DefenseScoop,0.447935,Bullish,0.449578,1.000000

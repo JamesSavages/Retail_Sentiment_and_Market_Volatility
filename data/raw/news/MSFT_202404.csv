@@ -1,0 +1,90 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20240401T000000,MSFT,These Growth Funds Continued to Shine in Q1 2024,Morningstar,0.250012,Somewhat-Bullish,0.703605,0.729098
+20240402T000000,MSFT,ED 24-02: Mitigating the Significant Risk from Nation-State Compromise of Microsoft Corporate Email System,CISA (.gov),-0.347944,Somewhat-Bearish,-0.315757,1.000000
+20240402T000000,MSFT,Cybersecurity Faces Transformation from Generative AI,Global X ETFs,0.357038,Bullish,0.442306,0.683839
+20240402T152721,MSFT,The Role of AI in Driving Digital Transformation,INDOlink,0.246757,Somewhat-Bullish,0.345853,0.632459
+20240403T000000,MSFT,"Today’s top business headlines: GE's breakup, Microsoft Teams cut from Office, recalled car fire risks",Fast Company,0.233709,Somewhat-Bullish,-0.220452,0.829857
+20240403T000000,MSFT,How AI-Enabled Tractor Supply Is Preparing Its IT Infrastructure for the Future,Consumer Goods Technology,0.534671,Bullish,0.412206,0.639126
+20240403T004000,MSFT,"Ark Invest BTC ETF Bleeding Severely, Surpassing GBTC ETF Outflow",The Coin Republic,0.224504,Somewhat-Bullish,0.257209,0.635837
+20240403T111200,MSFT,Johnson & Johnson CIO says employee upskilling is key to transforming health care,Fortune,0.146616,Neutral,-0.148236,0.605857
+20240403T152721,MSFT,The Rise of FinOps and GreenOps,INDOlink,0.226812,Somewhat-Bullish,0.306069,0.741227
+20240403T153318,MSFT,Erosion in the rule of law creates potential corporate governance gaps & increases risks for management,Thomson Reuters,-0.125339,Neutral,-0.109030,0.617059
+20240404T000000,MSFT,Winners of the 2024 IoT Evolution Industrial IoT Product of the Year Awards Announced,IoT Evolution World,0.280955,Somewhat-Bullish,0.212890,0.578753
+20240404T000000,MSFT,Bank of Montreal runs risk calculations twice as fast and at 30% less cost with Azure,Microsoft,0.169232,Somewhat-Bullish,0.326627,0.911466
+20240405T000000,MSFT,How to Find a Great Dividend Fund,Morningstar,0.003177,Neutral,0.337327,0.637258
+20240405T000000,MSFT,Alger Launches 2 Transparent Actively Managed ETFs,ETF Trends,0.327742,Somewhat-Bullish,0.339143,0.742752
+20240405T150210,MSFT,HubSpot Acquisition Could Boost Google's Cloud Computing Business,Value The Markets,0.179438,Somewhat-Bullish,0.144053,0.624906
+20240405T185210,MSFT,Alger Concentrated Equity ETF Holdings,Quiver Quantitative,0.346587,Somewhat-Bullish,0.326141,0.891549
+20240408T070000,MSFT,"If I Could Only Buy and Hold 1 Vanguard ETF For the Next 5 Years, This Would Be My Top Pick",The Motley Fool,0.359808,Bullish,0.323052,0.640373
+20240409T000000,MSFT,Westcon-Comstor Brings AudioCodes Live for Microsoft Teams to EMEA,UC Today,0.458407,Bullish,0.331932,0.949527
+20240409T023925,MSFT,Fidelity Hedged Equity ETF Holdings,Quiver Quantitative,0.201843,Somewhat-Bullish,0.213383,0.649284
+20240409T144500,MSFT,Google introduces new Arm-based AI chip for data centers,Fox Business,0.215033,Somewhat-Bullish,0.149587,0.619576
+20240410T000000,MSFT,"Suzuki embraces Azure OpenAI Service, supercharges AI use with five apps, and sparks ideas for AI in business",Microsoft,0.606975,Bullish,0.702772,0.975629
+20240410T000000,MSFT,"Adobe leverages Microsoft Azure to streamline the customer experience, harnessing the power of connected cloud services.",Microsoft,0.855215,Bullish,0.811819,0.932382
+20240410T000000,MSFT,Prevention through Design (PtD) Award,Centers for Disease Control and Prevention | CDC (.gov),0.357034,Bullish,0.136055,0.571770
+20240410T020914,MSFT,Alger AI Enablers & Adopters ETF,ETF Database,0.275591,Somewhat-Bullish,0.212312,0.625734
+20240410T210000,MSFT,"Pixelworks Brings New Mobile Gaming Experience to ""Diablo Immortal"", a Co-developed Game by Blizzard Entertainment and NetEase",PR Newswire,0.3423,Somewhat-Bullish,0.212877,0.647726
+20240410T210500,MSFT,Adobe Is Buying Videos for $3 Per Minute to Build AI Model,Bloomberg.com,0.143486,Neutral,0.132943,0.632348
+20240410T225300,MSFT,Apple's New Jersey store workers file petition for unionization,Reuters,-0.062638,Neutral,0.022233,0.594996
+20240411T000000,MSFT,Implications of AI for cloud computing companies,ETF Stream,0.235639,Somewhat-Bullish,0.226816,0.728844
+20240411T215152,MSFT,Fidelity Yield Enhanced Equity ETF Holdings,Quiver Quantitative,0.213251,Somewhat-Bullish,0.236081,0.632468
+20240412T000000,MSFT,Microsoft says Georgia may be overestimating data center load growth,Latitude Media,-0.057546,Neutral,0.129905,0.947589
+20240412T071007,MSFT,FBUF Top Holdings List & Exposure (Fidelity Dynamic Buffered Equity ETF),MarketBeat,0.162644,Somewhat-Bullish,0.169572,0.727395
+20240415T061500,MSFT,Creator-Platform Company Spotter Hires Adobe and Microsoft Alum Ivo Manolov as CTO,Variety,0.237031,Somewhat-Bullish,0.207310,0.722637
+20240415T062516,MSFT,Terry Smith – Top 10 Holdings – Latest 13F,The Acquirer's Multiple,0.424471,Bullish,0.441839,0.941921
+20240415T063000,MSFT,Akamai expands cloud services with dedicated GPUs for media workloads,SiliconANGLE,0.153823,Somewhat-Bullish,0.018051,0.607266
+20240415T142747,MSFT,Arrow Debuts Copilot for Microsoft 365 Services for Partners,Channel Futures,0.285515,Somewhat-Bullish,0.324482,0.922172
+20240416T000000,MSFT,Adobe Explores OpenAI Partnership as It Adds AI Video Tools,Inc.com,0.196239,Somewhat-Bullish,0.126132,0.634587
+20240416T142634,MSFT,AMD and Nvidia unveil new processors for AI PCs,SiliconANGLE,0.272461,Somewhat-Bullish,0.214821,0.618795
+20240416T153400,MSFT,AI to boost sustainability if carbon costs are kept in check,TechTarget,0.179678,Somewhat-Bullish,0.231898,0.561311
+20240416T153917,MSFT,Fidelity Hedged Equity ETF,ETF Database,0.298752,Somewhat-Bullish,0.307337,0.630833
+20240417T150327,MSFT,"1 Stock-Split ETF That Could Turn $500 Per Month Into $1 Million, With Help From Nvidia, Microsoft, and Apple",The Motley Fool,0.408862,Bullish,0.415790,0.788088
+20240417T192500,MSFT,"JEPI: Do Not Make The Same Mistake Two Years In A Row, Buy This Covered Call ETF Instead",Sahm,0.040977,Neutral,0.143142,0.606953
+20240418T000000,MSFT,Why Microsoft extended Windows 10 support for schools for $1,PIRG,0.223948,Somewhat-Bullish,0.218290,1.000000
+20240418T030000,MSFT,Cisco debuts new AI-focused security system after $28 billion deal to buy Splunk,CNBC,0.263904,Somewhat-Bullish,0.223187,0.639363
+20240418T050000,MSFT,"Rockwell Automation and its PartnerNetwork™ Ecosystem Present Artificial Intelligence, Autonomous Operations, 5G and Cybersecurity in Driving Digital Transformation at Hannover Messe 2024",PR Newswire UK,0.35672,Bullish,0.324433,0.704587
+20240418T143236,MSFT,Blackstone Earnings Rise as Investment Giant Projects Commercial Real Estate Recovery,CoStar,0.510305,Bullish,0.401255,0.553700
+20240419T152406,MSFT,"Controllers hunt for workarounds to ‘continuous’ reporting, accountant shortage",CFO Dive,0.237431,Somewhat-Bullish,0.229834,0.637599
+20240419T200937,MSFT,Here's What's Happening in Markets: April 19,ETF.com,-0.068438,Neutral,0.112799,0.634085
+20240419T224039,MSFT,"Collective Audience Appoints AdTech/MarTech Executive, Stacey Hawes, to Advisor Collective",StreetInsider,0.260386,Somewhat-Bullish,0.117925,0.617750
+20240420T090719,MSFT,"“수익률 3배 노린다”…진격의 서학개미, 하락장에도 ‘풀베팅’",매일경제 마켓,-0.052391,Neutral,0.117094,0.618429
+20240421T181637,MSFT,D-Wave Quantum Computer: Commercial QC Pioneer [2024],The Quantum Insider,0.225628,Somewhat-Bullish,0.105195,0.604138
+20240422T000000,MSFT,Hyperscale data center capacity to double every four years - report,Data Center Dynamics,0.30762,Somewhat-Bullish,0.540969,0.940832
+20240422T000000,MSFT,"The pressure’s on for big tech firms, says BofA",InvestmentNews,0.133824,Neutral,0.112772,0.749450
+20240422T113722,MSFT,"Microsoft CEO to meet with Samsung, SK Hynix, LG, SK Telecom chiefs",KED Global,0.338365,Somewhat-Bullish,0.431388,0.929127
+20240422T124300,MSFT,Microsoft Partners with Korea’s ‘Tech Big 4’ for AI Collaboration,Businesskorea,0.297133,Somewhat-Bullish,0.457649,1.000000
+20240423T000000,MSFT,Major Global Businesses Adopt Oracle Database@Azure Worldwide,Oracle,0.40016,Bullish,0.337017,0.832101
+20240423T000000,MSFT,"CoStar revenue up 12%, but Homes.com advertising eats into profits",RealEstateNews.com,0.020777,Neutral,0.027907,0.565623
+20240423T093000,MSFT,The Coca-Cola Company and Microsoft announce five-year strategic partnership to accelerate cloud and generative AI initiatives,PR Newswire,0.450122,Bullish,0.441592,0.912351
+20240423T145943,MSFT,The Advantage of Low Stock Market Expectations,Morningstar,-0.052914,Neutral,0.097417,0.676590
+20240423T150519,MSFT,3 reasons the iShares S&P 500 ETF (IVV) is a great long-term investment,The Motley Fool Australia,0.338846,Somewhat-Bullish,0.336732,0.634840
+20240423T150613,MSFT,Big Monthly Dividends From Big Tech: JEPQ Vs. JEPI,Seeking Alpha,0.25364,Somewhat-Bullish,0.227354,0.609754
+20240423T150817,MSFT,The Coca-Cola Company announces 5-year AI partnership with Microsoft,Campaign Asia,0.363381,Bullish,0.443141,0.911625
+20240423T150817,MSFT,"Coca-Cola pours $1.1B into Microsoft cloud, generative AI partnership",CIO Dive,0.322445,Somewhat-Bullish,0.428914,0.930426
+20240423T192100,MSFT,Adobe to bring full AI image generation to Photoshop this year,Reuters,0.294817,Somewhat-Bullish,0.105939,0.607082
+20240424T121000,MSFT,KKR joins global cos betting billions of dollars in fastest-growing India,The Economic Times,0.412717,Bullish,0.296256,0.551736
+20240424T143700,MSFT,"6 Questions For Adam Singolda, Founder & CEO, Taboola",Forbes,0.268421,Somewhat-Bullish,0.146531,0.575160
+20240424T151340,MSFT,Streamline controls with Microsoft Cloud for Sovereignty,Microsoft,0.447073,Bullish,0.413809,1.000000
+20240424T185141,MSFT,REX FANG & Innovation Equity Premium Income ETF Review and Aggregate Rating (FEPI),MarketBeat,0.29096,Somewhat-Bullish,0.286447,0.796113
+20240424T204024,MSFT,"Alphabet, Diamondback Energy And More On CNBC's 'Final Trades'",Benzinga,0.281647,Somewhat-Bullish,0.131906,0.635904
+20240425T000000,MSFT,Microsoft Reports Rising Revenues as A.I. Investments Bear Fruit (Published 2024),The New York Times,0.294423,Somewhat-Bullish,0.459268,1.000000
+20240425T071500,MSFT,Microsoft and Apple are safer bets than the U.S. government? Bond investors seem to think so.,MarketWatch,0.419315,Bullish,0.417478,1.000000
+20240425T151340,MSFT,Microsoft (MSFT) reports higher revenue and profit for Q3 2024,AlphaStreet News,0.721181,Bullish,0.744520,1.000000
+20240425T180300,MSFT,Ferrovial and DXC Technology to drive Generative AI in collaboration with Microsoft,PR Newswire,0.360538,Bullish,0.300198,0.922860
+20240426T000000,MSFT,Salesforce Co-Founder Parker Harris on Why AI Keeps Him Up at Night,Inc.com,0.202738,Somewhat-Bullish,0.147804,0.716938
+20240426T124055,MSFT,"ServiceNow, Inc. (NYSE:NOW) Q1 2024 Earnings Call Transcript",Yahoo Finance,0.40345,Bullish,0.345404,0.644558
+20240426T144638,MSFT,Conduent and Voya Financial adopt Oracle Database@Azure for cloud migration,DatacenterDynamics,0.347326,Somewhat-Bullish,0.255190,0.802318
+20240426T151340,MSFT,The Estée Lauder Companies and Microsoft increase collaboration to power prestige beauty with generative AI,Microsoft Source,0.482174,Bullish,0.459474,1.000000
+20240426T151340,MSFT,"Microsoft reports 51% rise in Q3 gaming revenue thanks to Activision Blizzard, but console sales plummet",Game World Observer,0.112853,Neutral,0.269686,1.000000
+20240426T151630,MSFT,"CEOs of Microsoft, Nvidia and other tech giants join federal AI advisory board",SiliconANGLE,0.299131,Somewhat-Bullish,0.316420,0.989966
+20240427T071500,MSFT,Microsoft leaves office space in Morrisville as company moves to consolidate leases,Raleigh News & Observer,0.124175,Neutral,0.137401,1.000000
+20240427T150613,MSFT,Why I Just Added This Ultra-High-Yield Dividend ETF to My Retirement Account,The Globe and Mail,0.34554,Somewhat-Bullish,0.300737,0.606380
+20240429T000000,MSFT,Triller Looks to Become a TikTok Competitor,Los Angeles Business Journal,0.39595,Bullish,0.335432,0.619815
+20240429T000000,MSFT,"From Washing Machine To TV And Fridges, Reliance Is Coming For India’s Electronic Market With WYZR",Mashable India,0.207162,Somewhat-Bullish,0.106750,0.600627
+20240429T150829,MSFT,Korean Air validates its UAM system in world first operations demonstration,International Airport Review,0.249082,Somewhat-Bullish,0.143869,0.623918
+20240430T000000,MSFT,"After Earnings, Is Meta Stock a Buy, a Sell, or Fairly Valued?",Morningstar,0.08877,Neutral,0.132756,0.609903
+20240430T000000,MSFT,Microsoft Korea hosts AI Tour in Seoul illuminating the future of AI technology,Microsoft Source,0.403119,Bullish,0.408369,1.000000
+20240430T000000,MSFT,9 Top Data Classification Tools,Exploding Topics,0.291334,Somewhat-Bullish,0.227828,0.616855
+20240430T052200,MSFT,"Microsoft to invest $1.7 billion in cloud, AI in Indonesia, CEO says",Reuters,0.282128,Somewhat-Bullish,0.483954,1.000000
+20240430T090300,MSFT,"Kevin Johnson, Former CEO of Starbucks and Juniper Networks, Appointed to Recogni Board of Directors",PR Newswire,0.268006,Somewhat-Bullish,0.275865,0.732984
+20240430T150414,MSFT,As You Sow Calls Out Big Tech for $5 Billion Loss in 401(k) Returns,401k Specialist,-0.208573,Somewhat-Bearish,-0.249619,0.637754

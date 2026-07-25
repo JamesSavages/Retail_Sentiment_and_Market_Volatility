@@ -1,0 +1,63 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20240103T181224,AMZN,Miami doesn’t need to be the Silicon Valley of the South,Refresh Miami,-0.084601,Neutral,0.116776,0.637317
+20240104T000000,AMZN,Markets in Focus: Concentrating on Diversification,MSCI,0.221864,Somewhat-Bullish,0.223874,0.709250
+20240104T080400,AMZN,"RDE, Inc. (Restaurant.com) Completes Acquisition of CardCash.com, Creating $100 Million+ Incentives Business",KRON4,0.080801,Neutral,0.101824,0.621807
+20240104T182748,AMZN,Amazon to generate hydrogen onsite with Plug Power’s electrolyzer system,ESG Dive,0.384079,Bullish,0.334915,0.902203
+20240104T203853,AMZN,ProShares S&P 500 High Income ETF,ETF Database,0.328349,Somewhat-Bullish,0.245239,0.642639
+20240105T182404,AMZN,Smart Home Innovators: 3 Stocks Automating Everyday Life,InvestorPlace,0.221609,Somewhat-Bullish,0.232194,0.626576
+20240105T182625,AMZN,How the Pitney Bowes No-Box/No-Label Returns Service Works,Kiplinger,0.208317,Somewhat-Bullish,0.106346,0.600932
+20240108T000000,AMZN,GigaCloud Grows,Los Angeles Business Journal,0.181537,Somewhat-Bullish,0.130692,0.609559
+20240108T182800,AMZN,LG unveils world's 1st wireless transparent OLED TV: All details,The Times of India,0.351159,Bullish,0.274419,0.588684
+20240108T195238,AMZN,"FNGU ETF Analysis: Dividends, Returns AMEX:FNGU",TradingView,0.056391,Neutral,0.131698,0.730251
+20240109T175112,AMZN,Stellantis says BlackBerry partnership will develop infotainment tech 100 times faster,The Detroit News,0.378409,Bullish,0.344063,0.748838
+20240109T180932,AMZN,12 Lessons the Market Taught Investors in 2023,Morningstar,0.0461,Neutral,-0.141367,0.610413
+20240109T180932,AMZN,Naysayers Were Wrong About the 60/40 Portfolio. Here’s Why.,Morningstar,0.258374,Somewhat-Bullish,0.338162,0.807293
+20240110T000000,AMZN,SKYX’s All-in-One Smart Platform is Everything from a Smart Speaker to a Smoke Detector,CEPro,0.309698,Somewhat-Bullish,0.218122,0.608128
+20240110T053000,AMZN,Dolby Showcases the Growing Reach of Dolby Vision and Dolby Atmos at CES 2024,Dolby Newsroom,0.374496,Bullish,0.312626,0.632119
+20240110T174839,AMZN,Amazon takes next steps with two data center projects in Mesa,The Business Journals,0.470172,Bullish,0.452053,1.000000
+20240111T170000,AMZN,"eBay to pay $3M after employees sent live spiders, cockroaches to couple",LiveNOW from FOX,-0.407673,Bearish,-0.131090,0.645512
+20240111T181138,AMZN,CPSC recalls millions of furniture tip-over kits made in Vietnam,Furniture Today,-0.267481,Somewhat-Bearish,-0.208061,0.638439
+20240115T000000,AMZN,FedEx Challenges Amazon with Homegrown Marketplace,Channelnomics,0.184936,Somewhat-Bullish,0.115832,0.918721
+20240116T101700,AMZN,Netflix Tests Streaming Deal with Carrefour to Boost Subscribers (NFLX),Bloomberg.com,0.129946,Neutral,0.224964,0.639041
+20240116T110000,AMZN,Unlocking The Potential Of Pure Research At InterDigital,Forbes,0.269939,Somewhat-Bullish,0.214290,0.604778
+20240117T000000,AMZN,Monday.com review: Work management platform works best when you pay for it,IT Pro,0.115384,Neutral,0.131990,0.335539
+20240117T091500,AMZN,JFrog-Amazon SageMaker integration aims to streamline machine learning workflows,SiliconANGLE,0.166476,Somewhat-Bullish,0.348865,0.714086
+20240117T181820,AMZN,5 key themes from the 2024 Consumer Electronics Show,Liberty Global,0.227164,Somewhat-Bullish,0.236282,0.736363
+20240117T182413,AMZN,NetApp Hires AWS Executive To Manage Global Cloud Sales,CRN,0.203817,Somewhat-Bullish,0.117988,0.710149
+20240118T170800,AMZN,Billionaire couple gives Spelman College largest-ever single donation to an HBCU,The Guardian,0.355098,Bullish,0.343612,0.647802
+20240118T171500,AMZN,"LiveRamp Acquires Habu, As Walled Gardens Put The Squeeze On Indie Data Collaboration Tech",AdExchanger,0.213721,Somewhat-Bullish,0.101286,0.638983
+20240119T000000,AMZN,AES positioned to provide tech sector with growing renewable energy solutions,Daily Energy Insider,0.364742,Bullish,0.329711,0.639360
+20240119T000000,AMZN,Your S&P 500 Index Fund Has Higher Risk Than You May Think,Cabot Wealth Network,-0.145417,Neutral,-0.149539,0.629193
+20240119T181940,AMZN,Wayfair and Macy’s are cutting thousands of jobs as retail layoffs deepen,AP News,-0.332055,Somewhat-Bearish,-0.311877,0.639679
+20240119T184241,AMZN,LQR: Leveraging Digital Marketing to Grow e-Commerce Platform & Advertising Operations as Sector Online Channel Expands,Zacks Small Cap Research,0.10304,Neutral,0.122731,0.629499
+20240122T000000,AMZN,NVIDIA Corporation (NVDA) Stock Rocketed Over 200% in 2023,Yahoo Finance,0.21897,Somewhat-Bullish,0.238732,0.621961
+20240122T000000,AMZN,Higher S&P 500 Earnings Could Benefit This Active ETF,ETF Trends,0.363895,Bullish,0.323563,0.610150
+20240122T163700,AMZN,"SolarEdge, a solar inverter manufacturer, lays off 16% of its workforce",Fox Business,-0.202145,Somewhat-Bearish,-0.163996,0.626876
+20240122T175036,AMZN,"On theCUBE Pod: Is 2024 the year of AI ROI, and Broadcom’s next moves",SiliconANGLE,0.18462,Somewhat-Bullish,0.128460,0.740154
+20240123T000000,AMZN,"eBay cutting 1,000 jobs, will reduce contract workforce",Chain Store Age,-0.253524,Somewhat-Bearish,-0.204505,0.734896
+20240123T160900,AMZN,AT&T's Q4 Profit Likely Fell as Subscriber Growth Slowed,Investopedia,-0.06694,Neutral,-0.114594,0.631423
+20240123T175653,AMZN,Part 2: 2024 consumer outlook: From GDP to Skibidi Toilet,The Clorox Company,0.297751,Somewhat-Bullish,0.123553,0.604054
+20240124T000000,AMZN,"Online retailer eBay is cutting 1,000 jobs. It’s the latest tech company to reduce its workforce",The Daily Reporter - Greenfield Indiana,-0.232975,Somewhat-Bearish,-0.238290,0.662444
+20240124T072800,AMZN,eBay Stock Surges After Saying It Will Cut 9% of Its Workforce—Monitor These Key Levels,Investopedia,0.066738,Neutral,-0.125618,0.641626
+20240124T175059,AMZN,Boeing’s history reveals connections and disconnections in the West’s economy,High Country News,0.018295,Neutral,0.110763,0.625267
+20240125T000000,AMZN,Analog Devices finds permanent CFO from Amazon Web Services,The Business Journals,0.101776,Neutral,0.139717,0.688395
+20240125T000000,AMZN,"Analog Devices Appoints Richard C. Puccio, Jr. as Executive Vice President and Chief Financial Officer",citybiz,0.257736,Somewhat-Bullish,0.133875,0.604599
+20240125T174623,AMZN,"Analog Devices Appoints Richard C. Puccio, Jr. as Executive Vice President and Chief Financial Officer",Business Wire,0.26264,Somewhat-Bullish,0.105803,0.622729
+20240125T181518,AMZN,IonQ Achieves Technical Milestone One Year Ahead of Schedule,Business Wire,0.210584,Somewhat-Bullish,0.111328,0.609787
+20240126T024900,AMZN,Historic $10B planned investment to benefit Entergy Mississippi customers,Entergy,0.424984,Bullish,0.526792,1.000000
+20240126T163000,AMZN,Amazon.com Inc. stock outperforms competitors on strong trading day,MarketWatch,0.419628,Bullish,0.441475,1.000000
+20240126T171700,AMZN,"Salesforce slashes 700 jobs, adding to brutal string of 2024 tech layoffs",Fortune,-0.369859,Bearish,-0.307661,0.647141
+20240129T064500,AMZN,Why Amazon.com Is in Trouble,24/7 Wall St.,0.013258,Neutral,0.036222,0.346059
+20240129T083100,AMZN,iRobot Announces Operational Restructuring Plan to Position Company for the Future,PR Newswire,-0.113161,Neutral,0.104845,0.610873
+20240129T153000,AMZN,"Amazon taps Kueski for buy now, pay later service in Mexico",SiliconANGLE,0.41978,Bullish,0.414235,1.000000
+20240129T181754,AMZN,UFCW steps up efforts to stop Kroger-Albertsons merger,Grocery Dive,-0.051348,Neutral,0.117990,0.623860
+20240129T183401,AMZN,US OPEN: SoFi Technologies rallies 15% on first quarterly profit,XTB.com,0.260173,Somewhat-Bullish,-0.239403,0.720514
+20240129T210200,AMZN,"Amazon, Roomba-parent iRobot abandon $1.4 billion merger deal",Reuters,-0.498044,Bearish,-0.309512,0.994509
+20240130T163000,AMZN,Amazon.com Inc. stock outperforms competitors despite losses on the day,MarketWatch,0.133215,Neutral,0.131137,1.000000
+20240130T180159,AMZN,"2027 the Target for Transition Away from 1D GTIN, Toward Digital Link 2D Barcodes",Packaging World,0.217403,Somewhat-Bullish,0.245029,0.588911
+20240131T000000,AMZN,"Why global corporations are attracted to Palm Beach County, Florida",The Business Journals,0.42793,Bullish,0.426680,0.704516
+20240131T093300,AMZN,Walmart plans to add more than 150 large-format stores across the U.S.,CNBC,0.187233,Somewhat-Bullish,-0.148522,0.604679
+20240131T174839,AMZN,"SellersFi, Amazon team up to offer up to $10M in credit lines",Banking Dive,0.303069,Somewhat-Bullish,0.446342,1.000000
+20240131T181327,AMZN,IBM mandates managers back to the office; 3 days a week,HR Katha,-0.195769,Somewhat-Bearish,-0.136091,0.612791
+20240131T182753,AMZN,Downtown Nashville is getting another music venue,Axios,0.027448,Neutral,0.108139,0.727839
+20240131T184119,AMZN,Walmart announces ambitious 5-year growth plan,Grocery Dive,0.268402,Somewhat-Bullish,0.211098,0.637996

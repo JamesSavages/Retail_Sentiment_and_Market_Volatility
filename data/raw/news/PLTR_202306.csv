@@ -1,0 +1,5 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20230605T000548,PLTR,Defense Business Brief: Northrop seeks cash for B-21; L3Harris signs partnership with AWS; Raytheon might sell flight control business; and a bit more.,Defense One,0.066075,Neutral,0.287182,0.556366
+20230615T061028,PLTR,ProShares Ultra Technology Review and Aggregate Rating (ROM),MarketBeat,0.223953,Somewhat-Bullish,0.229757,0.577302
+20230616T020920,PLTR,iShares U.S. Tech Independence Focused ETF Review and Aggregate Rating (IETC),MarketBeat,0.337044,Somewhat-Bullish,0.356119,0.619112
+20230616T060913,PLTR,Fidelity Disruptive Technology ETF Review and Aggregate Rating (FDTX),MarketBeat,0.193597,Somewhat-Bullish,-0.123257,0.641927

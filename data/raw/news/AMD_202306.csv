@@ -1,0 +1,26 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20230605T000000,AMD,"Student profile: Gaining skills to work in signal integrity | Electrical, Computer & Energy Engineering",University of Colorado Boulder,0.290936,Somewhat-Bullish,0.345350,0.936402
+20230605T000000,AMD,Here’s how Applied Materials manages supply chain and semiconductor research,Tech Wire Asia,0.311676,Somewhat-Bullish,0.287859,0.631937
+20230605T144518,AMD,GlobalFoundries and STMicroelectronics finalize agreement for new 300mm semiconductor manufacturing facility in France,STMicroelectronics,0.624765,Bullish,0.335591,0.614125
+20230605T234404,AMD,Samsung Electronics makes 17-fold gains from investment in ASML,KED Global,0.261338,Somewhat-Bullish,0.114467,0.705081
+20230606T000039,AMD,Intel Reveals Fastest Arc Pro Workstation GPUs Yet,CRN,0.03589,Neutral,-0.215301,0.721541
+20230607T140400,AMD,Applied Materials Announces $4 Billion Investment In EPIC Center For R&D Collaboration,Forbes,0.411636,Bullish,0.318279,0.747635
+20230607T140921,AMD,RSPT Top Holdings List & Exposure (Invesco S&P 500 Equal Weight Technology ETF),MarketBeat,-0.0344,Neutral,-0.107092,0.824210
+20230613T000000,AMD,Supermicro Expands AMD Product Lines with New Servers and New Processors Optimized for Cloud Native Infrastructure and High-Performance Technical Computing,Supermicro,0.445405,Bullish,0.488932,1.000000
+20230613T000000,AMD,Oracle Cloud Infrastructure Announces OCI Compute Instances Based on New 4th Generation AMD EPYC Processors,Oracle,0.380843,Bullish,0.468128,1.000000
+20230613T133000,AMD,"AMD launches new data-center AI chips, software to go up against Nvidia and Intel",MarketWatch,0.040641,Neutral,-0.216003,1.000000
+20230613T214600,AMD,AMD launches new Instinct MI300X AI chip to take on Nvidia’s GPUs,SiliconANGLE,-0.005445,Neutral,0.044114,1.000000
+20230613T232700,AMD,AMD's AI chip challenge to Nvidia remains uphill fight with no big customers named,Reuters,0.093058,Neutral,-0.300574,1.000000
+20230614T081400,AMD,"AMD is chasing down Nvidia in AI, but one analyst worries the company is ‘somewhat late’",MarketWatch,-0.097534,Neutral,-0.191458,1.000000
+20230614T145800,AMD,The A.I. Race Is Now Between Two Chip Giants Led by Taiwanese American CEOs,Observer,0.384375,Bullish,0.306914,1.000000
+20230615T040218,AMD,Fidelity Metaverse ETF Review and Aggregate Rating (FMET),MarketBeat,0.23005,Somewhat-Bullish,0.254198,0.619082
+20230616T093950,AMD,Spear Alpha ETF Review and Aggregate Rating (SPRX),MarketBeat,0.316171,Somewhat-Bullish,0.348247,0.729285
+20230620T235105,AMD,Cisco Silicon One Breaks the 51.2 Tbps Barrier,Cisco Blogs,0.34311,Somewhat-Bullish,0.209920,0.553132
+20230621T045700,AMD,"Supermicro Unveils MicroCloud, High-Density 3U 8 Node System Utilizing AMD Ryzen Zen 4 7000 Series Processors",TechPowerUp,0.45316,Bullish,0.416869,0.805173
+20230623T000000,AMD,Artificial Intelligence Opens a Generational Opportunity for Chipmakers,Global X ETFs,0.372021,Bullish,0.644898,0.736982
+20230626T150900,AMD,"AMD, Broadcom stocks both drop for seventh straight session",MarketWatch,-0.465541,Bearish,-0.495610,1.000000
+20230627T183000,AMD,Nvidia and AMD shares fall on report of new U.S. ban on AI chip exports to China,MarketWatch,-0.447771,Bearish,-0.443053,1.000000
+20230628T001259,AMD,Oracle is no longer buying Intel processors for its data centers,The Business Journals,0.145917,Neutral,0.410482,0.719667
+20230628T203500,AMD,"Chipmaker Micron beats on demand from booming AI, easing glut",Reuters,0.24875,Somewhat-Bullish,0.349166,0.599630
+20230629T112000,AMD,Stock of the week - Advanced Micro Devices (29.06.2023),XTB.com,-0.077596,Neutral,-0.142465,1.000000
+20230630T235820,AMD,"Lockheed, GlobalFoundries Collaborate to Advance US Semiconductor Manufacturing",Assembly Magazine,0.409169,Bullish,0.301176,0.602406

@@ -1,0 +1,4 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20240404T150739,PLTR,US Taps Consortium for Army’s Robotic Combat Vehicle Software Prototype,The Defense Post,0.146383,Neutral,0.327241,0.902400
+20240418T183938,PLTR,Oracle Bets Big On Japan's Cloud Boom With $8B Investment,Benzinga,0.429702,Bullish,0.302090,0.625339
+20240427T131800,PLTR,Is Hercules Capital Stock a Buy?,The Motley Fool,0.172401,Somewhat-Bullish,0.301679,0.608694

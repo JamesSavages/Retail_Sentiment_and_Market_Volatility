@@ -1,0 +1,4 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20240604T170914,PLTR,"REX AI Equity Premium Income ETF (AIPI) News, Articles, Events & Latest Updates",Stocktwits,0.277766,Somewhat-Bullish,0.323153,0.733671
+20240606T123913,PLTR,"REX AI Equity Premium Income ETF (AIPI) Stock Price, Quote, News & History",Benzinga,0.277533,Somewhat-Bullish,0.479027,0.897050
+20240611T125246,PLTR,"People Moves: Everest Names Buonpane Head of Casualty Specialty, Industry Practices; Allied World Appoints Kranz A&E Lead",Insurance Journal,0.193082,Somewhat-Bullish,0.127308,0.607401

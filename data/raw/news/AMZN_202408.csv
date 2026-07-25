@@ -1,0 +1,68 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20240801T000000,AMZN,"AES debuts Maximo, the solar installation robot",Solar Builder,0.671025,Bullish,0.416727,0.740189
+20240801T141500,AMZN,IVV ETF or VAS ETF: Where should I invest?,The Motley Fool Australia,0.286733,Somewhat-Bullish,0.303859,0.675477
+20240801T201600,AMZN,Amazon’s Shares Slide as AI Spending Plans Spook Investors,Bloomberg.com,-0.446327,Bearish,-0.430526,1.000000
+20240802T010600,AMZN,"News | Amazon Boosts Spending to Expand Warehouse, Data Center Networks",CoStar,0.098697,Neutral,0.124981,1.000000
+20240802T095858,AMZN,This Could Be a Buying Opportunity for Active ETF ‘LSGR’,ETF Trends,0.358214,Bullish,0.340033,0.627545
+20240802T102500,AMZN,SPS Commerce Acquires SupplyPike in $206M Deal,Arkansas Business,0.172527,Somewhat-Bullish,0.114886,0.609861
+20240802T105539,AMZN,"Dominion Energy ""open"" to having a data center next to Connecticut nuclear power plant",DatacenterDynamics,0.248012,Somewhat-Bullish,0.212626,0.660818
+20240805T000000,AMZN,Kroger and Albertsons: A Case Study in Operational Resilience,Progressive Grocer,0.064732,Neutral,0.062028,0.620443
+20240805T000000,AMZN,"Earnings roundup: 2Q profits down at Alamo Group, Rush Enterprises; Toyota helped by exchange rate",San Antonio Express-News,-0.160536,Somewhat-Bearish,0.423057,0.763007
+20240805T112913,AMZN,"TC Energy eyes opportunities in North America, driven by data center growth",Data Center Dynamics,0.28079,Somewhat-Bullish,0.200970,0.620116
+20240805T185800,AMZN,Talen Energy to respond as regulator seeks details on proposed changes,Reuters,-0.043838,Neutral,0.118521,0.814655
+20240806T090500,AMZN,The Race to Displace: How Temu and Shein are Redefining Ecommerce,Retail TouchPoints,0.097658,Neutral,0.058940,0.867067
+20240806T111228,AMZN,Rocky View County: The new hub for major distribution centres?,DiscoverAirdrie,0.207056,Somewhat-Bullish,0.229164,0.616275
+20240807T000000,AMZN,"Artificial Intelligence (Ai) In The Education Sector Market size is set to grow by USD 2.32 billion from 2024-2028, Growing emphasis on customized learning paths using ai boost the market, Technavio",The AI Journal,0.325447,Somewhat-Bullish,0.339399,0.848117
+20240807T000000,AMZN,Walmart leads the top 10 US retailers by sales,eMarketer,0.315799,Somewhat-Bullish,0.235027,0.813225
+20240807T114000,AMZN,E-commerce Market Size Expected to Reach USD 67.05 Trillion by 2033,GlobeNewswire,0.216481,Somewhat-Bullish,0.435303,0.617097
+20240807T135200,AMZN,VirTra appoints Brandon Cox as Chief Technology Officer,Police1,0.149633,Neutral,0.149711,0.444707
+20240807T191002,AMZN,Animal Spirits: Flash Crash or Recession?,The Irrelevant Investor,0.386934,Bullish,0.345037,0.739049
+20240808T110529,AMZN,"What’s up with… Singtel, DT, HPE/Juniper",TelecomTV,0.246317,Somewhat-Bullish,0.108034,0.638930
+20240808T122000,AMZN,"The S&P 500’s largest stocks are now cheaper, and Amazon shines by this metric",MarketWatch,0.446769,Bullish,0.416527,0.988647
+20240808T122000,AMZN,"The S&P 500’s largest stocks are now cheaper, and Amazon shines by this metric",MarketWatch,0.231912,Somewhat-Bullish,0.386308,0.921583
+20240808T122000,AMZN,"The S&P 500’s largest stocks are now cheaper, and Amazon shines by this metric",MarketWatch,0.499555,Bullish,0.485067,0.995239
+20240809T000000,AMZN,"Texas power producers weigh in on tightening energy markets, load growth",Power Engineering Magazine,0.407174,Bullish,0.328317,0.621791
+20240809T110850,AMZN,Jumia’s stock price decline raises concerns over secondary share sale,Techpoint Africa,-0.156932,Somewhat-Bearish,0.107310,0.601114
+20240809T231012,AMZN,The Compound and Friends: The Dumbest Crash Ever,The Irrelevant Investor,0.265787,Somewhat-Bullish,0.311305,0.903547
+20240811T104827,AMZN,"Including Instacart, Vinted, Jellycat, and BigCommerce: RTIH’s most read retail technology articles from last week",Retail Technology Innovation Hub,0.129055,Neutral,0.246057,0.740925
+20240812T000000,AMZN,Kroger comes under fire for use of electronic shelf labels,Grocery Dive,-0.089016,Neutral,-0.093618,0.565058
+20240812T000000,AMZN,Veritone Signs Up for AI Collaboration With AWS,Radio World,0.380296,Bullish,0.336936,0.711442
+20240812T070000,AMZN,"Stop Experimenting with AV1, Start Working with it on Beamr Cloud",GlobeNewswire,0.557178,Bullish,0.339980,0.605679
+20240812T110933,AMZN,Talk Your Book: Back to the Futures Market,The Irrelevant Investor,0.214866,Somewhat-Bullish,0.297323,0.902202
+20240812T112252,AMZN,Roku Pro Series review — great performance on a budget,Tom's Guide,0.168775,Somewhat-Bullish,0.116230,0.618641
+20240813T000000,AMZN,Humanoid Helpers of the Future,Morgan Stanley,0.34327,Somewhat-Bullish,0.328805,0.640713
+20240814T000000,AMZN,Instacart Stock Gains Momentum with Profits and AI-Powered Carts,MarketBeat,0.23966,Somewhat-Bullish,0.101968,0.641427
+20240815T000000,AMZN,"GenAI-Powered Asynchronous Messaging, Available 24 x 7, Caters to Modern Customer Expectations While Reducing Operational Costs",Business Wire,0.337082,Somewhat-Bullish,0.340141,0.624893
+20240815T000000,AMZN,It’s Not Just Warren Buffett; We Also Think Ulta Beauty Is a Buy,Morningstar,0.214584,Somewhat-Bullish,-0.227033,0.641173
+20240815T111016,AMZN,Kenvue introduces patented micro-peptide technology with Neutrogena® Collagen Bank™ launch,Kenvue,0.368245,Bullish,0.334753,0.624042
+20240815T124000,AMZN,IUSG: A Growth ETF With An Impressive 12% IRR Potential (NASDAQ:IUSG),Seeking Alpha,0.353893,Bullish,0.336801,0.600064
+20240816T080915,AMZN,Direxion Daily AMZN Bull 2X Shares (AMZU) performance history,Yahoo Finance Singapore,-0.069275,Neutral,0.000301,0.659633
+20240817T000000,AMZN,Harris Joins the FTC’s Food Fight Against Kroger-Albertsons Merger,R Street Institute,0.02045,Neutral,0.104809,0.609703
+20240819T000000,AMZN,Kartoon Studios Partners with LiveOne to Oversee Music On New Winnie-the-Pooh Productions,Digital Music News,0.361292,Bullish,0.300042,0.740541
+20240819T105530,AMZN,"DevSecOps Market Insights Discussed Regarding Size, Share And Outlook 2024",WhaTech,0.345901,Somewhat-Bullish,0.325493,0.625016
+20240820T104904,AMZN,"Best Buy Introduces AI-Powered Delivery Tracking, Signaling Shift in Retail Logistics",PYMNTS.com,0.311716,Somewhat-Bullish,0.334186,0.614563
+20240820T105457,AMZN,Solar farms cropping up in southwest Oklahoma,Southwest Ledger,0.334418,Somewhat-Bullish,0.319203,0.725640
+20240820T111003,AMZN,"Kroger, Parent Company of Mariano’s, Fights Federal Agency in a Battle That Could Upend Antitrust",WTTW,-0.164434,Somewhat-Bearish,-0.123889,0.642146
+20240820T111533,AMZN,Netflix stock hit an all-time high after a huge spike in ad sales,Quartz,0.251544,Somewhat-Bullish,0.119536,0.620563
+20240820T113412,AMZN,Amazon To Buy AI Chipmaker Perceive To Boost LLMs At The Edge,CRN,0.283166,Somewhat-Bullish,0.401264,0.956964
+20240821T100200,AMZN,Colgate-Palmolive’s First-Party Data Strategy Is A Study In Quality Over Quantity,AdExchanger,0.265656,Somewhat-Bullish,0.215791,0.648570
+20240821T120900,AMZN,AI Stock Eyes Early Buy Trigger As Profits Surge,Investor's Business Daily,0.303821,Somewhat-Bullish,0.256557,0.604808
+20240822T112454,AMZN,Sify ropes in former AWS exec to head its data centre unit,Techcircle,0.209279,Somewhat-Bullish,0.387724,0.714405
+20240822T182500,AMZN,"Online Jewelry Market size is set to grow by USD 58.4 billion from 2024-2028, Innovation in jewelry design and technology boost the market, AI Role and Impact, Technavio",PR Newswire,0.257184,Somewhat-Bullish,0.204038,0.630185
+20240824T063000,AMZN,Why Legendary Investor Bill Miller Still Loves Bitcoin — And 3 Ways To Beat The Market,Forbes,0.428243,Bullish,0.728646,0.826986
+20240825T000000,AMZN,Princess Polly to open new US stores,FashionNetwork - The World's Fashion Business News,0.39116,Bullish,0.215110,0.649960
+20240826T000000,AMZN,What if Nvidia Misses Earnings?,Morningstar,0.289559,Somewhat-Bullish,0.328492,0.616717
+20240826T000000,AMZN,Consumer Trends 2024: Investing in the Convenience Premium,Morgan Stanley,0.138746,Neutral,0.340521,0.824835
+20240826T000000,AMZN,Kroger and Albertsons’ Dirty Tricks To Preserve Greedflation,The Lever,-0.099818,Neutral,0.129138,0.730916
+20240826T123500,AMZN,Defense Stock Still Has More Room to Run,Schaeffer's Investment Research,0.323732,Somewhat-Bullish,0.229862,0.557129
+20240827T000000,AMZN,"Pfizer launches DTC service for migraine, COVID drugs",BioPharma Dive,0.291065,Somewhat-Bullish,0.106963,0.574193
+20240827T000000,AMZN,"Walmart overhauls marketplace with resale, logistics support",Chain Store Age,0.182665,Somewhat-Bullish,0.218061,0.627646
+20240827T012400,AMZN,"Shares of Temu parent company PDD plunge almost 29%; 'too large a correction', says analyst",CNBC,0.207053,Somewhat-Bullish,0.128887,0.632502
+20240827T035821,AMZN,VIDEO: ETF of the Week: Amplify Online Retail ETF (IBUY),ETF Trends,0.180917,Somewhat-Bullish,0.134840,0.648409
+20240827T110619,AMZN,IBM Is America’s Worst Big Tech Company,24/7 Wall St.,-0.166366,Somewhat-Bearish,-0.104987,0.626427
+20240827T111103,AMZN,NCSOFT to seek recovery momentum with open-world game,KED Global,0.199573,Somewhat-Bullish,0.116358,0.648154
+20240827T165200,AMZN,Amazon denied bid to write ‘novella’-length brief in Alexa privacy lawsuit,Reuters,-0.123478,Neutral,-0.104503,0.987443
+20240828T104618,AMZN,CPSC: Amazon Must Provide Notice and Action Plan To Address Hazardous Products,Arnold & Porter,-0.276043,Somewhat-Bearish,-0.255227,1.000000
+20240828T155200,AMZN,Kroger Executive Admits Company Gouged Prices Above Inflation,Newsweek,-0.189026,Somewhat-Bearish,-0.060796,0.633934
+20240829T000000,AMZN,Why We Think Amazon Stock Is Now a Buy,Morningstar,0.331079,Somewhat-Bullish,0.434700,1.000000
+20240830T000000,AMZN,Ulta Beauty Cuts Sales Outlook on Slowing Consumer Demand,The Business of Fashion,-0.175504,Somewhat-Bearish,-0.123384,0.608702

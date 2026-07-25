@@ -1,0 +1,5 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20230510T103000,PLTR,Palantir sees record demand for its new AI tool. Here's what it does,HT Tech,0.455297,Bullish,0.489457,1.000000
+20230514T063500,PLTR,Peter Thiel's Palantir Sees Skyrocketing Demand for AI Technologies: What Its CEO Has to Say,Nasdaq,0.250139,Somewhat-Bullish,0.471896,0.982503
+20230516T005646,PLTR,Leidos’ Paul Burnette: Agencies Should Adopt SecDevOps to Rapidly Deploy Software,GovCon Wire,0.373104,Bullish,0.331014,0.625277
+20230519T143532,PLTR,Market Brief: Is the Stock Market Expensive?,Morningstar,0.015927,Neutral,0.041805,0.690835

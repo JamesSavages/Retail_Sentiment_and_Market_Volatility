@@ -1,0 +1,15 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20231002T050912,AMD,Top Performing ETFs: Income and Asia ETFs Lead,ETF Trends,0.391439,Bullish,0.324111,0.727648
+20231002T055832,AMD,Top Performing ETFs: Income and Asia ETFs on Top,ETF Database,0.290931,Somewhat-Bullish,0.278877,0.633049
+20231003T204856,AMD,UT’s Texas Institute for Electronics and Infleqtion Launch Quantum Manufacturing Center of Excellence,UT Austin News,0.429302,Bullish,0.336010,0.644258
+20231003T223100,AMD,Advanced Micro Devices Inc: Will AMD Stock Price Reach $120 Mark?,The Coin Republic,0.068992,Neutral,0.085463,0.981043
+20231006T205733,AMD,Elevate efficiency in converged infrastructure | NetApp Blog,NetApp,0.483575,Bullish,0.676529,0.892886
+20231012T083900,AMD,NVIDIA Omniverse is Changing Filmmaking and Exxact is Helping It Happen,Animation World Network,0.250012,Somewhat-Bullish,0.143934,0.619423
+20231013T202739,AMD,AI Accelerated Video Editing with DaVinci Resolve 18.6 & AMD Radeon Graphics,AMD,0.337149,Somewhat-Bullish,0.431697,1.000000
+20231016T210624,AMD,Supermicro Accelerates Everything at ISC23,Supermicro,0.560355,Bullish,0.446191,0.634495
+20231019T204721,AMD,HPE delivers Austral supercomputer to CRIANN in France,Data Center Dynamics,0.305533,Somewhat-Bullish,0.313663,0.723747
+20231023T202739,AMD,Nvidia and AMD reportedly developing Arm-based PC processors,SiliconANGLE,0.108298,Neutral,0.230122,1.000000
+20231024T134500,AMD,"Nvidia to take on Intel, Qualcomm with Arm-based processors for PC; availability pegged for 2025",The Financial Express,0.090508,Neutral,0.293928,0.737374
+20231025T022700,AMD,Micron Announces Sampling of 9.6 Gbps LPDDR5X Memory,TechPowerUp,0.64248,Bullish,0.347990,0.610780
+20231025T163700,AMD,Advanced Micro Devices Inc. stock underperforms Wednesday when compared to competitors,MarketWatch,0.037816,Neutral,0.011333,0.315276
+20231028T132400,AMD,Microsoft will hold a 27% stake in OpenAI and gain access to its AI models.,富途牛牛,0.348704,Somewhat-Bullish,0.254574,0.311401

@@ -1,0 +1,47 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20230201T160500,META,Meta Reports Fourth Quarter and Full Year 2022 Results,PR Newswire,0.126966,Neutral,0.138495,1.000000
+20230202T031758,META,8 reasons this state is the right fit for California companies,The Business Journals,0.312632,Somewhat-Bullish,0.432676,0.839839
+20230202T032652,META,iHeartMedia class action alleges company discloses subscriber data to Meta,Class Action Lawsuits,-0.167763,Somewhat-Bearish,-0.314512,0.603016
+20230202T033248,META,Social Media Lawsuits I Tech Giants Sued for Social Media Harm,Consumer Notice,-0.335575,Somewhat-Bearish,-0.444828,1.000000
+20230202T033249,META,"Meta’s Q4 Report Exceeds Expectations, Announces $40 Billion Stock Repurchase Plan",新浪财经,0.266968,Somewhat-Bullish,0.467674,1.000000
+20230202T034229,META,"Samsung’s next frontier: XR in partnership with Qualcomm, Google",KED Global,0.263624,Somewhat-Bullish,0.200727,0.715010
+20230202T145049,META,"HubSpot, Pinterest Add to Tech Layoff Chaos",Tech.co,-0.350835,Bearish,-0.349475,0.611619
+20230203T033249,META,Meta从虚拟元宇宙重回现实,新浪财经,0.099313,Neutral,0.212373,0.997402
+20230203T035305,META,ChatGPT sets fastest-growing user base record: study,Taipei Times,0.15009,Somewhat-Bullish,0.118768,0.618396
+20230203T113800,META,大裁员后，Meta的元宇宙还有新故事吗？,新浪财经,0.133889,Neutral,0.215202,1.000000
+20230203T115300,META,Meta and Zuckerberg changed the Facebook narrative this week,MarketWatch,0.341562,Somewhat-Bullish,0.335230,1.000000
+20230203T221038,META,"iShares ESG Aware MSCI USA Value ETF ETF Price, Holdings, & News (BATS:EVUS)",MarketBeat,0.291805,Somewhat-Bullish,0.343706,0.582739
+20230205T035343,META,The 7 most in-demand tech skills for freelancers—many pay more than $125 an hour,CNBC,-0.260464,Somewhat-Bearish,-0.418798,0.617578
+20230206T032316,META,"CEBA: Energy Customers Announce Record-High of Nearly 17 GW of Clean Energy in 2022, Despite Policy and Market Challenges",cebuyers.org,0.323583,Somewhat-Bullish,0.313921,0.707589
+20230206T132309,META,Software company Autodesk lays off 250 employees,The Economic Times,-0.238426,Somewhat-Bearish,-0.215018,0.604643
+20230207T030446,META,AES brings online 100MW solar PV plant in Arizona with Meta signed up as offtaker,PV Tech,0.372311,Bullish,0.335234,0.813282
+20230207T032734,META,The 3 Best Quantum Computing Stocks to Buy for February 2023,InvestorPlace,0.268795,Somewhat-Bullish,0.136265,0.595043
+20230207T033248,META,"Senators question Zuckerberg about whether Russia, China accessed Facebook user data",Fox Business,-0.421056,Bearish,-0.403561,0.970804
+20230207T033249,META,元宇宙烧了 137 亿美元，还得 Facebook 救 Meta,新浪财经,0.099142,Neutral,0.128483,1.000000
+20230207T194100,META,"Meta, nonprofit end U.S. lawsuit over infinity-logo trademark",Reuters,0.28632,Somewhat-Bullish,0.291834,0.982577
+20230208T031403,META,Former Salesforce co-CEO Bret Taylor to launch new AI startup with Google veteran Clay Bavor,SiliconANGLE,0.141432,Neutral,0.105054,0.645188
+20230208T035305,META,Uber Reports Record Revenue as It Defies the Economic Downturn (Published 2023),The New York Times,-0.031692,Neutral,-0.302163,0.557852
+20230209T032331,META,Here’s Some Wisdom: Expect the Unexpected,Morningstar,0.107226,Neutral,0.136599,0.735950
+20230210T213900,META,"Facebook, Gibson Dunn sanction order is light on dollars, heavy on message",Reuters,-0.404922,Bearish,-0.396246,1.000000
+20230213T032021,META,Wall Street ends sharply higher as investors eye inflation data,Reuters,0.133967,Neutral,0.438155,0.933822
+20230214T033249,META,持续动荡！这一美股巨头首席商务官将离职！又要新一轮裁员？去年宣布裁员1.1万人,新浪财经,-0.368626,Bearish,-0.637786,0.998112
+20230214T152100,META,"Walmart to close Austin technology hub and two others, tells staff to return to offices",San Antonio Express-News,0.091076,Neutral,0.110906,0.597832
+20230215T033248,META,Lawsuit against Meta in Kenya paves the way for African countries to sue tech companies,Global Voices,0.006278,Neutral,0.043396,0.328992
+20230216T030545,META,The 7 Best ChatGPT Stocks to Buy Now,InvestorPlace,0.320283,Somewhat-Bullish,0.426621,0.742827
+20230216T080000,META,Forget Milk and Eggs: Supermarkets Are Having a Fire Sale on Data About You,The Markup,-0.183518,Somewhat-Bearish,-0.117461,0.561027
+20230219T185200,META,Kroger workers who quit are getting texts and emails from the company asking them to come back,Fortune,-0.142192,Neutral,-0.220337,0.563624
+20230220T030000,META,Trump’s Truth Social Dilemma,Newsweek,-0.045959,Neutral,0.131174,0.704189
+20230221T035630,META,WPP and BigCommerce partner to enhance global ecommerce offerings,WPP,0.15002,Somewhat-Bullish,0.336749,0.605141
+20230222T172900,META,"Baidu's ChatGPT-like app will revolutionise its search engine, says CEO",Reuters,0.213041,Somewhat-Bullish,0.125669,0.608207
+20230224T034717,META,The Decoding of the Digital Age!,INDOlink,0.266173,Somewhat-Bullish,0.203646,0.605892
+20230224T093900,META,"This Week in the Metaverse: BlackRock's new ETF, Titanic artifacts as NFTs, and a Snow Crash Sotheby’s auction",Fortune,0.158624,Somewhat-Bullish,0.202365,0.717869
+20230224T181800,META,Spotify releasing artificial intelligence DJ in two countries,Fox Business,0.185427,Somewhat-Bullish,0.133972,0.609900
+20230226T035547,META,How 5G will help blaze the trail to the long-awaited metaverse,SiliconANGLE,0.306736,Somewhat-Bullish,0.214190,0.748607
+20230226T105812,META,SMOT ETF: Question & Answer,VanEck,0.372787,Bullish,0.336984,0.614339
+20230227T010400,META,Arista Networks: Backbone Of The AI Industry And Cloud Titans (NYSE:ANET),Seeking Alpha,0.433082,Bullish,0.311464,0.647200
+20230227T031840,META,Entergy Texas signs 150MW solar PV PPA with Longroad Energy,PV Tech,0.267147,Somewhat-Bullish,0.275809,0.638992
+20230227T032331,META,"Westport schools joined a new lawsuit against YouTube, TikTok and other apps. Here's why.",SouthCoastToday.com,-0.392321,Bearish,-0.418016,0.828543
+20230227T091500,META,Entravision Announced as the Authorized Sales Partner of Meta in Mongolia,Stock Titan,0.764179,Bullish,0.740493,0.874691
+20230227T114700,META,Start of a New Era: Why Nokia has changed its logo for the first time in 60 years,Firstpost,0.078644,Neutral,0.002626,0.557420
+20230228T032331,META,Google employees are voicing their frustrations over layoffs at BARD,Dazeinfo,-0.166832,Somewhat-Bearish,-0.119001,0.590258
+20230228T034804,META,"Smartly.io Makes Strategic C-Suite Addition, Welcoming Snap and Facebook Veteran Brett Wein as Chief Sales Officer",Business Wire,0.370914,Bullish,0.363862,0.633085

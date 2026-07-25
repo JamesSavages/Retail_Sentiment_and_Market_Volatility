@@ -32,7 +32,8 @@ TICKERS = [
 # For the free Alpha Vantage tier (25 requests/day), the *historical* news
 # panel is collected on a reduced set first; expand as your quota allows.
 # NEWS_TICKERS = ["AAPL", "NVDA", "TSLA", "AMD", "META", "PLTR"]
-NEWS_TICKERS = ["AAPL", "NVDA", "TSLA"]     # trim to 3 for the synopsis sample
+NEWS_TICKERS = ["AAPL", "NVDA", "TSLA", "AMD", "META", "MSFT", "AMZN", "PLTR"]
+     # trim to 3 for the synopsis sample
 STOCKTWITS_PAGES_PER_TICKER = 20           # was 5 — harvest more labelled messages
 
 START_DATE = "2023-01-01"   # study window start (prices / news)

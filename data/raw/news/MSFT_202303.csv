@@ -1,0 +1,100 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20230301T000000,MSFT,"Artificial Intelligence ETFs, or ETFs Powered by Artificial Intelligence?",ETF Trends,0.239615,Somewhat-Bullish,0.310226,0.604850
+20230301T021527,MSFT,Sony Becomes AMD's Largest Customer on Booming PS5 Sales,Tom's Hardware,0.170956,Somewhat-Bullish,-0.098610,0.645663
+20230301T022514,MSFT,Zuora shares rocket on modest earnings and revenue beats,SiliconANGLE,0.339065,Somewhat-Bullish,0.330361,0.632597
+20230301T023509,MSFT,HP CEO Lores: Hybrid Work Is ‘Driving Innovation Across Our Portfolio’,CRN Magazine,-0.078354,Neutral,-0.244509,0.629976
+20230301T025903,MSFT,FTC judge orders Sony to mostly comply with Microsoft subpoena,TweakTown,0.129523,Neutral,0.149240,1.000000
+20230301T135500,MSFT,Salesforce stock spikes 14% after beating Q4 estimates; Tableau revenue grows 6% to $636M,GeekWire,0.111232,Neutral,-0.148163,0.623131
+20230301T145602,MSFT,Gartner Predicts Three Ways Autonomous Technologies Will Impact the FP&A and Controller Functions in Finance,Gartner,0.347853,Somewhat-Bullish,0.304777,0.635642
+20230301T153845,MSFT,SFY Top Holdings List & Exposure (SoFi Select 500 ETF),MarketBeat,0.116432,Neutral,0.115969,0.744678
+20230301T163850,MSFT,OALC Top Holdings List & Exposure (OneAscent Large Cap Core ETF),MarketBeat,0.234247,Somewhat-Bullish,0.228560,0.841690
+20230301T221300,MSFT,ACVF Top Holdings List & Exposure (American Conservative Values ETF),MarketBeat,0.12647,Neutral,0.134964,0.745269
+20230301T235203,MSFT,IWV Top Holdings List & Exposure (iShares Russell 3000 ETF),MarketBeat,0.255329,Somewhat-Bullish,0.229662,0.826436
+20230302T015900,MSFT,Elliott nominates slate of directors to Salesforce board - source,Reuters,0.173928,Somewhat-Bullish,0.106701,0.602441
+20230302T021437,MSFT,C3 AI Announces Fiscal Third Quarter 2023 Financial Results,C3 AI,0.32747,Somewhat-Bullish,0.224491,0.610482
+20230302T023610,MSFT,Howard University and UCD Business Schools create new exchange to tackle global challenges,University College Dublin,0.412642,Bullish,0.338500,0.708469
+20230302T023739,MSFT,Three Times a Leader: CrowdStrike Named a Leader in Gartner® Magic Quadrant™ for Endpoint Protection Platforms,CrowdStrike,0.25205,Somewhat-Bullish,0.122787,0.646035
+20230302T024834,MSFT,Outgoing CEO boosted Perion's market cap twelvefold,Globes - Israel Business News,0.214405,Somewhat-Bullish,0.325369,0.719105
+20230302T091600,MSFT,8 in-demand creative skills for freelancers―many can pay more than $100 per hour,CNBC,0.315101,Somewhat-Bullish,0.274307,0.614258
+20230302T170000,MSFT,C3 AI Announces Fiscal Third Quarter 2023 Financial Results,Business Wire,0.301551,Somewhat-Bullish,0.232691,0.624483
+20230303T000000,MSFT,"Lidiane Jones, Slack’s new CEO, is the glue between it and Salesforce",Fast Company,-0.073181,Neutral,-0.078167,0.658152
+20230303T000000,MSFT,"Generative AI, Explained",Global X ETFs,0.352473,Bullish,0.251910,0.567481
+20230303T000000,MSFT,VT vs ACWI ETF: Which is the Best World ETF?,Dr Wealth,0.201246,Somewhat-Bullish,0.230358,0.732357
+20230303T023412,MSFT,Home Depot takes Kids Workshops to the metaverse on Roblox,Marketing Dive,0.152654,Somewhat-Bullish,0.126320,0.608872
+20230303T023507,MSFT,"CEO Antonio Neri On HPE’s Supercomputing ChatGPT Advantage, Axis Security And GreenLake Momentum",CRN Magazine,0.201033,Somewhat-Bullish,0.148920,0.579821
+20230303T023510,MSFT,H&R Block adds another executive to focus on generating small business tax clients,The Business Journals,0.143637,Neutral,0.133102,0.620703
+20230303T023559,MSFT,IBM Stock: What Is the Highest Price It Has Ever Been?,GOBankingRates,-0.061535,Neutral,-0.111456,0.623507
+20230303T024020,MSFT,GLOF Top Holdings List & Exposure (iShares Global Equity Factor ETF),MarketBeat,0.134141,Neutral,0.136696,0.601407
+20230303T024402,MSFT,Microsoft’s venture arm M12 is undergoing a big strategy shift—and insiders have left the fund,Fortune,0.14234,Neutral,0.101504,1.000000
+20230303T024402,MSFT,Inside the big changes at Microsoft’s venture arm M12,Fortune,0.258474,Somewhat-Bullish,0.263004,0.982576
+20230303T030141,MSFT,WEBTOON and LINE Studio Announce March 14 Launch Date for the True Beauty Mobile Puzzle Game,Business Wire,0.231936,Somewhat-Bullish,0.147552,0.599918
+20230303T051000,MSFT,IOO: Some Reasons To Stay Faithful Despite The Long Fall Ahead (NYSEARCA:IOO),Seeking Alpha,-0.107336,Neutral,-0.104712,0.620937
+20230306T000000,MSFT,"10 Undervalued, High-Quality Stocks With Competitive Advantages",Morningstar,0.403825,Bullish,0.422448,0.832910
+20230306T010920,MSFT,SUSL Top Holdings List & Exposure (iShares ESG MSCI USA Leaders ETF),MarketBeat,0.141115,Neutral,0.126601,0.912837
+20230306T022123,MSFT,Nasdaq of the north? Inside NEO’s quest to topple the TSX monopoly,The Globe and Mail,0.206744,Somewhat-Bullish,0.316256,0.626076
+20230306T023614,MSFT,How legal teams are using Luminance for AI-powered automation,Legal Dive,0.412022,Bullish,0.228452,0.646941
+20230306T025302,MSFT,Rackspace Technology appoints Dr Angela Kurien Murze as Cloud Innovation Centre India Head,Express Computer,0.229354,Somewhat-Bullish,0.117868,0.585948
+20230306T080700,MSFT,Growth stock vs. value stock? It's all in the eye of the beholder,CNBC,0.045556,Neutral,0.019847,0.991535
+20230306T174155,MSFT,SUSA Top Holdings List & Exposure (iShares MSCI USA ESG Select ETF),MarketBeat,0.336468,Somewhat-Bullish,0.336962,0.638262
+20230307T000000,MSFT,"Einstein AI was good, but Salesforce claims Einstein GPT is even better",VentureBeat,0.368146,Bullish,0.207903,0.618103
+20230307T023525,MSFT,HubSpot Unveils New OpenAI-Powered Chatbot,CMSWire,0.331234,Somewhat-Bullish,0.210002,0.638967
+20230307T080000,MSFT,Salesforce follows Microsoft in launching A.I. tools for salespeople with help from OpenAI,CNBC,0.274266,Somewhat-Bullish,0.326808,0.860150
+20230308T000000,MSFT,"SAP Introduces SAP Datasphere to Simplify Customers’ Data Landscape – Partners with Collibra, Confluent, Databricks and DataRobot",SAP News Center,0.250438,Somewhat-Bullish,0.288809,0.636254
+20230308T023235,MSFT,Globant: por qué el unicornio argentino se instaló en Tandil,Revista Noticias,0.203729,Somewhat-Bullish,0.101935,0.666980
+20230308T024402,MSFT,Microsoft adding to far West Side data center with $175.9 million expansion project this year,San Antonio Express-News,0.38442,Bullish,0.460243,1.000000
+20230308T184500,MSFT,State wants to hear from people who lost power in storms,WPBN,-0.190303,Somewhat-Bearish,0.147861,0.612455
+20230309T024402,MSFT,"Under the Qatar National Artificial Intelligence Strategy KAHRAMAA Launches AI Platform, in Collaboration with Microsoft and KPMG – Middle East & Africa News Center",Microsoft Source,0.439266,Bullish,0.429024,1.000000
+20230309T030344,MSFT,Big Tech Has Layoffs All Wrong,TIME,0.101352,Neutral,0.123649,0.625297
+20230309T030350,MSFT,Zero trust illustrated: Secure cloud migration,Zscaler,0.325798,Somewhat-Bullish,0.338664,0.721277
+20230309T095400,MSFT,US FTC will seek to stop ICE from buying Black Knight,Reuters,-0.12811,Neutral,0.245636,0.626745
+20230309T145111,MSFT,The accelerating rise of automation: 5 top jobs that will be replaced by AI,Study International,0.265939,Somewhat-Bullish,0.318870,0.615786
+20230309T145112,MSFT,PETRONAS,IBM,0.424948,Bullish,0.334030,0.638614
+20230310T023653,MSFT,"Physical-Digital Integration Market May Set New Growth Story : Google, Infosys, Oracle, Microsoft",openPR.com,0.272743,Somewhat-Bullish,0.251938,0.701124
+20230310T024402,MSFT,"Microsoft Details How Enterprises Can Use ChatGPT with Up-to-Date, Non-Public Corporate Data",Virtualization Review,0.1623,Somewhat-Bullish,0.402359,1.000000
+20230310T024728,MSFT,The 10 highest paid people in cloud networking,Fierce Network,0.240287,Somewhat-Bullish,0.285925,0.836943
+20230310T025854,MSFT,Experts call for AI regulation during Senate hearing,TechTarget,0.081046,Neutral,0.148312,0.616343
+20230312T025554,MSFT,Super-investor Mohnish Pabrai’s value investing principles,Daily Investor,0.080953,Neutral,0.123242,0.611834
+20230313T021746,MSFT,Ball Aerospace Prototype Payload to Provide On-Orbit Data Processing,PR Newswire,0.277128,Somewhat-Bullish,0.260016,0.726333
+20230314T021928,MSFT,Opinion: Layoffs like Meta’s show corporate social responsibility is just flowery words and big talk,The Globe and Mail,0.022422,Neutral,0.037338,0.732195
+20230314T022909,MSFT,Smart move: Artificial intelligence and 3D laser scanning for MEP applications,"Planning, Building & Construction Today",0.255498,Somewhat-Bullish,0.244434,0.620486
+20230314T025524,MSFT,SANUS Launches Speaker Stands and Wall Mounts for the New Sonos® Era 100™ and Era 300™ Wireless Speakers,Consumer Electronic News,0.203654,Somewhat-Bullish,0.380149,0.607698
+20230314T025610,MSFT,STMicroelectronics provides full STM32 support for Microsoft Visual Studio Code,STMicroelectronics,0.376619,Bullish,0.338075,0.804476
+20230315T023559,MSFT,7 Cloud Computing Stocks That Can Make You a Millionaire as Data Explodes,InvestorPlace,0.251356,Somewhat-Bullish,0.243073,0.787358
+20230315T024506,MSFT,Using the power of Cloudflare’s global network to detect malicious domains using machine learning,The Cloudflare Blog,0.362368,Bullish,0.258652,0.585110
+20230315T102700,MSFT,무위험지표금리 ETF 인기에 미국판 출격 대기,뉴데일리 경제,0.172627,Somewhat-Bullish,0.334735,0.609338
+20230315T151051,MSFT,Morgan Stanley partners with OpenAI on internal chatbot for its advisors,InvestmentNews,0.262363,Somewhat-Bullish,0.133148,0.645289
+20230316T000000,MSFT,SAP Introduces SAP Datasphere to Simplify Customers’ Data Landscape,SAP News Center,0.280185,Somewhat-Bullish,0.269454,0.627308
+20230316T021853,MSFT,China’s Answer to ChatGPT Gets an Artificial Debut and Disappoints (Published 2023),The New York Times,-0.04644,Neutral,0.245480,0.630576
+20230316T021853,MSFT,Demo of China’s Answer to ChatGPT Disappoints Investors,Time Magazine,-0.190915,Somewhat-Bearish,-0.103740,0.649980
+20230316T024142,MSFT,Lumen’s Exec Team Taking The Provider From ‘Channel-Friendly’ To ‘Channel-Focused’,CRN,0.340046,Somewhat-Bullish,0.239668,0.625529
+20230316T024525,MSFT,NICE Achieves Milestone of One Million Agents on CXone,CX Today,0.274444,Somewhat-Bullish,0.128384,0.634812
+20230316T090000,MSFT,"Global Corporations Join Brookfield to Invest Nearly a Billion Dollars in Closed Loop Partners' Operating Company, Circular Services, the Leading Developer of Circular Economy Infrastructure",PR Newswire,0.301405,Somewhat-Bullish,0.333992,0.858930
+20230317T021756,MSFT,Los avisos de consumo que implementó el BBVA en la app (incluye débito),Sir Chandler,0.249613,Somewhat-Bullish,0.148390,0.642311
+20230320T050258,MSFT,The 3 Best Cloud Computing ETFs to Buy for Long-Term Growth,InvestorPlace,0.38989,Bullish,0.343033,0.614667
+20230322T015126,MSFT,AB US Low Volatility Equity ETF Holdings,Quiver Quantitative,0.145588,Neutral,0.129667,0.717092
+20230322T072600,MSFT,Lumen CEO Kate Johnson is drawing on her experience at Microsoft to turn around a $19 billion business,Fortune,0.244835,Somewhat-Bullish,0.113675,0.724822
+20230322T141013,MSFT,AB US High Dividend ETF Holdings,Quiver Quantitative,0.113259,Neutral,0.106317,0.711015
+20230322T144021,MSFT,"Microsoft recognized as a Leader in The Forrester Wave™: Data Security Platforms, Q1 2023",Microsoft,0.382162,Bullish,0.475523,0.995762
+20230324T000000,MSFT,Digital Economy Discovers a Potential Frontier for Growth Thanks to Generative AI,Global X ETFs,0.271935,Somewhat-Bullish,0.275961,0.670827
+20230324T152507,MSFT,Procter & Gamble confirm breach,Cybernews,-0.074786,Neutral,-0.106039,0.617439
+20230326T024402,MSFT,Microsoft Israel to lay off dozens as part of global cutbacks,CTech,-0.21245,Somewhat-Bearish,-0.222344,1.000000
+20230326T024624,MSFT,"Cryptocurrencies add nothing useful to society, says chip-maker Nvidia",The Guardian,0.168689,Somewhat-Bullish,0.324462,0.622723
+20230327T030344,MSFT,"Zoom jumps on ChatGPT bandwagon, integrates generative AI features",CIO Dive,0.355632,Bullish,0.305169,0.619569
+20230328T000000,MSFT,Do AI-powered ETFs outperform their human-managed rivals?,Funds Europe,0.288226,Somewhat-Bullish,0.216760,0.608314
+20230328T024402,MSFT,Brisbane Airport Corporation scales up its security operations with an end-to-end Managed detection and response service,Microsoft Source,0.331081,Somewhat-Bullish,0.409709,0.911888
+20230328T024402,MSFT,"Japanese regulator clears Microsoft’s acquisition of Activision Blizzard, sees no substantial harm to competition",Game World Observer,0.346547,Somewhat-Bullish,0.304468,1.000000
+20230328T024422,MSFT,"Memory chipmaker Micron expects revenue drop, expects AI to boost sales in 2025",Reuters,0.212369,Somewhat-Bullish,0.290635,0.640163
+20230328T024800,MSFT,Why SASE will benefit from faster consolidation of networking and security,VentureBeat,0.303207,Somewhat-Bullish,0.173607,0.589213
+20230328T025302,MSFT,Rackspace Lays Off 275 Employees As Stock Hits Bottom,CRN,-0.729866,Bearish,-0.705674,0.614930
+20230328T093300,MSFT,"Rackspace cutting workforce in response to downturn. Amid string of losses, its stock has plummeted.",San Antonio Express-News,-0.050193,Neutral,0.109507,0.608463
+20230328T101900,MSFT,Microsoft cuts over 500 jobs in another round of tech layoffs,The National Desk,-0.309755,Somewhat-Bearish,-0.314020,1.000000
+20230329T022931,MSFT,Understanding ChatGPT: The Promise and Nuances of Large Language Models,FactSet Insight,0.252802,Somewhat-Bullish,0.324643,0.932601
+20230329T032744,MSFT,Investment Giant Fidelity Offers New Metaverse and Crypto Payments ETFs,Coin Bureau,0.337733,Somewhat-Bullish,0.266640,0.576070
+20230330T025835,MSFT,How a Top T. Rowe Manager Keeps Beating the Markets,Morningstar,0.349923,Somewhat-Bullish,0.243472,0.604745
+20230330T030350,MSFT,Laura Fritzlen Joins Zscaler as Public Sector Alliances & Channels VP,GovCon Wire,0.313046,Somewhat-Bullish,0.235762,0.571759
+20230331T022900,MSFT,Trouble mounts for Compuage Infocom as it runs into financial debt,www.varindia.com,0.13873,Neutral,0.108449,0.606225
+20230331T023004,MSFT,"Enterprise Connect 2023 Expo Hall: RingCentral, VMware, Five9, Cisco, More",Channel Futures,0.234688,Somewhat-Bullish,0.245448,0.728481
+20230331T025423,MSFT,Is Google ending?,Sify News,-0.052754,Neutral,0.118702,0.791539
+20230331T025550,MSFT,SPDR S&P 500 (SPY) Stock: Breakout Leveraging Tech Stocks Rally?,The Coin Republic,0.381447,Bullish,0.330045,0.633813
+20230331T025826,MSFT,Protecting artificial intelligence requires arsenal of intellectual property laws,Reuters,0.083294,Neutral,0.133284,0.594155
+20230331T121500,MSFT,Top and Flop ETFs of March,Nasdaq,0.306673,Somewhat-Bullish,0.337857,0.643161

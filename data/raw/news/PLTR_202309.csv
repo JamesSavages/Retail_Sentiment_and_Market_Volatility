@@ -1,0 +1,3 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20230907T213420,PLTR,"Navy Awards $14.6B in Arleigh Burke-Class Destroyer Contracts With General Dynamics, HII",GovCon Wire,0.335074,Somewhat-Bullish,0.124773,0.627620
+20230913T141007,PLTR,Introducing SHLD: The Case For Defense Tech,Global X ETFs,0.362402,Bullish,0.304572,0.919667

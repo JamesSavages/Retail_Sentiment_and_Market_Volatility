@@ -1,0 +1,20 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20230403T000000,META,Best-Performing Stocks of Q1 2023,Morningstar,0.531176,Bullish,0.641083,0.825381
+20230403T090953,META,"Davis Select Worldwide ETF (DWLD) Stock Price, Holdings, Dividend Yield",GuruFocus,0.072789,Neutral,0.091940,0.600212
+20230404T231005,META,"JPMorgan U.S. Quality Factor ETF (JQUA) Stock Price, Holdings, Dividend Yield",GuruFocus,0.228516,Somewhat-Bullish,0.336585,0.733074
+20230405T020453,META,What Is a POAP?,Built In,0.219215,Somewhat-Bullish,0.290623,0.811801
+20230406T014842,META,Lumentum's warnings drag at Ciena,Light Reading,-0.223937,Somewhat-Bearish,-0.103237,0.646529
+20230406T054053,META,"GLOBAL X FDS (SOCL) Stock Price, Holdings, Dividend Yield",GuruFocus,0.068249,Neutral,0.052526,0.854803
+20230409T012440,META,"ByteDance’s Profit Surges 79%, Exceeding Alibaba and Tencent",The Business of Fashion,0.155191,Somewhat-Bullish,0.121138,0.625015
+20230410T201300,META,"What's Cognyte, the spyware Congress alleges the government is buying",The Economic Times,-0.383115,Bearish,-0.184969,0.624656
+20230411T164000,META,"Ibex Global Solutions closing San Antonio call center, affecting 227 employees",San Antonio Express-News,-0.195693,Somewhat-Bearish,-0.182922,0.643920
+20230412T014319,META,Billionaire Barry Diller says the media should 'absolutely' sue AI makers over ingesting text from articles,Business Insider,0.079268,Neutral,0.102547,0.639560
+20230413T000000,META,Undervalued Communication Services Stocks,Morningstar,0.373937,Bullish,0.320039,0.785127
+20230421T071400,META,Job cuts in India just a small fraction of global layoffs: Recruitment firms,The Economic Times,-0.102239,Neutral,0.134038,0.616556
+20230425T013928,META,Gap to Cut Hundreds of Jobs in New Round of Layoffs,The Business of Fashion,-0.432203,Bearish,-0.304078,0.643577
+20230425T172500,META,Accenture is cutting 75 San Jose workers,The Business Journals,-0.336521,Somewhat-Bearish,-0.325792,0.594950
+20230426T114700,META,Gap Inc: Gap to cut hundreds of jobs in new round of layoffs - WSJ,ET Retail,-0.340927,Somewhat-Bearish,-0.311589,0.638601
+20230426T153038,META,"Introducing Jim Squires, EVP of Business Marketing and Growth, and New Orgs",Reddit Inc Homepage,0.365355,Bullish,0.341368,0.643947
+20230427T015200,META,Elon Musk Threatens to Sue Microsoft Over Alleged Illegal Data Usage,Vision Times,-0.055911,Neutral,0.086339,0.577387
+20230427T232828,META,2 Invesco ETFs That Offer Meta Exposure,ETF Database,0.361668,Bullish,0.511427,0.934904
+20230428T133300,META,U.S. government has 'serious concerns' that some H-1B visa applicants are trying to game the system,Fortune,0.124442,Neutral,0.130996,0.706125

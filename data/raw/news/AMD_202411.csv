@@ -1,0 +1,40 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20241101T000000,AMD,Fujitsu and AMD to begin strategic partnership to develop more sustainable computing infrastructure intended to accelerate open-source AI initiatives,Fujitsu Global,0.475774,Bullish,0.454543,1.000000
+20241104T050000,AMD,"Goldman Sachs Initiates Coverage on Penguin Solutions, Inc. (NASDAQ:PENG) with ‘Buy’ Rating, Citing AI Growth Potential",Yahoo Finance,0.326761,Somewhat-Bullish,0.227848,0.620721
+20241105T000000,AMD,"VMware Cloud Foundation Delivers a Private Cloud Platform to Accelerate Customers’ AI, Sovereignty and Security Outcomes",Broadcom,0.323383,Somewhat-Bullish,0.334548,0.609073
+20241105T061545,AMD,NXP Semiconductors shares fall after auto industry slump weighs on forecast,CNBC TV18,-0.340102,Somewhat-Bearish,-0.283467,0.558941
+20241105T075754,AMD,Sprinklr Appoints Rory Read as Chief Executive Officer,citybiz,0.268119,Somewhat-Bullish,0.217620,0.639906
+20241106T000000,AMD,MACOM Expands IC Design Expertise with Acquisition of ENGIN-IC,Business Wire,0.279359,Somewhat-Bullish,0.221360,0.648236
+20241106T083131,AMD,Rackspace Technology launches GPU as a Service offering,Data Center Dynamics,0.304458,Somewhat-Bullish,0.123286,0.649625
+20241106T083500,AMD,Big Changes Ahead For Analog Design,Semiconductor Engineering,0.357206,Bullish,0.301281,0.629663
+20241106T152700,AMD,Analysts Say ‘We Would Be Aggressive Buyers on Any Pullbacks’ in Microsoft Stock. Should You Be Too?,Barchart.com,0.103602,Neutral,-0.127048,0.634132
+20241107T000000,AMD,Bit Digital acquires Canada's Enovum as part of move into colocation,Data Center Dynamics,0.334959,Somewhat-Bullish,0.222507,0.741505
+20241110T095500,AMD,Can Xpeng Motors Eat Tesla’s Lunch in Humanoid Robots the Way BYD Did in EVs?,Barchart.com,0.046654,Neutral,-0.136558,0.578594
+20241112T035224,AMD,InnoPhase IoT Collaborates With TDK InvenSense to Deliver Sustainable Sensor to Cloud IoT Solutions With Exceptional User Experience,Business Wire,0.238841,Somewhat-Bullish,0.344695,0.666561
+20241112T071300,AMD,"Micron Introduces World’s Fastest, Most Energy Efficient 60TB SSD",Micron,0.204229,Somewhat-Bullish,0.307153,0.744141
+20241113T075713,AMD,"Cathie Wood's ARK ETF adjusts portfolio with major buys in CRISPR, Aurora",Investing.com,0.407557,Bullish,0.318850,0.735991
+20241113T162700,AMD,"Bitcoin Punches Past Another Record, Zeroes In On $100,000",Investor's Business Daily,0.219564,Somewhat-Bullish,0.209264,0.638992
+20241113T172800,AMD,"Sunwoda EVB inks MoU with STMicroelectronics in automotive electrification, intelligence fields",Gasgoo,0.381082,Bullish,0.343938,0.712049
+20241113T194200,AMD,"Cisco delivers solid earnings beat, but revenue declines again",SiliconANGLE,0.164228,Somewhat-Bullish,0.218485,0.603715
+20241114T000000,AMD,Huge layoff by Nvidia rival includes dozens at Bay Area headquarters,SFGATE,0.028875,Neutral,-0.202671,1.000000
+20241114T000000,AMD,"Big chipmaker to slash 1,000 jobs; $100M Big Sur home for sale",The Business Journals,0.260041,Somewhat-Bullish,0.291550,0.946140
+20241115T000000,AMD,"Should You Investigate Advanced Micro Devices, Inc. (NASDAQ:AMD) At US$139?",Simply Wall Street,0.365039,Bullish,0.419108,1.000000
+20241115T031900,AMD,AGNC Investment Stock: A Top 15% Yielder To Buy For 2025 (Rating Upgrade) (NASDAQ:AGNC),Seeking Alpha,0.202863,Somewhat-Bullish,0.102232,0.613718
+20241118T083908,AMD,"Biden locks in $6.6B for TSMC chip factories, ensuring Trump can’t rescind CHIPS Act deal",Arizona Mirror,0.368109,Bullish,0.323259,0.618023
+20241118T114014,AMD,JPMorgan U.S. Momentum Factor ETF Holdings,Quiver Quantitative,0.216081,Somewhat-Bullish,0.233160,0.723931
+20241119T023000,AMD,Applied Materials Announces New Collaboration Model for Advanced Packaging at Summit on Energy-Efficient Computing,GlobeNewswire,0.323822,Somewhat-Bullish,0.343587,0.719371
+20241119T082137,AMD,Newegg Unveils Highly Anticipated Black Friday Sale: Deals Start November 21,Business Wire,0.34549,Somewhat-Bullish,0.324352,0.717187
+20241119T082602,AMD,Penguin Solutions OriginAI Infrastructure Now Available with Additional GPUs and Enhanced Cluster Management Capabilities,Business Wire,0.289748,Somewhat-Bullish,0.261573,0.798588
+20241119T091809,AMD,SpotlightAI’s Rise: A Turning Point for Safe Pro Group or a Bubble Waiting to Burst?,www.timothysykes.com,-0.086893,Neutral,-0.119901,0.645820
+20241119T230800,AMD,"Nvidia Corp. (NVDA)-Makes Big Beat on Earnings, But Stock May Need Santa to Propel to New All Time High",The Globe and Mail,0.18063,Somewhat-Bullish,0.111179,0.635324
+20241120T082332,AMD,"To understand Nvidia, take a look at its CEO and culture",Marketplace.org,0.094879,Neutral,0.123923,0.744342
+20241121T215233,AMD,Interim chief at Wolfspeed poised to make $375K in monthly compensation,WRAL,-0.095427,Neutral,0.002793,0.584390
+20241123T141600,AMD,Wells Fargo Sticks to Their Buy Rating for CoreWeave (CRWV),The Globe and Mail,0.118037,Neutral,-0.114669,0.639718
+20241125T000000,AMD,Lattice Semiconductor mulls bid for Intel’s Altera,eeNews Europe,-0.042947,Neutral,0.141180,0.638077
+20241125T000000,AMD,Advanced Micro Devices (AMD) Shifts to Unified UDNA Tech: AI Capabilities for Future Gaming GPUs,Yahoo Finance,0.212133,Somewhat-Bullish,0.334025,1.000000
+20241125T000000,AMD,GlobalFoundries fined $500K over export violations,Manufacturing Dive,0.085152,Neutral,0.118432,0.741203
+20241125T065000,AMD,Lattice Semiconductor Explores Buying Intel's Altera Unit,TechPowerUp,0.041972,Neutral,0.038127,0.617956
+20241127T000000,AMD,"Advanced Micro Devices, Inc. (AMD): Opens $400M R&D Center in India, Builds Supercomputers for Weather Forecasting",Yahoo Finance,0.422876,Bullish,0.413994,1.000000
+20241128T000000,AMD,Advanced Micro Devices (AMD) Faces Competition as Chinese Chips from Zhaoxin Close the Gap in AI Race,Yahoo Finance,-0.103295,Neutral,-0.198668,1.000000
+20241128T133856,AMD,Advanced Micro Devices (AMD) and Apple to Lead with TSM’s Advanced 2nm AI Chips in 2025,Yahoo Finance,0.299675,Somewhat-Bullish,0.387732,1.000000
+20241129T120012,AMD,Advanced Micro Devices (AMD) Unveils Alveo V80 Accelerator to Boost AI and High-Performance Computing,Yahoo Finance,0.200653,Somewhat-Bullish,0.325996,1.000000

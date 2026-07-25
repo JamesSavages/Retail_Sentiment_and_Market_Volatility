@@ -1,0 +1,34 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20240701T000000,META,The Scoop: How conservative activists targeted Tractor Supply Company on DE&I,PR Daily,-0.125669,Neutral,0.129487,0.729896
+20240701T101100,META,Snowflake moving into larger office in Bellevue to support growth plans,GeekWire,0.199585,Somewhat-Bullish,0.132811,0.732058
+20240701T121100,META,"Redfin, Zillow named in video privacy lawsuits",HousingWire,-0.229679,Somewhat-Bearish,-0.206329,0.717396
+20240702T132200,META,"3 Reasons to Buy BULZ, and 4 Reasons Not To",The Globe and Mail,0.308215,Somewhat-Bullish,0.333878,0.625864
+20240703T000000,META,"Checks in the mail from settlement with Meta, Fairlife, HelloFresh, others",Class Action Lawsuits,0.042234,Neutral,0.039939,0.302173
+20240703T121837,META,"Declare your AIndependence: block AI bots, scrapers and crawlers with a single click",The Cloudflare Blog,0.175587,Somewhat-Bullish,0.118604,0.603721
+20240709T000000,META,What broadening rally? AI stocks dominate US market again in Q2,Morningstar,0.373121,Bullish,0.390553,0.850300
+20240709T055000,META,"Driving surge in demand for power, data centers eye Kentucky",Kentucky Lantern,0.234833,Somewhat-Bullish,0.295208,0.640752
+20240710T000000,META,Peloton accused of providing customer chat data to train AI,Malwarebytes,-0.209033,Somewhat-Bearish,-0.131111,0.637339
+20240711T000000,META,"Intuit Slashes 1,800 Jobs in AI Embrace",Inc.com,-0.089196,Neutral,-0.115419,0.612457
+20240711T122227,META,PLDT completes biggest data center,Philstar.com,0.261885,Somewhat-Bullish,0.339972,0.649624
+20240712T114844,META,Richard Simonelli returns to CoStar amid C-suite changes,Inman Real Estate News,0.197881,Somewhat-Bullish,0.136961,0.615082
+20240717T192000,META,Deal for “high-performance” batteries signed for mystery Mixed Reality leader,PhoneArena,0.288923,Somewhat-Bullish,0.292440,0.668552
+20240718T073300,META,"LINDBLAD EXPEDITIONS HOLDINGS, INC. APPOINTS ANNETTE REAVIS AND ANDY STUART TO ITS BOARD OF DIRECTORS",PR Newswire,0.337381,Somewhat-Bullish,0.201878,0.552364
+20240718T121616,META,Can Value Stocks Really Make a Comeback?,Morningstar,-0.135474,Neutral,-0.106204,0.600892
+20240718T124600,META,EssilorLuxottica surges 7% as Meta explores multi-billion investment in company 📈,XTB.com,0.469138,Bullish,0.474879,0.953397
+20240718T191500,META,Skild AI估值100亿，今年最快独角兽诞生了,新浪财经,0.259145,Somewhat-Bullish,0.306073,0.642751
+20240719T045722,META,CuriosityStream Lawsuit Alleges User Data Unlawfully Shared With Facebook,ClassAction.org,-0.585798,Bearish,-0.440128,0.804330
+20240719T060000,META,Reddit (RDDT) Stock: Unpacking This Newly Listed Tech Co.,Seeking Alpha,0.104311,Neutral,0.134025,0.833679
+20240720T125158,META,"KraneShares Artificial Intelligence and Technology ETF ETF Price, Holdings, & News (NASDAQ:AGIX)",MarketBeat,0.333645,Somewhat-Bullish,0.338973,0.605644
+20240721T230927,META,AGIX | KraneShares Artificial Intelligence and Technology ETF (AGIX NASDAQ),Investing.com Australia,0.348633,Somewhat-Bullish,0.325966,0.640748
+20240722T000000,META,Solar R&D innovation center advances PV technology,R&D World,0.054195,Neutral,0.287048,0.595199
+20240722T040956,META,KraneShares Artificial Intelligence & Technology ETF,ETF Database,0.241708,Somewhat-Bullish,0.243533,0.609042
+20240723T000000,META,"Going Into Earnings, Is Meta a Buy, a Sell, or Fairly Valued?",Morningstar,-0.117886,Neutral,-0.235357,1.000000
+20240723T121616,META,Walmart class action alleges company shares customer data with Meta,Class Action Lawsuits,0.011035,Neutral,0.046877,0.305531
+20240724T120142,META,Top 10 Data Centre CEOs: Leading the Future of Digital Infrastructure,Data Centre Magazine,0.330973,Somewhat-Bullish,0.330465,0.647373
+20240725T100000,META,"Tesla, Google Spark Sell-Off in Technology ETFs",Nasdaq,-0.345562,Somewhat-Bearish,-0.341167,0.600437
+20240729T000000,META,Did Coursera.com Violate Your Privacy Rights?,ClassAction.org,-0.586582,Bearish,-0.415755,0.711541
+20240729T000000,META,5 Stocks to Buy Now and Hold for the Long Term,Morningstar,0.16225,Somewhat-Bullish,-0.232049,1.000000
+20240729T120705,META,President Trump Wants America to Become the World’s “Bitcoin Superpower”,USFunds,0.252642,Somewhat-Bullish,0.104103,0.643992
+20240731T114040,META,"Meta faces AI accuracy issues as tech industry tackles hallucinations, deepfakes",SiliconANGLE,0.123889,Neutral,-0.327923,0.963771
+20240731T121616,META,Meta to pay $1.4 billion to settle Texas facial recognition data lawsuit,Reuters,0.029903,Neutral,0.048595,0.349845
+20240731T123900,META,Meta Platforms ahead of Q2 2024 earnings📊 What to expect?🔎,XTB.com,0.141539,Neutral,0.157738,1.000000

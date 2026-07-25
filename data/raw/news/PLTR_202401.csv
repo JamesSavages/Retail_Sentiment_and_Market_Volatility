@@ -1,0 +1,7 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20240102T000000,PLTR,Best- and Worst-Performing Stocks of December 2023,Morningstar,0.142351,Neutral,-0.222498,0.836637
+20240102T000000,PLTR,Top-Performing Stocks of 2023,Morningstar,0.395099,Bullish,0.341542,0.711151
+20240102T184246,PLTR,York Space Systems Recruits Government Intell Expert Jon Estridge as Operations VP,GovCon Wire,0.199502,Somewhat-Bullish,0.334416,0.611290
+20240103T193900,PLTR,What's Going On With Sigma Additive Solutions Stock?,Sahm,0.278792,Somewhat-Bullish,0.111065,0.615339
+20240108T182742,PLTR,Option Care Health Embraces Palantir's AI Platform for Comprehensive Digital Transformation,AiThority,0.480023,Bullish,0.468218,1.000000
+20240109T090851,PLTR,Atlassian Corp Class A Trade Ideas — SWB:48D,TradingView,-0.139521,Neutral,-0.294896,0.566805

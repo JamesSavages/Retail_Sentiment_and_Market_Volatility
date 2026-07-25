@@ -1,0 +1,70 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20231101T033000,AMZN,Will AI Spark a Boom in Data Centre Real Estate?,CMC Markets,0.285179,Somewhat-Bullish,0.338529,0.914316
+20231101T144954,AMZN,Hartford Funds Seeks to Let $4.1B Fund Make More Concentrated Investments,plansponsor,0.201903,Somewhat-Bullish,0.223653,0.719969
+20231102T194900,AMZN,Wholesale Shines for Kontoor’s Wrangler and Lee Brands,Yahoo,0.385327,Bullish,0.328913,0.637806
+20231103T000000,AMZN,Bilibili Announces Most Popular Scientific Topics of 2023 among China's Young Generations,The AI Journal,0.302217,Somewhat-Bullish,0.222923,0.557683
+20231103T202009,AMZN,Understanding the Role of Chatbots in Virtual Care Delivery,TechTarget,0.139299,Neutral,0.123511,0.605563
+20231103T233940,AMZN,Investing for impact,ETF Express,0.32585,Somewhat-Bullish,0.311190,0.636168
+20231106T102400,AMZN,Starbucks raising wages at least 3% starting Jan. 1,Fox Business,0.340726,Somewhat-Bullish,0.345867,0.644284
+20231106T143127,AMZN,The Magnificent 7 In Other Countries (Emerging Markets X-China),AdvisorHub,0.301372,Somewhat-Bullish,0.230758,0.630015
+20231106T202101,AMZN,"Upwork Introduces AI Apps, Offers, and Educational Content",AiThority,0.300571,Somewhat-Bullish,0.226191,0.636321
+20231106T202328,AMZN,2 companies join WanaBana in recalling apple cinnamon puree for kids,CBS News,-0.206153,Somewhat-Bearish,-0.212707,0.648605
+20231107T193632,AMZN,SAP HANA Cloud Now Supports AWS Graviton,SAP News Center,0.466811,Bullish,0.470773,1.000000
+20231107T195545,AMZN,The ‘90s toy you loved (or loved to hate) is about to be the hottest accessory,TODAY.com,0.41919,Bullish,0.302942,0.746297
+20231107T195725,AMZN,The Evolution Of AI: From IBM And AWS To OpenAI and Anthropic,Forbes,0.320948,Somewhat-Bullish,0.310731,0.733366
+20231108T000000,AMZN,Westinghouse / Cameco And Brookfield Complete $8.2 Billion Acquisition,NucNet,0.411974,Bullish,0.304022,0.612223
+20231108T130500,AMZN,"SiriusXM Unveils Next Generation Platform, Bringing Fans Closer To What They Love",Sirius XM Holdings Inc. (SIRI),0.256059,Somewhat-Bullish,0.174212,0.580773
+20231108T193632,AMZN,Amazon Introduces Compelling New Health Care Benefit for Prime Members for Only $9 a Month (or $99 a Year),Business Wire,0.440718,Bullish,0.425593,1.000000
+20231108T193632,AMZN,Amazon discounts One Medical membership for Prime customers to $9 a month,Healthcare Dive,0.284979,Somewhat-Bullish,0.279373,1.000000
+20231109T193805,AMZN,Better Home & Finance And Infosys Unveil 'Mortgage As A Service' Platform,National Mortgage Professional,0.31866,Somewhat-Bullish,0.320956,0.705873
+20231110T000000,AMZN,Social Media’s Abuzz About Stocks in These ETFs,ETF Trends,0.108447,Neutral,0.148153,0.604046
+20231110T184200,AMZN,Booking.com settles Italian tax dispute with 94-million euro payment,Reuters,-0.135935,Neutral,-0.118597,0.608932
+20231110T200500,AMZN,Generative AI’s Impact and Opportunity in Tech and Beyond,Morgan Stanley,0.309352,Somewhat-Bullish,0.308316,0.608801
+20231113T020958,AMZN,Investor Marc Lore’s Wonder Group closes its deal for meal kit service Blue Apron for $103 million,Yahoo Finance,0.269177,Somewhat-Bullish,0.236548,0.638781
+20231113T073200,AMZN,Investor Marc Lore’s Wonder Group closes its deal for meal kit service Blue Apron for $103 million,Fortune,0.189689,Somewhat-Bullish,0.116200,0.628092
+20231113T085000,AMZN,Amazon sued over 'dangerous partnership' with virtual casino apps,Reuters,-0.24901,Somewhat-Bearish,-0.436457,1.000000
+20231113T145614,AMZN,FAANG Gives Way to the ‘Magnificent Seven’,ETF Trends,0.311058,Somewhat-Bullish,0.339594,0.877571
+20231113T155723,AMZN,"Amazon integrates same-day grocery delivery, loyalty with Weis Markets",Chain Store Age,0.158323,Somewhat-Bullish,0.335404,0.916675
+20231114T040223,AMZN,FMR LLC Bolsters Portfolio with Fidelity International Value Fac,GuruFocus,0.217556,Somewhat-Bullish,0.108671,0.641863
+20231114T042430,AMZN,FMR LLC Acquires New Stake in Magenta Therapeutics Inc,GuruFocus,0.184427,Somewhat-Bullish,0.133407,0.631902
+20231114T133847,AMZN,FMR LLC Bolsters Position in Fidelity Low Volatility Factor ETF,GuruFocus,0.376055,Bullish,0.328864,0.639713
+20231114T155723,AMZN,"Amazon adds Weis Markets to its site, begins delivery",Supermarket News,0.442129,Bullish,0.446839,1.000000
+20231114T170200,AMZN,Tepper’s Appaloosa dumps Apple stake and loads up on Amazon’s stock,MarketWatch,0.202865,Somewhat-Bullish,0.443569,1.000000
+20231114T194128,AMZN,AATAC Names Bitcoin Depot as Preferred ‘BTM’ Vendor,CSP Daily News,-0.085973,Neutral,-0.189829,0.610717
+20231114T200527,AMZN,MUFG Signs Multiyear Global Agreement With AWS to Accelerate Digital Transformation,Business Wire,0.228185,Somewhat-Bullish,0.492882,1.000000
+20231115T193842,AMZN,"Warren Buffett’s Berkshire sheds General Motors, Procter & Gamble as it builds cash",The Globe and Mail,-0.052171,Neutral,-0.146876,0.791354
+20231115T200241,AMZN,"AllSurplus Deals Opens in Indianapolis: Sustainable Year-Round Savings on Electronics, Home Goods, Toys, and More",PR Newswire,0.202293,Somewhat-Bullish,0.122519,0.640213
+20231115T201003,AMZN,"Berkshire sheds GM, Johnson & Johnson, Procter & Gamble as it amasses cash",Fox Business,0.057682,Neutral,0.065602,0.714722
+20231115T201715,AMZN,Why TSLL Became the First Billion-Dollar Single-Stock ETF,ETF.com,0.235868,Somewhat-Bullish,0.216981,0.631504
+20231116T201339,AMZN,Sharp Launches World's First OLED 4K Roku TVs,TVTechnology,0.393531,Bullish,0.341117,0.636688
+20231117T200715,AMZN,NetApp StorageGRID for VMware Sovereign Cloud to Simplify Data Management for Modern Virtualized Applications,StorageNewsletter,0.294143,Somewhat-Bullish,0.124930,0.598490
+20231120T000000,AMZN,Belden Expands Data Solutions with the Belden Horizon Software Suite,The AI Journal,0.485225,Bullish,0.318900,0.633339
+20231120T170000,AMZN,Should You Buy the Invesco QQQ ETF With the Nasdaq At An All-Time High? History Offers a Clear Answer.,MSN,0.460328,Bullish,0.446872,0.630922
+20231120T193600,AMZN,Carter’s Bets Big on Store Growth as The Children’s Place Goes Digital,Sourcing Journal,0.200759,Somewhat-Bullish,0.101589,0.630090
+20231120T194556,AMZN,Caesars Entertainment and Live Nation Ask Garth Brooks to Add 18 New Dates in 2024,Caesars Entertainment,0.318889,Somewhat-Bullish,0.187837,0.637721
+20231120T201004,AMZN,What they are saying about development on and around the Dayton International Airport,Dayton Daily News,0.304278,Somewhat-Bullish,0.316524,0.881922
+20231121T123600,AMZN,Carter’s Bets Big on Store Growth as The Children’s Place Goes Digital,Yahoo,0.092541,Neutral,0.226738,0.636435
+20231121T171400,AMZN,Microsoft offers free Xbox Series S consoles with Lovesac sofas in Cyber Monday offer,Dexerto,0.382092,Bullish,0.317238,0.635471
+20231121T202009,AMZN,DNA storage to tackle massive archives,TechTarget,0.167382,Somewhat-Bullish,0.138914,0.604080
+20231122T101400,AMZN,Safety Shot: New drink that lowers blood alcohol levels set to release in December,FOX 10 Phoenix,0.376976,Bullish,0.252223,0.632503
+20231122T102000,AMZN,"Spain's watchdog clears Amazon, Booking.com, Tripadvisor over fake reviews",Reuters,0.413772,Bullish,0.401374,0.942178
+20231122T105130,AMZN,NVDA Earnings Boost Tech Real Estate ETF WTRE,ETF Trends,0.386931,Bullish,0.346392,0.613994
+20231122T200025,AMZN,3 Clean Coal Technology Stocks for a Greener Portfolio,InvestorPlace,0.37289,Bullish,0.249863,0.596912
+20231122T202329,AMZN,"Walmart adding parcel stations for faster delivery, greater density",Supply Chain Dive,0.322868,Somewhat-Bullish,0.226679,0.635325
+20231123T143000,AMZN,Which Cloud Stocks are Benefitting from the AI Boom?,CMC Markets,0.235088,Somewhat-Bullish,0.302659,0.900023
+20231123T143000,AMZN,Which Cloud Stocks are Benefitting from the AI Boom?,CMC Markets,0.278392,Somewhat-Bullish,0.410139,0.838898
+20231123T202509,AMZN,"Save over $100 on XREAL Air glasses, and more AR glasses deals",Mashable,0.161921,Somewhat-Bullish,0.310280,0.707991
+20231125T062600,AMZN,"Netflix Pays Filmmaker $55M For Sci-Fi Project, But He Gambles Away At Least $11M On Trading Stocks, Buying Dogecoin",Nasdaq,-0.216215,Somewhat-Bearish,-0.143276,0.613457
+20231125T142200,AMZN,"Sonos is reportedly working on a streaming video TV set top box, along with headphones",Neowin,0.145485,Neutral,0.109903,0.555564
+20231125T193455,AMZN,Black Friday Online Sales Up 7.5 Percent per Adobe Analytics,EcommerceBytes,0.334266,Somewhat-Bullish,0.333487,0.714144
+20231125T194435,AMZN,Winners and losers of Black Friday 2023,Retail Dive,0.209539,Somewhat-Bullish,0.212463,0.606158
+20231126T164500,AMZN,"Chinese EV maker Nio sees AI, robots replacing 30% of workforce by 2027",South China Morning Post,0.122231,Neutral,0.241153,0.592796
+20231127T195458,AMZN,"Is Nvidia Stock a Buy, a Sell, or Fairly Valued After Earnings?",Morningstar,0.189771,Somewhat-Bullish,0.110822,0.631940
+20231128T103800,AMZN,PDD Surges 18% After Hit App Temu Wrests Shoppers From Shein,Bloomberg.com,-0.131699,Neutral,-0.209203,0.732604
+20231128T194513,AMZN,Cisco Launches New Business Performance Insight and Visibility for Modern Applications on AWS,PR Newswire,0.378543,Bullish,0.301403,0.724219
+20231128T200715,AMZN,NetApp and AWS Deliver a Nine Times Performance Increase for Amazon FSx for NetApp ONTAP,NetApp,0.332546,Somewhat-Bullish,0.325521,0.928998
+20231129T000000,AMZN,Salesforce soars 8% as cost cutting shows its ‘brand new religion’ to increase profits,Fortune,0.181167,Somewhat-Bullish,0.143306,0.614232
+20231129T201857,AMZN,"After Earnings, Is Target Stock a Buy, a Sell, or Fairly Valued?",Morningstar,0.119529,Neutral,0.198786,0.606749
+20231130T000000,AMZN,Staples Counting on Discounts for the Remainder of 2023,ETF Trends,0.162799,Somewhat-Bullish,0.212700,0.640839
+20231130T000000,AMZN,AI ETFs see huge performance dispersion in 2023,ETF Stream,0.273488,Somewhat-Bullish,0.324728,0.715584
+20231130T050100,AMZN,"Extended warranty Market to Reach $284.7 billion, Globally, by 2032 at 8.4% CAGR: Allied Market Research",PR Newswire UK,0.365693,Bullish,0.329462,0.613563

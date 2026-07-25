@@ -1,0 +1,88 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20230301T021543,AMZN,Banneker Ventures Secures $20 Million Loan from Amazon,citybiz,0.421911,Bullish,0.444756,1.000000
+20230301T022947,AMZN,Can you spot a fake website? Slowing down can save you from being scammed,The Straits Times,0.143378,Neutral,0.101542,0.622766
+20230301T023949,AMZN,5G Future Forum accelerating 5G and Edge Compute solutions around the world,Rogers,0.23786,Somewhat-Bullish,0.300463,0.834085
+20230301T163850,AMZN,OALC Top Holdings List & Exposure (OneAscent Large Cap Core ETF),MarketBeat,0.219581,Somewhat-Bullish,0.245407,0.789307
+20230301T235203,AMZN,IWV Top Holdings List & Exposure (iShares Russell 3000 ETF),MarketBeat,0.277063,Somewhat-Bullish,0.306159,0.767213
+20230302T021542,AMZN,Amazon Business Launches 3-Way Match for Mobile App,Business Wire,0.458983,Bullish,0.473220,1.000000
+20230302T084300,AMZN,Tesla union labor battle shows need for church’s leadership and teaching voice,OSV News,-0.22009,Somewhat-Bearish,-0.113961,0.573642
+20230302T091600,AMZN,8 in-demand creative skills for freelancers―many can pay more than $100 per hour,CNBC,0.352062,Bullish,0.274717,0.617580
+20230303T000000,AMZN,VT vs ACWI ETF: Which is the Best World ETF?,Dr Wealth,0.198982,Somewhat-Bullish,0.210868,0.717629
+20230303T023807,AMZN,"Amazon delays HQ2's second phase in Pentagon City, updates hiring count",The Business Journals,-0.132768,Neutral,-0.247423,1.000000
+20230303T023807,AMZN,Amazon is pushing back construction on Arlington-based HQ2,Technical.ly,0.024097,Neutral,-0.121067,1.000000
+20230303T023807,AMZN,Amazon delays construction on HQ2 in Northern Virginia,The Business Journals,-0.157045,Somewhat-Bearish,-0.266634,1.000000
+20230303T124500,AMZN,"Best Buy, Walmart, other major US retailers tout health services",Reuters,0.159895,Somewhat-Bullish,0.061325,0.712849
+20230306T030111,AMZN,The Victoria’s Secret Fashion Show Returns to TV in September,W Magazine,0.121514,Neutral,0.126117,0.724725
+20230307T025403,AMZN,Sprouts' latest real estate strategy means WA grocery store closure,The Business Journals,-0.175424,Somewhat-Bearish,-0.310962,0.714751
+20230307T030206,AMZN,"Walmart will derive more profit from services, ad sales in next 5 years -CFO",Reuters,0.310664,Somewhat-Bullish,0.343630,0.746548
+20230307T080400,AMZN,Amazon worker loses bid for California class action over remote work expenses,Reuters,0.161262,Somewhat-Bullish,0.281697,1.000000
+20230307T134900,AMZN,News | Salesforce Executive Calls In-Office Work Critical to Tech Giant’s Profitability,CoStar,0.198628,Somewhat-Bullish,0.119559,0.607298
+20230308T024402,AMZN,Microsoft adding to far West Side data center with $175.9 million expansion project this year,San Antonio Express-News,0.398911,Bullish,0.312956,0.603312
+20230308T025100,AMZN,What Are Optimization Problems? How QCI’s Unique Quantum Approach Can Help Organizations Solve Complex Problems Across Industries,The Quantum Insider,0.244454,Somewhat-Bullish,0.128032,0.637428
+20230308T045000,AMZN,Why Doesn’t Airbnb Have a Loyalty Program?,NerdWallet,-0.040188,Neutral,0.037697,0.622831
+20230308T210928,AMZN,Chinese MRO procurement platform ZKH Group files for $200M US IPO,Proactive financial news,0.227184,Somewhat-Bullish,0.145960,0.615531
+20230308T220910,AMZN,Chinese MRO procurement platform ZKH Group files for $200M US IPO,Proactive financial news,0.25902,Somewhat-Bullish,0.117831,0.617918
+20230309T024141,AMZN,Southwest Airlines Partners With Amazon After the Colossal Mess That Was Late 2022,InsideHook,0.233443,Somewhat-Bullish,0.276639,0.883864
+20230309T025104,AMZN,QVC launches accessible and adaptive products line with Selma Blair,The Business Journals,-0.139793,Neutral,-0.245714,0.708014
+20230309T025215,AMZN,You can now buy a QLED Roku 4K TV that’s actually made by Roku,TechRadar,0.389196,Bullish,0.310428,0.675077
+20230309T025344,AMZN,3 Amazing AI Stocks for Your March Buy List,TradingView,0.381698,Bullish,0.315715,0.601598
+20230309T025524,AMZN,Sonos Bets on Spatial Audio as a Key Brand Differentiator,TechNewsWorld,0.218788,Somewhat-Bullish,0.142744,0.622610
+20230309T030344,AMZN,Big Tech Has Layoffs All Wrong,TIME,0.088219,Neutral,-0.080927,0.575619
+20230309T030350,AMZN,Zero trust illustrated: Secure cloud migration,Zscaler,0.34222,Somewhat-Bullish,0.325293,0.729594
+20230309T092700,AMZN,Airbnb Could Generate $1.2 Billion With Sponsored Listings and an Ad Platform by 2026,Skift,0.276209,Somewhat-Bullish,0.266440,0.713870
+20230310T022900,AMZN,Is NH ‘immune’ from tech layoffs?,NH Business Review,-0.101303,Neutral,-0.421050,0.631637
+20230310T024402,AMZN,"Microsoft Details How Enterprises Can Use ChatGPT with Up-to-Date, Non-Public Corporate Data",Virtualization Review,0.204014,Somewhat-Bullish,0.101907,0.631427
+20230310T024523,AMZN,Niu's KQi3 Max Escooter Is a Heavy but Reliable Ride,WIRED,0.097976,Neutral,0.141854,0.649819
+20230310T024728,AMZN,The 10 highest paid people in cloud networking,Fierce Network,0.278809,Somewhat-Bullish,0.291143,0.896327
+20230310T083700,AMZN,Yeti recalling close to 2 million coolers and gear cases,WGME,-0.286314,Somewhat-Bearish,-0.144246,0.642245
+20230312T022344,AMZN,Four Ways to Cluster based on Correlation,DataDrivenInvestor,0.105089,Neutral,0.121773,0.914632
+20230313T022920,AMZN,Evolution of Primary Care Delivery,FTI Consulting,0.265256,Somewhat-Bullish,0.172655,0.564864
+20230313T024141,AMZN,Southwest Airlines moves to AWS,DatacenterDynamics,0.31797,Somewhat-Bullish,0.344386,0.731030
+20230313T142200,AMZN,Bakkt Theater to replace Zappos Theater name at Planet Hollywood,KLAS 8 News Now,0.250406,Somewhat-Bullish,0.022540,0.606617
+20230314T021822,AMZN,Inside Best Buy’s big bet on the Home,Hospitalogy,0.338553,Somewhat-Bullish,0.317522,0.648277
+20230314T022909,AMZN,Smart move: Artificial intelligence and 3D laser scanning for MEP applications,"Planning, Building & Construction Today",0.252701,Somewhat-Bullish,0.247423,0.637810
+20230314T141500,AMZN,Amazon to Test Satellite Internet Service Starting Next Year,Bloomberg.com,0.293755,Somewhat-Bullish,0.270142,1.000000
+20230314T235700,AMZN,Amazon Fails to Dismiss California Suit Over Inflated Prices,Bloomberg.com,0.016137,Neutral,0.016286,0.307540
+20230315T023559,AMZN,7 Cloud Computing Stocks That Can Make You a Millionaire as Data Explodes,InvestorPlace,0.224754,Somewhat-Bullish,0.140665,0.718216
+20230315T025716,AMZN,7 Kinds of Telehealth Care You Can Get Through Alexa,MUO,0.323103,Somewhat-Bullish,0.411394,0.840880
+20230315T165100,AMZN,"eBay Inc. stock falls Wednesday, underperforms market",MarketWatch,0.183859,Somewhat-Bullish,0.447373,0.717129
+20230316T023435,AMZN,"The Honest Company reports near-flat sales growth, indicating slowing demand",Modern Retail,0.052911,Neutral,0.119085,0.730668
+20230316T024025,AMZN,Kohl’s marketplace gives Lands’ End a much-needed boost,Retail Dive,0.126274,Neutral,0.050980,0.611303
+20230318T022829,AMZN,"IRS to crack down on income earned by third-party sellers on eBay, Amazon and other sites",ABC7 San Francisco,-0.203625,Somewhat-Bearish,-0.232926,0.904946
+20230320T023559,AMZN,Quantum Bits: IBM-Cleveland Clinic Launch; D-Wave Adds Solver; DOE/AWS Offer QICK,HPCwire,0.316781,Somewhat-Bullish,0.239750,0.732045
+20230320T023812,AMZN,JD.com plans a self-operating warehouse in California,Supply Chain Dive,0.358788,Bullish,0.323788,0.600425
+20230320T025924,AMZN,"Online Cooking Class Market To See Extraordinary Growth : Udemy, Delish, Yanka Industries, Rouxbe",openPR.com,0.281912,Somewhat-Bullish,0.209146,0.616151
+20230320T071600,AMZN,"Amazon deepens tech-sector gloom with another 9,000 layoffs",Reuters,0.043926,Neutral,0.046606,0.323879
+20230320T144200,AMZN,"Amazon to Cut 9,000 More Jobs, Deepening Biggest Pullback Ever",Bloomberg,-0.441607,Bearish,-0.423844,1.000000
+20230320T160128,AMZN,Consumer Staples ETF ‘XLP’ Outperforms Through Inflation Wave,AdvisorHub,-0.334767,Somewhat-Bearish,-0.236112,0.616572
+20230321T053116,AMZN,"For Broad-Based Large-Cap ESG Exposure, See CVLC",ETF Database,0.303496,Somewhat-Bullish,0.325155,0.649228
+20230321T195234,AMZN,"Consider CVLC for Broad-Based, Large-Cap ESG Exposure",ETF Trends,0.424268,Bullish,0.441254,0.720550
+20230323T023146,AMZN,Gap pumps brakes on retail media unit,Marketing Dive,0.031237,Neutral,-0.104044,0.604958
+20230323T164800,AMZN,CVS Health Corp. stock underperforms Thursday when compared to competitors,MarketWatch,-0.211962,Somewhat-Bearish,0.211390,0.610997
+20230324T000000,AMZN,Digital Economy Discovers a Potential Frontier for Growth Thanks to Generative AI,Global X ETFs,0.29078,Somewhat-Bullish,0.275643,0.651552
+20230324T021543,AMZN,Diversity in Business Awards honoree: Brian Kenner - Washington Business Journal,The Business Journals,0.405768,Bullish,0.409929,1.000000
+20230324T022730,AMZN,15 Best E.L.F. Makeup and Skincare Products to Shop,Seventeen Magazine,0.284818,Somewhat-Bullish,0.210762,0.620660
+20230324T024604,AMZN,Amazon FSx & ONTAP – Total Economic Impact Reports ROI | NetApp Blog,NetApp,0.441765,Bullish,0.408200,0.821878
+20230324T100700,AMZN,"Focus: Amazon, other retailers revamp 'free' shipping as costs soar",Reuters,0.065213,Neutral,-0.183312,1.000000
+20230326T024624,AMZN,"Cryptocurrencies add nothing useful to society, says chip-maker Nvidia",The Guardian,0.196032,Somewhat-Bullish,0.206626,0.619884
+20230327T030211,AMZN,"WPP acquires social influencer marketing agency Obviously, expanding tech-powered creator content capabilities",WPP,0.302146,Somewhat-Bullish,0.247857,0.620868
+20230328T021543,AMZN,AMC Entertainment shares jump on report Amazon exploring a deal,Reuters,0.006072,Neutral,0.022653,0.327763
+20230328T022530,AMZN,The Walt Disney Co. will reportedly begin layoffs this week,USA Today,-0.327502,Somewhat-Bearish,-0.346521,0.634417
+20230328T023350,AMZN,GXO promises “shared warehousing made easy” with UK launch of GXO Direct,Motor Transport,0.279687,Somewhat-Bullish,0.146864,0.615494
+20230328T024810,AMZN,U.S. parcel volume dipped 2% in 2022 after a 6% rise in 2021,DC Velocity,0.340091,Somewhat-Bullish,0.242421,0.727989
+20230328T024810,AMZN,"FedEx slumps, Amazon slows and more takeaways from a top shipping index",Supply Chain Dive,-0.158399,Somewhat-Bearish,-0.242263,0.812827
+20230328T024810,AMZN,Pitney Bowes Parcel Shipping Index Finds US Volumes One Year and One Billion Parcels Ahead of Pre-Pandemic Forecast,Business Wire,0.262542,Somewhat-Bullish,0.222579,0.601853
+20230328T025302,AMZN,Rackspace Lays Off 275 Employees As Stock Hits Bottom,CRN,-0.756924,Bearish,-0.733418,0.600293
+20230328T025310,AMZN,Federal Tech Market Veteran Tom Lash Takes Helm at Meadowgate Technologies,GovCon Wire,0.135535,Neutral,0.117983,0.602698
+20230328T025742,AMZN,Austin startup Wonderbelly lands on Target shelves,The Business Journals,0.322296,Somewhat-Bullish,0.312250,0.603815
+20230328T101900,AMZN,Microsoft cuts over 500 jobs in another round of tech layoffs,The National Desk,-0.307228,Somewhat-Bearish,-0.326146,0.620954
+20230328T165800,AMZN,"W.W. Grainger Inc. stock rises Tuesday, outperforms market",MarketWatch,-0.117446,Neutral,-0.210230,0.600711
+20230329T025644,AMZN,Synchrony mulls creating a digital wallet,Payments Dive,0.068295,Neutral,0.147905,0.612422
+20230330T021542,AMZN,"Amazon targets multiple bad actors in novel lawsuit, further protecting selling partners from fraud",Amazon News,0.475281,Bullish,0.465275,1.000000
+20230330T022224,AMZN,Colgate Total Tackles the Root Cause of Oral Health Problems with New Innovation,Dentistry Today,0.254288,Somewhat-Bullish,0.245204,0.603685
+20230330T024719,AMZN,CVS Health Finalizes $8B Acquisition of Signify Health,TechTarget,0.172528,Somewhat-Bullish,0.106797,0.606738
+20230330T025835,AMZN,How a Top T. Rowe Manager Keeps Beating the Markets,Morningstar,0.36353,Bullish,0.216421,0.622266
+20230331T000000,AMZN,"Duration: Newmark sells 54,226 s/f retail for $26.4 million for Acadia Realty Trust to Benderson Development",NEREJ,0.209138,Somewhat-Bullish,0.134542,0.601775
+20230331T025550,AMZN,SPDR S&P 500 (SPY) Stock: Breakout Leveraging Tech Stocks Rally?,The Coin Republic,0.351694,Bullish,0.295107,0.630806
+20230331T121500,AMZN,Top and Flop ETFs of March,Nasdaq,0.319498,Somewhat-Bullish,0.328921,0.639583
+20230331T173700,AMZN,"Walmart Inc. stock rises Friday, still underperforms market",MarketWatch,0.206061,Somewhat-Bullish,0.196360,0.665682

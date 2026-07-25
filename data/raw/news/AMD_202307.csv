@@ -1,0 +1,22 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20230704T065600,AMD,iShares Taiwan ETF has a 16% dividend yield: Is EWT a safe buy?,Invezz,0.324175,Somewhat-Bullish,0.349435,0.647873
+20230706T225453,AMD,"ASE, Amkor, UMC and Samsung Getting a Slice of the CoWoS Market from AI Chips, Challenging TSMC",TrendForce,0.294187,Somewhat-Bullish,0.318149,0.732856
+20230710T000000,AMD,Advanced Micro Devices Inc. – More market share gains expected,StocksBNB,0.330979,Somewhat-Bullish,0.635010,1.000000
+20230710T225454,AMD,"Samsung, SK Hynix in next-generation HBM chip supremacy war",KED Global,0.007501,Neutral,0.006981,0.315945
+20230711T154100,AMD,Semiconductor Stocks Are Hot -- So Is Their Long-Term Outlook,ETF Trends,0.354752,Bullish,0.260279,0.578120
+20230711T225454,AMD,AMD EPYC CPUs Now Power SAP Applications Hosted on Google Cloud,AMD,0.371274,Bullish,0.405037,1.000000
+20230711T225508,AMD,Meet Indian-origin women on the 'America's Richest Self-Made,Business Outreach Magazine,0.258296,Somewhat-Bullish,0.106469,0.638265
+20230712T233612,AMD,Storage in space? The data's already there,TechTarget,0.137468,Neutral,0.140559,0.613584
+20230713T000000,AMD,Aehr Reports Record Revenue and Profit for Fiscal 2023 and Guides for Over 50% Increase in Revenue for Fiscal 2024 on Strength from Semiconductor Wafer Level Test and Burn-in Demand,Aehr Test Systems,0.463602,Bullish,0.305827,0.554752
+20230713T225508,AMD,Jayshree V Ullal rises on Forbes list of richest self-made women in America,The Economic Times,0.22201,Somewhat-Bullish,0.109617,0.648404
+20230717T091200,AMD,"Nvidia’s stock could have a pathway to $600, Citi says",MarketWatch,0.236777,Somewhat-Bullish,0.040928,0.341706
+20230717T200954,AMD,Xtrackers Semiconductor Select Equity ETF,ETF Database,0.321846,Somewhat-Bullish,0.334840,0.870492
+20230718T232142,AMD,Microsoft and Meta expand their AI partnership with Llama 2 on Azure and Windows,The Official Microsoft Blog,0.527307,Bullish,0.322794,0.649819
+20230719T225454,AMD,Samsung primed for graphics chip leadership with GDDR7,KED Global,0.257324,Somewhat-Bullish,0.291349,0.889843
+20230724T065500,AMD,"Zacks Industry Outlook Highlights GlobalFoundries, Lattice Semiconductor and Cirrus Logic",24/7 Wall St.,0.208327,Somewhat-Bullish,0.201340,0.630004
+20230724T070600,AMD,"Nvidia is ‘dominating’ and could unlock $300 billion in AI revenue by 2027, analyst says",MarketWatch,0.211006,Somewhat-Bullish,0.123143,0.621036
+20230726T092000,AMD,"Micron Delivers Industry's Fastest, Highest-Capacity HBM to Advance Generative AI Innovation",TechPowerUp,0.447514,Bullish,0.316508,0.618004
+20230727T233653,AMD,UMC forecasts utilization rate to fall to 65%,Taipei Times,-0.351298,Bearish,-0.315439,0.648719
+20230728T101800,AMD,U.S. chipmaker AMD to invest $400 million in India by 2028,Reuters,0.232732,Somewhat-Bullish,0.741107,0.953468
+20230728T134100,AMD,AMD to establish $400M chip design center in India,SiliconANGLE,0.374869,Bullish,0.484351,1.000000
+20230731T085000,AMD,AMD earnings preview: Is the company ceding ground to Intel?,MarketWatch,0.003696,Neutral,-0.073900,1.000000

@@ -1,0 +1,31 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20230502T035100,AMD,"IBM to Replace 7,800 Jobs Using Automation and AI",TechPowerUp,0.093966,Neutral,-0.069722,0.633261
+20230502T211800,AMD,"Opinion: AMD stock is sliding after earnings, and these numbers show why",MarketWatch,-0.459199,Bearish,-0.482864,1.000000
+20230505T003232,AMD,AMD to Make 'New' 2019-Era 3000G APUs to Sell Old Motherboards,Tom's Hardware,0.035506,Neutral,0.052204,0.970729
+20230508T000000,AMD,Growing chip supply helps Baxter slash backlog,Supply Chain Dive,0.142283,Neutral,0.148814,0.641196
+20230508T005344,AMD,Intel layoffs 2023: Targeting $10B in annual savings,SiliconANGLE,-0.237717,Somewhat-Bearish,-0.132573,0.734708
+20230508T010706,AMD,Qualcomm buys vehicle chip startup AutoTalks in reported $350M+ deal,SiliconANGLE,0.25507,Somewhat-Bullish,0.147737,0.584020
+20230508T010710,AMD,Notable Wins,IO Fund,0.697412,Bullish,0.617046,0.749008
+20230515T011818,AMD,Vehicle network startup Ethernovia raises $64 million,eeNews Europe,0.362896,Bullish,0.428978,0.802538
+20230518T000000,AMD,Implications and Updates From China’s National People’s Conference,Global X ETFs,0.285879,Somewhat-Bullish,0.344490,0.619223
+20230519T000000,AMD,Canaan unveils immersion-cooled Avalon Made A1366I Bitcoin miner,ForkLog,0.014499,Neutral,0.042489,0.630791
+20230521T154058,AMD,Supermicro Launches Industry's First NVIDIA HGX H100 8 and 4-GPU H100 Servers with Liquid Cooling -- Reduces Data Center Power Costs by Up to 40%,Supermicro,0.331134,Somewhat-Bullish,0.278816,0.614425
+20230522T000000,AMD,Applied Materials plans $4B Silicon Valley R&D facility,Manufacturing Dive,0.359143,Bullish,0.338243,0.627788
+20230522T011110,AMD,Supermicro Launches Industry's First NVIDIA HGX H100 8 and 4-GPU H100 Servers with Liquid Cooling -- Reduces Data Center Power Costs by Up to 40%,PR Newswire,0.605729,Bullish,0.545653,0.646424
+20230522T050000,AMD,Applied Materials Launches Multibillion-Dollar R&D Platform in Silicon Valley to Accelerate Semiconductor Innovation,GlobeNewswire,0.316729,Somewhat-Bullish,0.303173,0.749956
+20230523T000000,AMD,Applied Materials plans $4B Silicon Valley chip research facility,Construction Dive,0.353164,Bullish,0.271114,0.560301
+20230523T000000,AMD,Applied Materials plans to build US$4bn R&D center,Taipei Times,0.230744,Somewhat-Bullish,0.190946,0.645473
+20230523T003232,AMD,Latest Top500 List Highlights World's Fastest and Most Energy Efficient Supercomputers Powered by AMD,AMD,0.448015,Bullish,0.442963,1.000000
+20230523T003232,AMD,"New AMD Ryzen™ 7020 C-Series Processors Bring Fast Performance, Longer Battery Life, and Advanced RDNA™ 2 Graphics to Chromebook Users",AMD,0.629192,Bullish,0.611380,1.000000
+20230523T013836,AMD,SPRX Top Holdings List & Exposure (Spear Alpha ETF),MarketBeat,0.146547,Neutral,0.132611,0.818179
+20230523T040218,AMD,"Fidelity Metaverse ETF ETF Price, Holdings, & News (NASDAQ:FMET)",MarketBeat,0.309609,Somewhat-Bullish,0.301947,0.703561
+20230523T075221,AMD,"Invesco PHLX Semiconductor ETF ETF Price, Holdings, & News (NASDAQ:SOXQ)",MarketBeat,0.344674,Somewhat-Bullish,0.306467,0.707587
+20230523T075237,AMD,SOXQ Top Holdings List & Exposure (Invesco PHLX Semiconductor ETF),MarketBeat,0.133285,Neutral,0.112743,0.716509
+20230524T000000,AMD,Applied Materials' Big Bet: A ‘Unique’ $4B Chip R&D Center,AI Business,0.314135,Somewhat-Bullish,0.338035,0.713138
+20230524T010107,AMD,Intel's Arc A750 graphics card is only $200 at Newegg,Eurogamer,0.245443,Somewhat-Bullish,0.142421,0.732382
+20230525T010236,AMD,Nvidia stock price is surging thanks to ChatGPT and an expected boom in generative AI,Fast Company,0.381506,Bullish,0.334723,0.709079
+20230525T040934,AMD,ETF of the Week: Goldman Sachs Hedge Industry VIP ETF (GVIP),ETF Trends,0.352529,Bullish,0.345724,0.624640
+20230525T195308,AMD,ETF of the Week: Goldman Sachs Hedge Industry VIP ETF (GVIP),ETF Trends,0.207343,Somewhat-Bullish,0.119521,0.745926
+20230526T004056,AMD,Markets Brief: Why Vanguard Sees a Brighter Outlook for Investors’ Portfolios,Morningstar,0.110466,Neutral,0.619453,0.744727
+20230528T010236,AMD,NVIDIA Announces DGX GH200 AI Supercomputer,NVIDIA Newsroom,0.416208,Bullish,0.217796,0.604181
+20230530T124900,AMD,Microsoft shares fix for cameras not working on Surface laptops,BleepingComputer,0.083428,Neutral,0.017676,0.618730

@@ -1,0 +1,77 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20231101T033000,MSFT,Will AI Spark a Boom in Data Centre Real Estate?,CMC Markets,0.283551,Somewhat-Bullish,0.322369,0.629852
+20231101T090000,MSFT,MOAT: History May Not Repeat Itself (BATS:MOAT),Seeking Alpha,0.31247,Somewhat-Bullish,0.425285,0.608811
+20231101T130926,MSFT,How To Give Your Passive Investing Approach Some Much-Needed Oomph,Finimize,0.462729,Bullish,0.331330,0.561429
+20231101T194149,MSFT,"Blackstone, Vista acquire SaaS platform as The Riverside Company scores exit",Alternatives Watch,0.361304,Bullish,0.305644,0.625847
+20231101T201339,MSFT,Time Is On Your Side (Seriously),Pest Control Technology,0.249653,Somewhat-Bullish,0.234141,0.606741
+20231103T000000,MSFT,Bilibili Announces Most Popular Scientific Topics of 2023 among China's Young Generations,The AI Journal,0.274098,Somewhat-Bullish,0.227219,0.635070
+20231103T151129,MSFT,SolarWinds hack explained: Everything you need to know,TechTarget,0.181708,Somewhat-Bullish,0.246189,0.737472
+20231103T202009,MSFT,Understanding the Role of Chatbots in Virtual Care Delivery,TechTarget,0.101929,Neutral,0.113942,0.644304
+20231105T152125,MSFT,On-device AI chips: New battleground for chipmakers,The Korea Economic Daily Global Edition,0.213723,Somewhat-Bullish,0.131906,0.628811
+20231106T102400,MSFT,Starbucks raising wages at least 3% starting Jan. 1,Fox Business,0.356933,Bullish,0.323838,0.645068
+20231107T000000,MSFT,Cisco taps ex-Microsoft executive Rodney Clark to lead partner network,The Business Journals,0.207925,Somewhat-Bullish,0.118206,0.643197
+20231107T143002,MSFT,Amdocs and NVIDIA to Accelerate Adoption of Generative AI for $1.7 Trillion Telecom Industry,NVIDIA Newsroom,0.392941,Bullish,0.308119,0.626794
+20231107T195725,MSFT,The Evolution Of AI: From IBM And AWS To OpenAI and Anthropic,Forbes,0.293879,Somewhat-Bullish,0.254348,0.614386
+20231107T195834,MSFT,IonQ Hires Margaret Arakawa as CMO,citybiz,0.288982,Somewhat-Bullish,0.298214,0.613221
+20231107T195900,MSFT,Microsoft is named a Leader in 2023 Gartner® Magic Quadrant™ for the CRM Customer Engagement Center,Microsoft,0.344507,Somewhat-Bullish,0.405746,0.931846
+20231107T195900,MSFT,Microsoft recognized as a Leader in 2023 Gartner® Magic Quadrant™ for Distributed Hybrid Infrastructure,Microsoft Azure,0.376338,Bullish,0.485135,0.928119
+20231107T200508,MSFT,Oracle Cloud Infrastructure Utilized by Microsoft for Bing Conversational Search,Oracle,0.354504,Bullish,0.425766,1.000000
+20231108T083000,MSFT,Commvault re-integrates Metallic service into expanded security cloud,SiliconANGLE,0.317869,Somewhat-Bullish,0.315109,0.713471
+20231108T090800,MSFT,"Commvault Cloud Unifies Data Protection, Security, AI And Recovery",Forbes,0.264162,Somewhat-Bullish,0.344038,0.739856
+20231108T091400,MSFT,Houston Innovation Awards winners revealed at 2023 event,InnovationMap,0.325875,Somewhat-Bullish,0.336861,0.738173
+20231108T202520,MSFT,Unleashing the Power of the Largest Security Cloud,Zscaler,0.297442,Somewhat-Bullish,0.251163,0.591608
+20231109T193805,MSFT,Better Home & Finance And Infosys Unveil 'Mortgage As A Service' Platform,National Mortgage Professional,0.325018,Somewhat-Bullish,0.237588,0.627963
+20231109T200715,MSFT,NetApp Extends Partnership with Microsoft Empowering Customers to Achieve More Through Cloud Adoption,NetApp,0.444597,Bullish,0.419873,0.874380
+20231110T195414,MSFT,Block Space as a Business Model,www.galaxy.com,0.32046,Somewhat-Bullish,0.291202,0.565635
+20231110T195631,MSFT,What to expect at HPE Discover Barcelona: Join theCUBE Nov. 29-30,SiliconANGLE,0.363188,Bullish,0.248721,0.617816
+20231110T200715,MSFT,NetApp doubles down on Microsoft Azure partnership,Blocks and Files,0.305164,Somewhat-Bullish,0.326996,0.903965
+20231111T164003,MSFT,"IBIG | iShares iBonds Oct 2030 Stock Data, Price & News",Quiver Quantitative,0.129523,Neutral,0.172017,0.644620
+20231112T000000,MSFT,Microsoft Earnings Beat: What’s Next?,ETF Trends,0.345699,Somewhat-Bullish,0.406500,1.000000
+20231112T091500,MSFT,10월 하락장 맞춘 AI ETF…엔비디아보다 '이것' 담았다 [글로벌마켓나우 플러스],네이트,0.30767,Somewhat-Bullish,0.254037,0.694974
+20231114T055200,MSFT,Fair Isaac Corp. Stock Outperforms Competitors Despite Losses On The Day,富途牛牛,0.180372,Somewhat-Bullish,0.126381,0.567141
+20231114T133847,MSFT,FMR LLC Bolsters Position in Fidelity Low Volatility Factor ETF,GuruFocus,0.350718,Bullish,0.309990,0.642763
+20231114T200508,MSFT,How Microsoft’s Legal Legacy Shapes the Antitrust Case Against Google (Published 2023),The New York Times,0.047784,Neutral,0.033173,1.000000
+20231114T211122,MSFT,FIL Ltd Bolsters Portfolio with iShares MSCI South Africa ETF Acquisition,GuruFocus,0.248528,Somewhat-Bullish,0.208053,0.616214
+20231115T153122,MSFT,"Automation Fair 2023: Rockwell Automation is Betting on AMRs, Cobots, and Generative AI",DirectIndustry e-Magazine,0.375338,Bullish,0.323450,0.617125
+20231115T193459,MSFT,Analog Devices India: Shaping Semiconductor Innovation for a Digital Future,TimesTech,0.438379,Bullish,0.219590,0.565099
+20231115T193619,MSFT,AMD Brings New AI and Compute Capabilities to Microsoft Customers,AMD,0.411712,Bullish,0.325740,0.925953
+20231115T194228,MSFT,"Key Considerations for 2024 Corporate Tax Planning, Including Capitalizing Technology Expenditures, and the IRS’ Use of Artificial Intelligence",CBIZ,0.044696,Neutral,0.144639,0.635679
+20231115T221133,MSFT,SIT Investment Associates Inc Adds DWS Municipal Income Trust to Its Portfolio,GuruFocus,0.154006,Somewhat-Bullish,0.204957,0.609279
+20231116T143003,MSFT,Amdocs to create telco-specific GenAI models using Nvidia service,RCR Wireless,0.373683,Bullish,0.330865,0.633381
+20231117T200508,MSFT,Byte by byte,Corporate Europe Observatory,0.03855,Neutral,0.045374,0.333351
+20231117T200703,MSFT,ServiceNow launches major expansion to Now Assist generative AI portfolio with new capabilities to transform,Irish Tech News,0.359555,Bullish,0.333004,0.582146
+20231118T200058,MSFT,Legendary value investor's firm launches new fund targeting ‘quality' stocks,NBC 5 Dallas-Fort Worth,0.1831,Somewhat-Bullish,0.506076,0.804581
+20231119T193727,MSFT,3 Best Long-Term Stocks to Buy and Hold for the Next 10 Years,InvestorPlace,0.409131,Bullish,0.208237,0.565357
+20231120T000000,MSFT,3 undervalued artificial intelligence stocks,Morningstar,0.303368,Somewhat-Bullish,0.168265,0.817231
+20231120T000000,MSFT,AI Boosting Payments Efficiency & Cutting Fraud,J.P. Morgan,0.248632,Somewhat-Bullish,0.310931,0.805822
+20231120T151056,MSFT,"Carbon management technologies set to soar in Europe, with proactive policies key in unlocking its potential",The Official Microsoft Blog,0.192996,Somewhat-Bullish,0.030864,0.303748
+20231120T170000,MSFT,Should You Buy the Invesco QQQ ETF With the Nasdaq At An All-Time High? History Offers a Clear Answer.,MSN,0.487258,Bullish,0.418861,0.602545
+20231120T200508,MSFT,OpenAI’s Misalignment and Microsoft’s Gain,Stratechery by Ben Thompson,0.733216,Bullish,0.704490,1.000000
+20231121T000000,MSFT,"Beyond QQQ: Cloud, Cyber ETFs May Outperform",ETF.com,0.371471,Bullish,0.307059,0.610950
+20231121T000000,MSFT,SEC fines Charter Communications $25M over stock buybacks,Class Action Lawsuits,-0.041703,Neutral,0.185886,0.644973
+20231121T144953,MSFT,Gaming Industry Charts a Rebound in 2023,Global X ETFs,0.408482,Bullish,0.480272,0.943815
+20231121T151058,MSFT,KPMG in Canada and Microsoft Canada launch Operational Risk Skills Development Centre to support Quebec’s Innovation Economy – Microsoft News Center Canada,Microsoft Source,0.538465,Bullish,0.520069,1.000000
+20231121T171400,MSFT,Microsoft offers free Xbox Series S consoles with Lovesac sofas in Cyber Monday offer,Dexerto,0.34509,Somewhat-Bullish,0.327912,0.847515
+20231122T040051,MSFT,Consider IGPT as OpenAI Shake-Up Sparks Investor Interest in AI,ETF Database,0.192231,Somewhat-Bullish,-0.121082,0.724247
+20231122T105130,MSFT,NVDA Earnings Boost Tech Real Estate ETF WTRE,ETF Trends,0.359663,Bullish,0.346320,0.701874
+20231122T151056,MSFT,Diamond Sleet supply chain compromise distributes a modified CyberLink installer,Microsoft,0.159415,Somewhat-Bullish,0.284074,0.956190
+20231122T194505,MSFT,OpenAI Says Sam Altman to Return as CEO in Dramatic Reversal,Time Magazine,0.156232,Somewhat-Bullish,0.348202,0.916991
+20231122T195900,MSFT,5 Customer Retention Strategies To Reduce Buyer Regret,Gartner,0.35573,Bullish,0.312359,0.603785
+20231123T143000,MSFT,Which Cloud Stocks are Benefitting from the AI Boom?,CMC Markets,0.287824,Somewhat-Bullish,0.431041,0.738226
+20231123T143000,MSFT,Which Cloud Stocks are Benefitting from the AI Boom?,CMC Markets,0.203304,Somewhat-Bullish,0.330678,0.896412
+20231124T010951,MSFT,"NATO ETF Analysis: Dividends, Returns LSE:NATO",TradingView,0.246387,Somewhat-Bullish,0.181461,0.583622
+20231126T164500,MSFT,"Chinese EV maker Nio sees AI, robots replacing 30% of workforce by 2027",South China Morning Post,0.133133,Neutral,0.226969,0.580047
+20231127T151020,MSFT,Marsh McLennan launches AI tool,Captive International,0.366334,Bullish,0.313373,0.639679
+20231127T195458,MSFT,"Is Nvidia Stock a Buy, a Sell, or Fairly Valued After Earnings?",Morningstar,0.18829,Somewhat-Bullish,0.115206,0.600626
+20231127T201632,MSFT,Market Leaders Collaborate with Synopsys to Realize Gains of Generative AI Across Synopsys.ai Full EDA Stack,Synopsys,0.329618,Somewhat-Bullish,0.339118,0.689799
+20231128T070000,MSFT,SOPHiA GENETICS Expands Relationship with Città della Salute e della Scienza di Torino (2023-11-28),Seeking Alpha,0.323566,Somewhat-Bullish,0.334651,0.647668
+20231128T145600,MSFT,Gartner Hype Cycle Shows AI Practices and Platform Engineering Will Reach Mainstream Adoption in Software Engineering in Two to Five Years,Gartner,0.243769,Somewhat-Bullish,0.315451,0.633757
+20231128T194243,MSFT,"NVIDIA Brings Business Intelligence to Chatbots, Copilots and Summarization Tools With Enterprise-Grade Generative AI Microservice",NVIDIA Newsroom,0.375642,Bullish,0.280666,0.596081
+20231128T195213,MSFT,Forrester names Microsoft Intune a Leader in the 2023 Forrester Wave™ for Unified Endpoint Management,Microsoft,0.508041,Bullish,0.610305,0.975300
+20231128T200715,MSFT,NetApp and AWS Deliver a Nine Times Performance Increase for Amazon FSx for NetApp ONTAP,NetApp,0.36576,Bullish,0.211531,0.638298
+20231129T000000,MSFT,Salesforce soars 8% as cost cutting shows its ‘brand new religion’ to increase profits,Fortune,0.161442,Somewhat-Bullish,0.122437,0.569836
+20231129T065854,MSFT,Tom Sosnoff's Portfolio Update and Two Trade Ideas,tastylive,-0.253289,Somewhat-Bearish,-0.411766,0.744301
+20231130T074053,MSFT,"SP Funds S&P Global Technology ETF ETF Price, Holdings, & News (NYSEARCA:SPTE)",MarketBeat,0.337135,Somewhat-Bullish,0.222421,0.638573
+20231130T184500,MSFT,Can digital watermarking protect us from generative AI?,Engadget,0.298385,Somewhat-Bullish,0.218247,0.640834
+20231130T195900,MSFT,2024 Tech Trends in Retail: Insights to Attract and Retain Software Buyers,Gartner,0.259273,Somewhat-Bullish,0.275691,0.618112
+20231130T195938,MSFT,"Big tech is changing in China, and so are its hiring plans",ThinkChina,0.043799,Neutral,0.008777,0.607858

@@ -1,0 +1,26 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20240102T000000,META,Top-Performing Stocks of 2023,Morningstar,0.384408,Bullish,0.422442,0.727755
+20240103T181224,META,Miami doesn’t need to be the Silicon Valley of the South,Refresh Miami,-0.047445,Neutral,-0.141952,0.628201
+20240104T182907,META,"Google and Samsung Set To Use Qualcomm's New VR Chip, Could Compete With Apple and Meta",Investopedia,0.03172,Neutral,-0.217146,0.746634
+20240109T000000,META,Pinterest: The frictionless social commerce play for 2024,MarketBeat,0.068349,Neutral,-0.104924,0.642342
+20240110T160218,META,"Fundsmith Underperforms, Smith Takes Aim at AI Hype",Morningstar Canada,0.04416,Neutral,0.406071,0.730109
+20240112T184102,META,"Wells Fargo’s assistant, powered by Google's AI, poised to hit 100 million interactions annually",VentureBeat,0.320038,Somewhat-Bullish,0.102937,0.641928
+20240115T182021,META,"Meta to default teen Facebook, Instagram users to most restrictive settings",Class Action Lawsuits,0.115887,Neutral,0.106397,1.000000
+20240117T000000,META,How Stantec and WSP became Canada’s unlikely stock market stars — and made engineering sexy,The Globe and Mail,0.181983,Somewhat-Bullish,0.120199,0.643485
+20240117T000000,META,CuriosityStream class action,Courthouse News,-0.260488,Somewhat-Bearish,-0.118148,0.607947
+20240117T071000,META,Musk wants 25% voting control at Tesla before fulfilling AI goal,Reuters,-0.10408,Neutral,0.047771,0.309348
+20240118T161900,META,Nvidia and AMD shares hit record highs on AI chip surge,CNBC,0.364322,Bullish,0.336583,0.626199
+20240118T181600,META,Mark Zuckerberg indicates Meta is spending billions of dollars on Nvidia AI chips,CNBC,0.296141,Somewhat-Bullish,0.306527,0.949542
+20240119T000000,META,AES positioned to provide tech sector with growing renewable energy solutions,Daily Energy Insider,0.351556,Bullish,0.318989,0.634221
+20240123T110857,META,T-Rex 2X Long Tesla Daily Target ETF (TSLT) Options Chain & Prices 2025,MarketBeat,0.049186,Neutral,0.000245,0.634973
+20240123T182541,META,Oracle debuts cloud generative AI service to help enterprises deploy and fine-tune language models,SiliconANGLE,0.297563,Somewhat-Bullish,0.343164,0.625822
+20240124T000000,META,"Online retailer eBay is cutting 1,000 jobs. It’s the latest tech company to reduce its workforce",The Daily Reporter - Greenfield Indiana,-0.24463,Somewhat-Bearish,-0.159270,0.521582
+20240125T182021,META,Meta to bring $800 million data center to Indiana,Indiana Capital Chronicle,0.325474,Somewhat-Bullish,0.464438,0.996663
+20240125T182021,META,Meta chooses new operation location in Southern Indiana,Lane Report,0.714983,Bullish,0.708156,1.000000
+20240126T070000,META,What Gentex’s Acquisition Of eSight Means For The Electronic Eyewear Market,Forbes,0.336719,Somewhat-Bullish,0.240794,0.639073
+20240129T105212,META,"YMAG ETF Analysis: Dividends, Returns AMEX:YMAG",TradingView,0.034375,Neutral,0.103433,0.582794
+20240129T151005,META,Should You Invest in the Invesco AI and Next Gen Software ETF (IGPT)?,TradingView,0.364415,Bullish,0.324515,0.625194
+20240131T000000,META,Top metaverse investors and how to start investing,TechTarget,0.282313,Somewhat-Bullish,0.322288,0.851834
+20240131T093000,META,Pinterest CEO: Big Tech must reject Big Tobacco’s model and address social media harms,The Hill,0.250632,Somewhat-Bullish,0.119650,0.637096
+20240131T182413,META,Unified data architectures for AI workflows,NetApp,0.223785,Somewhat-Bullish,0.139420,0.600966
+20240131T183300,META,Zuckerberg Gives Impromptu Apology at Child Safety Senate Hearing,Bloomberg.com,-0.357608,Bearish,-0.446100,1.000000

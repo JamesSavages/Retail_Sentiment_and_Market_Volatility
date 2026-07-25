@@ -1,0 +1,21 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20230403T014249,AMD,3 Best Desktop Computers for Business from HP India,HP,0.309329,Somewhat-Bullish,0.281242,0.614100
+20230403T051100,AMD,Beijing’s Micron Probe Spurs $12 Billion Rally in China Chip Stocks,Bloomberg.com,0.287253,Somewhat-Bullish,0.336769,0.706066
+20230404T000850,AMD,XBIL Stock Price | US Treasury 6 Month Bill ETF,Investing.com,0.068585,Neutral,0.321267,0.633063
+20230404T014908,AMD,LG is creating new 4K and Ultrawide OLED displays with refresh rates of 240 Hz,TweakTown,0.311909,Somewhat-Bullish,0.247949,0.721790
+20230404T201020,AMD,"ARK Autonomous Technology & Robotics ETF (ARKQ) Stock Price, Holdings, Dividend Yield",GuruFocus,0.18182,Somewhat-Bullish,0.186667,0.663732
+20230405T012236,AMD,Samsung Electronics and AMD Extend Strategic IP Licensing Agreement to Bring AMD Radeon™ Graphics to Future Mobile Platforms,AMD,0.481258,Bullish,0.460382,1.000000
+20230405T112700,AMD,AMD Is Space Certified As Xilinx Computers Make It To NASA’s Rocket & Ship,Wccftech,0.031865,Neutral,0.024515,0.343622
+20230405T130855,AMD,"ARK Next Generation Internet ETF (ARKW) Stock Price, Holdings, Dividend Yield",GuruFocus,0.042755,Neutral,0.112644,0.636212
+20230411T144018,AMD,DFEM Stock Price | Dimensional Emerging Markets Core Equity 2 ETF,Investing.com,0.250577,Somewhat-Bullish,0.270985,0.572348
+20230413T012236,AMD,Empowering The Industry with Open System Firmware – AMD openSIL,AMD,0.315932,Somewhat-Bullish,0.434004,1.000000
+20230415T014249,AMD,3 Best HP Pavilion Laptops For Entertainment | HP® Tech Takes,HP,0.236967,Somewhat-Bullish,0.123964,0.626135
+20230420T012236,AMD,AMD Bolsters Embedded Portfolio with New Ryzen Embedded 5000 Series Processors for Networking Solutions,AMD,0.495749,Bullish,0.519793,1.000000
+20230424T012124,AMD,Analog Devices Appoints Alan Lee as Chief Technology Officer,Business Wire,0.242542,Somewhat-Bullish,0.216567,0.702719
+20230425T012124,AMD,Analog Devices names former AMD exec Alan Lee as CTO,Techcircle,0.222079,Somewhat-Bullish,0.231589,0.832103
+20230425T012124,AMD,Analog Devices appoints former AMD executive Alan Lee as CTO,ET Telecom,0.209934,Somewhat-Bullish,0.209460,0.716826
+20230425T014918,AMD,Lam Research has closed its U.S. facilities for the week amid the chip downturn,The Business Journals,-0.305907,Somewhat-Bearish,-0.308626,0.623715
+20230425T015151,AMD,Cognitive Computing Brings Human Touch,Morgan Stanley,0.297752,Somewhat-Bullish,0.348489,0.723112
+20230427T114443,AMD,"Intel says margins will recover in second half of 2023, shares rise",Reuters,0.129241,Neutral,-0.202384,0.716077
+20230427T221700,AMD,Wilmington's Analog Devices Names Alan Lee Chief Technology Officer,Patch,0.296727,Somewhat-Bullish,0.145657,0.737301
+20230428T020751,AMD,"Semiconductor supplier secures incentives in Round Rock for $185M, 50-job expansion",The Business Journals,0.212671,Somewhat-Bullish,0.231830,0.704772

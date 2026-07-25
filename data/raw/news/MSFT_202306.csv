@@ -1,0 +1,97 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20230601T000000,MSFT,Chart of the Week: How To Benefit From AI on Advisors' Minds,ETF Trends,0.206679,Somewhat-Bullish,0.308385,0.600755
+20230601T154631,MSFT,"Apple, Microsoft Boost the S&P 500 Amid Tech Comeback",ETF Trends,0.367861,Bullish,0.303592,0.667451
+20230601T195953,MSFT,High Beta ETF 'SPHB' Lifted by Heavy Tech Sector Tilt,ETF Database,0.360529,Bullish,0.325491,0.646389
+20230603T130700,MSFT,Cisco needs to simplify. Here’s how.,SiliconANGLE,0.145895,Neutral,0.062703,0.632058
+20230605T000000,MSFT,Microsoft Inks Deal With NVIDIA-Backed CoreWeave,Spiceworks,0.328617,Somewhat-Bullish,0.794419,0.974653
+20230605T000849,MSFT,Microsoft-Activision Deal Divides Regulators,Global Finance Magazine,0.05139,Neutral,0.016078,1.000000
+20230605T090500,MSFT,"Rather than Recline into Old Age, La-Z-Boy is Reinvigorating its Brand for Today’s Consumers",Retail TouchPoints,0.228488,Somewhat-Bullish,0.115726,0.608429
+20230606T000257,MSFT,How Microsoft Fabric aims to beat Amazon and Google in the cloud war,VentureBeat,0.227278,Somewhat-Bullish,0.449445,1.000000
+20230606T202900,MSFT,Cisco debuts its Secure Service Edge offering and enhances app security,SiliconANGLE,0.206603,Somewhat-Bullish,0.103069,0.554834
+20230607T000000,MSFT,Salesforce CEO Benioff shakes up executive team with new hires,www.cio.com,0.080942,Neutral,0.132256,0.586292
+20230607T143027,MSFT,"Netflix Collaboration Fuels IAS, DoubleVerify Stock Surge",Entrepreneur,0.329125,Somewhat-Bullish,0.132936,0.603202
+20230608T000626,MSFT,IT and Networking | Large Enterprise Solutions,Lumen Technologies,0.358622,Bullish,0.329257,0.642448
+20230608T001931,MSFT,Revolutionizing cloud spending: How ProsperOps' AI solution is curbing public cloud expenses,SiliconANGLE,0.178424,Somewhat-Bullish,0.124259,0.574357
+20230608T151114,MSFT,$9B Momentum ETF Is Unrecognizable After Makeover,ETF.com,0.262672,Somewhat-Bullish,0.228675,0.521331
+20230608T153300,MSFT,Nvidia and Oracle back $270M funding round for generative AI startup Cohere,SiliconANGLE,0.271463,Somewhat-Bullish,0.247126,0.642638
+20230608T154631,MSFT,Big Tech Is Outpacing Small-Caps Amid Market Rally,ETF Trends,0.429552,Bullish,0.449995,0.716778
+20230612T000000,MSFT,A breakdown of AI ETFs as tech names burn bright,ETF Stream,0.192626,Somewhat-Bullish,0.279577,0.878891
+20230612T151129,MSFT,What Is Racial Justice Investing & Why Should You Consider It?,moneywise.com,0.204954,Somewhat-Bullish,0.227618,0.605633
+20230612T154209,MSFT,Seagate Announces Starfield Special Edition Game Drive And Game Hub For Xbox,CDRLabs.com,0.528792,Bullish,0.312132,0.336335
+20230612T235127,MSFT,News | Big-Name Requirements Return To Lift South East Offices,CoStar,0.105095,Neutral,0.205699,0.827262
+20230613T000000,MSFT,Oracle Cloud Infrastructure Announces OCI Compute Instances Based on New 4th Generation AMD EPYC Processors,Oracle,0.364311,Bullish,0.272028,0.582665
+20230613T085843,MSFT,The 3 Best ETFs to Buy to Balance Risk and Reward,InvestorPlace,0.353219,Bullish,0.322973,0.610847
+20230613T123500,MSFT,Accenture looks to power AI efforts with $3 billion investment,Reuters,0.309005,Somewhat-Bullish,0.240775,0.637244
+20230613T151017,MSFT,iShares Climate Conscious & Transition MSCI USA ETF,ETF Database,0.236919,Somewhat-Bullish,0.202463,0.644087
+20230613T152035,MSFT,Oracle founder Larry Ellison confirms new gen AI service with Cohere during earnings call,VentureBeat,0.261813,Somewhat-Bullish,0.106911,0.597095
+20230614T000845,MSFT,Why Corporate Profits Could Fall Further,Morgan Stanley,0.120943,Neutral,0.087265,0.595693
+20230614T001907,MSFT,Someone is posing as a fake security company to create malicious GitHub repositories,SC Media,-0.153928,Somewhat-Bearish,-0.305712,0.633846
+20230614T060913,MSFT,"Fidelity Disruptive Technology ETF ETF Price, Holdings, & News (NASDAQ:FDTX)",MarketBeat,0.261275,Somewhat-Bullish,0.346701,0.727710
+20230615T002535,MSFT,NetSuite ERP aims to reconcile the books faster,TechTarget,0.198568,Somewhat-Bullish,0.206297,0.623142
+20230615T040218,MSFT,Fidelity Metaverse ETF Review and Aggregate Rating (FMET),MarketBeat,0.227574,Somewhat-Bullish,0.341612,0.643655
+20230615T050952,MSFT,Pacer Trendpilot 100 ETF Review and Aggregate Rating (PTNQ),MarketBeat,0.412635,Bullish,0.464135,0.827396
+20230615T061028,MSFT,ProShares Ultra Technology Review and Aggregate Rating (ROM),MarketBeat,0.259914,Somewhat-Bullish,0.224681,0.607998
+20230615T080953,MSFT,iShares S&P 100 ETF Review and Aggregate Rating (OEF) $OEF,MarketBeat,0.30519,Somewhat-Bullish,0.333746,0.829727
+20230615T133925,MSFT,JPMorgan Active Growth ETF Review and Aggregate Rating (JGRO) $JGRO,MarketBeat,0.365638,Bullish,0.367061,0.614333
+20230615T141016,MSFT,NYLI U.S. Large Cap R&D Leaders ETF Review and Aggregate Rating (LRND),MarketBeat,0.337741,Somewhat-Bullish,0.329528,0.628367
+20230615T150912,MSFT,"T. Rowe Price's New ETF, TCAF, Is Worthy of Appreciation",ETF Database,0.287443,Somewhat-Bullish,0.346124,0.555706
+20230615T154619,MSFT,"T. Rowe Price’s New ETF, TCAF, Is Worthy of Appreciation",ETF Trends,0.304175,Somewhat-Bullish,0.203906,0.616573
+20230615T173400,MSFT,Reddit CEO Steve Huffman: 'It's time we grow up and behave like an adult company',NPR,0.257466,Somewhat-Bullish,0.316593,0.620237
+20230615T230938,MSFT,First Trust Cloud Computing ETF Review and Aggregate Rating (SKYY) $SKYY,MarketBeat,0.331059,Somewhat-Bullish,0.303750,0.735825
+20230616T000000,MSFT,Can AI transform adult online education?,Fast Company,0.159148,Somewhat-Bullish,0.064208,0.569939
+20230616T020920,MSFT,iShares U.S. Tech Independence Focused ETF Review and Aggregate Rating (IETC),MarketBeat,0.331565,Somewhat-Bullish,0.201177,0.627877
+20230616T021021,MSFT,Invesco NASDAQ Internet ETF Review and Aggregate Rating (PNQI),MarketBeat,0.246156,Somewhat-Bullish,0.306300,0.642324
+20230616T035242,MSFT,FlexShares Quality Dividend Index Fund Review and Aggregate Rating (QDF) $QDF,MarketBeat,0.305847,Somewhat-Bullish,0.321802,0.632084
+20230616T051035,MSFT,Global X S&P 500 Tail Risk ETF Review and Aggregate Rating (XTR) $XTR,MarketBeat,0.320776,Somewhat-Bullish,0.310959,0.637514
+20230616T060913,MSFT,Fidelity Disruptive Technology ETF Review and Aggregate Rating (FDTX),MarketBeat,0.203386,Somewhat-Bullish,0.277526,0.697399
+20230616T071156,MSFT,Direxion Daily NYSE FANG+ Bull 2X Shares Review and Aggregate Rating (FNGG),MarketBeat,0.317468,Somewhat-Bullish,0.315408,0.604019
+20230616T091049,MSFT,Dimensional US Core Equity Market ETF Review and Aggregate Rating (DFAU),MarketBeat,0.255442,Somewhat-Bullish,0.343548,0.624065
+20230616T095218,MSFT,STF Tactical Growth ETF Review and Aggregate Rating (TUG) $TUG,MarketBeat,0.257376,Somewhat-Bullish,0.309810,0.630387
+20230616T100930,MSFT,Fidelity U.S. Multifactor ETF Review and Aggregate Rating (FLRG) $FLRG,MarketBeat,0.275479,Somewhat-Bullish,0.334877,0.712104
+20230616T101013,MSFT,Schwab US Large-Cap ETF Review and Aggregate Rating (SCHX),MarketBeat,0.25164,Somewhat-Bullish,0.328539,0.626746
+20230616T124029,MSFT,EA Bridgeway Blue Chip ETF Review and Aggregate Rating (BBLU),MarketBeat,0.367144,Bullish,0.544659,0.617570
+20230616T125141,MSFT,iShares MSCI ACWI ETF Review and Aggregate Rating (ACWI),MarketBeat,0.284245,Somewhat-Bullish,0.288127,0.706848
+20230616T145619,MSFT,Microsoft Roars to New High: ETFs to Tap the Strength,Yahoo Finance,0.578427,Bullish,0.617004,1.000000
+20230616T150909,MSFT,SPDR MSCI USA Climate Paris Aligned ETF Review and Aggregate Rating (NZUS),MarketBeat,0.193145,Somewhat-Bullish,0.295968,0.738161
+20230616T155228,MSFT,ProShares Ultra Dow30 Review and Aggregate Rating (DDM),MarketBeat,0.374255,Bullish,0.357795,0.721809
+20230616T161013,MSFT,Invesco S&P 500 Top 50 ETF Review and Aggregate Rating (XLG),MarketBeat,0.269667,Somewhat-Bullish,0.292085,0.701978
+20230616T173846,MSFT,T. Rowe Price Growth ETF Review and Aggregate Rating (TGRT) $TGRT,MarketBeat,0.255736,Somewhat-Bullish,0.316236,0.783390
+20230616T193857,MSFT,Aptus Drawdown Managed Equity ETF Review and Aggregate Rating (ADME) $ADME,MarketBeat,0.252591,Somewhat-Bullish,0.283222,0.716158
+20230616T221017,MSFT,First Trust NASDAQ BuyWrite Income ETF Review and Aggregate Rating (FTQI) $FTQI,MarketBeat,0.31708,Somewhat-Bullish,0.302719,0.743334
+20230616T221018,MSFT,iShares MSCI USA Quality Factor ETF Review and Aggregate Rating (QUAL) $QUAL,MarketBeat,0.396161,Bullish,0.365702,0.607437
+20230616T224211,MSFT,Direxion Daily MSFT Bull 2X Shares Review and Aggregate Rating (MSFU),MarketBeat,0.293401,Somewhat-Bullish,0.312908,0.832838
+20230616T233851,MSFT,American Century Sustainable Equity ETF Review and Aggregate Rating (ESGA),MarketBeat,0.303906,Somewhat-Bullish,0.367656,0.727875
+20230616T235237,MSFT,JPMorgan U.S. Research Enhanced Large Cap ETF Review and Aggregate Rating (JUSA),MarketBeat,0.41284,Bullish,0.432152,0.795454
+20230619T000000,MSFT,What Does Logitech CEO’s Abrupt Departure Mean?,Entrepreneur,0.109191,Neutral,0.112285,0.649299
+20230619T000605,MSFT,What Does Logitech CEO’s Abrupt Departure Mean?,MarketBeat,-0.037335,Neutral,0.142101,0.618089
+20230619T001231,MSFT,WSJ News Exclusive | Omnicom Group to Debut Tool Using Generative AI for Advertising Employees,The Wall Street Journal,0.250513,Somewhat-Bullish,0.225566,0.724278
+20230620T000000,MSFT,Comparing the Expense Ratios of ETFs Investing in AI: Which One Is Right for You?,ETF Trends,0.271709,Somewhat-Bullish,0.349925,0.627746
+20230620T000051,MSFT,HP Enterprise Offers Access to Cray Supercomputers for Building AI Models,Barron's,0.349027,Somewhat-Bullish,0.334411,0.706870
+20230620T075200,MSFT,Order to Shipment Label in One Click,FedEx newsroom,0.198043,Somewhat-Bullish,0.320794,0.318573
+20230620T234802,MSFT,H&R Block and Microsoft’s Industry-Leading Partnership Brings Powerful Generative Artificial Int...,H&R Block,0.180209,Somewhat-Bullish,0.310338,0.928863
+20230621T070855,MSFT,KT to invest $5.4 bn by 2027 to develop AI platforms,KED Global,0.300764,Somewhat-Bullish,0.261809,0.591517
+20230621T151056,MSFT,Microsoft study: Small businesses intrigued by AI and the opportunities it brings,Windows Blog,0.431949,Bullish,0.408151,1.000000
+20230622T000850,MSFT,Canadian Tire Corporation and Microsoft partner to advance retail innovation in Canada,Microsoft Source,0.385359,Bullish,0.495794,1.000000
+20230622T153522,MSFT,SAIC wins $1.3B Treasury cloud contract,FedScoop,0.315665,Somewhat-Bullish,0.331072,0.445989
+20230622T163000,MSFT,Amazon Is Spending $100 Million to Teach Cloud Customers About AI,Bloomberg.com,0.390429,Bullish,0.329877,0.720062
+20230623T000000,MSFT,Artificial Intelligence Opens a Generational Opportunity for Chipmakers,Global X ETFs,0.374138,Bullish,0.305970,0.676835
+20230623T143459,MSFT,Canadian Tire Corporation and Microsoft Partner to Advance Retail Innovation in Canada,EPAM,0.525723,Bullish,0.771954,0.947235
+20230624T235814,MSFT,Top 10 cybersecurity companies in the US,Cyber Magazine,0.277732,Somewhat-Bullish,0.308086,0.621334
+20230626T000730,MSFT,"Mizuho Rolls Out Microsoft's Generative AI to All 45,000 Bank Staff in Japan",Bloomberg.com,0.18984,Somewhat-Bullish,0.316609,0.719785
+20230626T051020,MSFT,Direxion HCM Tactical Enhanced US ETF,ETF Database,0.348002,Somewhat-Bullish,0.345882,0.628070
+20230626T234905,MSFT,Breaking GPT-4 Bad: Check Point Research Exposes How Security Boundaries Can Be Breached as Machines Wrestle with Inner Conflicts,Check Point Blog,0.019107,Neutral,0.122093,0.610040
+20230627T070000,MSFT,U.S. Bank adds AI to business travel payments as competition heats up,American Banker,0.241765,Somewhat-Bullish,0.234592,0.606325
+20230627T132500,MSFT,Here's How to Rank the 3 Biggest Video Game Stocks,FinancialContent,0.195403,Somewhat-Bullish,0.113027,0.648973
+20230627T154111,MSFT,Snowflake Native App Framework Now Available to Developers on AWS,Snowflake,0.311767,Somewhat-Bullish,0.223613,0.591324
+20230627T235032,MSFT,Corsair Darkstar Wireless review: 'An MMO mouse packed with intuitive extra features',GamesRadar+,0.126461,Neutral,0.118499,0.605976
+20230629T000000,MSFT,BlackBerry’s Cylance AI Prevents Terminator EDR Killer,BlackBerry Blog,0.449551,Bullish,0.201789,0.640803
+20230629T000000,MSFT,Nuclear power to reduce Microsoft data centre carbon footprint,World Nuclear News,0.478569,Bullish,0.793003,0.930515
+20230629T000000,MSFT,Crypto ETFs Back in the Spotlight,ETF Trends,0.182621,Somewhat-Bullish,0.106041,0.627945
+20230629T153000,MSFT,[Latest] Global Semiconductor Packaging Market Report,GlobeNewswire,0.273378,Somewhat-Bullish,0.226687,0.622186
+20230629T185500,MSFT,Lawsuit says OpenAI violated US authors' copyrights to train AI chatbot,Reuters,-0.116102,Neutral,-0.200461,0.706463
+20230629T235033,MSFT,Typeface lands $100M for its generative AI content creation engine,SiliconANGLE,0.297643,Somewhat-Bullish,0.218622,0.618596
+20230630T000000,MSFT,Apple’s market value ends above $3 trillion for the first time,Al Jazeera,0.456608,Bullish,0.318942,0.606193
+20230630T013000,MSFT,Judge grills FTC about data in hearing on Microsoft deal to buy Activision,Reuters,0.024309,Neutral,0.038730,0.301122
+20230630T152006,MSFT,Oakmark Equity and Income Fund: Second Calendar Quarter 2023,Oakmark Funds,0.166684,Somewhat-Bullish,0.142396,0.702718
+20230630T152006,MSFT,TThe High Price of Low Volatility | U.S. Equity market commentary 2Q23,Oakmark Funds,0.114968,Neutral,0.115168,0.636633
+20230630T164700,MSFT,Leaving Fastly For More Axon Enterprise Stock (NASDAQ:AXON),Seeking Alpha,0.283093,Somewhat-Bullish,0.315381,0.627451

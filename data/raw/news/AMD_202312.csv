@@ -1,0 +1,30 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20231201T232400,AMD,NVIDIA Corporation (NVDA) Morgan Stanley Raises Target Forecast,The Globe and Mail,0.235497,Somewhat-Bullish,0.142099,0.606104
+20231205T192459,AMD,"AI Alliance Launches as an International Community of Leading Technology Developers, Researchers, and Adopters Collaborating Together to Advance Open, Safe, Responsible AI",IBM Newsroom,0.315232,Somewhat-Bullish,0.328441,0.865509
+20231205T233800,AMD,"Meta Platforms, IBM create industrywide AI alliance to share technology",Business Standard,0.274931,Somewhat-Bullish,0.282346,0.639945
+20231206T150000,AMD,AMD's highly anticipated MI300X AI chips hit general availability along with new Ryzen 8040 CPUs,SiliconANGLE,0.388441,Bullish,0.726606,1.000000
+20231206T192435,AMD,Supermicro Extends AI and GPU Rack Scale Solutions with Support for AMD Instinct MI300 Series Accelerators,PR Newswire,0.391866,Bullish,0.326394,0.918582
+20231206T195300,AMD,Opinion: AMD’s new products represent the first real threat to Nvidia’s AI dominance,MarketWatch,0.084382,Neutral,0.409844,1.000000
+20231206T210800,AMD,AMD releases new chips to power faster AI training,The Verge,0.281461,Somewhat-Bullish,0.472776,1.000000
+20231207T144400,AMD,Tesla’s Dojo Supercomputer Head Exits in Blow to Efforts,Transport Topics,-0.09347,Neutral,0.133233,0.635333
+20231207T184100,AMD,Comparing Analog Devices With Industry Competitors In Semiconductors & Semiconductor Equipment Industry,Investing.com UK,0.042556,Neutral,-0.057229,0.571466
+20231208T184526,AMD,AMD debuts new chip with eye to rival Nvidia product,Taipei Times,0.239576,Somewhat-Bullish,0.462310,1.000000
+20231209T031607,AMD,"Themes Generative Artificial Intelligence ETF ETF Price, Holdings, & News (NASDAQ:WISE)",MarketBeat,0.267883,Somewhat-Bullish,0.335766,0.635776
+20231209T192602,AMD,STMicroelectronics speeds up Edge AI adoption for product transformation,Manufacturing Today India,0.375327,Bullish,0.324089,0.637881
+20231209T194027,AMD,WISE Top Holdings List & Exposure (Themes Generative Artificial Intelligence ETF),MarketBeat,0.429599,Bullish,0.409567,0.924385
+20231210T000000,AMD,"AMD launches MI300, claims AI performance lead over Nvidia ...",eeNews Europe,0.2056,Somewhat-Bullish,0.423297,1.000000
+20231211T154049,AMD,Silicon Labs in search of new CFO,The Business Journals,0.063328,Neutral,0.149701,0.633210
+20231212T191048,AMD,Cooperation with ASML in Netherlands becomes important for AI chip war,동아일보,0.315795,Somewhat-Bullish,0.342236,0.642433
+20231212T192926,AMD,"TSMC Global Market Share Rises by 2% QoQ, Samsung, UMC, GlobalFoundries Saw 1% QoQ Decline",Electronics For You BUSINESS,0.233227,Somewhat-Bullish,0.326516,0.705238
+20231213T131000,AMD,Lisa Su’s net worth: How she saved AMD & built her wealth,Baker City Herald,0.201736,Somewhat-Bullish,0.509864,1.000000
+20231215T192459,AMD,Sony at CES2024 - The World's Largest Technology Event - Sony Group Portal,Sony,0.329388,Somewhat-Bullish,0.331465,0.617204
+20231218T061009,AMD,Themes Generative Artificial Intelligence ETF (WISE),Investing.com India,0.24315,Somewhat-Bullish,0.269927,0.719184
+20231219T024000,AMD,Are the Chips Down for First Trust Nasdaq Semiconductor ETF?,CMC Markets,0.320519,Somewhat-Bullish,0.117320,0.585238
+20231219T115600,AMD,Folsom Intel Campus To Cut 235 More Jobs By End Of The Month,Folsom Times,-0.305625,Somewhat-Bearish,-0.282071,0.727039
+20231219T184337,AMD,Best Semiconductor Stocks With High Growth Potential To Invest in for 2026,Traders Union,0.490683,Bullish,0.454967,0.745999
+20231221T185100,AMD,Synopsys Acquires RISC-V Processor Simulation Tools Firm,EE Times,0.221617,Somewhat-Bullish,0.149433,0.639078
+20231221T191603,AMD,Arizona Commerce Authority Allocates Funding To Arizona State University To Expand Semiconductor Research In Tempe,Arizona Commerce Authority,0.350826,Bullish,0.327056,0.611140
+20231222T001500,AMD,Vice president of Advanced Micro Devices Jason Banta: ‘Computers with artificial intelligence will be able to anticipate our needs’,EL PAÍS English,0.5783,Bullish,0.647481,1.000000
+20231226T190616,AMD,Israel grants Intel $3.2bn for new $25bn chip plant,Al Jazeera,0.219095,Somewhat-Bullish,0.107461,0.643992
+20231228T184526,AMD,"Midday Movers: AMD Higher on Graphics Card Report, Boeing Falls on Inspection Issue",Investopedia,0.159666,Somewhat-Bullish,0.456532,1.000000
+20231228T192450,AMD,Twelve Japanese companies join forces to develop automotive SoCs using chiplet technology,Autocar Professional,0.271394,Somewhat-Bullish,0.206962,0.601128

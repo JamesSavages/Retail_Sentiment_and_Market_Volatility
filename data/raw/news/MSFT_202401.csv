@@ -1,0 +1,80 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20240103T000000,MSFT,"Intel and DigitalBridge Launch Articul8, an Enterprise Generative AI Company",Intel Newsroom,0.212396,Somewhat-Bullish,0.104046,0.563033
+20240104T000000,MSFT,Markets in Focus: Concentrating on Diversification,MSCI,0.214938,Somewhat-Bullish,0.295357,0.832215
+20240104T180807,MSFT,Jon Love Named SVP of Corporate Services at Compass Group North America,GovCon Wire,0.003045,Neutral,0.141767,0.619360
+20240104T203853,MSFT,ProShares S&P 500 High Income ETF,ETF Database,0.311341,Somewhat-Bullish,0.254636,0.605872
+20240105T090000,MSFT,Using Modern APIs to Deliver Network-aware Applications,Fierce Network,0.328456,Somewhat-Bullish,0.483633,1.000000
+20240106T071151,MSFT,Kurv Microsoft(MSFT)收益溢價策略主動型ETF-MSFY-ETF配息狀況,MoneyDJ,0.137764,Neutral,0.142690,0.736452
+20240108T000000,MSFT,Will You be Hired by AI?,Citigroup,0.302201,Somewhat-Bullish,0.342998,0.602911
+20240108T044253,MSFT,Understanding Leveraged Shares for AMEX:UPRO by Steversteves,TradingView,0.298861,Somewhat-Bullish,0.341232,0.649462
+20240108T155800,MSFT,"Google's AI Spin-Off Isomorphic Labs Strikes Big Pharma Deals, Paving the Way for Future of Drug Discovery",Sahm,0.233723,Somewhat-Bullish,-0.132929,0.573941
+20240109T090851,MSFT,Atlassian Corp Class A Trade Ideas — SWB:48D,TradingView,-0.162958,Somewhat-Bearish,-0.180978,0.631170
+20240109T174622,MSFT,Generative AI for HR: 3 Fascinating Use Cases for Practitioners,ADP,0.328669,Somewhat-Bullish,0.348441,0.612680
+20240109T180932,MSFT,12 Lessons the Market Taught Investors in 2023,Morningstar,0.059357,Neutral,0.263374,0.844678
+20240109T215700,MSFT,Best Socially Responsible Investment Apps of January 2024,Business Insider Africa,0.207342,Somewhat-Bullish,0.293392,0.610396
+20240110T000000,MSFT,Luminar expands partnership with Mercedes-Benz and debuts LiDAR-enabled AES,World Business Outlook,0.291106,Somewhat-Bullish,0.248325,0.631746
+20240110T160218,MSFT,"Fundsmith Underperforms, Smith Takes Aim at AI Hype",Morningstar Canada,0.018482,Neutral,0.321393,0.737285
+20240111T080000,MSFT,Upcoming Events,FinancialContent,0.381795,Bullish,0.408583,0.944078
+20240111T080000,MSFT,"REX Shares and Tuttle Capital Management Expand T-REX Single-Stock ETF Suite with Apple, Alphabet, and Microsoft Offerings",FinancialContent,0.387037,Bullish,0.413687,0.623165
+20240111T182408,MSFT,Eggy Party Launches In More Countries In 2024 Alongside Outta This World Seasonal Events,NetEase Games,0.415079,Bullish,0.318730,0.640661
+20240111T182617,MSFT,UiPath Directors Sued Again for Allegedly Hiding Demand Issues,Bloomberg Law News,-0.065742,Neutral,-0.132837,0.629876
+20240112T183327,MSFT,Delfi Data Science,SLB,0.332348,Somewhat-Bullish,0.247843,0.627541
+20240112T184023,MSFT,Signal: Victoria’s Secret & Co leveraging AI to boost online shopping experience,Just Style,0.314394,Somewhat-Bullish,0.256871,0.557755
+20240112T184108,MSFT,Accelerating Digital Transformation,Entrepreneur,0.329342,Somewhat-Bullish,0.113997,0.609748
+20240113T000000,MSFT,DGRO: A Strong Dividend Growth ETF for 2024 and Beyond,Yahoo Finance,0.376029,Bullish,0.341654,0.718442
+20240114T182907,MSFT,"Margaret ""Peggy"" L. Johnson",Fox Corporation,0.248152,Somewhat-Bullish,0.235617,0.647538
+20240115T000000,MSFT,"Vodafone and Microsoft sign 10-year strategic partnership to bring generative AI, digital services and the cloud to more than 300 million businesses and consumers",Microsoft Source,0.408224,Bullish,0.415087,1.000000
+20240116T094000,MSFT,"Microsoft Monetizing Copilot, Round 2; Synopsys Pays Big for Ansys",24/7 Wall St.,0.100063,Neutral,0.438768,0.889801
+20240116T174539,MSFT,Supreme Court rejects Apple's appeal on App Store fees amid Epic Games legal battle,NBC 6 South Florida,-0.171092,Somewhat-Bearish,0.109217,0.618184
+20240116T180325,MSFT,Top 10 Video Conferencing Companies | Tech Connects Virtually,Market.us Scoop,0.309519,Somewhat-Bullish,0.334882,0.902782
+20240116T182155,MSFT,Microsoft CEO Satya Nadella says global consensus on AI is emerging,CNBC,0.306435,Somewhat-Bullish,0.304348,1.000000
+20240116T183138,MSFT,AI and cloud transformation dominate IT investment priorities for 2024: Rackspace Technology,Digital News Asia,0.341224,Somewhat-Bullish,0.275052,0.605630
+20240117T000000,MSFT,Monday.com review: Work management platform works best when you pay for it,IT Pro,0.131074,Neutral,0.133339,0.311947
+20240117T000000,MSFT,4 New Data Connector Enhancements to Improve Custom Dashboards,Autodesk,0.384209,Bullish,0.328545,0.622498
+20240117T164000,MSFT,What Does 2024 Hold for the Magnificent Seven?,CMC Markets,0.126555,Neutral,0.243799,0.608628
+20240117T175203,MSFT,US “will probably sanction” Baidu despite Chinese military AI denials,Verdict,-0.224359,Somewhat-Bearish,0.133631,0.579309
+20240117T182121,MSFT,Asana vs. monday: Which Is Better for Your Business?,Business News Daily,0.185684,Somewhat-Bullish,0.137762,0.574926
+20240117T182413,MSFT,NetApp Hires AWS Executive To Manage Global Cloud Sales,CRN,0.196263,Somewhat-Bullish,0.128310,0.633659
+20240118T084900,MSFT,Just How Safe Is IBM Stock’s Dividend?,24/7 Wall St.,0.102497,Neutral,0.100827,0.611390
+20240118T171500,MSFT,"LiveRamp Acquires Habu, As Walled Gardens Put The Squeeze On Indie Data Collaboration Tech",AdExchanger,0.20615,Somewhat-Bullish,0.100343,0.610259
+20240118T184004,MSFT,Microsoft Hyper-V vs. VMware vSphere: Feature comparison,TechTarget,0.04672,Neutral,0.059042,0.983976
+20240119T000000,MSFT,AES positioned to provide tech sector with growing renewable energy solutions,Daily Energy Insider,0.366311,Bullish,0.304005,0.626864
+20240119T000000,MSFT,Caterpillar Demonstrates Viability of Using Hydrogen Fuel Cell Technology for Backup Power at Microsoft Data Center,Caterpillar Inc,0.751896,Bullish,0.702723,0.925134
+20240119T000000,MSFT,Your S&P 500 Index Fund Has Higher Risk Than You May Think,Cabot Wealth Network,-0.128482,Neutral,-0.144026,0.639160
+20240119T182155,MSFT,Microsoft Corporate E-Mails Tapped by Russian Attackers,Redmond Channel Partner,-0.293038,Somewhat-Bearish,-0.289657,1.000000
+20240119T182155,MSFT,Microsoft Executives’ Emails Hacked by Group Tied to Russian Intelligence (Published 2024),The New York Times,0.036684,Neutral,-0.238241,1.000000
+20240119T182413,MSFT,Hitachi Vantara Names NetApp Vet to Lead Storage Product Strategy,The Futurum Group,0.146549,Neutral,0.121935,0.621158
+20240119T234100,MSFT,Microsoft says Russian state-sponsored hackers spied on its executives,Reuters,-0.244487,Somewhat-Bearish,-0.207595,1.000000
+20240121T230000,MSFT,More Computer Magazine Lore: A 1983 Nastygram from Wayne Green,Technologizer,0.021858,Neutral,0.017424,0.611211
+20240122T000000,MSFT,NVIDIA Corporation (NVDA) Stock Rocketed Over 200% in 2023,Yahoo Finance,0.257732,Somewhat-Bullish,0.208520,0.627824
+20240122T000000,MSFT,Higher S&P 500 Earnings Could Benefit This Active ETF,ETF Trends,0.363919,Bullish,0.331983,0.649127
+20240122T182122,MSFT,The 5 best monday.com alternatives,Startups.co.uk,0.07433,Neutral,0.130760,0.612848
+20240123T000000,MSFT,"Corpay Unveils End-to-End Spend Management Solution, Corpay Complete",Business Wire,0.105415,Neutral,0.229138,0.600517
+20240123T094300,MSFT,Corning's Indian JV signs $120 mln investment deal with Tamil Nadu state,Reuters,0.36135,Bullish,0.304563,0.636106
+20240123T174559,MSFT,Cross-border real-time payments are the way forward: ACI Worldwide CEO Thomas Warsop,Techcircle,0.63469,Bullish,0.500173,0.602676
+20240123T182541,MSFT,Oracle debuts cloud generative AI service to help enterprises deploy and fine-tune language models,SiliconANGLE,0.284113,Somewhat-Bullish,0.119456,0.715444
+20240123T190700,MSFT,Netflix gains more than 13 million subscribers in the fourth quarter,CNN,0.195554,Somewhat-Bullish,0.083808,0.569778
+20240124T000000,MSFT,"Online retailer eBay is cutting 1,000 jobs. It’s the latest tech company to reduce its workforce",The Daily Reporter - Greenfield Indiana,-0.234977,Somewhat-Bearish,-0.221287,0.558161
+20240124T175059,MSFT,Boeing’s history reveals connections and disconnections in the West’s economy,High Country News,0.028329,Neutral,0.102981,0.638744
+20240124T181200,MSFT,HP Enterprise discloses hack by suspected state-backed Russian hackers,Associated Press News,-0.223465,Somewhat-Bearish,-0.244568,0.748753
+20240124T181732,MSFT,Kraft Heinz dips into generative AI with employee tool for data analysis,CIO Dive,0.347051,Somewhat-Bullish,0.253909,0.730753
+20240125T000000,MSFT,"Analog Devices Appoints Richard C. Puccio, Jr. as Executive Vice President and Chief Financial Officer",citybiz,0.248327,Somewhat-Bullish,0.107166,0.579024
+20240125T092100,MSFT,"Chevron ExtraMile Tests AI Assistants, Dynamic Content in 3 Stores",Retail TouchPoints,0.241438,Somewhat-Bullish,0.310977,0.609500
+20240125T181159,MSFT,HPE hit by a monthslong cyberattack on its cloud-based email,Cybersecurity Dive,-0.221884,Somewhat-Bearish,-0.126699,0.637023
+20240125T181200,MSFT,HPE says it was hacked by Russian group behind Microsoft email breach,TechCrunch,-0.41862,Bearish,-0.418008,0.716116
+20240125T181518,MSFT,IonQ Achieves Technical Milestone One Year Ahead of Schedule,Business Wire,0.222134,Somewhat-Bullish,0.103212,0.615787
+20240125T182122,MSFT,10 Best Project Management Software for Windows,TechRepublic,0.175604,Somewhat-Bullish,-0.216937,0.614963
+20240125T182155,MSFT,Midnight Blizzard: Guidance for responders on nation-state attack,Microsoft,0.003925,Neutral,-0.294338,1.000000
+20240125T182155,MSFT,"Microsoft Thinks It Can Do Corporate, Legless VR Avatars Better Than Meta",Gizmodo,0.01545,Neutral,0.044655,0.342923
+20240126T000000,MSFT,How generative AI in construction will level-up design and collaboration,Autodesk,0.398328,Bullish,0.317859,0.603791
+20240126T000000,MSFT,AI & The Dragon: What Trends Will Dominate 2024?,KraneShares,0.20983,Somewhat-Bullish,0.232473,0.623028
+20240126T171700,MSFT,"Salesforce slashes 700 jobs, adding to brutal string of 2024 tech layoffs",Fortune,-0.328315,Somewhat-Bearish,-0.343260,0.606449
+20240129T000000,MSFT,"HPE, Microsoft Midnight Blizzard Hackers Lurked in Systems for Months",MSSP Alert,-0.028489,Neutral,-0.234707,0.982778
+20240129T105212,MSFT,"YMAG ETF Analysis: Dividends, Returns AMEX:YMAG",TradingView,0.042142,Neutral,0.109434,0.601638
+20240129T180246,MSFT,Insight Signs New Microsoft Global Strategic Partnership Framework Agreement to Accelerate Cloud Growth,Business Wire,0.195202,Somewhat-Bullish,0.323373,0.900392
+20240129T202706,MSFT,XLK ETF: A Better Way To Invest In Microsoft But Volatility Comes First (NYSEARCA:XLK),Seeking Alpha,0.208288,Somewhat-Bullish,0.329411,0.818573
+20240130T000000,MSFT,Cisco Collaborates with Microsoft and Samsung to Deliver Superior Meeting Room Experiences,Cisco Systems,0.447202,Bullish,0.418448,0.921631
+20240130T184123,MSFT,WPP Capital Markets Day 2024,Business Wire,0.384519,Bullish,0.307556,0.622390
+20240131T000000,MSFT,Top metaverse investors and how to start investing,TechTarget,0.270929,Somewhat-Bullish,0.346208,0.829787
+20240131T182413,MSFT,Unified data architectures for AI workflows,NetApp,0.201904,Somewhat-Bullish,0.107551,0.625934
+20240131T182914,MSFT,"GNU C Library vulnerabilities could impact Linux systems, security company says",IT Pro,0.213405,Somewhat-Bullish,0.142129,0.612997

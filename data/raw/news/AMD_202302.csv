@@ -1,0 +1,32 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20230201T000000,AMD,Data Center Sales Drive AMD's Q4 Resurgence,Data Center Knowledge,0.044203,Neutral,0.394977,0.969239
+20230201T030545,AMD,"AMD revenue beats targets, Wall St relieved after Intel's grim outlook",Reuters,-0.144266,Neutral,0.397749,1.000000
+20230202T000000,AMD,AMD Ryzen 7000X3D CPUs with 3D V-Cache will start shipping later this month,Windows Central,0.448454,Bullish,0.407620,1.000000
+20230202T030546,AMD,"Austin FC adds sponsors including Chevron, AMD ahead of 2023 season",The Business Journals,0.318005,Somewhat-Bullish,0.305675,1.000000
+20230202T032729,AMD,Brutal Earnings From Intel Signal Changing of Guard in Chips,Bloomberg.com,-0.25822,Somewhat-Bearish,-0.240174,0.735604
+20230207T030546,AMD,AMD Ryzen 7040 Phoenix Mobile Specs Show No Sign of PCIe 5.0,Tom's Hardware,0.039717,Neutral,0.049474,0.306422
+20230207T034813,AMD,AI-designed Chips Reach Scale with First 100 Commercial Tape-outs Using Synopsys Technology,Synopsys,0.313137,Somewhat-Bullish,0.231800,0.643404
+20230208T031818,AMD,Equinix uses two-phase cooling on live Metal cloud servers,Data Center Dynamics,0.138685,Neutral,0.101449,0.726328
+20230208T153003,AMD,Qualcomm Introduces the World's First 5G NR-Light Modem-RF System to Fuel a New Wave of 5G Devices,5G Americas,0.285788,Somewhat-Bullish,0.222532,0.624242
+20230209T032133,AMD,Fortinet Continues to Invest in Custom Chips to Power Security Offerings,SDxCentral,0.250039,Somewhat-Bullish,0.126536,0.615420
+20230209T101900,AMD,"AMD wins nearly a third of processor market, Arm's climb slows: analyst report",Reuters,0.081496,Neutral,0.474570,1.000000
+20230213T034756,AMD,Here's A Simple Way To Bet On Semiconductor Plays Like NVDA Stock,Investor's Business Daily,0.35122,Bullish,0.311302,0.660486
+20230214T032800,AMD,How enterprises can use ChatGPT and GPT-3,Computerworld,0.342237,Somewhat-Bullish,0.321632,0.632181
+20230214T034732,AMD,Wi-SUN Alliance Certifies Silicon Labs’ Wi-SUN SoC for Smart Metering,All About Circuits,0.47601,Bullish,0.144925,0.604313
+20230215T031411,AMD,Corsair Vengeance RGB DDR5-6000 C30 Review: Optimized For Zen 4,Tom's Hardware,0.184762,Somewhat-Bullish,0.247530,0.746810
+20230215T163600,AMD,Advanced Micro Devices Inc. stock outperforms competitors despite losses on the day,MarketWatch,0.136997,Neutral,0.135800,1.000000
+20230216T030545,AMD,The 7 Best ChatGPT Stocks to Buy Now,InvestorPlace,0.346577,Somewhat-Bullish,0.410550,1.000000
+20230217T030546,AMD,How to Invest in the Right AI Stocks,Morningstar,0.007483,Neutral,0.035067,0.312522
+20230222T030432,AMD,How to invest in the right AI stocks,Morningstar Australia,0.260807,Somewhat-Bullish,0.311335,0.713621
+20230222T030545,AMD,"AMD Puts Hopes on Packaging, Memory on Logic, Optical Comms for Decade Ahead",Tom's Hardware,0.144438,Neutral,0.487390,1.000000
+20230222T030545,AMD,Pushing the System-in-Package Concept Into the Future,EE Times Asia,0.322132,Somewhat-Bullish,0.312615,0.829536
+20230222T030557,AMD,ET Global Indian award: A passion for networking helped this 'Entrepreneur at Heart' make the switch,The Economic Times,0.237216,Somewhat-Bullish,0.136985,0.556292
+20230222T035234,AMD,"In the Wake of Chip Shortages, TSMC Considers Investing in Germany",Global Taiwan Institute,0.20945,Somewhat-Bullish,0.143118,0.585874
+20230222T071100,AMD,Intel cuts dividend to lowest since 2007 to save cash,Reuters,-0.256846,Somewhat-Bearish,-0.146881,0.617303
+20230223T033642,AMD,"Meet the $10,000 Nvidia chip powering the race for A.I.",CNBC,0.160341,Somewhat-Bullish,-0.114486,0.553976
+20230223T123600,AMD,"As chatbots boom, Nvidia sales outlook beats Wall Street expectations",Reuters,0.343656,Somewhat-Bullish,0.273554,0.567772
+20230227T031009,AMD,The Future of AI Stocks: 7 Companies to Keep Your Eye On,InvestorPlace,0.396958,Bullish,0.337497,0.887728
+20230228T010851,AMD,PWB Top Holdings List & Exposure (Invesco Large Cap Growth ETF),MarketBeat,0.130357,Neutral,0.118418,0.814947
+20230228T010918,AMD,BFOR Top Holdings List & Exposure (Barron's 400 ETF),MarketBeat,0.261865,Somewhat-Bullish,0.318736,0.836673
+20230228T071014,AMD,IBLC Top Holdings List & Exposure (iShares Blockchain and Tech ETF),MarketBeat,0.101433,Neutral,0.122289,0.629624
+20230228T140000,AMD,Applied Materials stock rises on new chip-making system that helps lower costs,MarketWatch,0.361007,Bullish,0.307986,0.625945

@@ -1,0 +1,16 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20230801T035320,META,Top Performing Leveraged/Inverse ETFs: 07/30/2023,ETF Trends,0.38442,Bullish,0.404039,0.627142
+20230803T124200,META,PhishForce: New phishing attack involving Salesforce and Facebook uncovered,SiliconANGLE,0.008211,Neutral,-0.107423,0.809652
+20230803T195158,META,FBY Stock Fund Price and Chart — AMEX:FBY,TradingView,-0.169114,Somewhat-Bearish,-0.126955,0.803109
+20230804T223250,META,3 Best Meme ETFs to Buy Now,The Globe and Mail,0.339229,Somewhat-Bullish,0.388020,0.621615
+20230807T154006,META,"Up 130%, Big Tech's Dominance Could Keep This ETF Elevated",ETF Trends,0.476618,Bullish,0.410650,0.562833
+20230807T194000,META,AI as an investment theme,BM.GE,0.296398,Somewhat-Bullish,0.426127,0.823198
+20230809T050923,META,New Netflix Fund Offers Investors Income-Growth Mix,24/7 Wall St.,0.192589,Somewhat-Bullish,0.139426,0.646798
+20230815T000000,META,YieldMax Launches Option Income Strategy ETF on Coinbase,ETF Database,0.275319,Somewhat-Bullish,0.262607,0.609001
+20230821T223253,META,Class-action Facebook privacy settlement: deadline to file a claim is this week,NBC 5 Chicago,-0.34416,Somewhat-Bearish,-0.325218,1.000000
+20230821T223253,META,Deadline to file a claim in the $725M Facebook settlement is this week,PIRG,-0.41695,Bearish,-0.439460,1.000000
+20230823T220100,META,Meta Can't Exit Drivers' Suit Over Intercepted DMV Info,Law360,-0.418288,Bearish,-0.422191,1.000000
+20230823T220630,META,Why Ireland is well positioned to capitalise on chip ‘gold rush’,Silicon Republic,0.34107,Somewhat-Bullish,0.205607,0.617810
+20230828T084054,META,Invesco AI and Next Gen Software ETF,ETF Database,0.30615,Somewhat-Bullish,0.329288,0.635669
+20230830T045401,META,How Will EU Regulations Impact These Social Media Stocks?,CMC Markets,-0.068479,Neutral,-0.248901,0.979198
+20230831T200921,META,"YieldMax XOM Option Income Strategy ETF ETF Price, Holdings, & News (NYSEARCA:XOMO)",MarketBeat,0.22174,Somewhat-Bullish,0.149966,0.635377

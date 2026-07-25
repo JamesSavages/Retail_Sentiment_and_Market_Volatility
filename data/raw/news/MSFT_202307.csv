@@ -1,0 +1,73 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20230701T000000,MSFT,Top 15 Autodesk Competitors and Alternatives,Business Strategy Hub,0.064937,Neutral,0.036609,0.610836
+20230703T094900,MSFT,Apple makes history as first $3 trillion company amid tech stock surge,Reuters,0.337494,Somewhat-Bullish,0.318358,0.719917
+20230703T120000,MSFT,Cisco bats for universal AI regulation,ET Telecom,0.167748,Somewhat-Bullish,0.123691,0.704849
+20230703T152520,MSFT,Growth-Stock Funds Fly High but Fall Short in 2023′s First Half,Morningstar,0.225027,Somewhat-Bullish,0.348025,0.731915
+20230703T231227,MSFT,Why India Could Be the Next Big Destination for Global Investors,USFunds,0.278166,Somewhat-Bullish,0.323744,0.605263
+20230703T231611,MSFT,SaaS Paid Marketing Channels: Which Are Worth the Investment?,Gartner,0.179813,Somewhat-Bullish,0.119176,0.611407
+20230703T234056,MSFT,"Big tech firms turning focus on India: Jay Chaudhry, CEO, chairman and founder, Zscaler",The Financial Express,0.215211,Somewhat-Bullish,0.149995,0.606384
+20230704T232534,MSFT,QuickBooks Payroll vs SurePayroll by Paychex: Which is better?,TechRepublic,0.129291,Neutral,0.126274,0.560458
+20230704T233630,MSFT,Top New Mobile Game Development Software You Should Know in 2023,vocal.media,0.272643,Somewhat-Bullish,0.277338,0.641779
+20230705T070942,MSFT,ProShares Ultra S&P500 Review and Aggregate Rating (SSO) $SSO,MarketBeat,0.202265,Somewhat-Bullish,0.231715,0.713240
+20230705T231341,MSFT,HPE signs pact to produce $1 bn worth of servers in India,www.varindia.com,0.318269,Somewhat-Bullish,0.202423,0.576468
+20230705T232820,MSFT,"D-Wave Quantum Regains NYSE Compliance, Continues Trading Amid Quantum Computing Advancements",Quantum Zeitgeist,0.38876,Bullish,0.317169,0.555364
+20230707T230305,MSFT,Worldwide Public Cloud Services Revenues Surpass $500 Billion in 2022 -,ChannelE2E,0.740304,Bullish,0.727841,0.920663
+20230708T155220,MSFT,Dimensional U.S. Core Equity 2 ETF Review and Aggregate Rating (DFAC),MarketBeat,0.311915,Somewhat-Bullish,0.301400,0.643841
+20230710T000000,MSFT,Advanced Micro Devices Inc. – More market share gains expected,StocksBNB,0.326197,Somewhat-Bullish,0.224888,0.588106
+20230710T060000,MSFT,"If You Like JEPI, You’ll Love This ETF With an 11.9% Dividend Yield",Yahoo Finance,0.288012,Somewhat-Bullish,0.302941,0.624895
+20230710T145619,MSFT,Jacobs Solutions Inc. builds Alluvial Platform with Microsoft Fabric and Power BI,Microsoft,0.376991,Bullish,0.338052,0.909050
+20230710T232029,MSFT,"Sarah Silverman sues Meta, OpenAI for copyright infringement",Reuters,-0.299689,Somewhat-Bearish,-0.215325,0.601878
+20230711T123800,MSFT,"Deutsche Bank, Commerzbank, ING Data Breached in MOVEit Hack",Bloomberg.com,-0.324841,Somewhat-Bearish,-0.211850,0.619522
+20230712T000000,MSFT,"Akamai announces five cloud computing sites in Europe, the US, and India",Data Center Dynamics,0.261814,Somewhat-Bullish,0.100003,0.648986
+20230712T050924,MSFT,SIT Investment Associates Inc Acquires Stake in Neuberger Berman High Yield Strategies Fund,GuruFocus,0.088602,Neutral,0.145750,0.626100
+20230712T225451,MSFT,Schneider Electric Partners with Intel and Applied Materials to Help Decarbonize the Semiconductor Value Chain with New Catalyze Program,PR Newswire,0.371684,Bullish,0.316101,0.576342
+20230712T233237,MSFT,Trading Analysis Tools - Analytics and Chart Tools,FOREX.com,0.041956,Neutral,0.107161,0.638885
+20230712T233612,MSFT,Storage in space? The data's already there,TechTarget,0.115815,Neutral,0.124405,0.560238
+20230712T233615,MSFT,"EA, Take-Two Have Merger Hopes After Microsoft-Activision Ruling",Barron's,0.40008,Bullish,0.333596,0.711430
+20230713T111000,MSFT,Activision Blizzard (ATVI) to be removed from the Nasdaq-100 (QQQ) Indexes,Shacknews,0.249653,Somewhat-Bullish,0.236980,0.713371
+20230713T133909,MSFT,Principal Focused Blue Chip ETF Holdings,Quiver Quantitative,0.216152,Somewhat-Bullish,0.205840,0.694017
+20230713T135841,MSFT,RSPT: Right Idea for More Balanced Approach to Tech,ETF Trends,0.151621,Somewhat-Bullish,-0.127834,0.704670
+20230713T230127,MSFT,"Average Weekly Global Cyberattacks peak with the highest number in 2 years, marking an 8% growth year over ...",Check Point Blog,0.27241,Somewhat-Bullish,0.146374,0.557203
+20230713T230707,MSFT,Digital Transformation Services,EPAM,0.350226,Bullish,0.317595,0.593680
+20230714T080000,MSFT,"Chinese e-commerce giant JD.com launches own large language model, ChatRhino",South China Morning Post,0.286725,Somewhat-Bullish,0.224153,0.593395
+20230714T141100,MSFT,"Fortinet’s stock nabs record closing high, while Microsoft, Nvidia, Broadcom bids all fall short",MarketWatch,0.13952,Neutral,-0.244167,0.739414
+20230715T195301,MSFT,It’s Not Just Earnings I’m Watching This Week,Money Morning,0.108495,Neutral,0.115875,0.613618
+20230716T200957,MSFT,Treasurer at El Paso Shot Dead,CFO.com,-0.130352,Neutral,0.125845,0.715750
+20230717T110100,MSFT,A breakdown of the changes to the Nasdaq-100 and what it means for mega-cap tech stocks,CNBC,0.084388,Neutral,0.126100,0.700682
+20230717T232841,MSFT,Preparing for Upcoming QQQ Changes,ETF Trends,0.168731,Somewhat-Bullish,0.129546,0.849999
+20230717T233912,MSFT,DUCTECH Selects SEALSQ’s Trust Matter Security Certificate Services for IoT Devices,AiThority,0.305214,Somewhat-Bullish,0.216906,0.559922
+20230717T233929,MSFT,Why the Nasdaq 100 may not capture the full growth potential of AI,The Armchair Trader,0.21046,Somewhat-Bullish,0.138726,0.639827
+20230718T000000,MSFT,Carnival Corporation sets sail to the edge and achieves enhanced agility with Azure Arc–enabled infrastructure,Microsoft,0.25412,Somewhat-Bullish,0.321157,0.843084
+20230718T000000,MSFT,CFO Corner: Ascent Industries’ Bill Steckel,Global Finance Magazine,0.149507,Neutral,0.236722,0.634107
+20230718T140300,MSFT,Teladoc Health will integrate Microsoft AI for automated clinical documentation,Mobi Health News,0.311603,Somewhat-Bullish,0.339157,0.949130
+20230718T151056,MSFT,Carnival Corporation sails to the edge by tracking oceans of data,Microsoft Source,0.353754,Bullish,0.404593,0.910920
+20230718T153525,MSFT,"SAP Advances Vision of Business AI with Investments in Aleph Alpha, Anthropic and Cohere to Complement $1+ Billion AI Commitment from Sapphire Ventures",SAP News Center,0.346057,Somewhat-Bullish,0.219741,0.637218
+20230718T170800,MSFT,Corsair’s K70 RGB PRO gaming keyboard is 35 percent off,Pocketnow,0.200767,Somewhat-Bullish,0.141981,0.611333
+20230718T180000,MSFT,Teladoc expands Microsoft tie-up to document patient visits with AI,Reuters,0.396444,Bullish,0.322670,0.909853
+20230718T232142,MSFT,Microsoft and Meta expand their AI partnership with Llama 2 on Azure and Windows,The Official Microsoft Blog,0.526829,Bullish,0.837143,1.000000
+20230719T151057,MSFT,Redefining how we deliver the power of Azure to the edge,Microsoft Azure,0.302804,Somewhat-Bullish,0.444518,1.000000
+20230719T194100,MSFT,Unstructured raises $25M for large language model data processing expansion,SiliconANGLE,0.134113,Neutral,0.144810,0.607563
+20230720T083000,MSFT,IBM Remains America’s Worst Big Tech Company,24/7 Wall St.,-0.21857,Somewhat-Bearish,-0.114838,0.620892
+20230720T101000,MSFT,Nasdaq Is Reducing the Influence of Giant Tech Firms in a Popular Stock Market Index,Money,0.20918,Somewhat-Bullish,0.228403,0.999660
+20230720T120000,MSFT,"Former Microsoft Global AI Leader and Head of Global Sales Khadija Mustafa Joins SKYX as Senior Tech, AI, and Global Business Advisor",Yahoo Finance,0.377636,Bullish,0.311291,0.721994
+20230720T143106,MSFT,"Top 10 Contact Center as a Service Providers Companies, 2023",Fortune Business Insights,0.36862,Bullish,0.308947,0.706675
+20230720T150612,MSFT,How will the metaverse change our lives?,Lloyds Banking Group plc,0.166655,Somewhat-Bullish,0.120290,0.630655
+20230724T000000,MSFT,Carnival Corporation deploys Azure Edge solution on its cruise ships,Data Center Dynamics,0.226536,Somewhat-Bullish,0.327006,0.839442
+20230724T230238,MSFT,TD Cowen: Record year expected as US data center leases hit 2.1GW in 90 days due to AI boom,DatacenterDynamics,0.216372,Somewhat-Bullish,0.254895,0.688378
+20230724T232341,MSFT,NetApp’s chief security officer calls for new approaches to securing the cloud,SiliconANGLE,0.226903,Somewhat-Bullish,0.129076,0.602340
+20230724T233109,MSFT,Barbenheimer and Redefining Movie Marketing Strategies,comScore,0.28687,Somewhat-Bullish,0.205260,0.642105
+20230725T082750,MSFT,"Where to Get Exposure to Alphabet, Microsoft Before Earnings Reports",ETF Trends,0.237294,Somewhat-Bullish,0.271479,0.841614
+20230725T143459,MSFT,EPAM Named 2023 Microsoft Partner of the Year,EPAM,0.337695,Somewhat-Bullish,0.323684,0.888511
+20230725T145606,MSFT,Itron welcomes Sanjay Mirchandani to its Board of Directors,World Business Outlook,0.483572,Bullish,0.112773,0.566683
+20230725T151056,MSFT,Microsoft Cloud strength drives fourth quarter results,Microsoft Source,0.635927,Bullish,0.633024,1.000000
+20230726T175900,MSFT,"Survey: Japan Inc. bullish on AI, already in use at 41% of companies",朝日新聞,0.318904,Somewhat-Bullish,0.311668,0.601155
+20230726T210200,MSFT,"Genpact, Microsoft collaborate to equip workforce with AI tools",Times of India,0.242349,Somewhat-Bullish,0.448955,0.959891
+20230726T232341,MSFT,Announcing AI-Powered Threat Detection for NetApp,SentinelOne,0.399285,Bullish,0.349748,0.640760
+20230727T101500,MSFT,8 million people hit by data breach at US govt contractor Maximus,BleepingComputer,-0.432728,Bearish,-0.103220,0.621083
+20230727T231655,MSFT,Mutual Fund Top Trumps – TMT,Fund Selector Asia,0.183398,Somewhat-Bullish,0.344270,0.644601
+20230727T233525,MSFT,"Decisive Decade, Future Vision"" TNL Mediagene’s 10th Anniversary Invites Taiwan Microsoft, Minister of Digital Affairs Audrey Tang, and Other Special Guests to Envision Future Trends",The News Lens International Edition,0.168571,Somewhat-Bullish,0.309534,0.606228
+20230728T084049,MSFT,Is QYLD ETF’s 11.3% Dividend a High-Yield Trap?,TipRanks,0.033393,Neutral,0.141721,0.560052
+20230728T144551,MSFT,"After Earnings, Is Alphabet Stock a Buy, Sell, or Fairly Valued?",Morningstar,0.117515,Neutral,-0.137181,0.615266
+20230728T183600,MSFT,Is QYLD ETF’s 11.3% Dividend a High-Yield Trap?,Nasdaq,0.124697,Neutral,0.305449,0.586593
+20230728T225906,MSFT,U.S. crude helps fix world’s key oil price,World Oil,0.191124,Somewhat-Bullish,-0.131474,0.612866
+20230731T000000,MSFT,AI and Data Centers: It’s About Keeping Cool,Citigroup,0.321364,Somewhat-Bullish,0.329684,0.647604

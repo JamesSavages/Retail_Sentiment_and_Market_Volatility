@@ -1,0 +1,91 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20230901T214012,MSFT,IXN: Not A True Global Tech Play,Seeking Alpha,-0.403366,Bearish,-0.381283,0.722367
+20230901T215536,MSFT,"SAP nabs new global AI head from Microsoft, Walter Sun",ERP Today,0.246449,Somewhat-Bullish,0.311048,0.946748
+20230905T213238,MSFT,Which companies are the best employers in Kentucky? UK and Norton top the Forbes list,The Courier-Journal,0.181953,Somewhat-Bullish,0.307564,0.693250
+20230905T213713,MSFT,"HPE storage comes with full IT stack, hybrid cloud and as a service",Computer Weekly,0.198494,Somewhat-Bullish,0.122109,0.635467
+20230906T000000,MSFT,Bill Gates buys stake in Anheuser-Busch InBev,Just Drinks,0.083828,Neutral,0.131206,0.623354
+20230906T081200,MSFT,"Bandwidth Partners with Google and Cognigy to Launch AIBridge, Integrating Artificial Intelligence with Contact Centers Using Maestro",PR Newswire,0.369815,Bullish,0.223540,0.649076
+20230906T104900,MSFT,"Will GTA 6 cost $150? Probably not, but how much would you pay?",TechSpot,0.099175,Neutral,-0.124714,0.580217
+20230906T110300,MSFT,Bristol Myers Squibb Tech and Digital Chief Develops A Game Plan For Generative AI,Forbes,0.315972,Somewhat-Bullish,0.235117,0.424579
+20230906T144520,MSFT,Qualcomm launches Snapdragon digital chassis for ICE and electric two-wheelers,Autocar Professional,0.297903,Somewhat-Bullish,0.127733,0.552996
+20230906T212245,MSFT,How Blackstone Sprinted Ahead of Its Peers in AI,Institutional Investor,0.33333,Somewhat-Bullish,0.329477,0.672706
+20230906T213730,MSFT,Breaking at INBOUND 2023: HubSpot's Platform-Wide Embrace of AI,CMSWire,0.248588,Somewhat-Bullish,0.137414,0.599356
+20230906T215236,MSFT,Qualcomm CEO says AI may breathe new life into smartphones: 'It could create a new upgrade cycle',CNBC,0.165693,Somewhat-Bullish,0.240871,0.634603
+20230906T215655,MSFT,South Korean mobility platform introduces AI-based revamp,PhocusWire,0.377991,Bullish,0.230505,0.597583
+20230907T000000,MSFT,McKinsey teams up with Salesforce to deliver on the promise of AI-powered growth,McKinsey & Company,0.358692,Bullish,0.252545,0.609698
+20230907T000000,MSFT,SAP Versus Salesforce: Who’s World’s Third-Largest Software Vendor?,Cloud Wars,0.183875,Somewhat-Bullish,0.213722,0.720359
+20230907T062200,MSFT,"Rackspace Technology Ropes in Reema Aggarwal as Country Head, Public Cloud for India",digital terminal,0.310245,Somewhat-Bullish,0.122372,0.616305
+20230907T151057,MSFT,"Microsoft crash dump exposed key that led to US cabinet email hacks, investigation finds",Cybersecurity Dive,-0.066323,Neutral,-0.422393,1.000000
+20230907T213139,MSFT,Preparing for the Inevitable Black Swan,FTI Consulting,0.079365,Neutral,0.030944,0.552867
+20230907T215536,MSFT,"Amadeus Chooses RISE with SAP to Enhance Scalability, Flexibility and Operational Efficiency",SAP News Center,0.381626,Bullish,0.292478,0.619092
+20230908T161122,MSFT,"If You Like SPHQ, Check Out Quality ETFs XMHQ and XSHQ",ETF Trends,0.206712,Somewhat-Bullish,0.120110,0.623818
+20230909T154209,MSFT,"Seagate Game Drive for Xbox: Starfield Special Edition Released, RGB LED Lighting Included",TechEBlog -,0.256634,Somewhat-Bullish,0.117504,0.335754
+20230910T171518,MSFT,"History of Apple in Photos, From Steve Jobs Era to $3 Trillion",Business Insider,-0.016718,Neutral,0.137783,0.608563
+20230911T045235,MSFT,The pros and cons of the Vanguard FTSE All-World ex-US ETF (VEU),The Motley Fool Australia,-0.078778,Neutral,-0.117697,0.607922
+20230911T133959,MSFT,"ALPS OShares Global Internet Giants ETF (OGIG) Stock Price, Holdings, Dividend Yield",GuruFocus,0.087078,Neutral,0.090406,0.671335
+20230911T144506,MSFT,Pen Factory Sold for $166M,Los Angeles Business Journal,0.134976,Neutral,0.148787,0.610325
+20230911T160500,MSFT,Contact - The Lethbridge Herald - News and Sports from around Lethbridge,FinancialContent,0.334053,Somewhat-Bullish,0.300828,0.625135
+20230911T193300,MSFT,More writers sue OpenAI for copyright infringement over AI training,Reuters,-0.212244,Somewhat-Bearish,-0.213406,0.643554
+20230911T211722,MSFT,"US, Vietnam firms talk business during Biden visit; AI and Boeing deals unveiled",Reuters,0.261202,Somewhat-Bullish,0.322483,0.645926
+20230912T060936,MSFT,YieldMax Writes Call Options on JPMorgan Chase With JPMO ETF,Nasdaq,0.171755,Somewhat-Bullish,0.106333,0.618521
+20230912T130000,MSFT,All else being equal: Making the case for equal-weight ETFs,Investment Executive,0.104268,Neutral,0.134260,0.637323
+20230912T151057,MSFT,Developing and deploying AI responsibly: elements of an effective legislative framework to regulate AI,The Official Microsoft Blog,0.427502,Bullish,0.419589,1.000000
+20230912T211554,MSFT,"Building safe, secure and trustworthy AI: Adobe’s commitments to our customers and community",Adobe,0.350818,Bullish,0.301132,0.611495
+20230913T090000,MSFT,New Coder 2.0 aims to elevate onboarding and productivity in the cloud era,SiliconANGLE,0.303397,Somewhat-Bullish,0.207331,0.640475
+20230913T145603,MSFT,Microsoft recognized as a Leader in 2023 Gartner® Magic Quadrant™ for Desktop as a Service,Microsoft,0.381459,Bullish,0.408403,1.000000
+20230914T000000,MSFT,Constellation Inks Deal with Major U.S. Utility for 100 Percent Hourly Carbon-Free Energy Matching,Constellation Energy,0.380634,Bullish,0.337776,0.537994
+20230914T105400,MSFT,Cloud Security Posture Management Market Size Set for Rapid Growth with a Projected CAGR of 10.8% to Achieve Market Valuation of USD 12.6 Billion by 2032,GlobeNewswire,0.188551,Somewhat-Bullish,0.236763,0.738425
+20230914T151056,MSFT,Microsoft and Oracle Expand Partnership to Deliver Oracle Database Services on Oracle Cloud Infrastructure in Microsoft Azure,Oracle,0.403956,Bullish,0.541001,1.000000
+20230914T151056,MSFT,Microsoft expands partnership with Oracle to bring customers’ mission-critical database workloads to Azure,The Official Microsoft Blog,0.25072,Somewhat-Bullish,0.416234,1.000000
+20230914T152033,MSFT,Microsoft and Oracle expand partnership to deliver Oracle Database Services on Oracle Cloud Infrastructure in Microsoft Azure,Microsoft Source,0.471734,Bullish,0.492046,0.917922
+20230914T214610,MSFT,3 investors from Microsoft’s corporate VC arm M12 are striking out on their own with a new AI-focused firm,Fortune,0.128047,Neutral,0.149404,0.931420
+20230915T000000,MSFT,"Constellation, ComEd in landmark energy-matching deal",World Nuclear News,0.379279,Bullish,0.341726,0.638953
+20230915T110940,MSFT,"Invesco MSCI USA ETF (PBUS) Stock Price, Holdings, Dividend Yield",GuruFocus,0.168735,Somewhat-Bullish,0.244461,0.820392
+20230915T123500,MSFT,Infosys Only Indian Firm On TIME World's 100 Best Companies List,NDTV,0.539722,Bullish,0.368041,0.646432
+20230915T170841,MSFT,"Goldman Sachs Physical Gold ETF ETF Price, Holdings, & News (CBOE:AAAU)",MarketBeat,0.167954,Somewhat-Bullish,0.102494,0.618183
+20230915T213915,MSFT,Infosys only Indian company in top 100 TIME World's Best Companies list,Mint,0.307977,Somewhat-Bullish,0.381452,0.713356
+20230915T214010,MSFT,"In Silico Part - IV : AI and its impact on labor, productivity, and tech-driven deflation",Invesco,0.312902,Somewhat-Bullish,0.315648,0.616986
+20230915T214509,MSFT,Publishers’ Lawsuit Accuses Libgen of “Staggering” Copyright Infringement,TorrentFreak - News,-0.316553,Somewhat-Bearish,-0.239750,0.625532
+20230915T214610,MSFT,Sanofi uses the industrial metaverse to revolutionize training and operational efficiency,Microsoft,0.392282,Bullish,0.420010,1.000000
+20230916T191020,MSFT,"JPMorgan Global Select Equity ETF ETF Price, Holdings, & News (NASDAQ:JGLO) $JGLO",MarketBeat,0.018298,Neutral,0.025433,0.701254
+20230916T230910,MSFT,JGLO Top Holdings List & Exposure (JPMorgan Global Select Equity ETF),MarketBeat,0.106657,Neutral,0.145500,0.816592
+20230918T000000,MSFT,"29 African Startups in Healthcare Supply Chain Selected to Receive Funding and Impact Support from the Gates Foundation, MSD, and More",The New Dawn Liberia,0.300381,Somewhat-Bullish,0.335423,0.729721
+20230918T100000,MSFT,Morgan Stanley kicks off generative AI era on Wall Street with assistant for financial advisors,CNBC,0.236399,Somewhat-Bullish,0.293686,0.573729
+20230918T151051,MSFT,Morgan Stanley to Launch AI-Powered Assistant for Financial Advisers,PYMNTS.com,0.337475,Somewhat-Bullish,0.325699,0.740854
+20230919T120940,MSFT,iShares MSCI ACWI ETF,Growbeansprout.com,0.337792,Somewhat-Bullish,0.314531,0.602584
+20230919T154100,MSFT,Intel pitches the 'AI PC' at software developer event,Reuters,0.057706,Neutral,0.226199,0.744334
+20230919T220113,MSFT,Trudeau promoted Vancouver backbench MP with extensive tech and media share holdings to Canadian Heritage portfolio,theBreaker,0.117239,Neutral,0.148484,0.601519
+20230920T011100,MSFT,Oracle says it's ready to cater to Canadian banks' open banking needs,Reuters,0.067454,Neutral,0.025546,0.613352
+20230920T124700,MSFT,Klaviyo rises 9% in muted NYSE debut after software vendor priced IPO at $30 a share,CNBC,0.042593,Neutral,-0.130067,0.527130
+20230920T143003,MSFT,"DTW23-Ignite: How Amdocs, Orange and Marand gain through Open API collaboration",TMForum - Inform,0.294675,Somewhat-Bullish,0.227834,0.571057
+20230920T214101,MSFT,Continuing our commitment to further open source security,JPMorganChase,0.306299,Somewhat-Bullish,0.228602,0.603449
+20230920T220140,MSFT,Persona-Powered Onboarding for Better Employee Engagement and Retention,Harvard Business Review,0.428253,Bullish,0.297836,0.574704
+20230921T000000,MSFT,"Cisco to Buy Splunk, a Software Company, for $28 Billion (Published 2023)",The New York Times,0.033509,Neutral,0.142138,0.609344
+20230921T104500,MSFT,3 Quantum Computing Stocks That Should Be on Every Investor’s Radar This Fall,InvestorPlace,0.409284,Bullish,0.420006,0.907633
+20230921T160200,MSFT,Beware of the cyber Frankenstein: Figuring out Thoma Bravo’s next move,CTech,0.012791,Neutral,0.026502,0.622984
+20230921T212610,MSFT,Cisco Buys Cybersecurity Provider Splunk for $28 Billion,Investopedia,0.063136,Neutral,0.002525,0.615541
+20230921T213629,MSFT,Meet the Innovators: Emergency medicine physician leverages innovative technology and AI to make life better for patients and providers,HCA Healthcare Today,0.393561,Bullish,0.330293,0.580949
+20230921T220523,MSFT,The 2024 State of IT: Cautious Optimism Fuels Business Spending,PCMag,0.17021,Somewhat-Bullish,0.341616,0.612045
+20230922T094200,MSFT,Indian auto insurance technology start-up Roadzen listed on Nasdaq,BusinessLine,0.402289,Bullish,0.221007,0.569529
+20230923T135400,MSFT,|‘Spider-Man No Way Home’ Figures Added to Hasbro's Marvel Legends Line,Collider,0.323095,Somewhat-Bullish,0.238579,0.571849
+20230924T060854,MSFT,"MSFU ETF Analysis: Dividends, Returns NASDAQ:MSFU",TradingView — Track All Markets,0.078543,Neutral,0.113036,0.605359
+20230925T063857,MSFT,AB US Large Cap Strategic Equities ETF,ETF Database,0.389591,Bullish,0.407793,0.836110
+20230925T151056,MSFT,Amadeus to Work with Microsoft and Accenture to Develop New Generative AI-Powered Integrations to Support Corporate Travel Management,Accenture,0.712274,Bullish,0.738933,0.950330
+20230925T212719,MSFT,Is Datadog a Buyout Target After Cisco's Splunk Acquisition?,MarketBeat,0.236835,Somewhat-Bullish,0.114567,0.593867
+20230926T044600,MSFT,What Market Pros Saw Last Earnings Season That Spurred Investments in Tech and AI Stocks,富途牛牛,0.433492,Bullish,0.401646,0.693745
+20230926T062000,MSFT,Should Vanguard Russell 1000 Growth ETF (VONG) Be on Your Investing Radar?,Nasdaq,0.332367,Somewhat-Bullish,0.332213,0.636486
+20230926T100200,MSFT,EPAM Expands Partnership with Microsoft - Becomes Globally Managed Enterprise Systems Integrator,PR Newswire,0.425291,Bullish,0.405715,0.896696
+20230926T153600,MSFT,Cisco's $28 billion Splunk deal may ignite software deal frenzy,Reuters,0.363814,Bullish,0.315304,0.622459
+20230926T213221,MSFT,11 Five9 Contact Center Features for Incredible CX,CX Today,0.542434,Bullish,0.528463,0.553786
+20230926T220112,MSFT,"Capcom may start charging $70 for new games after all, president says prices are too low",TweakTown,0.120092,Neutral,0.144157,0.638216
+20230927T064138,MSFT,"Brookstone Value Stock ETF ETF Price, Holdings, & News (BATS:BAMV)",MarketBeat,0.239317,Somewhat-Bullish,0.342421,0.602113
+20230927T220108,MSFT,Silicon Hegemon: Could China Take Over Taiwan’s Semiconductor Industry Without Invading?,Baker Institute,-0.151154,Somewhat-Bearish,-0.110771,0.629529
+20230927T220112,MSFT,Nuance Releases Generative AI Copilot for Clinical Documentation,TechTarget,0.248349,Somewhat-Bullish,0.429988,0.950746
+20230928T071300,MSFT,"Lumen CEO Kate Johnson on Seattle tech, AI, lessons from Microsoft, and ‘cloudifying’ telecom",GeekWire,0.231718,Somewhat-Bullish,0.323335,0.746731
+20230928T100600,MSFT,Microsoft CEO Satya Nadella to testify on Monday in Google antitrust trial,Reuters,0.001848,Neutral,0.026756,0.308686
+20230928T133800,MSFT,Adobe hit with $33.8 million patent verdict over digital licensing technology,Reuters,-0.250186,Somewhat-Bearish,-0.123793,0.634383
+20230928T154059,MSFT,Supermicro At 30: From Designing AI Chips To Selling AI Systems,The Next Platform,0.303999,Somewhat-Bullish,0.124108,0.591950
+20230928T223919,MSFT,JPMorgan Hedged Equity Laddered Overlay ETF Holdings,Quiver Quantitative,0.138935,Neutral,0.109451,0.714643
+20230929T212625,MSFT,These 3 hiring companies reveal their tech stacks and business applications,Technical.ly,0.382437,Bullish,0.302425,0.609189
+20230930T212610,MSFT,Cisco-Splunk under the microscope: Joint customers weigh in,SiliconANGLE,0.06278,Neutral,0.059184,0.643225
+20230930T215536,MSFT,What is Joule? SAP’s new GenAI assistant,Procurement Magazine,0.349128,Somewhat-Bullish,0.213539,0.628107

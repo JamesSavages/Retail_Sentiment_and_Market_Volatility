@@ -1,0 +1,58 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20230703T231227,AMZN,Why India Could Be the Next Big Destination for Global Investors,USFunds,0.255939,Somewhat-Bullish,0.306427,0.741683
+20230703T233908,AMZN,A new economy hotel brand could be coming to Daytona. Here's where it would go.,Daytona Beach News-Journal,0.326406,Somewhat-Bullish,0.226955,0.625141
+20230704T233630,AMZN,Top New Mobile Game Development Software You Should Know in 2023,vocal.media,0.259221,Somewhat-Bullish,0.210429,0.655609
+20230705T073300,AMZN,"Morning Blast: UPS Union Problems, More Rivian Gains, Wolfspeed Soars",24/7 Wall St.,0.294893,Somewhat-Bullish,0.248187,0.647218
+20230706T225508,AMZN,4 Indian American businesswomen on Forbes’ 2023 list,The American Bazaar,0.224055,Somewhat-Bullish,0.138233,0.605498
+20230707T225351,AMZN,"Amazon, AES Partner on First Utility-Scale Wind Farm in Mississippi",POWER Magazine,0.356256,Bullish,0.309441,0.926853
+20230707T230305,AMZN,Worldwide Public Cloud Services Revenues Surpass $500 Billion in 2022 -,ChannelE2E,0.744533,Bullish,0.705150,0.810472
+20230707T232959,AMZN,Best Buy's anti-Prime Day deal on a 65-inch Roku TV goes live early,Mashable,0.291565,Somewhat-Bullish,0.107548,0.628724
+20230708T053915,AMZN,FIAX ETF Stock Price History,Investing.com,-0.272384,Somewhat-Bearish,-0.321981,0.623194
+20230708T155220,AMZN,Dimensional U.S. Core Equity 2 ETF Review and Aggregate Rating (DFAC),MarketBeat,0.300981,Somewhat-Bullish,0.324518,0.635929
+20230710T061200,AMZN,Dr Reddy’s migrates SAP platform entirely on to AWS,BusinessLine,0.216264,Somewhat-Bullish,0.422484,0.907343
+20230711T123017,AMZN,Dr Reddy's Labs selects Amazon Web Services as preferred cloud provider,Medical Dialogues,0.208281,Somewhat-Bullish,0.381001,0.826438
+20230711T225508,AMZN,Meet Indian-origin women on the 'America's Richest Self-Made,Business Outreach Magazine,0.248535,Somewhat-Bullish,0.244222,0.627489
+20230711T231808,AMZN,How Kohl’s Will Navigate Back-to-school,WWD,0.138351,Neutral,0.146631,0.739687
+20230711T232916,AMZN,Indian pharmaceutical company Dr. Reddy’s Laboratories migrates to AWS,DatacenterDynamics,0.282035,Somewhat-Bullish,0.256636,0.826230
+20230712T000000,AMZN,"Akamai announces five cloud computing sites in Europe, the US, and India",Data Center Dynamics,0.240001,Somewhat-Bullish,0.110422,0.633628
+20230712T063000,AMZN,"Akamai expands its Connected Cloud with new data centers in US, France and India",SiliconANGLE,0.308856,Somewhat-Bullish,0.113100,0.620385
+20230712T144518,AMZN,"GlobalFoundries, CFO designate part ways",CFO Dive,-0.050697,Neutral,0.134441,0.634018
+20230712T225718,AMZN,Black Friday in July 2023: Best Deals from Best Buy’s Anti-Prime Day Sale,The New York Times,0.178709,Somewhat-Bullish,0.143620,0.620173
+20230712T233828,AMZN,"Viasat Prepares for Arctic Satellite Broadband Amidst Competition from SpaceX, OneWeb",SpaceRef,0.001009,Neutral,0.100200,0.618408
+20230713T000000,AMZN,Fed ends Capital One breach-related enforcement action,Cybersecurity Dive,0.127673,Neutral,-0.146362,0.629759
+20230713T000000,AMZN,"Akamai expands Connected Cloud with new data centres in US, France and India",Techcircle,0.278128,Somewhat-Bullish,0.116573,0.612746
+20230713T064300,AMZN,"Sriracha bottles selling as high as $80 on eBay, Amazon amid shortage",The National News Desk,0.176456,Somewhat-Bullish,0.109071,0.709060
+20230713T133909,AMZN,Principal Focused Blue Chip ETF Holdings,Quiver Quantitative,0.251924,Somewhat-Bullish,0.245169,0.717591
+20230713T142700,AMZN,Amazon's 2023 Prime Day sets new sales record,Fox Business,0.295666,Somewhat-Bullish,0.483569,1.000000
+20230713T150107,AMZN,An End to Regulatory Risk in China’s Internet Sector,ETF Trends,0.36571,Bullish,0.347102,0.641655
+20230713T233650,AMZN,"Group including 13-year-old suspected in over 90 DC, Maryland store thefts",NBC4 Washington,-0.173803,Somewhat-Bearish,0.143849,0.624202
+20230713T235000,AMZN,Indian-origin Indra Nooyi and Jayshree Ullal among America’s richest,The Indian Panorama,0.202273,Somewhat-Bullish,0.113726,0.629349
+20230714T225349,AMZN,'The Summer I Turned Pretty' Amazon store: Shop the merch,Amazon News,0.298962,Somewhat-Bullish,0.279164,0.938612
+20230714T225712,AMZN,Inside Overstock’s grand plan to reinvent itself as Bed Bath & Beyond,Modern Retail,0.255337,Somewhat-Bullish,0.129865,0.619063
+20230718T144400,AMZN,"Caribbean phone companies suffering from “market failure” due to Over-The Top services, Social Media",Demerara Waves Online News- Guyana,-0.285776,Somewhat-Bearish,-0.337681,0.737632
+20230718T153533,AMZN,Starbucks taps former Target exec for key supply chain role,Chain Store Age,0.233854,Somewhat-Bullish,0.128935,0.648682
+20230718T170800,AMZN,Corsair’s K70 RGB PRO gaming keyboard is 35 percent off,Pocketnow,0.188423,Somewhat-Bullish,0.199671,0.727664
+20230718T180919,AMZN,QIS Chart | Simplify Multi-Qis Alternative ETF,Investing.com,-0.153043,Somewhat-Bearish,-0.091338,0.551408
+20230718T232600,AMZN,Fast Fashion Retailer Temu Accuses Rival Shein of Bullying Suppliers,time.com,-0.10813,Neutral,0.148515,0.633111
+20230719T105900,AMZN,Alibaba Injects $845 Million Into Southeast Asia Unit Lazada,Bloomberg.com,0.182524,Somewhat-Bullish,-0.140454,0.748534
+20230719T194100,AMZN,Unstructured raises $25M for large language model data processing expansion,SiliconANGLE,0.134291,Neutral,0.120642,0.616374
+20230719T225352,AMZN,Mississippi casino country places a new bet — on an Amazon-backed wind farm,NBC News,0.257414,Somewhat-Bullish,0.243156,0.605534
+20230719T225506,AMZN,"Foot traffic surges since Amazon return-to-office in May, company says",Axios,0.402464,Bullish,0.404115,1.000000
+20230719T231947,AMZN,"As Macy's stock struggles, the retailer bets on private brands with more modern looks",CNBC,-0.095293,Neutral,-0.116534,0.710546
+20230720T083000,AMZN,IBM Remains America’s Worst Big Tech Company,24/7 Wall St.,-0.235527,Somewhat-Bearish,-0.147718,0.638251
+20230720T100000,AMZN,Netflix Strategic Changes Led to User Base Expansion & Record Revenues in Q2 2023,FXCM Markets,0.172231,Somewhat-Bullish,0.088065,0.578697
+20230720T150612,AMZN,How will the metaverse change our lives?,Lloyds Banking Group plc,0.159597,Somewhat-Bullish,0.144341,0.593748
+20230720T201800,AMZN,Netflix falls as benefits from password-sharing crackdown to take time,Reuters,-0.167491,Somewhat-Bearish,-0.094439,0.612344
+20230721T232852,AMZN,Is teleshopping still a viable retail channel?,Retail Insight Network,0.118756,Neutral,0.225726,0.637844
+20230725T131200,AMZN,Amazon Lowers Price for iRobot Acquisition to $51.75 Per Share,Bloomberg.com,-0.145899,Neutral,-0.147811,1.000000
+20230725T194120,AMZN,"YieldMax AMZN Option Income Strategy ETF (AMZY) Price, Holdings, & News",MarketBeat,0.28519,Somewhat-Bullish,0.224168,0.733944
+20230725T225506,AMZN,New YieldMax ETF Seeks Synthetic Covered Call Strategy on Amazon,ETF Trends,0.228213,Somewhat-Bullish,0.280048,1.000000
+20230725T225506,AMZN,Amazon lowers iRobot deal price by 15% after Roomba maker incurs fresh debt,Reuters,0.059785,Neutral,0.053544,0.993572
+20230726T005000,AMZN,Why is Netflix lagging FAANG stocks?,CMC Markets,0.28044,Somewhat-Bullish,0.338978,0.805313
+20230726T231919,AMZN,GCU graduate helps family company soar among sours on Amazon,GCU News,0.365667,Bullish,0.466025,0.981873
+20230727T064000,AMZN,You Don't Have to Pick a Winner in E-Commerce. Here's Why.,The Motley Fool,0.495893,Bullish,0.400247,0.708003
+20230727T233206,AMZN,New Incheon CEO reveals vision to develop smart logistics clusters,Airport World,0.246666,Somewhat-Bullish,0.347996,0.621143
+20230728T000000,AMZN,"YieldMax Launches Synthetic Covered Call ETFs for Meta, Google",ETF Database,0.228827,Somewhat-Bullish,0.233981,0.617798
+20230728T084049,AMZN,Is QYLD ETF’s 11.3% Dividend a High-Yield Trap?,TipRanks,0.046909,Neutral,0.148125,0.573808
+20230728T155853,AMZN,"YieldMax Launches Synthetic Covered Call ETFs for Meta, Google",ETF Trends,0.212685,Somewhat-Bullish,0.196835,0.714509
+20230731T000000,AMZN,AI and Data Centers: It’s About Keeping Cool,Citigroup,0.286691,Somewhat-Bullish,0.349131,0.608887

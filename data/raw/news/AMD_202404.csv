@@ -1,0 +1,38 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20240404T000000,AMD,Aehr wins major order for SiC wafer test and burn-in system,Compound Semiconductor,0.526896,Bullish,0.205189,0.566130
+20240404T142514,AMD,"The Zacks Analyst Blog Highlights Berkshire Hathaway, Procter & Gamble, Adobe, Advanced Micro Devices and AstraZeneca",TradingView,0.16144,Somewhat-Bullish,0.121320,0.746405
+20240404T200948,AMD,Should You Invest in the Invesco AI and Next Gen Software ETF (IGPT)?,TradingView,0.344953,Somewhat-Bullish,0.225668,0.618671
+20240405T000000,AMD,The top performing funds that beat the S&P 500 in Q1,Fund Selector Asia,0.305553,Somewhat-Bullish,0.405384,0.712340
+20240408T000000,AMD,AMD Advances Open Source Initiative with MES Firmware Release for Radeon GPUs,Yahoo Finance,0.1814,Somewhat-Bullish,0.422951,1.000000
+20240408T153349,AMD,"TSMC Arizona and U.S. Department of Commerce Announce up to US$6.6 Billion in Proposed CHIPS Act Direct Funding, the Company Plans Third Leading-Edge Fab in Phoenix",Taiwan Semiconductor,0.319775,Somewhat-Bullish,0.348282,0.739875
+20240409T000000,AMD,TSMC's $6.6bn Arizona deal the latest in the CHIPS Act rollout,Marketplace.org,0.319748,Somewhat-Bullish,0.259875,0.597233
+20240409T080900,AMD,Acrivon To Privately Place $130 Mln Of Shares; Stock Soars In Pre-market,RTTNews,0.282114,Somewhat-Bullish,0.117541,0.613479
+20240409T142634,AMD,Intel challenges Nvidia with new Gaudi 3 AI chip as AMD expands processor lineup,SiliconANGLE,0.128772,Neutral,0.253040,1.000000
+20240409T142634,AMD,AMD Extends Leadership Adaptive SoC Portfolio with New Versal Series Gen 2 Devices Delivering End-to-End Acceleration for AI-Driven Embedded Systems,AMD,0.497382,Bullish,0.459382,1.000000
+20240409T144100,AMD,BlackBerry and AMD to collaborate on new robotic systems tech,LakelandToday.ca,0.455842,Bullish,0.428551,0.896721
+20240409T145100,AMD,BlackBerry gains on partnership with AMD for robotics systems,Reuters,0.558838,Bullish,0.528178,0.946087
+20240410T142828,AMD,20 Chip Manufacturing Companies in India to Know,Built In | Tech Jobs,0.422517,Bullish,0.448048,0.895257
+20240415T052000,AMD,Abbott Laboratories to close Bay Area site; almost 200 jobs to be cut,The Mercury News,-0.226057,Somewhat-Bearish,-0.244325,0.556146
+20240415T080000,AMD,Like Nvidia Stock but Prefer ETFs? This Is the Best Semiconductor ETF to Invest In Artificial Intelligence (AI) and Other Megatrends.,The Motley Fool,0.409721,Bullish,0.417633,0.726646
+20240416T090200,AMD,"AMD’s stock can surge 40%, this new bull says — even as Nvidia still dominates",MarketWatch,0.184017,Somewhat-Bullish,0.449934,1.000000
+20240416T142634,AMD,AMD and Nvidia unveil new processors for AI PCs,SiliconANGLE,0.293957,Somewhat-Bullish,0.402952,1.000000
+20240416T142831,AMD,Avnet bullish on China's growth,China Daily - Global Edition,0.413952,Bullish,0.338407,0.714892
+20240417T122200,AMD,Intel Builds World’s Largest Neuromorphic System to Enable More Sustainable AI,Investor Relations :: Intel Corporation (INTC),0.265197,Somewhat-Bullish,0.230865,0.612737
+20240417T143345,AMD,Cadence Supercharges Chip Debug And Prototyping With Palladium Z3 And Protium X3 Systems,Forbes,0.362009,Bullish,0.314601,0.613154
+20240417T190937,AMD,Steering Clients Through Unstable Markets,ETF.com,-0.117291,Neutral,-0.214664,0.885386
+20240417T231600,AMD,Micron Poised to Get Over $6 Billion in Chips Grants in Announcement Next Week,Bloomberg.com,0.264119,Somewhat-Bullish,0.104440,0.645606
+20240418T000000,AMD,4 Undervalued Semiconductor Stocks,Morningstar,0.341855,Somewhat-Bullish,0.287079,0.623559
+20240418T101000,AMD,US to Provide $6.1 Billion for Micron Technology Chip Plants,Transport Topics,0.247123,Somewhat-Bullish,0.141627,0.632839
+20240418T152721,AMD,The Latest Breakthroughs in Quantum Computing,INDOlink,0.223198,Somewhat-Bullish,0.309748,0.734061
+20240419T153349,AMD,TSMC Accelerates Nearshoring to Diversify Away from China,Manufacturing Today,0.406405,Bullish,0.303634,0.616807
+20240422T000000,AMD,"A Brief and Personal History of EDA, Part 5: The Acquisition Era",EEJournal,0.23417,Somewhat-Bullish,0.214289,0.561745
+20240422T143345,AMD,Cadence emulator and prototyping duo can handle up to 48 billion gate SoCs,Embedded-Control-Europe,0.297566,Somewhat-Bullish,0.330567,0.708725
+20240425T064500,AMD,The Top 3 Gaming Stocks to Buy in April 2024,InvestorPlace,0.259163,Somewhat-Bullish,0.125688,0.641916
+20240425T110000,AMD,"Advanced Packaging Market Aims for Remarkable Growth, Targeting USD 79.9 Billion by 2033 at 8.4% CAGR",GlobeNewswire,0.361991,Bullish,0.408687,0.601483
+20240425T125200,AMD,Micron Becomes First Brand to Produce 200+ Layer QLC NAND SSDs for Client and Data Centers,digital terminal,0.354992,Bullish,0.279965,0.726026
+20240425T151348,AMD,"Statement by Acting Secretary Su on announcement of construction of new semiconductor fabrication sites in New York, Idaho",U.S. Department of Labor (.gov),0.573949,Bullish,0.516307,0.611007
+20240425T153447,AMD,UMC reports lowest profit in three years,Taipei Times,-0.037183,Neutral,0.059604,0.566739
+20240426T151630,AMD,"CEOs of Microsoft, Nvidia and other tech giants join federal AI advisory board",SiliconANGLE,0.28922,Somewhat-Bullish,0.276751,0.873958
+20240429T202400,AMD,"AMD Q1 Earnings Preview: Analysts Bullish, But Warn Of Factors That 'Can Derail The Semiconductor Industry'",Sahm,0.188847,Somewhat-Bullish,0.342678,1.000000
+20240430T000000,AMD,AMD Earnings: A snapshot of Advanced Micro Devices’ Q1 2024 results,AlphaStreet,0.547508,Bullish,0.530112,1.000000
+20240430T000000,AMD,4 Undervalued Semiconductor Stocks,Morningstar Canada,0.271213,Somewhat-Bullish,0.269007,0.722878

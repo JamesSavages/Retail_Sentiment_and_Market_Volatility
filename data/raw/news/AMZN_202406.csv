@@ -1,0 +1,74 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20240602T130404,AMZN,New Initiatives in White House Summit on Nuclear Energy,Neutron Bytes,0.253314,Somewhat-Bullish,0.272832,0.619348
+20240602T131040,AMZN,"NVIDIA NIM Revolutionizes Model Deployment, Now Available to Transform World’s Millions of Developers Into Generative AI Developers",NVIDIA Investor Relations,0.403786,Bullish,0.293322,0.588796
+20240602T132249,AMZN,NVIDIA Robotics Adopted by Industry Leaders for Development of Tens of Millions of AI-Powered Autonomous Machines,Nvidia Investor Relations,0.45121,Bullish,0.340657,0.597911
+20240603T000000,AMZN,"After Earnings, Is Salesforce Stock a Buy, Sell, or Fairly Valued?",Morningstar,0.10828,Neutral,0.129323,0.623242
+20240603T132705,AMZN,Unleashing the Power of Innovation with Public Cloud,Workday Blog,0.373953,Bullish,0.302391,0.737188
+20240604T084200,AMZN,"AirPods Max vs. Sonos Ace: premium personal audio, compared",AppleInsider,0.141254,Neutral,0.091978,0.612934
+20240604T124312,AMZN,New products boost Bath & Body Works in Q1 as candle sales decline,Retail Dive,-0.056691,Neutral,-0.137914,0.647311
+20240604T125249,AMZN,Estée Lauder Completes Acquisition of DECIEM,Global Cosmetics News,0.145259,Neutral,0.116534,0.616760
+20240604T130442,AMZN,"Korea’s KT, Microsoft form strategic alliance on AI, cloud sectors",KED Global,0.202024,Somewhat-Bullish,0.236304,0.718916
+20240604T130653,AMZN,"After Earnings, Is MongoDB Stock a Buy, a Sell, or Fairly Valued?",Morningstar,0.110261,Neutral,-0.113533,0.605954
+20240604T130712,AMZN,估值1000亿，辍学90后华裔天才，刚刚融了72亿,新浪财经,0.271043,Somewhat-Bullish,0.316446,0.733460
+20240605T000000,AMZN,Norwegian Cruise Line migrates shoreside technology infrastructure to AWS,Data Center Dynamics,0.32146,Somewhat-Bullish,0.324203,0.629447
+20240605T000000,AMZN,EBay to Stop Taking American Express After Fee Dispute,Yahoo Finance,-0.113256,Neutral,0.100692,0.623398
+20240605T000000,AMZN,"eBay will no longer accept American Express, citing ‘unacceptably high fees'",NBC Bay Area,0.195911,Somewhat-Bullish,0.341158,0.629248
+20240605T080000,AMZN,Three San Diego companies among America’s most revenue-generating: Fortune 500,FOX 5 San Diego & KUSI News,0.187466,Somewhat-Bullish,0.166707,0.555574
+20240605T104200,AMZN,Here are the Alabama companies that made this year’s Fortune 500,AL.com,0.120661,Neutral,0.123195,0.603262
+20240605T124800,AMZN,"EBay to drop American Express over fees, says customers have other options",CNBC,-0.028177,Neutral,0.102794,0.602997
+20240606T000000,AMZN,"New Tech, Better Outcomes: Digital Shelf Labels Are a Win for Customers and Associates",Walmart,0.384669,Bullish,0.320377,0.606557
+20240606T093600,AMZN,'Cradle to Grave': Children's Clothing Company Carter's Sued in Digital Privacy Class Action,Law.com,-0.216611,Somewhat-Bearish,-0.302342,0.647021
+20240606T124227,AMZN,Study finds fears of post-Broadcom VMware customer flight may be overblown,SiliconANGLE,-0.066492,Neutral,0.108072,0.648535
+20240607T041200,AMZN,"NJ health care, pharmaceutical companies cutting jobs as tech disrupts industry",Bergen Record,-0.117802,Neutral,0.002966,0.569978
+20240610T000000,AMZN,Private Cloud Compute: A new frontier for AI privacy in the cloud,Apple Security Research,0.213724,Somewhat-Bullish,0.145095,0.619193
+20240610T163000,AMZN,"Nuclear power is 'overblown' as an energy source for data centers, power company CEO says",CNBC,0.251781,Somewhat-Bullish,0.248738,0.720248
+20240611T050857,AMZN,"VCR: Fueled By Amazon, But Weighed Down By Tesla",Seeking Alpha,0.016933,Neutral,0.331037,0.725220
+20240611T125219,AMZN,Chinese Retailer Temu Gains Edge Over eBay In US Market,Yahoo Finance,-0.065356,Neutral,0.111281,0.713216
+20240611T130812,AMZN,"Marvell Technology Data Center Revenues Surge, But the Rest Fall",MarketBeat,0.051062,Neutral,0.240413,0.617417
+20240611T131258,AMZN,Pegasystems expands Pega GenAI with AWS & Google Cloud models,DataCentreNews UK,0.365325,Bullish,0.345947,0.727799
+20240611T132700,AMZN,"MAX ARRIVES IN FRANCE AND POLAND, AND ENHANCED OFFERING ROLLS OUT IN NETHERLANDS AND BELGIUM COMPLETING INITIAL PHASE OF EUROPEAN LAUNCHES | Pressroom",Warner Bros. Discovery,0.354674,Bullish,0.334022,0.600840
+20240611T145300,AMZN,"Amazon Scraps Plan to Use Fuel Cells, Powered by Natural Gas, to Run Oregon Data Centers",Fuel Cells Works,-0.184979,Somewhat-Bearish,-0.304800,1.000000
+20240612T000000,AMZN,"More than 15,000 Amazon contract drivers file legal claims asking for compensation for overtime and unpaid wages",ABC7 New York,-0.192963,Somewhat-Bearish,-0.436233,1.000000
+20240612T000000,AMZN,Tech Firms Ask NextEra for Enough Electricity to Power Entire Cities,Financial Post,0.268463,Somewhat-Bullish,0.206883,0.640342
+20240612T000000,AMZN,Kohl’s expands in-store returns of online purchases in new partnership,Chain Store Age,0.16137,Somewhat-Bullish,0.109671,0.619405
+20240612T110500,AMZN,Amazon Prime Shoppers Viewed as a Lifeline for Grubhub,Bloomberg.com,-0.145916,Neutral,-0.146155,0.919247
+20240613T112200,AMZN,Amazon is coming to former Weyerhaeuser campus,Federal Way Mirror,0.178277,Somewhat-Bullish,0.259689,0.851648
+20240613T203800,AMZN,Amazon adds $230 million in cloud credits to AI startups,Reuters,0.288846,Somewhat-Bullish,0.435668,0.994933
+20240614T000000,AMZN,Campbell Soup Company Enters Connected TV Marketing Channel,Consumer Goods Technology,0.263027,Somewhat-Bullish,0.116243,0.648941
+20240614T124057,AMZN,Amazon hit with $122 mln US verdict in internet-advertising patent case,Reuters,-0.376597,Bearish,-0.384566,1.000000
+20240614T132734,AMZN,Wells Fargo fires workers over fake keyboard activity,BBC,-0.094244,Neutral,0.111853,0.612453
+20240614T155900,AMZN,Popular TV app is giving away free 4K Amazon Fire Sticks – spot clue in your inbox right now to claim before deadline,The Sun,0.136193,Neutral,0.311567,0.900917
+20240617T000000,AMZN,U.S. Sues Adobe Over Hard-to-Cancel Subscriptions (Published 2024),The New York Times,-0.272562,Somewhat-Bearish,-0.142655,0.643724
+20240617T125119,AMZN,DigitalOcean Appoints Bratin Saha as Chief Product and Technology Officer,citybiz,0.264764,Somewhat-Bullish,0.139430,0.628482
+20240618T000000,AMZN,"Constellation, Vistra and PSEG could be next to ink nuclear-data center supply deals: S&P",Utility Dive,0.284533,Somewhat-Bullish,0.239506,0.600483
+20240618T000000,AMZN,Retail Sales Are Lower Than Expected in May,ETF Database,0.120275,Neutral,0.149980,0.630207
+20240618T000000,AMZN,The government's lawsuit against Adobe shows deceptive design is good for business—until it's not,Fast Company,-0.648286,Bearish,-0.520645,0.640288
+20240618T132429,AMZN,"AI, Economy Affect 2024 Tech Workforce Trends, Survey Shows",TechTarget,0.206257,Somewhat-Bullish,0.206807,0.630837
+20240619T124057,AMZN,Amazon (AMZN) Strengthens Blink Portfolio With Blink Moments,Yahoo Finance,0.372211,Bullish,0.425097,1.000000
+20240619T132358,AMZN,TC Energy clarifies media reports about GTN XPress (GTNXP),TC Energy,0.097144,Neutral,0.148299,0.616896
+20240619T192000,AMZN,"Game Development Software Market size is set to grow by USD 62.8 million from 2024-2028, growth in demand for pc games and gaming consoles to boost the market growth, Technavio",PR Newswire,0.326171,Somewhat-Bullish,0.292493,0.643160
+20240619T230951,AMZN,iShares Expanded Tech Sector ETF Trade Ideas — AMEX:IGM,TradingView,0.401878,Bullish,0.342644,0.643698
+20240620T000000,AMZN,"Freight Technologies, Inc. Expands Business Relationship with Amazon Mexico",Freight Technologies Inc.,0.419411,Bullish,0.331896,0.749509
+20240621T071000,AMZN,Walmart Continues to Hammer Target,24/7 Wall St.,0.09398,Neutral,0.112104,0.638161
+20240621T150100,AMZN,"Apple Intelligence won't launch in EU in 2024 due to antitrust regulation, company says",CNBC,-0.143902,Neutral,-0.123210,0.609726
+20240624T112200,AMZN,Target partners with e-commerce platform Shopify to compete with Amazon and Walmart's online marketplaces,Fortune,0.137494,Neutral,0.098085,0.726744
+20240624T150100,AMZN,"Target to Offer Select Shopify Brands Online and In Store, Expanding Its Marketplace",WWD,0.152369,Somewhat-Bullish,-0.098410,0.733120
+20240625T132342,AMZN,"Winnie the Pooh is a getting an AI-assisted cartoon makeover, courtesy of Amazon's Prime Video (Sorry, Disney)",Popverse,-0.031074,Neutral,0.319788,0.936717
+20240625T183100,AMZN,Turtle Beach has ended its partnership with Dr Disrespect,Video Games Chronicle,-0.403231,Bearish,-0.336477,0.613581
+20240626T000000,AMZN,Every Business Can Learn From This 1 Phrase in Netflix’s New Culture Memo,Inc.com,0.233488,Somewhat-Bullish,0.119838,0.608403
+20240626T000000,AMZN,"AEP, Exelon challenge PJM interconnection pact for Amazon data center at Talen nuclear plant",Utility Dive,-0.023809,Neutral,0.122195,0.706139
+20240626T003955,AMZN,"The Nightview Fund ETF Price, Holdings, & News (NYSEARCA:NITE) $NITE",MarketBeat,0.076084,Neutral,0.137187,0.644388
+20240626T064900,AMZN,Streaming Profits Are Tough to Find. Niche Movie and TV Platforms See a Way Forward,The Hollywood Reporter,0.116707,Neutral,0.077036,0.658247
+20240626T132840,AMZN,VW Latches Onto Rivian in $5 Billion EV Pact to Regain Momentum,Energy Connects,-0.05768,Neutral,0.097216,0.614592
+20240627T000000,AMZN,Exelon and AEP protest interconnection agreement for Amazon data center at Susquehanna nuclear plant,Power Engineering Magazine,0.180887,Somewhat-Bullish,0.237330,0.741150
+20240627T000000,AMZN,Does Amazon Prime Day matter?,Chief Marketer,0.288425,Somewhat-Bullish,0.414125,1.000000
+20240627T000000,AMZN,Rivian & Volkswagen Plan Joint Venture for Vehicle Software,EV Magazine,0.268462,Somewhat-Bullish,0.127698,0.647801
+20240627T012200,AMZN,Amazon becomes the 5th U.S. company to reach $2 trillion in stock market value,NPR,0.442418,Bullish,0.425220,1.000000
+20240627T102000,AMZN,Wipro chairman Rishad Premji to shareholders: Uniting … is at the core of Wipro,Times of India,0.150643,Somewhat-Bullish,0.122885,0.614377
+20240627T124028,AMZN,2 Top E-Commerce Stock Picks,Morningstar,0.223921,Somewhat-Bullish,0.425765,1.000000
+20240627T124750,AMZN,Colgate-Palmolive’s Vivek Rastogi Digging Into Retail Media's Complicated Reality at Sales & Marketing Summit,Consumer Goods Technology,0.178618,Somewhat-Bullish,0.130613,0.629885
+20240627T125543,AMZN,New York Community Bank Plans 1-for-3 Reverse Stock Split in July,Investopedia,0.008374,Neutral,0.035582,0.584608
+20240628T000000,AMZN,"FTC Brings ""Dark Patterns"" Complaint Over Online Subscription and Cancellation Practices Against Company and Two Executives",Duane Morris LLP,-0.215351,Somewhat-Bearish,0.009457,0.615216
+20240628T000000,AMZN,Talen Energy defends interconnection agreement for Amazon data center at nuclear plant,Utility Dive,0.077036,Neutral,0.234384,0.882703
+20240628T132123,AMZN,Scripps Takes Ion Plus FAST Channel Over the Air | Next TV | Broadcasting+Cable,Nexttv,0.14216,Neutral,0.101146,0.629478
+20240630T072300,AMZN,Is AWS in Trouble?,24/7 Wall St.,0.048528,Neutral,0.043516,0.344321

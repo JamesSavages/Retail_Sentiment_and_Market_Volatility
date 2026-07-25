@@ -1,0 +1,9 @@
+Predictor,VIF,Assessment
+rv_w,7.913,moderate (5-10)
+rv_m,4.199,acceptable (<5)
+rv,3.631,acceptable (<5)
+rv_lag1,2.71,acceptable (<5)
+abs_return,1.744,acceptable (<5)
+log_volume,1.4,acceptable (<5)
+log_articles,1.356,acceptable (<5)
+news_sent_wmean,1.205,acceptable (<5)

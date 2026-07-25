@@ -1,0 +1,35 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20240801T000000,AMD,Industry Focus: AMD is Helping Power the AI Revolution,Technology Magazine,0.891531,Bullish,0.874555,1.000000
+20240802T043800,AMD,"Intel has worst day on Wall Street in 50 years, falls to lowest price in over a decade",CNBC,-0.409793,Bearish,-0.242231,0.749067
+20240805T000000,AMD,5 Stocks to Buy to Invest in AI With Less Risk,Morningstar,0.318255,Somewhat-Bullish,0.210513,0.734333
+20240806T000000,AMD,Innovations in Vibration Control: Enhancing Semiconductor Manufacturing Efficiency,AZoM,0.373019,Bullish,0.303141,0.648859
+20240808T105447,AMD,Corsair ditches 80 Plus for PSUs: here are the Cybenetics ratings it'll use instead,PC Gamer,0.163762,Somewhat-Bullish,0.135636,0.557478
+20240813T234026,AMD,iShares Future AI & Tech ETF,ETF Database,0.337862,Somewhat-Bullish,0.334448,0.740701
+20240814T000000,AMD,"Keysight Technologies’ Strategic Expansion in India: 5G, AI, and Beyond",TimesTech,0.480459,Bullish,0.228990,0.551675
+20240815T000000,AMD,5 Top FPGA Companies to Know,Built In,0.238521,Somewhat-Bullish,0.284541,0.802858
+20240816T104716,AMD,Arm's ubiquitous computing vision as it designs next-gen chips,SiliconANGLE,0.302924,Somewhat-Bullish,0.315762,0.648598
+20240819T110812,AMD,GPUs: The backbone of artificial intelligence,Invesco,0.280495,Somewhat-Bullish,0.318514,0.934671
+20240819T155900,AMD,AMD to acquire server builder ZT Systems for $4.9 billion in cash and stock,Reuters,0.263875,Somewhat-Bullish,0.404695,1.000000
+20240820T000000,AMD,AMD to acquire ZT Systems for $4.9B,Manufacturing Dive,0.248261,Somewhat-Bullish,0.491453,1.000000
+20240820T000000,AMD,AMD to acquire ZT Systems in US$4.9 billion deal to challenge Nvidia Corp,Taipei Times,0.013089,Neutral,0.041863,0.317644
+20240820T000000,AMD,AMD Plans ZT Systems Acquisition To Challenge NVIDIA AI Ecosystem,Spiceworks,0.128369,Neutral,0.421696,1.000000
+20240820T104612,AMD,Super micro AI infrastructure solutions aim to transform CSPs,SiliconANGLE,0.274058,Somewhat-Bullish,0.266061,0.808135
+20240821T111739,AMD,SEMI: Global Chip Manufacturing Industry Strengthens in 2Q 2024,EE Times Asia,0.342886,Somewhat-Bullish,0.446115,0.726862
+20240822T000000,AMD,"Going into earnings, is Nvidia stock a buy, a sell, or fairly valued?",Morningstar,0.176851,Somewhat-Bullish,0.154637,0.618410
+20240822T112505,AMD,"SK Telecom to build 'GPU farm' with thousands of NVIDIA H100 AI GPUs, rented for AI workloads",TweakTown,0.361785,Bullish,0.206087,0.590377
+20240823T080000,AMD,AMDL: How To Leverage Your Advanced Micro Devices Holding 2x,Seeking Alpha,0.253613,Somewhat-Bullish,0.205926,0.835242
+20240825T114300,AMD,Outcome ETFs: Using Options for Higher Dividend Returns,24/7 Wall St.,0.394148,Bullish,0.405539,0.632004
+20240826T000000,AMD,Top 10 OSAT (Outsourced Semiconductor Assembly and Test) Companies in 2024,Techovedas,0.111868,Neutral,0.073071,0.588551
+20240826T000000,AMD,AMD's $4.9 Billion Acquisition of ZT Systems: A Strategic Move to Challenge Nvidia's AI Dominance,Data Centre Magazine,0.081164,Neutral,0.415341,1.000000
+20240826T110532,AMD,What Are the Benefits of Windows 11 for AI?,HP,0.30258,Somewhat-Bullish,0.243600,0.587261
+20240826T171100,AMD,This ETF Could Be the Easiest Way to Own the Future of AI,The Globe and Mail,0.316302,Somewhat-Bullish,0.264271,0.587406
+20240827T110531,AMD,Biden-Harris Administration Announces Preliminary Terms with HP to Support Development and Commercialization of Cutting-Edge Semiconductor Technologies,National Institute of Standards and Technology (.gov),0.288152,Somewhat-Bullish,0.309884,0.720258
+20240827T110532,AMD,HP Computers Made with Ocean-Bound Plastics | Sustainable Tech,HP,0.238406,Somewhat-Bullish,0.148650,0.586759
+20240827T111415,AMD,"Micron eyeing two AUO-owned plants, reports say",Taipei Times,0.187375,Somewhat-Bullish,0.117046,0.553894
+20240827T180000,AMD,"AMD's stock price has risen, and market signals indicate that it is gradually challenging NVIDIA's position.",富途牛牛,0.252638,Somewhat-Bullish,0.469481,1.000000
+20240828T103200,AMD,Nvidia’s Earnings Will Test the S&P 500’s $4 Trillion Recovery,Bloomberg.com,0.321601,Somewhat-Bullish,0.247957,0.641815
+20240829T110838,AMD,SMHX Stock Fund Price and Chart — NASDAQ:SMHX,TradingView,-0.117931,Neutral,-0.148129,0.620807
+20240829T111349,AMD,What You Need To Know Ahead of Marvell Technology's Earnings Report,Investopedia,0.162266,Somewhat-Bullish,0.143784,0.680372
+20240830T004023,AMD,"VanEck Fabless Semiconductor ETF ETF Price, Holdings, & News (NASDAQ:SMHX)",MarketBeat,0.317332,Somewhat-Bullish,0.343148,0.744802
+20240830T111349,AMD,Marvell sees 5G sales slump but guides for second-half revival,Light Reading,-0.041132,Neutral,-0.051473,0.688825
+20240830T171021,AMD,SMHX Top Holdings List & Exposure (VanEck Fabless Semiconductor ETF),MarketBeat,0.481766,Bullish,0.111801,0.884779

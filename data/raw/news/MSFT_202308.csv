@@ -1,0 +1,76 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20230801T000000,MSFT,"Megatrends, PCs, Servers and Moore",Citigroup,0.355251,Bullish,0.320074,0.626551
+20230801T223401,MSFT,Powering decision making at Microsoft by analyzing data with Microsoft Power BI,Microsoft,0.417185,Bullish,0.408628,1.000000
+20230802T221800,MSFT,Cyber Mindfulness Corner Company Spotlight: DXC Technology,IT Security Guru,0.501629,Bullish,0.503422,0.610664
+20230802T222614,MSFT,Akkio Closes $15 Million in Series A,The SaaS News,0.255005,Somewhat-Bullish,0.309840,0.628748
+20230802T224751,MSFT,Thomson Reuters reports higher second-quarter revenue as it pushes forward generative AI tools,The Globe and Mail,0.285962,Somewhat-Bullish,0.217039,0.720508
+20230803T090000,MSFT,"phoenixNAP Powers Expanded AI and Cloud Services with Energy-saving, Ampere-Based Servers from Hewlett Packard Enterprise",The Chronicle-Journal,0.131287,Neutral,-0.122370,0.635644
+20230803T104500,MSFT,Expedia Group says ‘surplus of top-tier tech talent’ is boosting its strategic hiring efforts,GeekWire,0.050001,Neutral,0.146665,0.616735
+20230803T224755,MSFT,"Geospatial Imaging Market Share & Size | Global Report, 2034",Fortune Business Insights,0.254026,Somewhat-Bullish,0.218386,0.558222
+20230804T223539,MSFT,Top 20 Atlassian Competitors and Alternatives,Business Strategy Hub,0.257939,Somewhat-Bullish,0.283556,0.738834
+20230805T034132,MSFT,3 Blockchain ETFs To Play The Blockchain Mega Trend,InvestingHaven,0.094363,Neutral,0.117234,0.626391
+20230807T000000,MSFT,Exploring two covered call strategies by Global X ETFs,ETF Stream,0.264821,Somewhat-Bullish,0.307925,0.627448
+20230807T000000,MSFT,"How Mars, Colgate-Palmolive, Nestle & Coca-Cola are Exploring Generative AI",Consumer Goods Technology,0.294071,Somewhat-Bullish,0.305962,0.629571
+20230807T154006,MSFT,"Up 130%, Big Tech's Dominance Could Keep This ETF Elevated",ETF Trends,0.446378,Bullish,0.408693,0.676569
+20230807T194000,MSFT,AI as an investment theme,BM.GE,0.332437,Somewhat-Bullish,0.449537,0.703148
+20230807T220947,MSFT,Bandwidth offers peek at its new office complex. Does it live up to the hype?,Raleigh News & Observer,0.062263,Neutral,-0.113157,0.611049
+20230807T223122,MSFT,SAP to Support Enterprise Transformation at L3Harris,SAP News Center,0.34038,Somewhat-Bullish,0.243486,0.628352
+20230807T223539,MSFT,Nvidia teams with Accenture and ServiceNow for AI program,Network World,0.345384,Somewhat-Bullish,0.218896,0.629327
+20230808T000000,MSFT,BlackRock Inc. Boosts Stake in Moelis & Co,Yahoo Finance,0.076561,Neutral,0.003368,0.555882
+20230808T095200,MSFT,LAFFER|TENGLER Equity Income ETF Review and Aggregate Rating (TGLR) $TGLR,MarketBeat,0.342481,Somewhat-Bullish,0.321574,0.614601
+20230808T160200,MSFT,BlackRock Inc. Acquires Additional Shares in Mercury Systems Inc.,GuruFocus,0.198414,Somewhat-Bullish,0.102019,0.556603
+20230808T171251,MSFT,Is it safe to buy the UltraPro Short (SQQQ) ETF dip?,Invezz,-0.084213,Neutral,0.133406,0.556486
+20230808T222241,MSFT,Genpact incorporates gen AI into its Enterprise360 platform,Techcircle,0.267912,Somewhat-Bullish,0.128207,0.603715
+20230808T222822,MSFT,Microsoft named a Leader and Positioned Furthest for Completeness of Vision in the 2023 Gartner® Magic Quadrant™ for Robotic Process Automation,Microsoft,0.387551,Bullish,0.404066,1.000000
+20230808T223855,MSFT,Video Game M&A Surges In Q2 2023 With Big-Name Mobile Deals,ValueWalk,0.101598,Neutral,0.349421,0.937168
+20230809T043100,MSFT,Verizon to ‘sunset’ Blue Jeans vidconf platform,The Register,0.076039,Neutral,0.111523,0.705676
+20230809T222121,MSFT,AWS and Five9 Become Leaders in 2023’s Gartner CCaaS Magic Quadrant,UC Today,0.218462,Somewhat-Bullish,0.013228,0.572909
+20230809T224816,MSFT,9 customer journey mapping tools that can improve your CX,TechTarget,0.188816,Somewhat-Bullish,0.257169,0.760796
+20230809T224827,MSFT,Mark your calendars: GTA 6 seemingly set for late 2024 or early 2025,TrueTrophies,0.355272,Bullish,0.215856,0.633301
+20230809T225257,MSFT,Is Zoom using your meetings to train its AI?,Vox,-0.201894,Somewhat-Bearish,-0.122713,0.636250
+20230809T234044,MSFT,"Cornerstone Total Return Fund, Inc. (CRF) Dividend History, Date, and Yield",CoinCodex,0.036029,Neutral,0.110437,0.614015
+20230810T000000,MSFT,Capital Research Global Investors Acquires Significant Stake in Carrier Global Corp,Yahoo Finance,0.152677,Somewhat-Bullish,0.136152,0.601193
+20230810T143119,MSFT,Cloud as the ultimate digital enabler,McKinsey & Company,0.366009,Bullish,0.202437,0.637784
+20230810T151056,MSFT,"Microsoft Azure meets growing needs of healthcare organizations, such as Mount Sinai Health System, with a highly scalable public cloud for Epic",Microsoft Source,0.367833,Bullish,0.447042,0.989951
+20230811T081021,MSFT,TDVI Top Holdings List & Exposure (FT Vest Technology Dividend Target Income ETF),MarketBeat,0.21665,Somewhat-Bullish,0.236995,0.642982
+20230811T224430,MSFT,Unlocking the potential of AI for the energy industry,SLB,0.345606,Somewhat-Bullish,0.331732,0.712086
+20230814T151050,MSFT,Artificial Intelligence at Morgan Stanley – Three Use Cases,Emerj Artificial Intelligence Research,0.388188,Bullish,0.318369,0.607250
+20230814T151300,MSFT,Amazon is removed from key list of climate-conscious companies,Los Angeles Times,-0.089972,Neutral,0.135890,0.602730
+20230815T073000,MSFT,Dropbox review: Still the best at syncing and sharing,PCWorld,0.058083,Neutral,0.009428,0.644339
+20230815T221538,MSFT,ERISA Case Against Cisco Over BlackRock TDFs Dismissed,plansponsor,0.047854,Neutral,0.009269,0.639599
+20230815T223803,MSFT,UPDATE: San Jose delays decision on city-run power grid,San José Spotlight,0.01935,Neutral,0.201483,0.617385
+20230816T123200,MSFT,Intel’s Terminated $5.4B Tower Acquisition: 5 Big Things To Know,CRN Magazine,-0.051283,Neutral,0.067711,0.313848
+20230816T220544,MSFT,American Airlines Group – Digital Transformation Strategies,www.globaldata.com,0.339183,Somewhat-Bullish,0.327528,0.628594
+20230816T221919,MSFT,Accelerate Insurance Claims Digital Transformation with Low-Code Platforms,EPAM,0.345733,Somewhat-Bullish,0.225836,0.611380
+20230818T130500,MSFT,Roblox faces a new class action lawsuit alleging it facilitates child gambling,TechCrunch,-0.047396,Neutral,-0.134295,0.584714
+20230821T224258,MSFT,The Next Big Things From SAP,SAP News Center,0.43814,Bullish,0.272898,0.625980
+20230822T171600,MSFT,"Markets News, Aug. 22, 2023: Tech Buoys Nasdaq; Nvidia, Banks Weigh on S&P 500",Investopedia,-0.130035,Neutral,0.251907,0.608415
+20230822T224428,MSFT,"Silicon Labs Unveils the Series 3 IoT Platform, Pledges 100x Performance Gains for On-Device ML, AI - Hackster.io",Hackster.io,0.216175,Somewhat-Bullish,0.112979,0.618359
+20230822T234030,MSFT,CAML Top Holdings List & Exposure (Congress Large Cap Growth ETF),MarketBeat,0.164801,Somewhat-Bullish,0.175947,0.694011
+20230823T000000,MSFT,Boeing Recognizes 2023 Supplier of the Year Award Winners,Boeing Newsroom,0.384047,Bullish,0.334861,0.624456
+20230823T000000,MSFT,The best ETFs for retirement income,MoneySense,0.232052,Somewhat-Bullish,0.318949,0.629077
+20230823T223400,MSFT,"Yamaha’s CS-500 Now Certified for Microsoft Teams, Adding to Yamaha’s Portfolio of Certified Video Sound Collaboration Systems",Business Wire,0.3222,Somewhat-Bullish,0.303314,0.929273
+20230823T223401,MSFT,Microsoft’s Python in Excel: A fusion enabling optimal data analysis and visualization,Daily Host News,0.418299,Bullish,0.437802,1.000000
+20230823T223405,MSFT,MicroStrategy Now Available in the Microsoft Azure Marketplace,Strategy,0.418567,Bullish,0.335875,0.823901
+20230823T223616,MSFT,NVIDIA Announces Financial Results for Second Quarter Fiscal 2024,NVIDIA Newsroom,0.5699,Bullish,0.531440,0.628706
+20230824T224639,MSFT,TAL’s MathGPT launches public beta: your next-gen math assistant,Gizmochina,0.231368,Somewhat-Bullish,0.124812,0.621628
+20230824T224657,MSFT,Best Back-to-School Marketing Campaigns (Plus the ‘Worst Ad Ever’),Outbrain,0.196999,Somewhat-Bullish,0.139449,0.608029
+20230825T021033,MSFT,YieldMax Launches Option Income Strategy ETFs for Disney and Microsoft,ETF Database,0.249246,Somewhat-Bullish,0.306755,0.937621
+20230825T110600,MSFT,YieldMax Launches Option Income Strategy ETFs on Microsoft and Disney,Nasdaq,0.280793,Somewhat-Bullish,0.345851,0.844441
+20230825T152507,MSFT,"P&G enlists IoT, predictive analytics to perfect Pampers diapers",CIO,0.68609,Bullish,0.617732,0.784365
+20230825T173929,MSFT,"iShares Russell 1000 ETF (IWB) Stock Price, Holdings, Dividend Yield",GuruFocus,0.271954,Somewhat-Bullish,0.303146,0.711172
+20230827T093300,MSFT,'Not just money and math': Young people are willing to sacrifice returns for ESG,CNBC,0.065168,Neutral,0.345135,0.622385
+20230828T182400,MSFT,"Hedge fund exposure to 7 biggest tech stocks at record high, Goldman Sachs says",Reuters,0.426639,Bullish,0.446589,0.715492
+20230828T221404,MSFT,Institute for National Defense and Security Research-Newsletter,國防安全研究院,0.288617,Somewhat-Bullish,0.317574,0.600305
+20230829T000000,MSFT,How Yahoo sparked a renaissance under new owners,Axios,0.150177,Somewhat-Bullish,0.146787,0.605371
+20230829T032832,MSFT,Is Domo Stock a Buy Now?,Barchart.com,-0.105447,Neutral,0.226815,0.625768
+20230829T080000,MSFT,"Google Cloud, HCA team up to deploy AI in the emergency department",Fierce Healthcare,0.297296,Somewhat-Bullish,0.141712,0.595006
+20230829T083300,MSFT,"GM, Google exploring ways to use AI across automaker’s business",CNBC,0.30684,Somewhat-Bullish,0.283258,0.618738
+20230829T222121,MSFT,A Roadmap for Selecting the Right CCaaS Vendor,No Jitter,0.243344,Somewhat-Bullish,0.107834,0.570857
+20230829T222806,MSFT,How space traffic in orbit could spell trouble on Earth,Coda Story,-0.186236,Somewhat-Bearish,-0.116614,0.660751
+20230829T222823,MSFT,Leveraging Generative AI to Build Personalized Customer Journey Mapping,Gartner,0.341818,Somewhat-Bullish,0.304281,0.616834
+20230830T065500,MSFT,New ZEGA ETFs Let Investors Play Disney and Microsoft on Easy Mode,24/7 Wall St.,0.147394,Neutral,0.117212,0.833297
+20230830T110100,MSFT,Salesforce lifts annual forecast as business software demand stays strong,Reuters,0.455026,Bullish,0.307599,0.589187
+20230830T224455,MSFT,Oxygen Top 45 ‘must-know’ UK IT Distributors,IT Channel Oxygen,0.164458,Somewhat-Bullish,0.123281,0.619560
+20230831T221900,MSFT,Enel Generación y Enel X sellan acuerdo con cruzados como “Partner Energético” del nuevo estadio de la UC,enel.cl,0.199489,Somewhat-Bullish,0.741350,0.948145
+20230831T224141,MSFT,Worker confidence in AI may be growing despite unease about the tech,HR Dive,0.227947,Somewhat-Bullish,0.242149,0.648454

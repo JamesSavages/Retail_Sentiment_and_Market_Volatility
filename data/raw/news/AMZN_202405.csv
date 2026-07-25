@@ -1,0 +1,72 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20240501T000000,AMZN,PSEG in talks to sell nuclear power to data centers: CEO LaRossa,Utility Dive,0.2194,Somewhat-Bullish,0.120305,0.610124
+20240501T000000,AMZN,"AEP faces 15 GW of new load, driven by Amazon, Google, other data centers: interim CEO Fowke",Utility Dive,0.246952,Somewhat-Bullish,0.272659,0.708364
+20240501T000000,AMZN,Amazon signs lease for building at new Kannapolis industrial park,The Business Journals,0.342323,Somewhat-Bullish,0.319678,1.000000
+20240501T000000,AMZN,Alphabet's First Dividend: What You Need to Know,Morningstar Canada,0.172321,Somewhat-Bullish,-0.121385,0.551431
+20240502T000000,AMZN,PSEG to explore selling nuclear power to data centers,Power Engineering Magazine,0.364821,Bullish,0.341651,0.748571
+20240502T000000,AMZN,Industrial Same-store NOI Saw Highest Increase of Reporting Sectors Through 2023,Nareit,0.283008,Somewhat-Bullish,0.326426,0.704676
+20240502T133206,AMZN,"Amazon CEO Andy Jassy broke labor law with union remarks, judge rules",Fortune,-0.2573,Somewhat-Bearish,-0.292441,1.000000
+20240502T134446,AMZN,Estee Lauder teams up with Microsoft on generative AI for R&D and marketing,Digital Commerce 360,0.267719,Somewhat-Bullish,0.268431,0.584341
+20240502T134529,AMZN,Advantages of PHP for Web Projects in 2024,EPAM,0.415938,Bullish,0.325162,0.638643
+20240502T135817,AMZN,Kroger Makes Celebrating Mom even Easier,Kroger,0.320275,Somewhat-Bullish,0.218972,0.626819
+20240502T142420,AMZN,Zillow and BARK name America’s most dog-obsessed cities,Zillow,0.201256,Somewhat-Bullish,0.101706,0.626787
+20240503T134130,AMZN,"Dominion connected 15 data centers totaling 933MW in Virginia in 2023, 15 more expected in 2024",Data Center Dynamics,0.324994,Somewhat-Bullish,0.252772,0.628435
+20240504T134603,AMZN,Entergy CEO shares bold vision for improving stakeholder outcomes at annual meeting,Entergy,0.285919,Somewhat-Bullish,0.343724,0.678638
+20240505T053919,AMZN,RND Stock Price | First Trust Bloomberg R&D Leaders ETF,Investing.com,0.20815,Somewhat-Bullish,0.275606,0.615642
+20240506T133630,AMZN,Berkshire Hathaway Stock vs SPY: Which Is Best?,ETF.com,0.214175,Somewhat-Bullish,0.305419,0.620956
+20240506T134246,AMZN,"Data Center Market size to record USD 329.82 billion growth from 2023-2027, Implementation of AI in data centers is one of the key market trends, Technavio",PR Newswire,0.301094,Somewhat-Bullish,0.266464,0.557750
+20240506T140417,AMZN,Evolving AI GTM at NetApp | NetApp Blog,NetApp,0.341811,Somewhat-Bullish,0.229917,0.558465
+20240506T141328,AMZN,Why Sprouts' CEO watches competition from Whole Foods like a hawk,The Business Journals,0.078497,Neutral,0.136034,0.731519
+20240506T161700,AMZN,Fairfax shopping center redevelopment on hold,The Business Journals,-0.066541,Neutral,0.117079,0.608019
+20240508T000000,AMZN,Brookfield’s Renewable Solutions to Power Data Centers,CarbonCredits.com,0.338596,Somewhat-Bullish,0.114179,0.575860
+20240508T101800,AMZN,Serial entrepreneur Gaurav Oberoi strikes again: Lexion's sale to Docusign shows methodical approach to building startups,GeekWire,0.290949,Somewhat-Bullish,0.101553,0.641247
+20240508T105200,AMZN,Arrow PC Network Hosted Impact 2024 to Shape Brighter Future Through Collaboration & Innovation,digital terminal,0.236204,Somewhat-Bullish,0.332212,0.634813
+20240508T120600,AMZN,Adobe's Acrobat AI Assistant Is Available and Could Help Company Compete,Investopedia,0.332183,Somewhat-Bullish,0.212991,0.565573
+20240508T135728,AMZN,Kyndryl says return to profitability is ahead of schedule as it delivers strong earnings results,SiliconANGLE,0.424014,Bullish,0.312315,0.640990
+20240508T140331,AMZN,Netflix’s head of design answers every question you ever had about Netflix,Fast Company,0.12136,Neutral,0.128769,0.617022
+20240508T142244,AMZN,The FTC Requests More Info About Walmart’s $2.3 Billion Vizio Acquisition,JD Supra,0.076664,Neutral,0.039370,0.746698
+20240508T184500,AMZN,AI-hungry tech giants can’t build fast enough. They’ll need Bitcoin miners to help,DL News,0.286627,Somewhat-Bullish,0.214485,0.623730
+20240509T145000,AMZN,"Opendoor relocates, downsizes San Francisco HQ again — it's now cut 75% in three years",The Business Journals,-0.136538,Neutral,0.032949,0.565267
+20240509T171200,AMZN,Earnings call: LivePerson maintains guidance amid transformation efforts,Investing.com UK,0.079569,Neutral,0.119607,0.626690
+20240510T000000,AMZN,"VTEX brings the power of digital commerce innovation to Barcelona, setting the trend of an industry estimated to exceed USD 750 bln by 2027",Romania Insider,0.324168,Somewhat-Bullish,0.238494,0.635943
+20240510T134112,AMZN,Cisco adds AI features to AppDynamics On-Premises,Network World,0.288178,Somewhat-Bullish,0.214883,0.610559
+20240513T142400,AMZN,OUKITEL WP35がAliExpressで正式に登場：世界最薄の11000mAh 5Gタフネススマートフォンで高級なダイヤモンド柄のビジネススタイルを提供,ASCII.jp,0.24847,Somewhat-Bullish,0.316445,0.681183
+20240513T214600,AMZN,NLRB judge says courts must decide Starbucks' challenge to agency's structure,Reuters,-0.13701,Neutral,-0.134665,0.606197
+20240514T000000,AMZN,Constellation Energy to Pursue New Nuclear Power for Data Centers,CarbonCredits.com,0.470476,Bullish,0.303599,0.621385
+20240514T115600,AMZN,PNQI: I'm Buying This Tech Stock ETF Instead Of QQQ (NASDAQ:PNQI),Seeking Alpha,0.47267,Bullish,0.427114,0.613822
+20240514T133840,AMZN,"Choice Hotels opens Everhome Suites, debuting brand standard prototype",Hotel Dive,0.198747,Somewhat-Bullish,0.146838,0.642159
+20240514T162100,AMZN,Intelligent data infrastructure: NetApp's latest trends and strategies,SiliconANGLE,0.417951,Bullish,0.327407,0.624458
+20240514T210400,AMZN,Greenoaks Capital buys Coupang shares worth over $20 million,Investing.com,0.28151,Somewhat-Bullish,0.135069,0.641640
+20240515T071500,AMZN,"Down 20% This Year, Will Under Armour’s Stock Recover Following Q4 Results?",Forbes,-0.055807,Neutral,-0.135194,0.647367
+20240515T132600,AMZN,Earnings call: RADCOM reports record revenue and strategic growth in Q1 2024,Investing.com Canada,0.480355,Bullish,0.422411,0.607744
+20240516T000000,AMZN,Arcadia Biosciences selling GoodWheat,Food Business News,0.13547,Neutral,0.118632,0.614034
+20240516T104000,AMZN,Groupon stock is rising: Activists who called the move say it’s just the beginning,Investing.com,0.184149,Somewhat-Bullish,0.137520,0.557067
+20240518T050900,AMZN,This Top Dow ETF Is Crushing the Nasdaq and the S&P 500 Over the Last Month. Here's What That Means for the Market Rally.,The Motley Fool,0.325467,Somewhat-Bullish,0.324244,0.652641
+20240520T000000,AMZN,Big Short’s Michael Burry adds gold ETF as top Q1 allocation,ETF Stream,0.062975,Neutral,-0.305509,0.624749
+20240520T040955,AMZN,FDLO: Low-Volatility ETF Beating Competitors,Seeking Alpha,0.071999,Neutral,0.218135,0.626984
+20240520T140742,AMZN,US investor Michael Burry makes US$10m bet on gold,Small Caps,-0.221321,Somewhat-Bearish,-0.446554,0.744717
+20240521T000000,AMZN,"Investing in Gold? Forget GLD, Buy PHYS Instead",Palmetto Grain Brokerage,0.252576,Somewhat-Bullish,0.134879,0.613812
+20240521T105257,AMZN,AMZP Stock Price | Kurv Yield Premium Strategy Amazon (AMZN) ETF,Investing.com,0.138984,Neutral,0.147330,0.749454
+20240521T141348,AMZN,Feeling the Heat: The Evolution of Data Centre Cooling,INDOlink,0.278073,Somewhat-Bullish,0.285722,0.605235
+20240522T134924,AMZN,First Solar Stock Soars Over 18% After Analysts Dub It an AI Play,Investopedia,0.37391,Bullish,0.231100,0.634502
+20240522T140440,AMZN,Nvidia shares jump 4% as the AI boom fuels another blockbuster quarter and better-than-expected forecast,Fortune,0.367349,Bullish,0.343451,0.643670
+20240522T141855,AMZN,"New IBM Watsonx GenAI focuses on enterprises, governance",TechTarget,0.160911,Somewhat-Bullish,0.101718,0.629918
+20240523T000000,AMZN,Logistics giant moving ahead with more Sterling data center plans,The Business Journals,0.190905,Somewhat-Bullish,0.127037,0.644751
+20240523T000000,AMZN,Shipping carrier diversification benefits Lulus in Q1,Supply Chain Dive,-0.104256,Neutral,-0.115422,0.615183
+20240524T135641,AMZN,JD.com Earns Spot in Gartner Supply Chain Top 25 for 2024,JD Corporate Blog,0.606341,Bullish,0.322302,0.621971
+20240526T203943,AMZN,BAMG Stock Price | Brookstone Growth Stock ETF,Investing.com,0.368798,Bullish,0.330674,0.626443
+20240527T123100,AMZN,The Justice Department is suing Ticketmaster and Live Nation. What does that mean for concertgoers?,PBS,-0.175139,Somewhat-Bearish,-0.114957,0.617231
+20240528T142241,AMZN,WPP integrates Anthropic’s tech to further generative AI transformation,Marketing Dive,0.296949,Somewhat-Bullish,0.314920,0.572387
+20240529T000000,AMZN,AWS and SAP Unlock New Innovation with Generative AI,SAP News Center,0.326842,Somewhat-Bullish,0.497164,1.000000
+20240529T000000,AMZN,Dermody Properties purchased Amazon warehouse near CVG airport for $45.25M - Cincinnati Business Courier,The Business Journals,0.142912,Neutral,0.101770,0.703345
+20240529T000000,AMZN,"Responding to growing demand, Duke Energy, Amazon, Google, Microsoft and Nucor execute agreements to accelerate clean energy options",Duke Energy | News Center,0.375196,Bullish,0.311719,0.944871
+20240529T112700,AMZN,"If You Can Only Buy One Metaverse Stock in May, It Better Be One of These 3 Names",InvestorPlace,0.237944,Somewhat-Bullish,0.101560,0.581959
+20240529T123000,AMZN,VIZIO and Dolby Usher in Premium Sound Era For All,Dolby Newsroom,0.263028,Somewhat-Bullish,0.238072,0.607631
+20240529T132957,AMZN,"Whole Cities Awards 10 Newark Fresh, Healthy Food Access Grants To Grow Community Health",ACCESS Newswire,0.165536,Somewhat-Bullish,0.343654,0.630455
+20240529T141553,AMZN,Shutterstock Studios Sweeps Awards Season with 15 Telly Awards a,GuruFocus,0.459302,Bullish,0.285567,0.585296
+20240529T200700,AMZN,US judge rejects Amazon bid to get FTC lawsuit over Prime program tossed,Reuters,-0.297653,Somewhat-Bearish,-0.290315,1.000000
+20240530T124400,AMZN,JBG Smith Launches Investment Management Platform for Affordable Housing,Commercial Observer,0.053111,Neutral,0.120321,0.730189
+20240530T133206,AMZN,Amazon Announces Grubhub+ as Ongoing Prime Member Offer; Customers Can Now Order Grubhub Directly from Amazon.com and the Amazon Shopping App,Business Wire,0.285228,Somewhat-Bullish,0.479629,0.999145
+20240531T000000,AMZN,Capitalizing on the U.S. Energy Surge with Natural Gas and Copper,USFunds,0.30426,Somewhat-Bullish,0.288907,0.601403
+20240531T130927,AMZN,TCW Transform 500 ETF Review and Aggregate Rating (VOTE),MarketBeat,0.388018,Bullish,0.421968,0.635138
+20240531T141201,AMZN,Meet The Team - Magnite's strategy for a cookieless future,AdNews,0.178128,Somewhat-Bullish,0.260314,0.679204

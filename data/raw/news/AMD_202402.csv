@@ -1,0 +1,23 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20240201T000000,AMD,Fund selectors flock to AI and semiconductor ETFs in January,ETF Stream,0.326061,Somewhat-Bullish,0.320062,0.632223
+20240201T000000,AMD,News | RTX works with AMD to develop next-gen Multi-Chip Package,RTX,0.377338,Bullish,0.499469,1.000000
+20240202T000000,AMD,Pixels to Profits: The Changing Economics of Gaming in 2024,Simply Wall Street,0.300877,Somewhat-Bullish,0.275178,0.649253
+20240202T171222,AMD,"Exclusive | Intel Delays $20 Billion Ohio Project, Citing Slow Chip Market",The Wall Street Journal,-0.057969,Neutral,0.139875,0.716222
+20240205T000000,AMD,Intel's Lunar Lake reference laptops aim to improve power efficiency with Cirrus Logic hardware,Tom's Hardware,0.298837,Somewhat-Bullish,0.119047,0.591270
+20240206T165417,AMD,"Cadence, Avnet and Ansys launch new simulation tools for engineers",Engineering.com,0.375578,Bullish,0.349228,0.647479
+20240208T000000,AMD,21 Top Semiconductor Companies in India,Built In,0.321223,Somewhat-Bullish,0.323706,0.856216
+20240213T164615,AMD,"Going Into Earnings, Is Nvidia a Buy, a Sell, or Fairly Valued?",Morningstar,-0.116397,Neutral,-0.146540,0.741673
+20240214T164616,AMD,US-Japanese rail collaboration to inspect tracks with AI,Railway PRO,0.418056,Bullish,0.449020,1.000000
+20240221T000000,AMD,Intel Launches World’s First Systems Foundry Designed for the AI Era,Intel Newsroom,0.30878,Somewhat-Bullish,0.147261,0.574194
+20240221T040100,AMD,Intel Foundry Collaborating With Cadence On SoC Designs Using Cutting-Edge 18A Process,Wccftech,0.386992,Bullish,0.268694,0.585298
+20240221T172358,AMD,Nvidia gives upbeat forecast as AI reaches ‘tipping point’,Los Angeles Times,0.316581,Somewhat-Bullish,0.127530,0.742251
+20240223T065200,AMD,SPY ETF Reaches Record High Amid Nvidia-Fueled AI Rally—Key Chart Pattern to Watch,Investopedia,0.341527,Somewhat-Bullish,0.255949,0.567866
+20240223T130000,AMD,Intel Releases 2023 Product Security Report Highlighting Commitment to Security Assurance,Investor Relations :: Intel Corporation (INTC),0.104413,Neutral,-0.412643,0.746182
+20240223T143825,AMD,ChipMOS TECHNOLOGIES INC. (NASDAQ:IMOS) Q4 2023 Earnings Call Transcript,Yahoo Finance,0.193396,Somewhat-Bullish,0.130534,0.555092
+20240223T172840,AMD,Qualcomm CEO Cristiano Amon to Deliver Keynote Speech at COMPUTEX 2024,HPCwire,0.337869,Somewhat-Bullish,0.325455,0.639817
+20240224T070000,AMD,How Nvidia grew to a trillion-dollar company fueling the AI revolution,NBC News,0.354826,Bullish,0.142204,0.623734
+20240226T000000,AMD,Micron begins production of a 'better' HBM3E memory,eeNews Europe,0.280753,Somewhat-Bullish,0.121752,0.634921
+20240227T164616,AMD,AMD CEO Lisa Su just sold $20 million in stock. Was it ‘opportunistic’?,MarketWatch,-0.214464,Somewhat-Bearish,-0.221212,1.000000
+20240227T170739,AMD,"After Earnings and a Massive Rally, Is Nvidia Stock a Buy, a Sell, or Fairly Valued?",Morningstar,0.124329,Neutral,0.115834,0.725084
+20240227T173900,AMD,American tech is still being found in Russian weapons used in Ukraine,Straight Arrow News - SAN,-0.26447,Somewhat-Bearish,-0.226843,0.865700
+20240227T175200,AMD,TCL QD Mini LED 115 inch TV (2024): 4K IMAX Screen for gamers,LEDinside,0.157928,Somewhat-Bullish,0.317792,0.866731

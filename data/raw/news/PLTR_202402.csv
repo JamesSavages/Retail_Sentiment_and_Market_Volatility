@@ -1,0 +1,3 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20240212T070000,PLTR,Silicon Valley Has a Harvard Problem,Time Magazine,-0.011621,Neutral,0.348961,0.946785
+20240213T000000,PLTR,"After Earnings, Is Palantir Stock a Buy, a Sell, or Fairly Valued?",Morningstar,-0.211339,Somewhat-Bearish,-0.244591,1.000000

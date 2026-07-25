@@ -1,0 +1,98 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20240902T100801,AMZN,New F1 driver Colapinto shows off power of Argentina's 'unicorns',Buenos Aires Times,0.253357,Somewhat-Bullish,0.128875,0.610945
+20240903T000000,AMZN,"ODP Corp. develops AI assistant for Office Depot, Office Max associates",Retail Dive,0.33486,Somewhat-Bullish,0.320212,0.713788
+20240903T084700,AMZN,Tech Moves: F5 chief product officer Kara Sprague named CEO at security company HackerOne,GeekWire,0.169065,Somewhat-Bullish,0.136185,0.612409
+20240903T192800,AMZN,"Global data center industry to emit 2.5 billion tons of CO2 through 2030, Morgan Stanley says",Reuters,0.123225,Neutral,0.139460,0.947706
+20240904T010000,AMZN,Skift Power Rankings: Ariane Gorin,Skift,0.096541,Neutral,0.126550,0.601594
+20240904T095821,AMZN,Virginia wrestles with growing data center wait times,Axios,-0.072942,Neutral,0.148524,0.620414
+20240904T100933,AMZN,News Belgium's Bpost will boost logistics ambitions with Staci takeover,The Loadstar,0.087942,Neutral,0.130960,0.637153
+20240904T163100,AMZN,"How Nvidia doubled earnings, lost almost $300 billion in value and shook the stock market",NBC News,-0.077758,Neutral,0.068967,0.591997
+20240904T192400,AMZN,IBM CEO: We Listen to What Israel and Saudi Arabia Consider “Correct Behavior”,The Intercept,-0.346101,Somewhat-Bearish,-0.333407,0.614870
+20240905T090859,AMZN,State Street SPDR Portfolio S&P 500 ETF,ETF Database,0.358226,Bullish,0.300789,0.610053
+20240905T102708,AMZN,"Inside The Everett, downtown Nashville's new luxury apartment tower",Axios,0.165368,Somewhat-Bullish,0.107554,0.622560
+20240906T095316,AMZN,Breakingviews - Blackstone $16 bln AI deal borrows from SPAC boom,Reuters,0.177584,Somewhat-Bullish,0.220163,0.566146
+20240906T125400,AMZN,"Kroger websites, mobile apps appear to be back online following reported outages",KBTX News 3,0.038501,Neutral,0.090982,0.656188
+20240908T101824,AMZN,Could Electricity for Bitcoin Mining Become Energy for AI?,VOA - Voice of America English News,0.219299,Somewhat-Bullish,0.281280,0.606909
+20240908T103352,AMZN,"SharkNinja Luxe Café Coffee Machine: Espresso, Cold Brew & Filter Coffee on Gadget Flow",Gadget Flow,0.292034,Somewhat-Bullish,0.134844,0.612243
+20240909T000000,AMZN,4 charts on the US rotation out of growth and tech stocks,Morningstar,-0.24884,Somewhat-Bearish,-0.067285,0.705935
+20240909T000000,AMZN,"LiveOne to raise prices of its Plus, Premium subscription audio tiers",TheDesk.net,0.020433,Neutral,-0.147672,0.590989
+20240909T133600,AMZN,IBM Gains 35% in the Past Year: Reason to Buy the Stock?,Yahoo Finance,0.063704,Neutral,-0.119239,0.668560
+20240910T000000,AMZN,Salesforce CEO Reveals its ‘Next Big Transformation’,CX Today,0.187863,Somewhat-Bullish,0.133870,0.617204
+20240910T101401,AMZN,"Nvidia Faces Investor Scrutiny Over Blackwell Chip Delays, Big Revenue Expected: Report",TradingView,0.119143,Neutral,0.252181,0.622042
+20240910T102900,AMZN,"Hidden Roku trick gives you 200,000 free movies and TV shows plus 260 channels",The Sun,0.162442,Somewhat-Bullish,0.111305,0.609625
+20240911T000000,AMZN,"Oracle Expands Multicloud Capabilities with AWS, Google Cloud, and Microsoft Azure",Oracle,0.362822,Bullish,0.324026,0.702946
+20240911T000000,AMZN,Global Payments CEO reshapes the business,Payments Dive,0.054697,Neutral,0.139636,0.614845
+20240911T000000,AMZN,Hain Celestial launches two dairy products,Dairy Foods Magazine,0.374149,Bullish,0.347129,0.600092
+20240911T075821,AMZN,BlackRock Inc. Expands Stake in Repay Holdings Corp,Yahoo Finance,0.078957,Neutral,0.104104,0.571329
+20240911T090100,AMZN,Angel Studios to Become a Publicly Traded Company via Business Combination with Southport Acquisition Corporation,GlobeNewswire,0.223836,Somewhat-Bullish,0.107543,0.648482
+20240911T132600,AMZN,Former Owner of Jeff Bezos' 'Billionaire Bunker' Estate Suing Realtor,TMZ,-0.084673,Neutral,-0.143138,0.733940
+20240912T030000,AMZN,FedEx Launches Picture Proof of Delivery for Residential Deliveries in Malaysia,FedEx newsroom,0.397203,Bullish,0.317008,0.633337
+20240912T094953,AMZN,Beyond Inc. chairman: “I see something totally different”,Home Textiles Today,0.297358,Somewhat-Bullish,0.236588,0.608370
+20240912T104132,AMZN,Massive Microsoft data center brings new promise - and water and energy challenges - to Racine County.,Milwaukee Journal Sentinel,0.092795,Neutral,0.012458,0.615855
+20240913T000000,AMZN,Sponsored Content: A New Path to Financial Mobility,Politico,0.298834,Somewhat-Bullish,0.312649,0.649243
+20240913T000000,AMZN,Kroger ‘committed to closing the merger’ with Albertsons,Food Business News,0.117007,Neutral,0.112829,0.648498
+20240913T000000,AMZN,Kroger zeroes in on customer experience to build loyalty and sales,Customer Experience Dive,0.222307,Somewhat-Bullish,0.131439,0.600653
+20240913T113923,AMZN,Jacobs Solutions announces record date and distribution date for the spin-off of its Critical Mission Solutions and Cyber & Intelligence Government Services businesses,Jacobs,0.163872,Somewhat-Bullish,0.126826,0.624134
+20240916T000000,AMZN,Why investors park billions in high-fee legacy ETFs,ETF Stream,0.040948,Neutral,0.008020,0.576388
+20240916T000000,AMZN,"Intel and AWS Expand Strategic Collaboration, Helping Advance U.S.-Based Chip Manufacturing",Intel Newsroom,0.380267,Bullish,0.401600,0.923311
+20240916T000000,AMZN,"Pat Gelsinger on Foundry Momentum, Progress on Plan",Intel Newsroom,0.386894,Bullish,0.328637,0.734341
+20240916T094617,AMZN,How to invest in Artificial Intelligence (AI),Unbiased,0.417986,Bullish,0.364541,0.624754
+20240916T103352,AMZN,SNL Comedian Fineman Promotes Ninja Luxe Café Coffee System,HomePage News,0.214056,Somewhat-Bullish,0.336533,0.613359
+20240916T114004,AMZN,"Pacer MSCI World Industry Advantage ETF ETF Price, Holdings, & News (BATS:GLBL)",MarketBeat,0.344735,Somewhat-Bullish,0.336919,0.738631
+20240916T135400,AMZN,Big tech firms balk at Ohio electric utility demand to pay for grid upgrades,New York Post,-0.246889,Somewhat-Bearish,-0.202463,0.704501
+20240916T141500,AMZN,Amazon CEO calls workers back to the office 5 days a week,The Business Journals,0.121328,Neutral,0.109470,0.941258
+20240916T174100,AMZN,"Amazon CEO Vows Leaner Teams Amid Bloat, Ends Work From Home",Bloomberg.com,0.223498,Somewhat-Bullish,0.223054,1.000000
+20240917T000000,AMZN,"Talkspace Goes Retail, Partners with Amazon’s Health Business",Behavioral Health Business,0.387019,Bullish,0.321661,0.703286
+20240917T000000,AMZN,Asana Appoints Josh Abdulla as Head of Customer Experience,Asana,0.22794,Somewhat-Bullish,0.115730,0.588645
+20240917T094547,AMZN,U.S. utility solar market has grown 34% since Q2 2023,Solar Power World,0.275253,Somewhat-Bullish,0.217538,0.634150
+20240917T095727,AMZN,Signals from Salesforce: Data integration and gen AI in focus,SiliconANGLE,0.274356,Somewhat-Bullish,0.103231,0.608652
+20240917T152600,AMZN,Kroger and Albertsons prepare to make a final federal court argument for their merger,Colorado Public Radio,0.060105,Neutral,0.149032,0.630925
+20240917T231600,AMZN,Portland judge considers fate of the Kroger-Albertsons supermarket mega-merger,Oregon Public Broadcasting - OPB,0.025082,Neutral,0.129004,0.648761
+20240918T000000,AMZN,Inside closing arguments from the FTC’s challenge to Kroger-Albertsons merger,Grocery Dive,0.000934,Neutral,0.125016,0.616885
+20240918T095314,AMZN,Here's What's Going On With That Class-Action Lawsuit Against MrBeast And Amazon,BuzzFeed,-0.223511,Somewhat-Bearish,-0.344004,0.976013
+20240918T095525,AMZN,Spectrum Reach Makes Ad Deal With Amazon to Give Local Business Access to More Streaming Inventory,Nexttv,0.389825,Bullish,0.302862,0.866834
+20240918T142100,AMZN,Amazon Boosts Warehouse Worker Pay By at Least $1.50 an Hour,Bloomberg.com,0.152664,Somewhat-Bullish,0.159547,1.000000
+20240919T133800,AMZN,Progyny’s stock slides 31% after company discloses loss of key client,MarketWatch,-0.510813,Bearish,-0.301051,0.716692
+20240919T173900,AMZN,FedEx Cuts Forecast After Tough Quarter for Deliveries,Transport Topics,-0.252177,Somewhat-Bearish,-0.138849,0.578449
+20240920T000000,AMZN,Survey: Nearly one-third of consumers have thrifted in past year,Chain Store Age,0.21904,Somewhat-Bullish,0.109497,0.621918
+20240920T000000,AMZN,CarMax CEO William Nash joins eBay board of directors,FashionUnited UK,0.332894,Somewhat-Bullish,0.224327,0.643577
+20240920T102904,AMZN,"Nearly 138,000 Beds Recalled Because They Can Collapse During Use",iHeart,-0.178888,Somewhat-Bearish,-0.235819,0.645041
+20240920T113000,AMZN,Amazon Wants to Kill the Dreaded Meeting to Discuss the Meeting,Bloomberg.com,0.210728,Somewhat-Bullish,0.234268,1.000000
+20240923T000000,AMZN,Kroger SWOT Analysis (2025),Business Model Analyst,-0.10473,Neutral,-0.123693,0.736687
+20240923T000000,AMZN,"Amazon.com, Inc.",International Trade Union Confederation,-0.714502,Bearish,-0.704370,1.000000
+20240923T070900,AMZN,"One of America’s most iconic retail chains, Kmart, set to close last full-size store in US",New York Post,-0.039839,Neutral,-0.114712,0.622055
+20240923T094746,AMZN,Report: Apollo Global Management Offers $5 Billion Investment in Intel,PYMNTS.com,0.133722,Neutral,0.145834,0.567987
+20240924T000000,AMZN,Artificial Intelligence and Adaptive Portfolio Management,ETF Trends,0.246622,Somewhat-Bullish,0.324031,0.633078
+20240924T095801,AMZN,Commvault To Boost AWS Capabilities With $47 Million Clumio Purchase,CRN,0.263199,Somewhat-Bullish,0.319030,0.746052
+20240924T102027,AMZN,Microsoft announces $1.3 billion USD investment in Cloud and AI infrastructure supporting inclusive growth through technology and skilling programs in Mexico,Microsoft Source,0.350363,Bullish,0.265230,0.583202
+20240924T103437,AMZN,"Spotify expands AI Playlist feature to four new markets, including U.S. and Canada",The Globe and Mail,0.183701,Somewhat-Bullish,0.141211,0.704045
+20240925T000000,AMZN,"Artificial intelligence to drive future U.S. natural gas demand, EQT CEO predicts",World Oil,0.154493,Somewhat-Bullish,0.123872,0.632873
+20240925T000000,AMZN,NetApp Powers the Future of AI with Intelligent Data Infrastructure,IT Voice Media,0.289368,Somewhat-Bullish,0.241446,0.612421
+20240925T083000,AMZN,PTC Announces Strategic Collaboration Agreement with AWS to Help Companies Design Products Faster and Easier with Onshape,PR Newswire,0.48835,Bullish,0.741387,0.712864
+20240925T101038,AMZN,Nashville's growing health care industry nabs $3M corporate expansion,The Tennessean,0.335021,Somewhat-Bullish,0.213190,0.637188
+20240925T102530,AMZN,Payments firm Payoneer to adopt localised approach for expanding user base in India,The Economic Times,0.540089,Bullish,0.335379,0.628914
+20240925T104400,AMZN,NetApp redefining hyperscaler partnerships for AI storage,SiliconANGLE,0.34334,Somewhat-Bullish,0.300337,0.732156
+20240926T000000,AMZN,Commvault acquisition of Clumio for S3 speaks volumes,TechTarget,0.112998,Neutral,0.120974,0.344183
+20240926T000000,AMZN,Why We Believe Gold Stocks Are the Hidden Opportunity in 2024’s Bull Market,USFunds,0.027597,Neutral,-0.224450,0.632978
+20240926T000000,AMZN,Kraft Heinz brings procurement expertise to Rise Against Hunger,Supply Chain Dive,0.241081,Somewhat-Bullish,0.141128,0.593508
+20240926T000000,AMZN,Nordstrom veteran joins eBay as chief comms officer,Chain Store Age,0.219962,Somewhat-Bullish,0.103785,0.625367
+20240926T153200,AMZN,Salesforce Agentforce AI and insights from Dreamforce,SiliconANGLE,0.337739,Somewhat-Bullish,0.317750,0.606842
+20240926T161700,AMZN,"InterDigital, IBD Stock Of The Day, Flirts With Buy Point After Analyst Day",Investor's Business Daily,0.320174,Somewhat-Bullish,0.303164,0.656811
+20240927T000000,AMZN,THE FRIDAY 5: New Leader at Stop & Shop; Kroger Prepares for 3rd Court Battle,Progressive Grocer,0.089139,Neutral,0.139748,0.733022
+20240927T094910,AMZN,Three ways Private AI puts organisations in the driving seat for innovation,Broadcom,0.331565,Somewhat-Bullish,0.308537,0.616321
+20240927T101302,AMZN,IonQ Announces $54.5 Million Contract with United States Air Force Research Lab,The Quantum Insider,0.203857,Somewhat-Bullish,0.288556,0.605318
+20240927T124400,AMZN,American Eagle’s Suit Against Amazon Puts ‘Dupe Culture’ in the Spotlight,Retail TouchPoints,-0.075437,Neutral,0.142256,0.931080
+20240927T133920,AMZN,Why Is IonQ Stock Trading Higher On Friday?,Benzinga,0.305133,Somewhat-Bullish,0.304190,0.602816
+20240927T162100,AMZN,Betting On China As It Brings Out The Big Guns,Sahm,0.228827,Somewhat-Bullish,0.219815,0.729698
+20240927T195712,AMZN,AI Mania in Fine Fettle: ETFs to Invest,TradingView,0.189418,Somewhat-Bullish,0.317970,0.708618
+20240928T095201,AMZN,Big problems for big furniture store chain with 14 NJ locations,WPG Talk Radio 95.5 FM,-0.080523,Neutral,-0.114485,0.523054
+20240930T000000,AMZN,Intuit embraces LLM choice for multiple use cases,Constellation Research,0.303792,Somewhat-Bullish,0.327332,0.633045
+20240930T000000,AMZN,KT strikes multibillion-dollar AI deal with Microsoft,TelecomTV,0.267182,Somewhat-Bullish,0.338237,0.637366
+20240930T000000,AMZN,The Beachbody Company Evolves Core Business Model with Updated Omnichannel Approach Focused on Accelerating Path to Profitable Growth,Business Wire,0.241853,Somewhat-Bullish,0.112062,0.627729
+20240930T054200,AMZN,Goldman Sachs Reiterates Buy Rating on Jabil (JBL),StreetInsider,0.303698,Somewhat-Bullish,0.328087,0.628593
+20240930T103414,AMZN,"Sony Pictures CEO Tony Vinciquerra to step down, succeeded by Ravi Ahuja",Los Angeles Times,-0.019288,Neutral,0.103742,0.644549
+20240930T111900,AMZN,"Amazon draws more ad commitments than expected, in positive news for stock",MarketWatch,0.152327,Somewhat-Bullish,0.420164,1.000000
+20240930T111900,AMZN,"Amazon draws more ad commitments than expected, in positive news for stock",MarketWatch,0.282996,Somewhat-Bullish,0.428051,1.000000
+20240930T133637,AMZN,"NBXG: Deep Discount, Attractive Yield On This Technology Fund With A Termination Date",Seeking Alpha,0.373505,Bullish,0.344683,0.612159
+20240930T195800,AMZN,"CVS is working with advisors on strategic review, sources say",CNBC,-0.235398,Somewhat-Bearish,-0.132254,0.618783
+20240930T202100,AMZN,"Focus: MercadoLibre, Latam's Amazon.com rival, rides high with AI, loans, drones",Reuters,0.2772,Somewhat-Bullish,0.127603,0.645285

@@ -1,0 +1,46 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20231003T000000,AMZN,Best Buy joins growing list of retailers entering the healthcare space,MarketWatch.com Webstory,0.234293,Somewhat-Bullish,0.213050,0.726310
+20231003T075100,AMZN,St. Charles casino partners with Amazon to open AI-powered store,KSDK,0.446646,Bullish,0.446398,1.000000
+20231003T120000,AMZN,Lina Khan Is Wrong About Amazon and Antitrust,Bloomberg.com,0.011698,Neutral,0.026033,0.325805
+20231003T204641,AMZN,"Women In Toys, Licensing & Entertainment Unveils 2023 Wonder Women Award Winners in NYC",aNb Media,0.310179,Somewhat-Bullish,0.320798,0.626014
+20231004T110857,AMZN,JPMorgan Hedged Equity Laddered Overlay ETF,ETF Database,0.365389,Bullish,0.301818,0.615386
+20231004T202836,AMZN,Suunto Unveils Plans for U.S. Direct Distribution,SGB Media Online,0.177118,Somewhat-Bullish,0.240095,0.640640
+20231005T000000,AMZN,Amex pilots biometrics in online checkout,Payments Dive,0.185794,Somewhat-Bullish,0.202723,0.640786
+20231005T114400,AMZN,Amazon Global Communications Operations Undergo Layoffs,Deadline,-0.322639,Somewhat-Bearish,-0.339848,1.000000
+20231005T202951,AMZN,Blackberry to Split in Two: Why We Like the Idea,Morningstar,0.20744,Somewhat-Bullish,0.188776,0.629157
+20231009T140955,AMZN,Moat Investing Rises Above Magnificent Seven Dominance,VanEck,0.19653,Somewhat-Bullish,0.138035,0.621161
+20231009T203435,AMZN,"Nexstar Says ‘Not So Fast,’ Claims Broadcast Is Future of TV",Nexttv,0.083056,Neutral,-0.142664,0.597775
+20231010T145513,AMZN,"Amazon, McDonald's, Chuck E. Cheese and InterContinental Hotels Group respond to Trafficking Inc. investigation",International Consortium of Investigative Journalists - ICIJ,-0.081944,Neutral,-0.100369,0.951526
+20231010T204437,AMZN,"AdvaMed elevates digital health center to division, names board",MedTech Dive,0.286103,Somewhat-Bullish,0.218652,0.563144
+20231010T210610,AMZN,"SLB, AWS and Shell Collaborate to Accelerate OSDU® Data Platform Adoption",SLB,0.375744,Bullish,0.331780,0.747369
+20231011T205926,AMZN,PacBio Announces Complete Computational Workflow for Human Whole Genome Sequencing Data Analysis,PacBio,0.284569,Somewhat-Bullish,0.120796,0.540264
+20231012T124800,AMZN,BREAKING/EXCLUSIVE on The Bits: Best Buy is exiting the physical media business for good in 2024 [UPDATED],The Digital Bits,-0.045776,Neutral,0.086152,0.731590
+20231012T132807,AMZN,"Stagwell (STGW) Acquires Left Field Labs, Deepening Technology Capabilities in AI, Digital Transformation and Immersive Experiences",Stagwell,0.291863,Somewhat-Bullish,0.232575,0.556126
+20231012T202808,AMZN,IWF ETF: Be Cautious Of High Valuations (NYSEARCA:IWF),Seeking Alpha,-0.154948,Somewhat-Bearish,-0.117766,0.626760
+20231013T000000,AMZN,Generative AI Delivers a Boost to Cloud Computing,Global X ETFs,0.335306,Somewhat-Bullish,0.413195,0.845454
+20231013T102600,AMZN,"On Amazon, eBay, and Shopify, AI is the new third-party seller",CNBC,0.31183,Somewhat-Bullish,0.317227,0.935341
+20231014T203011,AMZN,"Best Buy Quits Physical Media Business: No More Blu-rays, DVDs",Tom's Hardware,-0.095829,Neutral,0.142400,0.630057
+20231016T145559,AMZN,Gartner Identifies the Top 10 Strategic Technology Trends for 2024,Gartner,0.313319,Somewhat-Bullish,0.314510,0.625657
+20231016T145630,AMZN,"JD.com: Fair Value Slashed by 51% to USD 43; Our Order of Preference is PDD, Alibaba, and JD.com",Morningstar,0.019955,Neutral,0.012238,0.335705
+20231018T202748,AMZN,"Amazon Pharmacy lifts off with first drone deliveries in College Station, Texas",SiliconANGLE,0.288206,Somewhat-Bullish,0.428415,1.000000
+20231018T203900,AMZN,Stanford’s AI transparency index shows foundational models are shrouded in secrecy,SiliconANGLE,-0.054512,Neutral,0.030388,0.609007
+20231018T210653,AMZN,Sonos chops $100 off the price of its first-gen Move speaker,TechHive,0.170015,Somewhat-Bullish,0.003288,0.629259
+20231018T211237,AMZN,Victoria’s Secret and Pink launch adaptive intimates collection,Retail Dive,0.248456,Somewhat-Bullish,0.140544,0.600986
+20231019T145115,AMZN,"Retail Sales Rise 0.7% in September, Stronger Than Expected",ETF Trends,0.3776,Bullish,0.315792,0.609304
+20231019T203012,AMZN,The Basics of DC-to-DC Marine Battery Chargers,Boating Mag,0.211474,Somewhat-Bullish,0.100798,0.628324
+20231020T115800,AMZN,"With More Business Built on Carbon Capture, SLB CEO Says Natural Gas Key to Energy Transition",Natural Gas Intelligence,0.316666,Somewhat-Bullish,0.125490,0.639425
+20231020T143123,AMZN,EXCLUSIVE: Franklin Templeton Optimistic About Emerging Markets,WealthBriefing,0.330386,Somewhat-Bullish,0.299609,0.623497
+20231020T202713,AMZN,Allstate’s cloud-first approach to digital transformation pays off,CIO,0.2275,Somewhat-Bullish,0.254269,0.636009
+20231023T151452,AMZN,"After Earnings, Is Netflix Stock a Buy, a Sell, or Fairly Valued?",Morningstar,0.078115,Neutral,0.006371,0.611378
+20231023T202544,AMZN,Apple to spend $1 billion on AI in catch-up move: report,Fox Business,0.233798,Somewhat-Bullish,0.238325,0.637402
+20231023T205142,AMZN,Opinion: Why the Kroger-Albertsons Merger Is Good for Union Workers,Progressive Grocer,-0.046194,Neutral,-0.131897,0.710004
+20231024T103917,AMZN,Goldman Sachs Nasdaq-100 Premium Income ETF Holdings,Quiver Quantitative,0.222492,Somewhat-Bullish,0.214983,0.602525
+20231025T133000,AMZN,Top 10 Cloud Security Companies,Investing News Network,0.33756,Somewhat-Bullish,0.301760,0.794544
+20231025T203815,AMZN,More tech coming for Schwab advisors,InvestmentNews,0.104923,Neutral,0.000216,0.612167
+20231026T093000,AMZN,Cineverse's Midnight Pulp Streaming Service Now Available for the First Time as an SVOD Add-On for Third-Party Platforms,PR Newswire,0.278141,Somewhat-Bullish,0.174050,0.609827
+20231026T210637,AMZN,Nasdaq 100 outlook: How will Amazon earnings impact AMZN stock?,FOREX.com,0.045347,Neutral,0.117645,1.000000
+20231027T204554,AMZN,Understanding Artificial Intelligence (AI) | Infographic,USFunds,0.283316,Somewhat-Bullish,0.256104,0.600070
+20231030T203605,AMZN,The Corsair K55 RGB Pro Gaming Keyboard is only £40 at Amazon,Eurogamer,0.358792,Bullish,0.302231,0.705692
+20231030T205850,AMZN,Omnicom boosts retail media offer with Flywheel Digital acquisition,Marketing Dive,0.308509,Somewhat-Bullish,0.243921,0.600136
+20231031T000000,AMZN,Microsoft Edged Out Its Cloud Computing Competitors in Q3,ETF Trends,0.143581,Neutral,-0.233411,0.749869
+20231031T204016,AMZN,EPAM Signs Strategic Collaboration Agreement with AWS to Help Organizations Become Cloud-Native,EPAM,0.377974,Bullish,0.315601,0.744173

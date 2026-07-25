@@ -1,0 +1,23 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20230501T005843,META,Monument class action alleges telehealth platform shared personal health info with third parties,Class Action Lawsuits,-0.259233,Somewhat-Bearish,-0.275554,0.896291
+20230502T101500,META,5 Amazing Ways Meta (Facebook) Is Using Generative AI,Forbes,0.151933,Somewhat-Bullish,0.298254,1.000000
+20230502T154000,META,"3M laying off 1,100 at Maplewood headquarters",Star Tribune,-0.290243,Somewhat-Bearish,-0.205979,0.641112
+20230504T000000,META,40 Under 40: Champions of Construction 2022,Autodesk,0.368062,Bullish,0.404432,0.612289
+20230504T005843,META,CII Opposes Admitting Dual-Class Stock to S&P Indexes,www.ai-cio.com,0.212054,Somewhat-Bullish,0.141853,0.773694
+20230514T063500,META,Peter Thiel's Palantir Sees Skyrocketing Demand for AI Technologies: What Its CEO Has to Say,Nasdaq,0.259194,Somewhat-Bullish,0.128545,0.629208
+20230515T082900,META,Former ByteDance executive says he was dismissed for flagging illegal activity,Reuters,0.032015,Neutral,0.039696,0.346795
+20230516T134900,META,FTC Sues to Block Amgen’s Acquisition of Horizon Therapeutics,Investopedia,-0.212269,Somewhat-Bearish,-0.132993,0.604147
+20230522T011540,META,"3 Tech Stocks That Could Turn $1,000 into $10,000 by 2030",InvestorPlace,0.376829,Bullish,0.314448,0.622056
+20230523T011223,META,Shutterstock to Acquire Giphy from Meta for $53M,PetaPixel,0.193215,Somewhat-Bullish,0.124025,0.835562
+20230523T040247,META,"Fidelity Crypto Industry and Digital Payments ETF ETF Price, Holdings, & News (NASDAQ:FDIG)",MarketBeat,0.139616,Neutral,0.138333,0.617975
+20230523T045900,META,Giphy Sold by Meta at a Loss to Shutterstock for $53 Million,Variety,-0.056915,Neutral,-0.435785,0.840790
+20230523T070851,META,FTQI Top Holdings List & Exposure (First Trust NASDAQ BuyWrite Income ETF),MarketBeat,0.108929,Neutral,0.125142,0.878961
+20230523T145224,META,"GraniteShares 2x Long COIN Daily ETF ETF Price, Holdings, & News (NASDAQ:CONL)",MarketBeat,-0.024403,Neutral,0.132110,0.610044
+20230523T175238,META,"GraniteShares 2x Long META Daily ETF (FBL) Price, Holdings, & News",MarketBeat,0.235328,Somewhat-Bullish,0.307566,0.856930
+20230524T171013,META,"Spear Alpha ETF ETF Price, Holdings, & News (NASDAQ:SPRX)",MarketBeat,0.332253,Somewhat-Bullish,0.330508,0.619915
+20230525T040934,META,ETF of the Week: Goldman Sachs Hedge Industry VIP ETF (GVIP),ETF Trends,0.361813,Bullish,0.340988,0.723922
+20230525T195308,META,ETF of the Week: Goldman Sachs Hedge Industry VIP ETF (GVIP),ETF Trends,0.168093,Somewhat-Bullish,0.121809,0.724326
+20230526T000000,META,"Google announces US-Taiwan-Philippines cable with Chunghwa, Globe, and AT&T",Data Center Dynamics,0.263489,Somewhat-Bullish,0.221657,0.649872
+20230526T220947,META,"Right-wing investment fund dumps Target stock over ‘woke’ agenda, adds retailer to ‘refuse to buy’ list",New York Post,-0.183546,Somewhat-Bearish,0.038428,0.595002
+20230528T010236,META,NVIDIA Announces DGX GH200 AI Supercomputer,NVIDIA Newsroom,0.387171,Bullish,0.346723,0.746154
+20230530T011849,META,WPP shakes up creative process with AI-powered content engine,Marketing Dive,0.283115,Somewhat-Bullish,-0.138171,0.589074

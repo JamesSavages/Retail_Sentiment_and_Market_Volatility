@@ -1,0 +1,45 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20240102T085135,AMD,SOXQ and PNQI Among Invesco’s Top-Performing ETFs in 2023,ETF Trends,0.356026,Bullish,0.323784,0.628692
+20240102T174959,AMD,Netherlands Blocks ASML Exports of Some Chip-Making Equipment to China,The Wall Street Journal,-0.288347,Somewhat-Bearish,-0.309808,0.640470
+20240102T183752,AMD,The U.S.-China Chip War: Who Dares to Win?,Citigroup,-0.02905,Neutral,0.107490,0.628607
+20240103T235200,AMD,Cerebras Systems Appoints Shirley Li as General Counsel,Business Wire,0.121272,Neutral,0.131557,0.615970
+20240104T020500,AMD,"Microchip wins $72 million federal CHIPS Act grant, Oregon’s first, for Gresham expansion",OregonLive.com,0.339781,Somewhat-Bullish,0.323137,0.640293
+20240104T164500,AMD,US plans $162 million award to Microchip Technology to boost production,Reuters,0.45718,Bullish,0.346331,0.738140
+20240105T182435,AMD,Nvidia Gains as Bank of America Names It Top Sector Pick on 'GenAI Dominance',Investopedia,0.363515,Bullish,0.238406,0.586639
+20240108T174819,AMD,AMD Reveals Next-Gen Desktop Processors for Extreme PC Gaming and Creator Performance,AMD,0.350961,Bullish,0.478221,1.000000
+20240108T181455,AMD,Why Intel has declined to participate in the Science Based Targets initiative,Trellis Group (formerly GreenBiz),0.103277,Neutral,0.116596,0.730403
+20240109T174625,AMD,Aehr Reports Strong Revenue and Earnings Growth for the Second Quarter and First Six Months of Fiscal 2024,Aehr Test Systems,0.187929,Somewhat-Bullish,0.174507,0.602283
+20240110T000000,AMD,Analog Devices Deploys SambaNova Suite to Facilitate Breakthrough Generative AI Capabilities at Enterprise Scale,SambaNova,0.369832,Bullish,0.345541,0.649709
+20240110T130929,AMD,Top Performing Leveraged/Inverse ETFs: 01/07/2024,ETF Trends,-0.208018,Somewhat-Bearish,-0.241000,0.634923
+20240110T174812,AMD,"Ambarella edge AI platform integrates hardware, tools and AI models",Embedded-Control-Europe,0.528119,Bullish,0.329259,0.617251
+20240110T175858,AMD,Inside HPE’s acquisition of Juniper Networks and the battle for networking supremacy,SiliconANGLE,0.162641,Somewhat-Bullish,0.123374,0.634796
+20240111T075201,AMD,SHOC Stock Fund Price and Chart — NYSE:SHOC,TradingView,0.300978,Somewhat-Bullish,0.325322,0.616911
+20240111T191800,AMD,CORSAIR Pledges PSU Support for GeForce RTX 40 SUPER Series GPUs,TechPowerUp,0.349111,Somewhat-Bullish,0.102475,0.630768
+20240114T104300,AMD,"Infosys announces its first acquisition of the year 2024, here are the details",Times of India,0.309373,Somewhat-Bullish,0.200785,0.606503
+20240115T000000,AMD,Optimizing Communication and Data Sharing in Multi-Core SoC Designs,Design And Reuse,0.292936,Somewhat-Bullish,0.214262,0.333107
+20240115T175349,AMD,"3D CAD Market Next Big Thing | Bentley Systems, 3D Systems, Autodesk, Aveva Group, Hexagon, Ironcad",openPR.com,0.341711,Somewhat-Bullish,0.240550,0.628551
+20240116T000000,AMD,"Synopsys to Acquire Ansys, Creating a Leader in Silicon to Systems Design Solutions",Synopsys,0.42899,Bullish,0.307073,0.625879
+20240117T181725,AMD,Which companies are ‘Most Admired for HR’? Here are the leaders,HR Executive,0.331316,Somewhat-Bullish,0.313911,0.722382
+20240117T182148,AMD,3 Themes for 2024 and Beyond,Morgan Stanley,0.282327,Somewhat-Bullish,0.253392,0.633050
+20240118T161900,AMD,Nvidia and AMD shares hit record highs on AI chip surge,CNBC,0.402538,Bullish,0.380743,0.932264
+20240118T181600,AMD,Mark Zuckerberg indicates Meta is spending billions of dollars on Nvidia AI chips,CNBC,0.279814,Somewhat-Bullish,0.101024,0.621750
+20240118T183551,AMD,"AST SpaceMobile Secures Strategic Investment From AT&T, Google and Vodafone",Business Wire,0.398643,Bullish,0.331062,0.615381
+20240123T110857,AMD,T-Rex 2X Long Tesla Daily Target ETF (TSLT) Options Chain & Prices 2025,MarketBeat,0.034744,Neutral,0.028499,0.622197
+20240124T000000,AMD,Top 10 Semiconductor IP Companies | A Reusable Technology,Market.us Scoop,0.428286,Bullish,0.338243,0.601266
+20240124T153700,AMD,Missed the boat on AMD’s stock surge? Why this analyst says you’re not too late.,MarketWatch,0.435156,Bullish,0.447639,1.000000
+20240124T175850,AMD,The Best Desktop PCs: Early 2024,TechSpot,0.282867,Somewhat-Bullish,0.217052,0.630965
+20240125T113000,AMD,Nvidia billionaire Jensen Huang dines with TSMC execs in Taiwan to discuss the great AI chip shortage,Fortune,0.330373,Somewhat-Bullish,0.317854,0.718911
+20240125T181100,AMD,Intel stock sinks more than 10% as early 2024 outlook comes up short,CNBC,0.078261,Neutral,0.275621,0.631252
+20240125T181925,AMD,"Lam Research delivers strong results, forecast as electronics demand recovers",Telecom News,0.365447,Bullish,0.333620,0.617816
+20240125T182256,AMD,Newegg Debuts Newegg Refreshed Program to Offer Quality Resale Products at Low Prices,Business Wire,0.313602,Somewhat-Bullish,0.237562,0.635013
+20240129T105800,AMD,AMD earnings are around the corner: This number could be the ‘swing factor’,MarketWatch,0.199401,Somewhat-Bullish,0.405730,1.000000
+20240129T151005,AMD,Should You Invest in the Invesco AI and Next Gen Software ETF (IGPT)?,TradingView,0.351633,Bullish,0.335144,0.700395
+20240129T181759,AMD,Rebellions Inc. Raises $124M in Series B Funding to Accelerate AI Chip Development,Maginative,0.302563,Somewhat-Bullish,0.412001,0.719025
+20240130T000000,AMD,ESG Investing in “Democratic” Companies,Capital Research Center,0.11167,Neutral,0.118553,0.644138
+20240130T075800,AMD,"As AMD earnings approach, this bull is cooling his enthusiasm for the stock",MarketWatch,0.100037,Neutral,0.126677,1.000000
+20240130T174818,AMD,AMD Q4 2023 Earnings Call: Listen Live and Follow Along with the Real-Time Transcript,AlphaStreet News,0.276111,Somewhat-Bullish,0.262162,1.000000
+20240131T000000,AMD,"Intel, UMC to collaborate on chip fabs",Manufacturing Dive,0.315214,Somewhat-Bullish,0.209045,0.602189
+20240131T000000,AMD,AMD Earnings: AI GPU Revenue Is On the Rise,Morningstar Canada,0.276058,Somewhat-Bullish,0.296185,1.000000
+20240131T062900,AMD,"2 Unstoppable Technology ETFs That Could Turn $100,000 Into $1 Million Over the Next 30 Years",The Motley Fool,0.289849,Somewhat-Bullish,0.369474,0.833921
+20240131T111400,AMD,15 semiconductor companies that have followed Nvidia's lead in two key areas,MarketWatch,0.262549,Somewhat-Bullish,0.313197,0.625783
+20240131T174734,AMD,"Astera Labs uses CXL to accelerate AI, expand memory",TechTarget,0.170344,Somewhat-Bullish,0.167338,0.605680

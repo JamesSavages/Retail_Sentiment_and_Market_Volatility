@@ -1,0 +1,14 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20231002T183900,META,Elon Musk's X hit with trademark lawsuit from marketing agency,Reuters,-0.180539,Somewhat-Bearish,-0.146856,0.605778
+20231006T210003,META,Procore puts name atop Sixth Street office tower,The Business Journals,0.118977,Neutral,-0.179524,0.600990
+20231010T000000,META,"Top Performing ETFs: Gold, Income ETFs Top the Charts",ETF Trends,0.357105,Bullish,0.279792,0.616779
+20231011T000000,META,"Costco Sued, Accused Of Sharing Confidential Health Data With Facebook",Yahoo Finance,-0.255623,Somewhat-Bearish,-0.257306,0.832408
+20231011T185216,META,"REX FANG & Innovation Equity Premium Income ETF (FEPI) Price, Holdings, & News",MarketBeat,0.306958,Somewhat-Bullish,0.300240,0.715919
+20231011T205810,META,"Who owns the news? Mail titles, News UK and Reach dominate, report finds",Press Gazette,-0.090354,Neutral,-0.208462,0.898628
+20231012T132807,META,"Stagwell (STGW) Acquires Left Field Labs, Deepening Technology Capabilities in AI, Digital Transformation and Immersive Experiences",Stagwell,0.287045,Somewhat-Bullish,0.232145,0.570235
+20231013T102600,META,"On Amazon, eBay, and Shopify, AI is the new third-party seller",CNBC,0.32127,Somewhat-Bullish,0.292183,0.609600
+20231016T200000,META,Biden campaign joins Donald Trump’s Truth Social platform,The Verge,0.220743,Somewhat-Bullish,0.133739,0.608233
+20231018T203900,META,Stanford’s AI transparency index shows foundational models are shrouded in secrecy,SiliconANGLE,-0.031572,Neutral,-0.107155,0.883715
+20231018T205426,META,"Authors sue Meta, Microsoft, Bloomberg in latest AI copyright clash",Reuters,-0.26855,Somewhat-Bearish,-0.448804,1.000000
+20231019T090700,META,Micron Low-Power Memory Solution Boosts Mixed and Virtual Reality Experiences on Snapdragon XR2 Gen 2,TechPowerUp,0.462835,Bullish,0.329072,0.604423
+20231023T202544,META,Apple to spend $1 billion on AI in catch-up move: report,Fox Business,0.264963,Somewhat-Bullish,0.213152,0.608717

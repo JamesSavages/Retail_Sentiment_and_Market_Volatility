@@ -1,0 +1,98 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20240601T000000,MSFT,"MSP Update: N-able Reportedly Exploring Sale, More",MSSP Alert,0.141457,Neutral,0.134784,0.641500
+20240602T124045,MSFT,"AMD Extends AI and High-Performance Leadership in Data Center and PCs with New AMD Instinct, Ryzen and EPYC Processors at Computex 2024",AMD,0.424309,Bullish,0.348253,0.645869
+20240602T130404,MSFT,New Initiatives in White House Summit on Nuclear Energy,Neutron Bytes,0.262433,Somewhat-Bullish,0.291052,0.600935
+20240602T131040,MSFT,NVIDIA Brings AI Assistants to Life With GeForce RTX AI PCs,NVIDIA Investor Relations,0.318325,Somewhat-Bullish,0.226435,0.642027
+20240602T131040,MSFT,"NVIDIA NIM Revolutionizes Model Deployment, Now Available to Transform World’s Millions of Developers Into Generative AI Developers",NVIDIA Investor Relations,0.405147,Bullish,0.251804,0.565370
+20240603T000000,MSFT,"After Earnings, Is Salesforce Stock a Buy, Sell, or Fairly Valued?",Morningstar,0.103054,Neutral,-0.102688,0.645788
+20240603T032700,MSFT,"AMD announces new AI chips amid intensifying competition with Nvidia, Intel",CNBC,0.221961,Somewhat-Bullish,0.128934,0.595641
+20240603T063600,MSFT,Qualcomm Says Laptop Users Will Leave Power Bricks Behind,Bloomberg.com,0.276317,Somewhat-Bullish,0.224923,0.616507
+20240603T075800,MSFT,大模型，正在排队寻求卖身,新浪网,0.134959,Neutral,0.230159,0.737891
+20240603T123905,MSFT,Meet FlexiHub 7.0 With QUIC Protocol Support for Better Security,Newswire,0.110951,Neutral,0.215803,0.613867
+20240603T130249,MSFT,LA500 2024: Stephen G. Berman,Los Angeles Business Journal,0.136916,Neutral,0.141537,0.619126
+20240603T131000,MSFT,GenAI ‘Is A Once-In-A-Generation Move’: ServiceNow CEO Bill McDermott,CRN,0.376862,Bullish,0.105037,0.620439
+20240603T132243,MSFT,A Guide To Cannes Lions Festival of Creativity 2024,Outbrain,-0.104568,Neutral,-0.069677,0.558633
+20240604T124100,MSFT,Which AI Stocks Are Turning Hype Into Revenue?,Morningstar,0.255074,Somewhat-Bullish,0.335786,0.811245
+20240604T130442,MSFT,"Korea’s KT, Microsoft form strategic alliance on AI, cloud sectors",KED Global,0.209735,Somewhat-Bullish,0.411856,0.964009
+20240604T130653,MSFT,"After Earnings, Is MongoDB Stock a Buy, a Sell, or Fairly Valued?",Morningstar,0.088439,Neutral,0.128943,0.649541
+20240604T130712,MSFT,估值1000亿，辍学90后华裔天才，刚刚融了72亿,新浪财经,0.243921,Somewhat-Bullish,0.348965,0.813165
+20240604T155900,MSFT,3 Sleeper Solar Stocks That You Will Wish You Bought Sooner,InvestorPlace,0.319053,Somewhat-Bullish,0.209823,0.640293
+20240605T124140,MSFT,Arm aims to win 50% of PC market in five years: Haas,Taipei Times,0.160051,Somewhat-Bullish,0.319518,0.918710
+20240605T124939,MSFT,Cisco Investments launches CVC’s first $1bn AI fund,Global Venturing,0.294951,Somewhat-Bullish,0.139634,0.569637
+20240606T000000,MSFT,"New Tech, Better Outcomes: Digital Shelf Labels Are a Win for Customers and Associates",Walmart,0.397907,Bullish,0.275329,0.550162
+20240606T000000,MSFT,Advance Auto Parts customer data posted for sale [updated],Malwarebytes,-0.214749,Somewhat-Bearish,-0.139620,0.564018
+20240606T000000,MSFT,People Aren't Happy With Adobe's Spyware-Like Terms of Service Update,80 Level,-0.636137,Bearish,-0.408878,0.641232
+20240606T115400,MSFT,"Humane, the startup behind the AI Pin, in talks with HP, telecoms to sell",CNBC,0.121225,Neutral,0.129918,0.637671
+20240606T124912,MSFT,News | Chicago's John Buck Co. and Partners Go 'Big-Whale Hunting' in Miami,CoStar,0.2812,Somewhat-Bullish,0.338615,0.631121
+20240606T150100,MSFT,Nvidia overtakes Apple as No. 2 most valuable company,Reuters,0.225263,Somewhat-Bullish,0.212859,0.746130
+20240607T000000,MSFT,Avant Group Corporation reduces the time required for virtual desktop operation and maintenance by 90% with Windows 365,Microsoft,0.412569,Bullish,0.427909,1.000000
+20240607T124045,MSFT,NVIDIA and AMD Make Their Next Move in the AI Chip War,InvestorPlace,0.20578,Somewhat-Bullish,0.257786,0.649695
+20240607T124639,MSFT,What to Know Heading into FTSE Russell’s 36th Annual Russell Reconstitution,Cboe Global Markets,0.194594,Somewhat-Bullish,0.127210,0.604801
+20240607T140000,MSFT,Google defeats class action over AI training data for now,Reuters,0.157788,Somewhat-Bullish,0.144715,0.746940
+20240609T000000,MSFT,Clorox Is Accelerating Innovation With Generative AI Investment,Consumer Goods Technology,0.369235,Bullish,0.335350,0.640292
+20240610T000000,MSFT,2 Popular Stocks That Top Managers Are Selling,Morningstar,0.020163,Neutral,0.016755,0.946176
+20240610T000000,MSFT,Private Cloud Compute: A new frontier for AI privacy in the cloud,Apple Security Research,0.216083,Somewhat-Bullish,0.121861,0.618432
+20240610T000000,MSFT,Mitigate Concentration Risk With Equal Weight ETF EQL,ETF Trends,0.082946,Neutral,-0.147023,0.605675
+20240610T082100,MSFT,Perion’s stock falls after ad-tech company loses Microsoft Bing business,MarketWatch,-0.347554,Somewhat-Bearish,-0.220262,0.723899
+20240610T124059,MSFT,ANET Stock – A Pure Play on Data Center Growth,Nanalyze,0.141685,Neutral,0.083473,0.555554
+20240610T163000,MSFT,"Nuclear power is 'overblown' as an energy source for data centers, power company CEO says",CNBC,0.261772,Somewhat-Bullish,0.216582,0.715004
+20240611T123852,MSFT,Apple execs explain why its AI is different from competitors,CNBC,0.196303,Somewhat-Bullish,0.127963,0.694146
+20240611T124938,MSFT,Five thoughts from Cisco Live 2024,SiliconANGLE,0.292821,Somewhat-Bullish,0.345157,0.617443
+20240611T131155,MSFT,OpenAI Selects Oracle Cloud Infrastructure to Extend Microsoft Azure AI Platform,Oracle,0.364136,Bullish,0.337428,0.891616
+20240611T170100,MSFT,PLAYSTUDIOS to buy back shares from Microsoft at $24.6 million,Investing.com,0.222112,Somewhat-Bullish,0.129824,0.817252
+20240611T175200,MSFT,Fat Pitch Financials - PLAYSTUDIOS Purchases Shares Owned by Microsoft,FinancialContent,0.255909,Somewhat-Bullish,0.149356,0.638501
+20240611T220300,MSFT,"Opinion: Oracle’s cloud AI deals excite investors, but do they have long-term potential?",MarketWatch,0.176232,Somewhat-Bullish,0.128435,0.744081
+20240612T000000,MSFT,Tech Firms Ask NextEra for Enough Electricity to Power Entire Cities,Financial Post,0.255667,Somewhat-Bullish,0.241011,0.626165
+20240612T092500,MSFT,This tech skill is one of Upwork's most in-demand for 2024—and it can pay $167 per hour,CNBC,0.354078,Bullish,0.345349,0.630250
+20240612T123100,MSFT,"Top Stock Movers Now: Oracle, D.R. Horton, Casey’s General Stores, and More",Investopedia,0.420704,Bullish,0.325068,0.738582
+20240613T000000,MSFT,Microsoft’s work to strengthen cybersecurity protection,The Official Microsoft Blog,0.423718,Bullish,0.408092,1.000000
+20240613T163400,MSFT,Apple reigns again as most valuable U.S. company for first time since January,MarketWatch,0.309814,Somewhat-Bullish,0.106512,0.600194
+20240613T203800,MSFT,Amazon adds $230 million in cloud credits to AI startups,Reuters,0.301735,Somewhat-Bullish,0.212724,0.626712
+20240614T000000,MSFT,Dynamics 365 drives Cat® dealership into the 21st century,Microsoft,0.376105,Bullish,0.433614,0.854280
+20240614T165100,MSFT,3 Diversification Strategies To Avoid S&P 500 Concentration Risks,Forbes,0.085093,Neutral,0.059567,0.697851
+20240615T000000,MSFT,TRANSCRIPT: House Committee Hearing to Assess Microsoft’s Cybersecurity Shortfalls,Tech Policy Press,-0.3338,Somewhat-Bearish,-0.343900,0.985320
+20240616T082850,MSFT,QQEW: Inferior Return To The Nasdaq 100 Index,Seeking Alpha,-0.188885,Somewhat-Bearish,-0.106764,0.643767
+20240616T124836,MSFT,How is AI changing Coursera and education?,YourStory.com,0.353614,Bullish,0.219555,0.606706
+20240617T000000,MSFT,AI in Finance,Citigroup,0.362123,Bullish,0.317261,0.626698
+20240617T000000,MSFT,3 Great Funds for the Class of 2024,Morningstar,0.321024,Somewhat-Bullish,0.298764,0.616499
+20240617T045213,MSFT,Trade the AI Trend With This Pair of Leveraged ETFs,ETF Trends,0.243868,Somewhat-Bullish,0.178015,0.619255
+20240617T053034,MSFT,Trade the AI Trend With This Pair of Leveraged ETFs,ETF Trends,0.441085,Bullish,0.339113,0.634825
+20240618T000000,MSFT,"Advanced Authentication Market size is set to grow by USD 55.87 billion from 2024-2028, increasing volume of online transactions boost the market, Technavio",The AI Journal,0.343245,Somewhat-Bullish,0.301067,0.648208
+20240618T000000,MSFT,"Nvidia Becomes Most Valuable Public Company, Topping Microsoft (Published 2024)",The New York Times,0.185895,Somewhat-Bullish,-0.240909,0.746522
+20240618T132837,MSFT,A major tech ETF is set to load up on Nvidia at the expense of Apple,Finimize,0.242453,Somewhat-Bullish,0.031537,0.621829
+20240618T154347,MSFT,Nvidia set to overtake Apple in $72 billion technology ETF shakeup after its monster 164% rally this year,markets.businessinsider.com,0.215574,Somewhat-Bullish,0.114337,0.739325
+20240618T174400,MSFT,Nvidia eclipses Microsoft as world's most valuable company,VOA - Voice of America English News,0.328133,Somewhat-Bullish,0.254456,0.858799
+20240618T184400,MSFT,Nvidia becomes world’s most valuable company amid AI boom,The Guardian,0.369313,Bullish,0.256645,0.742142
+20240618T194400,MSFT,Nvidia surpasses Microsoft to become the world’s most valuable company,SiliconANGLE,0.258333,Somewhat-Bullish,0.312580,0.941850
+20240619T000000,MSFT,Nvidia beats Microsoft to become world's most valuable company,BBC,0.422075,Bullish,0.419409,0.702425
+20240619T000000,MSFT,"Nvidia becomes world’s most valuable company, dethroning Microsoft",Al Jazeera,0.33212,Somewhat-Bullish,0.142588,0.884539
+20240619T105300,MSFT,"Nvidia Beats Apple, Microsoft to Become Most Valuable Company On Earth",ProPakistani,0.159382,Somewhat-Bullish,-0.303849,0.624693
+20240619T230951,MSFT,iShares Expanded Tech Sector ETF Trade Ideas — AMEX:IGM,TradingView,0.427496,Bullish,0.418675,0.746884
+20240620T000000,MSFT,Kubota Corporation develops engines faster with high-performance computing on Azure,Microsoft,0.441327,Bullish,0.497202,1.000000
+20240620T130816,MSFT,Microsoft Strikes 2 Record-Breaking Carbon Credit Deals,CarbonCredits.com,0.350965,Bullish,0.405626,1.000000
+20240620T132615,MSFT,"Vivo, in collaboration with Microsoft, creates Generative AI for call center agents",BNamericas,0.32067,Somewhat-Bullish,0.329492,0.948033
+20240621T130816,MSFT,UWM to house nation’s first Microsoft AI lab focused on manufacturing,Universities of Wisconsin,0.389348,Bullish,0.426526,1.000000
+20240621T130816,MSFT,How Nvidia surpassed Microsoft and Apple to become world’s most valuable company,Bobsguide,0.343401,Somewhat-Bullish,0.309296,0.931035
+20240621T150100,MSFT,"Apple Intelligence won't launch in EU in 2024 due to antitrust regulation, company says",CNBC,-0.145247,Neutral,-0.126374,0.644160
+20240623T122200,MSFT,"IWF Is a Great Choice for Most, But I Like VUG ETF Better",The Globe and Mail,0.203643,Somewhat-Bullish,0.236652,0.708583
+20240624T131937,MSFT,What’s new in Azure app service at Build 2024: Key announcements and features,INDOlink,0.277153,Somewhat-Bullish,0.499094,0.995863
+20240625T000000,MSFT,Microsoft is a Leader in the 2024 Gartner® Magic Quadrant™ for Data Science and Machine Learning Platforms,Microsoft Azure,0.480055,Bullish,0.541296,1.000000
+20240625T000000,MSFT,Parker Aerospace writes innovative safety algorithm on Azure Databricks,Microsoft,0.423986,Bullish,0.426154,0.845118
+20240625T084700,MSFT,3 Stocks to Buy Before This OpenAI Project Shocks Wall Street,InvestorPlace,0.403866,Bullish,0.499488,0.870729
+20240625T124600,MSFT,"Anthony Denier, President of Webull - Building a $7Bn Disruptor, Expanding US Markets Access Globally, What Makes a Great Trader",Fintech Leaders | Miguel Armaza,0.496112,Bullish,0.545316,0.609088
+20240625T183100,MSFT,Turtle Beach has ended its partnership with Dr Disrespect,Video Games Chronicle,-0.413781,Bearish,-0.318522,0.615536
+20240626T000000,MSFT,The A.I. Boom Has an Unlikely Early Winner: Wonky Consultants (Published 2024),The New York Times,0.12706,Neutral,0.242685,0.559680
+20240626T000000,MSFT,"CSN deploys Company Communicator and reaches 35,000 users with its corporate communication using Microsoft 365",Microsoft,0.36393,Bullish,0.734591,0.997165
+20240626T000000,MSFT,Progress Software elevates severity of new MOVEit bug to ‘critical’ as exploit attempts jump,The Record from Recorded Future News,-0.252981,Somewhat-Bearish,-0.108983,0.611846
+20240626T000000,MSFT,"What Exactly Does NVIDIA Do, and Why Should You Care?",CX Today,0.332231,Somewhat-Bullish,0.103143,0.721615
+20240626T124814,MSFT,CNH boosts customer loyalty with Microsoft Dynamics 365,Microsoft,0.183734,Somewhat-Bullish,0.347163,0.917283
+20240626T190000,MSFT,Global E-learning Market Size To Worth USD 1515.97 Billion By 2033 | CAGR of 17.35%,GlobeNewswire,0.626013,Bullish,0.564415,0.595719
+20240627T000000,MSFT,A Shakeup for Technology ETFs,ETF Trends,0.007405,Neutral,0.008559,0.717748
+20240627T000000,MSFT,Why Blue Chips Are Ripe for Growth Investing,ETF Trends,0.343725,Somewhat-Bullish,0.332926,0.631566
+20240627T000000,MSFT,Conagra partners working on AI solutions,MEAT+POULTRY,0.352058,Bullish,0.342277,0.721440
+20240627T045900,MSFT,"Potential BlackRock withdrawal could hit Malaysia’s investment and job market, says Tengku Zafrul",Yahoo News Malaysia,-0.156517,Somewhat-Bearish,-0.113530,0.630377
+20240627T095855,MSFT,The Case for Investing in a Capital Appreciation ETF,ETF Trends,0.267819,Somewhat-Bullish,0.202180,0.619812
+20240627T102000,MSFT,Wipro chairman Rishad Premji to shareholders: Uniting … is at the core of Wipro,Times of India,0.143339,Neutral,0.123298,0.604805
+20240627T124159,MSFT,ASE to open US testing fab next month,Taipei Times,0.355098,Bullish,0.310259,0.638931
+20240627T124731,MSFT,12 Common Concerns of the Permeable IoT Attack Surface,Cybersecurity Insiders,-0.164202,Somewhat-Bearish,-0.187063,0.618036
+20240630T040000,MSFT,3 ETFs to Buy for Nvidia Stock Dominance,InvestorPlace,0.269706,Somewhat-Bullish,0.225844,0.613221

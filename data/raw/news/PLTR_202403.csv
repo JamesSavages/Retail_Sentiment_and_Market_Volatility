@@ -1,0 +1,7 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20240304T154553,PLTR,"Zacks Investment Ideas feature highlights: BigBear.ai, Palantir, Super Micro Computer, SoundHound and Nvidia",Yahoo Finance,0.45064,Bullish,0.439073,0.848712
+20240307T181300,PLTR,"Palantir Adds General Mills, CBS and Aramark as New AI Customers",Bloomberg.com,0.379148,Bullish,0.401106,0.942407
+20240311T162344,PLTR,Oracle Stock Jumps 14% as Large Customer Contracts Boost Earnings—Key Level to Watch,Investopedia,0.137735,Neutral,-0.092543,0.627025
+20240313T095151,PLTR,EDGAR Filing Documents for 0001493152-24-003271,SEC.gov,0.020742,Neutral,0.006549,0.815503
+20240319T184200,PLTR,Palantir director's spouse sells shares worth over $142k,Investing.com,0.022191,Neutral,0.028390,1.000000
+20240329T000000,PLTR,"General Mills uses AI, analytics to build a disruption-ready supply chain",Supply Chain Dive,0.354067,Bullish,0.319852,0.716333

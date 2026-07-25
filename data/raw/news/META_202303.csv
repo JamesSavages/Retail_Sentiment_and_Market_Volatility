@@ -1,0 +1,28 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20230302T025916,META,The 10 most innovative companies in augmented and virtual reality of 2023,Fast Company,0.265446,Somewhat-Bullish,0.130810,0.902975
+20230302T091600,META,8 in-demand creative skills for freelancers―many can pay more than $100 per hour,CNBC,0.328729,Somewhat-Bullish,0.264731,0.635485
+20230302T114100,META,Brazil central bank greenlights Meta's WhatsApp merchant payment system,Reuters,0.010357,Neutral,0.047955,0.307546
+20230303T000000,META,"The U.S. Stock Market Is Undervalued, but It Looks Like a Rough Road Ahead",Morningstar,0.282628,Somewhat-Bullish,0.432474,0.740089
+20230306T080700,META,Growth stock vs. value stock? It's all in the eye of the beholder,CNBC,0.023658,Neutral,0.010277,0.869951
+20230306T123300,META,Nubank Names David Marcus to Board of Directors,marketscreener.com,0.202643,Somewhat-Bullish,0.124404,0.634354
+20230307T134900,META,News | Salesforce Executive Calls In-Office Work Critical to Tech Giant’s Profitability,CoStar,0.196207,Somewhat-Bullish,0.112842,0.620907
+20230308T023833,META,Nearly 350 Bay Area workers laid off by major health care company,SFGATE,-0.155196,Somewhat-Bearish,-0.143466,0.619069
+20230308T024402,META,Microsoft adding to far West Side data center with $175.9 million expansion project this year,San Antonio Express-News,0.39297,Bullish,0.322069,0.620706
+20230308T133853,META,"OARK: YieldMax Innovation Option Income Strategy ETF Latest Stock Price, Analysis, News and Trading Ideas",Stocktwits,0.127687,Neutral,0.125206,0.709446
+20230309T030344,META,Big Tech Has Layoffs All Wrong,TIME,0.058028,Neutral,0.077302,0.702997
+20230309T095400,META,US FTC will seek to stop ICE from buying Black Knight,Reuters,-0.116761,Neutral,0.117449,0.559370
+20230312T022344,META,Four Ways to Cluster based on Correlation,DataDrivenInvestor,0.139474,Neutral,0.118032,0.923085
+20230314T021928,META,Opinion: Layoffs like Meta’s show corporate social responsibility is just flowery words and big talk,The Globe and Mail,0.039134,Neutral,0.014698,0.918536
+20230314T095600,META,Report: How Pinterest facilitates creation of 'sex-themed' boards featuring young girls,WCTI,-0.323544,Somewhat-Bearish,-0.116647,0.610374
+20230314T190600,META,EBay slams 'alarming' Meta subpoena in FTC monopoly case,Reuters,0.044752,Neutral,0.283103,0.902394
+20230315T110900,META,China obstructs new subsea cable to Taiwan,Taiwan News,-0.170054,Somewhat-Bearish,-0.326185,0.614390
+20230315T155638,META,"Tech leaders from Vimeo, Slack, and 776 share insights on staying innovative during an economic downturn",Fast Company,-0.065654,Neutral,-0.101121,0.639184
+20230317T153459,META,How Does RSPE Compare to RSP?,ETF Trends,-0.100548,Neutral,-0.227193,0.743858
+20230322T022357,META,The top 10 biggest technology companies in the US in 2023,Technology Magazine,0.316246,Somewhat-Bullish,0.329322,0.905069
+20230322T024238,META,"Scientists at DeepMind and Meta Press Fusion of AI, Biology",The Wall Street Journal,0.311899,Somewhat-Bullish,0.310781,0.908370
+20230323T081059,META,QGRW Stock Price | Wisdomtree U.S. Quality Growth Fund ETF,Investing.com,0.290355,Somewhat-Bullish,0.312367,0.639400
+20230323T224800,META,News | Salesforce Seeks To Offload Large Block of Office Space in New Chicago Tower,CoStar,-0.243168,Somewhat-Bearish,-0.202650,0.745229
+20230324T000000,META,Digital Economy Discovers a Potential Frontier for Growth Thanks to Generative AI,Global X ETFs,0.265172,Somewhat-Bullish,0.257064,0.639196
+20230327T030211,META,WPP expands influencer marketing buy-in with Goat acquisition,Marketing Dive,0.213086,Somewhat-Bullish,0.145897,0.732830
+20230328T022530,META,The Walt Disney Co. will reportedly begin layoffs this week,USA Today,-0.317815,Somewhat-Bearish,-0.335437,0.565372
+20230328T101900,META,Microsoft cuts over 500 jobs in another round of tech layoffs,The National Desk,-0.328172,Somewhat-Bearish,-0.328506,0.643525

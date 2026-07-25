@@ -1,0 +1,102 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20230102T045200,AMZN,What is TSMC?,Tech Monitor,0.303026,Somewhat-Bullish,0.332622,0.648655
+20230103T035902,AMZN,Apple’s market value drops below $2 trillion,Al Jazeera,-0.202559,Somewhat-Bearish,-0.117685,0.607552
+20230103T183700,AMZN,Amazon's AWS Growth Strategy Probably More Sustainable Than Oracle's (AMZN),Seeking Alpha,-0.076479,Neutral,0.269614,0.980001
+20230103T235143,AMZN,"First Trust Dow Jones Internet Index Fund (FDN) Stock Price, Holdings, Dividend Yield",GuruFocus,0.033854,Neutral,0.014563,0.683275
+20230104T040129,AMZN,"Amazon to slash more than 18,000 jobs in an escalation of cuts",Los Angeles Times,0.198301,Somewhat-Bullish,0.245273,1.000000
+20230104T041031,AMZN,Salesforce to cut 10% of workforce in latest tech layoffs,Al Jazeera,0.196662,Somewhat-Bullish,0.108673,0.746044
+20230104T041750,AMZN,Distributed Cloud Global Market Report 2022: Ukraine-Russia War Impact,GlobeNewswire,0.34439,Somewhat-Bullish,0.313454,0.727080
+20230104T042502,AMZN,News | Industrial Project Completions and Easing Demand Drive Up Vacancy Rate,CoStar,0.02458,Neutral,-0.119757,0.647281
+20230104T042650,AMZN,Private Wireless Partnership Part of the Perks at JBG SMITH’s National Landing,Nareit,0.318908,Somewhat-Bullish,0.337304,0.706741
+20230104T043919,AMZN,2023 brings more jobs cuts for Mass. tech workers,The Boston Globe,-0.133663,Neutral,-0.187205,0.643034
+20230104T092600,AMZN,Salesforce to lay off 10% of workforce to cut costs amid economic downturn,Fox Business,-0.320644,Somewhat-Bearish,-0.309020,0.631119
+20230104T100000,AMZN,Lionsgate International SVP Marc Lorber To Exit,Deadline,0.004116,Neutral,0.129469,0.644992
+20230105T000000,AMZN,Cisco Systems to eliminate 80 jobs in San Francisco,The Business Journals,-0.272918,Somewhat-Bearish,-0.223626,0.631555
+20230105T031700,AMZN,"Opinion: Amazon cuts jobs to reset tech giant after monster growth in the pandemic, but investors still worried",MarketWatch,0.049334,Neutral,0.036427,0.338041
+20230105T035902,AMZN,Apple brings AI narration to audiobooks,SiliconANGLE,0.147777,Neutral,0.120686,0.735486
+20230105T043800,AMZN,Opendoor: The Future 'Amazon Of Real Estate' At A Compelling Valuation,Seeking Alpha,0.37073,Bullish,0.348554,0.818051
+20230105T043846,AMZN,PurpleUrchin Bypasses CAPTCHA and Steals Cloud Platform Resources,Unit 42,-0.151069,Somewhat-Bearish,-0.302153,0.645630
+20230105T062400,AMZN,"Amazon to cut 18,000 jobs as layoffs expand in tech sector",Reuters,-0.258605,Somewhat-Bearish,-0.428999,1.000000
+20230106T125400,AMZN,Software company Pegasystems to lay off 4% workforce amid recession fears,Business Standard,-0.092871,Neutral,0.125623,0.603413
+20230108T003300,AMZN,The Dream of Portland Is Alive in Japan,Willamette Week,0.166743,Somewhat-Bullish,0.058754,0.598157
+20230108T044239,AMZN,"8 Secrets About Shopping on QVC You Need to Know, According to Experts",Best Life,0.107382,Neutral,0.147661,0.640503
+20230108T045703,AMZN,You might actually want a TiVo TV someday,TechHive,0.174115,Somewhat-Bullish,0.108238,0.693155
+20230109T201100,AMZN,CVS eyes next-generation health clinics after Amazon’s move for One Medical,MarketWatch,0.102873,Neutral,0.136635,0.731547
+20230110T041110,AMZN,Hot warehouse market shows signs of cooldown,Supply Chain Dive,-0.101178,Neutral,-0.228466,0.712531
+20230110T041541,AMZN,10 Data Center Companies You Need To Watch In 2023,CRN,0.30582,Somewhat-Bullish,0.336939,0.753096
+20230110T042915,AMZN,Kroger launches health marketing campaign,eMarketer,0.106303,Neutral,0.034384,0.596787
+20230110T130000,AMZN,Amazon Expands Prime Delivery Service to More Web Stores,Bloomberg.com,0.446258,Bullish,0.412402,1.000000
+20230111T035945,AMZN,Helping Construction Firms Gain Useful Insights from Their Data,Autodesk,0.456812,Bullish,0.409759,0.941953
+20230111T044341,AMZN,Stocks waver as traders eye US inflation and interest rates,Philstar.com,0.289617,Somewhat-Bullish,0.431775,0.602458
+20230111T110000,AMZN,Ramstad: A Minnesota company lost $1B in value as investors fled tech. Here's what it did next.,Star Tribune,0.041473,Neutral,-0.319263,0.625836
+20230112T000000,AMZN,Will Best Buy customers be okay with its rewards program changes?,RetailWire,-0.034617,Neutral,0.122085,0.740803
+20230112T065000,AMZN,Amazon workers' union victory upheld by U.S. labor board director,Reuters,-0.108435,Neutral,-0.146858,1.000000
+20230112T072100,AMZN,Skagen Falster Gen 6's long-awaited Wear OS 3 update is here,Android Police,0.118446,Neutral,-0.134358,0.632310
+20230112T150400,AMZN,Amazon Fashion Launches Collaboration With Rent the Runway,Bloomberg.com,0.410752,Bullish,0.406345,1.000000
+20230115T043138,AMZN,Macy's CEO is 'cautious' about consumer spending after seeing dip in self purchases,Fox Business,-0.150235,Somewhat-Bearish,-0.059042,0.557305
+20230116T045301,AMZN,"From Apple To Amazon And Toyota, Here Are The Top 10 Biggest Companies In The World",Mashable India,0.133729,Neutral,0.110077,0.799912
+20230117T000000,AMZN,Ryder layoffs: 800 jobs to be cut at Applied Materials site,The Business Journals,-0.132543,Neutral,-0.346811,0.619465
+20230117T000000,AMZN,SoundHound axes nearly 50% of staff less than a year after IPO,Music Business Worldwide,-0.179708,Somewhat-Bearish,-0.231369,0.743315
+20230117T042915,AMZN,"How Kroger, Whole Foods are upgrading labor management",Grocery Dive,0.178739,Somewhat-Bullish,0.144515,0.611830
+20230117T070100,AMZN,Netflix set for slowest revenue growth as ad plan struggles to gain traction,Reuters,-0.299014,Somewhat-Bearish,-0.108335,0.610953
+20230117T164600,AMZN,"Costco Wholesale Corp. stock rises Tuesday, outperforms market",MarketWatch,-0.067693,Neutral,-0.300666,0.748063
+20230118T000000,AMZN,40-acre data center planned for former Westside Atlanta rail yard,The Business Journals,0.113182,Neutral,0.125945,0.706390
+20230118T043357,AMZN,"Microsoft to shed 10,000 jobs, adding to glut of tech layoffs",Reuters,-0.226807,Somewhat-Bearish,-0.237239,0.724941
+20230118T045556,AMZN,"GroupM confirms layoffs of staffers across N. America, EMEA regions",Digiday,-0.173906,Somewhat-Bearish,-0.124277,0.605431
+20230118T045615,AMZN,"When data moves, money moves: Western Union analyzes cloud data technologies",SiliconANGLE,0.225161,Somewhat-Bullish,0.118167,0.604411
+20230118T052100,AMZN,Temu Review: What Is Temu and Why Is It Suddenly America’s Most Popular App?,InsideHook,0.089516,Neutral,-0.141529,0.724406
+20230118T180400,AMZN,U.S. agency says Amazon.com exposed workers to safety hazards,Reuters,0.043871,Neutral,0.016475,0.326665
+20230119T040129,AMZN,DAZN and Amazon strike global sports streaming agreement,Proactive financial news,0.412482,Bullish,0.421506,1.000000
+20230119T040329,AMZN,Where to now for Alibaba in the post-Jack Ma era?,ThinkChina,0.172512,Somewhat-Bullish,-0.138933,0.607229
+20230119T040526,AMZN,Bitcoin Could Be on Precipice of New Bull Market,ETF Trends,0.269618,Somewhat-Bullish,0.221955,0.621795
+20230119T044644,AMZN,A Dash of Modernity!,Sify News,0.180724,Somewhat-Bullish,0.319096,0.615425
+20230119T105936,AMZN,Global X S&p 500 Covered Call Etf Share Price,INDmoney,0.099267,Neutral,0.131166,0.607632
+20230119T170600,AMZN,Walmart Plays Catch-Up As Amazon Pulls Further Ahead Of Its E-Commerce Competitors,Seeking Alpha,0.190148,Somewhat-Bullish,0.395845,1.000000
+20230119T170700,AMZN,"Lowe's Cos. stock falls Thursday, underperforms market",MarketWatch,-0.346699,Somewhat-Bearish,-0.328319,0.646232
+20230119T175100,AMZN,Amazon ends its charity donation program following other cost-cutting efforts,Oregon Public Broadcasting - OPB,-0.223538,Somewhat-Bearish,-0.210041,1.000000
+20230120T043925,AMZN,A Survival Guide for When You’ve Been Laid Off,The Wall Street Journal,-0.211755,Somewhat-Bearish,-0.228768,0.829756
+20230120T123700,AMZN,"Here are the layoff severance packages Google, Microsoft, Amazon and other tech giants have promised",CNBC,-0.269097,Somewhat-Bearish,-0.235292,0.806535
+20230120T140100,AMZN,Netflix's ability to churn out hits gives it an edge over rivals,Reuters,0.270267,Somewhat-Bullish,0.136445,0.647567
+20230120T150000,AMZN,"Amazon, Microsoft Job Cuts Deal Another Blow to Ailing Seattle",Bloomberg.com,-0.40872,Bearish,-0.401462,1.000000
+20230120T160000,AMZN,Amazon to Plow Extra $35 Billion Into Virginia Data Centers in Cloud Race,Bloomberg.com,0.190275,Somewhat-Bullish,0.484034,1.000000
+20230121T045744,AMZN,予算3万円台の「スマートウォッチ」おすすめ5選　人気の「Apple Watch SE」から、コスパが良い高機能モデルまで【2023年1月版】 - Fav-Log by ITmedia,ITmedia,0.157343,Somewhat-Bullish,0.148804,0.601259
+20230123T040129,AMZN,Stripe becomes a strategic payments partner for Amazon,SiliconANGLE,0.21378,Somewhat-Bullish,0.437104,1.000000
+20230123T042020,AMZN,Building blocks for the future: A look inside General Mills’ experience at the 2023 Consumer Electronics Show,General Mills,0.379016,Bullish,0.326452,0.638938
+20230123T044804,AMZN,Sonoco turns on 1 MW rooftop solar array at New Jersey warehouse,pv magazine USA,0.180648,Somewhat-Bullish,0.101158,0.590793
+20230123T112000,AMZN,Should You Invest in the iShares U.S. Consumer Discretionary ETF (IYC)?,Yahoo Movies UK,0.257133,Somewhat-Bullish,0.303570,0.746925
+20230123T130100,AMZN,"Spotify to slash 6% of workforce, adding to tech layoffs glut | Daily Sabah",Daily Sabah,-0.235998,Somewhat-Bearish,-0.209486,0.624824
+20230123T141400,AMZN,"Yankee Candle owner Newell Brands cuts 13% of its workforce, will close Deerfield office",MassLive.com,0.160057,Somewhat-Bullish,0.149960,0.580169
+20230124T014700,AMZN,Amazon’s second wave of layoffs hits thousands of employees across three states,MarketWatch,0.023737,Neutral,0.021347,0.334905
+20230124T040129,AMZN,"Amazon Pharmacy Introduces RxPass: Unlimited Prescription Medications for Only $5 a Month, Delivered Free to your Door—Available Exclusively for Prime Members",Business Wire,0.480454,Bullish,0.464626,1.000000
+20230124T040941,AMZN,The Best Leggings for Literally Everything,SELF Magazine,0.28488,Somewhat-Bullish,0.261122,0.720226
+20230124T043102,AMZN,Technology & Innovation Highlights from Q4 2022,Lockheed Martin,0.195628,Somewhat-Bullish,0.146886,0.613552
+20230124T044504,AMZN,SentinelOne Announces Executive Appointments and Promotions Amidst Rapid Growth,SentinelOne,0.319653,Somewhat-Bullish,0.110959,0.576456
+20230124T080000,AMZN,"Axon Enterprise And A Lesson In 50,000% Gains (NASDAQ:AXON)",Seeking Alpha,0.205257,Somewhat-Bullish,0.112912,0.732566
+20230124T112500,AMZN,Walmart raises minimum wage as retail labor market remains tight,CNBC,0.142402,Neutral,0.117300,0.599442
+20230124T181700,AMZN,Walmart to raise minimum wage for U.S. hourly workers to $14,Reuters,-0.077032,Neutral,-0.145495,0.613162
+20230125T040810,AMZN,"The Makers of Cadet Brand Launch Line of New, Patent-Pending Bully Chews for Dogs",Business Wire,0.222834,Somewhat-Bullish,0.132904,0.636589
+20230125T040833,AMZN,Choice Hotels Opens Cambria Hotel Austin Uptown Near the Domain,Hotel Online,0.212574,Somewhat-Bullish,0.140828,0.643729
+20230125T042357,AMZN,IMAA welcomes seven new media partners for 2023,Mediaweek,0.243589,Somewhat-Bullish,0.416761,0.719562
+20230125T070000,AMZN,"Big Tech to Congress: Listen to Taylor Swift and Go After Ticketmaster, Not Us",The Intercept,-0.286827,Somewhat-Bearish,-0.146002,0.627389
+20230125T154104,AMZN,Simply Good Foods expands Quest brand,Food Business News,0.256212,Somewhat-Bullish,0.203635,0.649859
+20230126T040916,AMZN,"Chipotle Plans to Hire 15,000 People Ahead of ‘Burrito Season’",The New York Times,-0.174549,Somewhat-Bearish,-0.317080,0.637516
+20230126T042427,AMZN,How Quantum Computing Will Transform Our World,TIME,0.254464,Somewhat-Bullish,0.215703,0.636848
+20230126T042539,AMZN,Intel shares drop on weak quarterly results and expectations for another quarter of losses,CNBC,-0.082548,Neutral,0.102767,0.632296
+20230126T050700,AMZN,"Lowe's Cos. stock falls Thursday, underperforms market",MarketWatch,-0.147289,Neutral,0.139617,0.604839
+20230126T073000,AMZN,IBM Is Tech’s Most Beaten-Down Company,24/7 Wall St.,-0.414544,Bearish,-0.311253,0.614015
+20230126T163700,AMZN,"Dow Chemical to cut 2,000 jobs",upi,-0.204011,Somewhat-Bearish,-0.102891,0.632364
+20230127T060200,AMZN,Licking County becomes the 'bullseye' for development one year after Intel,The Newark Advocate,0.383299,Bullish,0.325581,0.736344
+20230127T100100,AMZN,News | Amazon Lands Buyer for Bay Area Office Campus Amid Company’s Real Estate Contraction,CoStar,-0.117354,Neutral,-0.347874,0.927358
+20230127T173200,AMZN,Walmart Inc. stock outperforms market on strong trading day,MarketWatch,0.249,Somewhat-Bullish,0.305257,0.608044
+20230130T040050,AMZN,Rockford airport pursuing 4 new travel destinations to boost passenger numbers,Rockford Register Star,0.378609,Bullish,0.348945,0.702023
+20230130T041324,AMZN,Here's Why Pizza Boxes Are Still Getting Slammed,Mashed,0.060851,Neutral,0.082636,0.641579
+20230130T042100,AMZN,Google continued to ramp up federal lobbying spending before DOJ filed second antitrust lawsuit,OpenSecrets,-0.350294,Bearish,-0.175607,0.635103
+20230130T043624,AMZN,S3 Intelligent-Tiering's Archive Instant Access Tier,NetApp,0.235845,Somewhat-Bullish,0.345399,0.908824
+20230130T044552,AMZN,"After A Slow Start, TikTok Doubles Down On Ambition to Dominate Social Commerce",Hello Partner,0.113748,Neutral,0.245900,0.613959
+20230130T044554,AMZN,Internet Records Historic $1 Trillion Consumer Milestone,comScore,0.325506,Somewhat-Bullish,0.340753,0.728242
+20230130T044742,AMZN,W3BCLOUD SPAC: Everything you need to know about W3BCLOUD stock,FOREX.com,-0.10967,Neutral,-0.103155,0.609682
+20230131T000000,AMZN,"With a GOL plane, AerCap celebrates the delivery of its 50th Boeing 737-800 converted to a freighter",Aeroflap,0.331828,Somewhat-Bullish,0.200656,0.649826
+20230131T040116,AMZN,"Amgen lays off 300, does not disclose whether any are in Thousand Oaks",Ventura County Star,-0.250125,Somewhat-Bearish,-0.209979,0.635923
+20230131T040129,AMZN,Amazon’s holiday sales growth outpaced superstore competitors in 2022,Bloomberg Second Measure,0.237196,Somewhat-Bullish,0.428888,1.000000
+20230131T063400,AMZN,"NetApp, a specialist in cloud data management, says it will lay off 8%, or around 960 people, citing economic climate",TechCrunch,-0.221616,Somewhat-Bearish,-0.191851,0.648810
+20230131T141016,AMZN,Top Performing Leveraged/Inverse ETFs: 01/29/2023,ETF Trends,0.38668,Bullish,0.324631,0.613061

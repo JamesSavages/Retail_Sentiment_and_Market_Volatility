@@ -1,0 +1,19 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20230905T164400,AMD,Coherent to set up centre of excellence at IIT-Madras Research Park,The Times of India,0.319921,Somewhat-Bullish,0.292226,0.563490
+20230907T212351,AMD,Nvidia Says It Will Invest In Arm’s IPO After Failed Acquisition,CRN,0.174379,Somewhat-Bullish,0.197966,0.733038
+20230908T211735,AMD,Hyperscalers have been choosing Arista over Cisco for data center switches,SDxCentral,0.16153,Somewhat-Bullish,0.128061,0.641490
+20230912T070500,AMD,POET Technologies’ New Module Designs Attract Major Companies at CIOE,GlobeNewswire,0.474106,Bullish,0.312356,0.618448
+20230914T121100,AMD,Arm climbs 25% in Nasdaq debut after pricing IPO at $51 a share,CNBC,0.341181,Somewhat-Bullish,0.214963,0.632773
+20230914T230959,AMD,"Direxion Daily NVDA Bull 2X Shares ETF Price, Holdings, & News (NASDAQ:NVDU)",MarketBeat,0.040498,Neutral,0.189588,0.723470
+20230915T214143,AMD,Chip Stocks Drop After Report Says TSMC Is Worried About Demand,Barron's,-0.341129,Somewhat-Bearish,-0.417764,0.743765
+20230918T154058,AMD,"Supermicro Introduces a Number of Density and Power Optimized Edge Platforms for Telco Providers, Based on the New AMD EPYC™ 8004 Series Processor",Supermicro,0.43671,Bullish,0.438074,0.911031
+20230919T211028,AMD,"AMDY: YieldMax AMD Option Income Strategy ETF Latest Stock Price, Analysis, News and Trading Ideas",Stocktwits,-0.212235,Somewhat-Bearish,0.045413,0.748899
+20230920T091700,AMD,PLDT modernises IT infrastructure to enhance business agility,iTnews Asia,0.17509,Somewhat-Bullish,0.226665,0.609305
+20230921T213916,AMD,Intel sees massive demand for AI chips designed for China: report,South China Morning Post,0.372833,Bullish,0.336890,0.730592
+20230922T140000,AMD,Intel hit with $400 million EU antitrust fine in decades-old case,Reuters,-0.228377,Somewhat-Bearish,-0.143231,0.731034
+20230922T222400,AMD,Oracle spends more than $100 million on Ampere chips,Reuters,0.080104,Neutral,0.013641,0.715640
+20230925T114015,AMD,AMDY Stock Price | YieldMax AMD Option Income Strategy ETF,Investing.com Canada,0.14034,Neutral,0.114158,0.729081
+20230927T090000,AMD,"AMD Unveils Purpose-Built, FPGA-Based Accelerator for Ultra-Low Latency Electronic Trading",GlobeNewswire,0.399527,Bullish,0.434776,1.000000
+20230928T215734,AMD,Synopsys Appoints Ann Minooka as Chief Marketing Officer,Synopsys,0.246017,Somewhat-Bullish,0.134074,0.638328
+20230928T215745,AMD,Sony Interactive Entertainment CEO Jim Ryan to Retire in 2024,80 Level,0.049232,Neutral,-0.134254,0.618051
+20230929T190947,AMD,AMDY Stock Fund Price and Chart — AMEX:AMDY,TradingView — Track All Markets,0.030317,Neutral,0.018944,0.729533

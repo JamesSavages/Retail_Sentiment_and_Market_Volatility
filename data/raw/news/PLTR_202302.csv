@@ -1,0 +1,9 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20230202T032234,PLTR,Former Accenture Exec Scott Sloan Joins StratasCorp as President,GovCon Wire,0.16891,Somewhat-Bullish,0.109062,0.620843
+20230213T034526,PLTR,SAIC Appoints Shane Sims VP for Logistics & Supply Chain,GovCon Wire,0.166283,Somewhat-Bullish,0.124010,0.603424
+20230213T100800,PLTR,"Earnings Previews: Airbnb, Devon Energy, Livent",24/7 Wall St.,0.201366,Somewhat-Bullish,0.038587,0.609483
+20230213T164700,PLTR,Cognizant Technology Solutions Corp. stock outperforms competitors on strong trading day,MarketWatch,0.198458,Somewhat-Bullish,0.105681,0.702218
+20230215T011017,PLTR,Palantir Technologies Inc. Announces Investor Day,Palantir,0.122176,Neutral,0.111895,1.000000
+20230216T073944,PLTR,"What’s next for the share prices of Palantir, Cisco and Twilio?",CMC Markets,0.319789,Somewhat-Bullish,0.340893,0.840558
+20230217T012000,PLTR,"What’s next for the share prices of Palantir, Cisco and Twilio?",CMC Markets,0.330074,Somewhat-Bullish,0.332130,0.931143
+20230228T020920,PLTR,iShares U.S. Tech Independence Focused ETF Holdings List (BATS:IETC),MarketBeat,0.107669,Neutral,0.081723,0.802384

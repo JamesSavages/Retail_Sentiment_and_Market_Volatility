@@ -1,0 +1,32 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20241203T123927,META,"GraniteShares 2x Long PLTR Daily ETF (PTIR) News, Articles, Events & Latest Updates",Stocktwits,0.247784,Somewhat-Bullish,0.129772,0.646072
+20241203T173400,META,Why Momentum Stocks & ETFs Are Crushing the Market,Nasdaq,0.296187,Somewhat-Bullish,0.249381,0.616907
+20241204T011009,META,GoodRx Agrees to $25 Million Settlement to Resolve Tracking Technology Lawsuit,The HIPAA Journal,-0.321676,Somewhat-Bearish,-0.239666,0.712698
+20241204T074331,META,Xcel Energy claims data center growth in Minnesota won't derail net zero commitments,Data Center Dynamics,0.104146,Neutral,0.118019,0.728330
+20241204T141700,META,"Tech giant with 30,000 employees has no return-to-office policy",Buenos Aires Times,-0.124806,Neutral,-0.224034,0.719689
+20241205T065955,META,"Meta selects Entergy, Northeast Louisiana as site of $10B data center",Entergy,0.487836,Bullish,0.871610,1.000000
+20241205T065955,META,Meta Picks Turner-DPR-Mortenson Team for $10B Louisiana Data Center,Engineering News-Record,0.233925,Somewhat-Bullish,0.436007,1.000000
+20241205T073807,META,MIDiA’s 2025 predictions It’s social’s stage now,MIDiA Research,0.187709,Somewhat-Bullish,0.207422,0.826359
+20241205T151200,META,Entergy Louisiana Looking to Add 2.26 GW Natural Gas Capacity to Fuel Meta’s Biggest Data Center,Natural Gas Intelligence,0.413939,Bullish,0.431327,0.977796
+20241206T000000,META,3 Utility Stocks That Will Benefit from Less Regulation,MarketBeat,0.460098,Bullish,0.302285,0.624810
+20241206T110400,META,"Is AMD Stock's 7.19X P/S Still Worth it? Buy, Sell or Hold?",Nasdaq,0.134095,Neutral,0.120942,0.623643
+20241206T130000,META,The Inside Story of Apple Intelligence,WIRED,0.060639,Neutral,0.075566,0.648242
+20241209T000000,META,"Two Major Ad Agencies to Merge, Creating Global Giant",The New York Times,0.135116,Neutral,0.094832,0.583636
+20241209T000000,META,The Scoop: Omnicom’s acquisition of Interpublic Group will change the PR industry,PR Daily,0.119949,Neutral,-0.115688,0.640033
+20241209T000000,META,IPG acquires commerce marketing company Intelligence Node,Marketing Dive,0.142572,Neutral,0.075170,0.592124
+20241209T220100,META,Owl Creek Asset Management Increases Stake in Anterix Inc,GuruFocus,0.155762,Somewhat-Bullish,0.100941,0.639467
+20241210T073605,META,Evan Cheng: The Architect of Sui's Object-Oriented Revolution,Yahoo Finance Singapore,0.070011,Neutral,0.103953,0.633319
+20241212T064508,META,The Secret Behind Arista's AI Ethernet Success,Futuriom,0.32622,Somewhat-Bullish,0.309758,0.892697
+20241212T065955,META,"Meta Sees $10B AI Data Center in Louisiana Using Combo of Clean Energy, Nuclear Power",Data Center Frontier,0.256115,Somewhat-Bullish,0.422892,1.000000
+20241213T092500,META,1 Spectacular Artificial Intelligence (AI) ETF to Buy With $40 During the S&P 500 Bull Market,Yahoo Finance,0.29931,Somewhat-Bullish,0.228479,0.625350
+20241217T082732,META,Mag 7 ETFs Look Unstoppable Heading Into 2025,TradingView — Track All Markets,0.402038,Bullish,0.406925,0.748354
+20241217T122400,META,"AI Stock Klaviyo Breaks Out To New Highs, Tops Latest Entry",Investor's Business Daily,0.272283,Somewhat-Bullish,0.230569,0.579109
+20241218T000000,META,3 Contrarian Investments for 2025,Morningstar,-0.135362,Neutral,0.029932,0.896374
+20241218T072248,META,Netgear to downsize HQ after leasing 89K sf building in San Jose,The Real Deal,0.109777,Neutral,0.116572,0.604243
+20241219T000000,META,"Microsoft Corporation (MSFT) Leads AI Investment in 2024, Purchasing 485,000 Nvidia GPUs to Power AI Infrastructure",Yahoo Finance,0.284132,Somewhat-Bullish,0.137591,0.634092
+20241219T050842,META,NVYY Chart | GraniteShares YieldBOOST NVDA ETF,Investing.com,0.253088,Somewhat-Bullish,0.312111,0.631950
+20241220T134400,META,Analyst says Celestica’s momentum has ‘continued’ through the year,BNN Bloomberg,0.344077,Somewhat-Bullish,0.303178,0.652532
+20241223T071840,META,Instagram Addiction Arbitration: Users’ Mental Health Harmed?,ClassAction.org,-0.642721,Bearish,-0.603873,0.959945
+20241226T070021,META,"AI Is Reshuffling Utilities Stocks. Entergy, NiSource, and Others Could Be Winners.",Barron's,0.306142,Somewhat-Bullish,0.341925,0.733543
+20241231T050953,META,"Townsquare media CEO Bill Wilson's family buys $1,545 in stock",Investing.com,0.147205,Neutral,0.245964,0.534879
+20241231T075100,META,Mark Zuckerberg cashes in on Meta’s record stock price with fresh share sales,MarketWatch,-0.226728,Somewhat-Bearish,-0.222353,1.000000

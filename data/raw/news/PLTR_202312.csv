@@ -1,0 +1,8 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20231207T173300,PLTR,"Palantir Technologies Inc. stock rises Thursday, still underperforms market",MarketWatch,0.197121,Somewhat-Bullish,0.215460,1.000000
+20231211T144200,PLTR,Costco Stock Hits 2023 Highs Ahead of Earnings,Schaeffer's Investment Research,0.371623,Bullish,0.375514,0.641890
+20231218T061009,PLTR,Themes Generative Artificial Intelligence ETF (WISE),Investing.com India,0.265203,Somewhat-Bullish,0.292266,0.619061
+20231218T192700,PLTR,SHAREHOLDER ALERT: Pomerantz Law Firm Investigates Claims On Palantir Technologies Inc. - PLTR,PR Newswire,-0.368926,Bearish,-0.375128,1.000000
+20231222T155200,PLTR,SHAREHOLDER ALERT: Pomerantz Law Firm Investigates Claims On Palantir Technologies Inc. - PLTR,KXAN Austin,-0.411133,Bearish,-0.416192,1.000000
+20231229T163924,PLTR,"Airship AI Holdings, Inc - Class A Common Stock (NQ: AISP)",FinancialContent,0.417169,Bullish,0.311954,0.603434
+20231231T134700,PLTR,Capital Product Partners L.P. to Acquire 11 Newbuild LNG Carriers,The Maritime Executive,0.25706,Somewhat-Bullish,0.202236,0.601887

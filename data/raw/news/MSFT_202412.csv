@@ -1,0 +1,107 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20241202T000000,MSFT,Microsoft is a Leader in the 2024 Gartner® Magic Quadrant™ - Microsoft Dynamics 365 Blog,Microsoft,0.341511,Somewhat-Bullish,0.605950,1.000000
+20241202T000000,MSFT,Alithya acquires Microsoft Biz Apps specialist XRM Vision for C$35 million,MSDynamicsWorld.com,0.304723,Somewhat-Bullish,0.229138,0.729606
+20241202T080937,MSFT,Should iShares S&P 500 Growth ETF (IVW) Be on Your Investing Radar?,TradingView — Track All Markets,0.348805,Somewhat-Bullish,0.312221,0.643162
+20241202T113000,MSFT,"Alithya acquires XRM Vision, deepening Microsoft expertise and strengthening smart shore capabilities",Yahoo Finance,0.383643,Bullish,0.344984,0.705596
+20241203T000000,MSFT,"BCI empowers employees with Microsoft 365 Copilot, realizing 10%-20% productivity boost",Microsoft,0.621114,Bullish,0.620853,1.000000
+20241203T000000,MSFT,Rockwell Automation’s FactoryTalk Design Studio Adds Generative AI Copilot,Packaging World,0.763139,Bullish,0.725694,0.738872
+20241203T000000,MSFT,Fortune Brands Innovations streamlines their customer experience across brands with Power Pages,Microsoft,0.365957,Bullish,0.315506,0.849770
+20241203T000000,MSFT,"DENSO deploys Microsoft 365 accounts for 22,000 factory employees in workstyle reform.",Microsoft,0.460388,Bullish,0.468664,1.000000
+20241203T065231,MSFT,The industrial software market landscape: 7 key statistics going into 2025,IoT Analytics,0.368777,Bullish,0.284348,0.616249
+20241203T083000,MSFT,PTC Partners with Microsoft and Volkswagen Group to Develop Codebeamer Generative AI Copilot,PR Newswire,0.33793,Somewhat-Bullish,0.429183,0.865292
+20241203T123927,MSFT,"GraniteShares 2x Long PLTR Daily ETF (PTIR) News, Articles, Events & Latest Updates",Stocktwits,0.249511,Somewhat-Bullish,0.149453,0.603275
+20241203T161100,MSFT,"Microsoft Corp adjusts financial segments, recasts fiscal reports",Investing.com,0.28384,Somewhat-Bullish,0.272037,1.000000
+20241204T070401,MSFT,The State Of Business Buying: Companies Still Struggle To Meet Buyer Expectations,Forrester,0.131723,Neutral,0.142061,0.614544
+20241204T071640,MSFT,ASX November Tech Winners: NoviqTech leads as AI boom lifts ASX technology stocks,Stockhead,0.231884,Somewhat-Bullish,0.333269,0.628713
+20241204T141700,MSFT,"Tech giant with 30,000 employees has no return-to-office policy",Buenos Aires Times,-0.103382,Neutral,-0.244194,0.731880
+20241205T000000,MSFT,"Asana Recognized as a Leader in the 2024 Gartner® Magic Quadrant™ for Collaborative Work Management (CWM), once again",Asana,0.341637,Somewhat-Bullish,0.335456,0.629738
+20241205T055134,MSFT,"RiverNorth Flexible Municipal Income Fund II, Inc. (RFMZ) Stock Forecast & Price Prediction 2026–2030",CoinCodex,0.224697,Somewhat-Bullish,0.138528,0.621422
+20241205T071936,MSFT,Best Free Project Management Software - Comparison Guide,tech.co,0.152429,Somewhat-Bullish,0.045083,0.604893
+20241206T000000,MSFT,Inside Salesforce’s bold ambitions to deploy 1bn enterprise AI agents within a year,The Drum,0.202416,Somewhat-Bullish,-0.224334,0.805668
+20241206T110400,MSFT,"Is AMD Stock's 7.19X P/S Still Worth it? Buy, Sell or Hold?",Nasdaq,0.142622,Neutral,0.174849,0.585581
+20241206T110600,MSFT,Corporation of the Year: Microsoft makes waves with $3.3 billion artificial intelligence data center project in Mount Pleasant,BizTimes - Milwaukee Business News,0.853303,Bullish,0.886858,1.000000
+20241206T120800,MSFT,"10 fast-growing software stocks to watch in 2025, including the runaway Palantir",MarketWatch,0.377839,Bullish,0.334412,0.645232
+20241206T130000,MSFT,The Inside Story of Apple Intelligence,WIRED,0.064632,Neutral,0.051399,0.663050
+20241206T131000,MSFT,PROS Named a Leader in the IDC MarketScape: Worldwide Configure Price Quote (CPQ) Applications for Commerce 2024-2025 Vendor Assessment,Yahoo Finance,0.462546,Bullish,0.531853,0.636141
+20241206T180900,MSFT,"BlackRock, Inc. Reduces Stake in iShares MSCI Poland ETF",GuruFocus,0.007037,Neutral,0.001616,0.640907
+20241206T183600,MSFT,Report: Apple will ship custom 5G modem chip with the 2025 iPhone SE,SiliconANGLE,-0.102205,Neutral,0.042187,0.554500
+20241209T000000,MSFT,C3 AI Announces Fiscal Second Quarter 2025 Financial Results,Business Wire,0.314513,Somewhat-Bullish,0.301114,0.732229
+20241209T003912,MSFT,QBIG Stock Price | Invesco Top QQQ ETF,Investing.com,0.146669,Neutral,0.316405,0.699784
+20241209T064350,MSFT,C3 AI Announces Fiscal Second Quarter 2025 Financial Results,C3 AI,0.306609,Somewhat-Bullish,0.315576,0.715506
+20241209T064811,MSFT,The next wave of AI: Demand and adoption,Barclays Investment Bank,0.434184,Bullish,0.541890,0.648545
+20241209T070500,MSFT,Extreme Networks launches Extreme Platform ONE to simplify enterprise networking and security,SiliconANGLE,0.301488,Somewhat-Bullish,0.222816,0.611806
+20241209T072914,MSFT,"Quantum Computing Inc. is a Leader in the Industry, For How Long?",The Globe and Mail,0.278754,Somewhat-Bullish,0.201931,0.577213
+20241209T074243,MSFT,AI Studios: Interview With Founder & CEO Eric Seyoung Jang About The Realistic AI Avatar Company,Pulse 2.0,0.244074,Somewhat-Bullish,0.323211,0.648949
+20241209T083000,MSFT,"PTC Appoints Robert Dahdah as Executive Vice President, Chief Revenue Officer",PR Newswire,0.211927,Somewhat-Bullish,0.115741,0.624091
+20241209T172800,MSFT,C3 AI shares surge on strong second quarter and upgraded outlook,SiliconANGLE,0.269132,Somewhat-Bullish,0.391017,0.723930
+20241209T220100,MSFT,Owl Creek Asset Management Increases Stake in Anterix Inc,GuruFocus,0.144088,Neutral,0.105085,0.612617
+20241210T000000,MSFT,Microsoft Faces Shareholder Vote Over Controversial Role in Producing Advanced Technologies for Fossil Fuel Extraction Despite Global Sustainability Commitments,As You Sow,-0.286876,Somewhat-Bearish,-0.263640,1.000000
+20241210T000000,MSFT,How Extreme Platform ONE Uses AI For Networking,Technology Magazine,0.286289,Somewhat-Bullish,0.215382,0.600473
+20241210T000000,MSFT,Groundbreaking Digital Experience and Films Fuse Holiday Heritage With Cutting-Edge Tech,The Coca-Cola Company,0.34301,Somewhat-Bullish,0.344475,0.647575
+20241210T064938,MSFT,Bullish AI spenders report higher ROI rates,CFO Dive,0.290235,Somewhat-Bullish,0.432975,0.734704
+20241210T064939,MSFT,Does Dividend Investing Still Work?,Morningstar,0.132,Neutral,0.140429,0.742824
+20241210T065910,MSFT,Top 10 Video Games Companies in the Global Market [2024],Fortune Business Insights,0.282702,Somewhat-Bullish,0.314707,0.724084
+20241210T072448,MSFT,Oracle reaps benefits of infrastructure investments as AI usage spikes,CIO Dive,0.339189,Somewhat-Bullish,0.346245,0.671639
+20241210T073710,MSFT,"Franklin Templeton’s Managers Positive About US, EM Equities, Bonds In 2025",Family Wealth Report,0.32247,Somewhat-Bullish,0.311590,0.605908
+20241210T093953,MSFT,T. Rowe Price PM a ‘big believer’ in crypto,Blockworks,0.189243,Somewhat-Bullish,0.128681,0.641056
+20241210T115600,MSFT,"C3.ai Stock Volatile as CEO Puts Some Shares for Sale, Offsetting Strong Results",Investopedia,0.270475,Somewhat-Bullish,0.549925,0.617488
+20241210T121200,MSFT,Lantronix Inc. to Showcase Edge AI Solutions and 2025 Product Roadmap at CES 2025 | LTRX Stock News,Quiver Quantitative,0.243353,Somewhat-Bullish,0.018725,0.578351
+20241210T142800,MSFT,"Jefferies says the Russell 2000 will reach 2,715 by 2025 year-end (NYSEARCA:IWM)",Seeking Alpha,0.113103,Neutral,0.000721,0.722567
+20241210T161000,MSFT,Shilpa Ranganathan Joins Expedia Group as Chief Product Officer,Yahoo Finance,0.352666,Bullish,0.342186,0.688117
+20241211T062000,MSFT,Should You Invest in the Fidelity MSCI Information Technology Index ETF (FTEC)?,Nasdaq,0.386441,Bullish,0.313184,0.625677
+20241211T065102,MSFT,Tax,Johnson Winter Slattery,0.120061,Neutral,0.139986,0.645036
+20241211T072637,MSFT,PLDT unit builds up AI-ready data centers,Inquirer.net,0.341847,Somewhat-Bullish,0.405610,0.624609
+20241211T073911,MSFT,How AI agents are the next wave of generative technology,TechTarget,0.156256,Somewhat-Bullish,0.101252,0.649466
+20241211T183950,MSFT,GROZ Top Holdings List & Exposure (Zacks Focus Growth ETF),MarketBeat,0.235568,Somewhat-Bullish,0.217546,0.807078
+20241212T000000,MSFT,Netskope partners with Microsoft to offer enterprise customers advanced SSE capabilities,ITWeb,0.231568,Somewhat-Bullish,0.404458,0.989496
+20241212T070704,MSFT,Industrial Alcohol Market Was Valued At Nearly USD 277.0 Billion,Market.us,0.511915,Bullish,0.245973,0.564696
+20241213T070921,MSFT,"Lenovo, HP And Dell Are Betting Big On A PC Refresh In 2025 (So Is The Channel)",CRN,0.257404,Somewhat-Bullish,0.313588,0.834775
+20241213T071847,MSFT,Why this money manager is buying a health care REIT and taking profits on Manulife,The Globe and Mail,0.045182,Neutral,0.208968,0.623274
+20241213T090000,MSFT,"Public Safety Software Market Skyrockets to $36.47 Billion by 2030 | CAGR of 10.5%, Dominated by Tech Giants - CENTRALSQUARE, Hexagon AB and Motorola Solutions Inc. | The Insight Partners",GlobeNewswire,0.332766,Somewhat-Bullish,0.252122,0.676643
+20241213T120250,MSFT,"Liberty All-Star Equity Fund Delivers Stellar 20.39% YTD Return, Shows Strong November Performance",Stock Titan,0.331163,Somewhat-Bullish,0.310288,0.655147
+20241213T141023,MSFT,"Liberty All-Star Growth Fund Delivers Stellar 8.7% Monthly Return, YTD Gains Exceed 20% with Tech-Heavy Portfolio",Stock Titan,0.326555,Somewhat-Bullish,0.339489,0.576746
+20241214T071243,MSFT,Will the iShares S&P 500 ETF (IVV) return another 36% in 2025?,The Motley Fool Australia,0.401205,Bullish,0.406922,0.629265
+20241214T081000,MSFT,"Broadcom's long and winding path to the trillion-dollar club, and how Trump played a role",CNBC,0.189234,Somewhat-Bullish,0.327835,0.621783
+20241215T200953,MSFT,Charted: Magnificent 7 Market Cap as a Share of the S&P 500,Voronoi by Visual Capitalist,0.154117,Somewhat-Bullish,0.166631,0.744382
+20241216T073911,MSFT,How to mitigate wiper malware,TechTarget,0.260717,Somewhat-Bullish,0.223367,0.603537
+20241217T080000,MSFT,Innoviz Technologies Gears Up for CES 2025: Showcasing the Future of Automotive LiDAR with Global OEM Leaders,PR Newswire,0.320944,Somewhat-Bullish,0.103247,0.573039
+20241217T082732,MSFT,Mag 7 ETFs Look Unstoppable Heading Into 2025,TradingView — Track All Markets,0.37486,Bullish,0.410411,0.704732
+20241217T200042,MSFT,Taking the Turbulence Out of Tech Investing,ETF Trends,0.040911,Neutral,0.051080,0.629402
+20241218T065858,MSFT,AI a ‘huge accelerant’ for DXC Technology,ARNnet,0.360542,Bullish,0.329834,0.642833
+20241218T071228,MSFT,Performance Management: The Complete Guide & Tips for HR,Gartner,0.36403,Bullish,0.289052,0.647076
+20241218T110015,MSFT,Nvidia's Blackwell chip could push the company into a new stratosphere as the AI revolution continues,Yahoo Finance,0.306568,Somewhat-Bullish,0.284198,0.690901
+20241218T160300,MSFT,Freedom Holding Corp. Invests $650M in Kazakhstan’s Digital Future,Fingerlakes1.com,0.420949,Bullish,0.331199,0.614564
+20241218T210847,MSFT,FEAT Top Holdings List & Exposure (YieldMax Dorsey Wright Featured 5 Income ETF),MarketBeat,0.028006,Neutral,0.009629,0.645802
+20241219T000000,MSFT,Rigetti Computing Surges 692% in a Month: Is There More Room to Jump?,Yahoo Finance,0.273807,Somewhat-Bullish,0.138104,0.631672
+20241219T000000,MSFT,AI’s Next Big Winners: 3 Small-Cap Stocks to Watch in 2025,MarketBeat,0.233793,Somewhat-Bullish,0.103417,0.607125
+20241219T000000,MSFT,"Microsoft Corporation (MSFT) Leads AI Investment in 2024, Purchasing 485,000 Nvidia GPUs to Power AI Infrastructure",Yahoo Finance,0.303038,Somewhat-Bullish,0.426494,1.000000
+20241219T040910,MSFT,AI’s Next Big Winners: 3 Small-Cap Stocks to Watch in 2025,MarketBeat,0.305952,Somewhat-Bullish,0.236828,0.609079
+20241219T071305,MSFT,JEPQ vs. QQQ: Which ETF Aligns With Your Investment Goals?,TradingNEWS,0.305793,Somewhat-Bullish,0.309441,0.645309
+20241219T142500,MSFT,Tech Moves: Expedia names CFO; former Microsoft AI VP leads new startup; Avante gets sales VP,GeekWire,0.140062,Neutral,0.123117,0.734045
+20241220T071243,MSFT,Does the iShares S&P 500 ETF (IVV) pay passive income?,The Motley Fool Australia,0.138253,Neutral,0.135572,0.719992
+20241220T103000,MSFT,"Rezolve Ai Recognized as a ""Next Big Winner"" in AI by MarketBeat: Positioned for Breakout Growth in 2025",GlobeNewswire,0.501757,Bullish,0.326028,0.618779
+20241220T131211,MSFT,Microsoft Corporation (MSFT): Among Tiger Global Management’s Long-Term Stock Picks,Yahoo Finance,0.438681,Bullish,0.411708,1.000000
+20241220T134400,MSFT,Analyst says Celestica’s momentum has ‘continued’ through the year,BNN Bloomberg,0.338374,Somewhat-Bullish,0.292433,0.620344
+20241222T214015,MSFT,The 'boring' department store whose stock is outperforming Tesla,Fortune,-0.141612,Neutral,-0.447454,0.612174
+20241223T034500,MSFT,How skilling will change in five years,The Financial Express,0.221751,Somewhat-Bullish,0.230227,0.598519
+20241223T070842,MSFT,"Verrado Marketplace, Teravalis: Key Buckeye developments to look for in 2025",The Arizona Republic,0.263735,Somewhat-Bullish,0.313404,0.618807
+20241223T164800,MSFT,Apple approaches $4 trillion valuation as investors bet on AI momentum,Reuters,0.267134,Somewhat-Bullish,0.145667,0.720266
+20241224T072531,MSFT,A Look Back at Automation Software Stocks’ Q3 Earnings: UiPath (NYSE:PATH) Vs The Rest Of The Pack,Barchart.com,0.142231,Neutral,0.183603,0.612796
+20241224T130000,MSFT,Netflix files suit against Broadcom over VMware virtual machine patents,SiliconANGLE,0.089958,Neutral,0.147587,0.606030
+20241224T211500,MSFT,"Hyperscale Data, Inc. (GPUS) Secures $25M for AI – Centric Data Center Expansion",Yahoo Finance,0.128881,Neutral,0.230136,0.642941
+20241226T000000,MSFT,Microsoft Corp (MSFT) DCF Valuation: Is The Stock Undervalued?,The Acquirer's Multiple,-0.335484,Somewhat-Bearish,-0.329058,1.000000
+20241226T201000,MSFT,"Richard Parsons, prominent executive who held top posts at Time Warner and Citigroup, dies at age 76",CBS News,0.055247,Neutral,0.025759,0.571312
+20241227T072007,MSFT,Evolving the device experience at Microsoft,Microsoft,0.326897,Somewhat-Bullish,0.430337,1.000000
+20241227T192857,MSFT,Bitwise proposes ETF for companies holding over 1000 Bitcoin,Bitget,0.110599,Neutral,0.142166,0.604051
+20241228T123033,MSFT,Gaxos.ai Inc. (GXAI) Launches Meshy 4 Update to Revolutionize 3D Modeling Workflows for Game Developers,Yahoo Finance,0.364261,Bullish,0.322502,0.617191
+20241228T203914,MSFT,Bitwise to Create ETF Based on Shares of Companies That Have Bought Bitcoin,Bitget,0.14492,Neutral,0.129310,0.593985
+20241229T070000,MSFT,"Jim Cramer on Apple Inc. (AAPL): ‘It Was The Dumb Money That Was Getting Out, Because Warren Buffett Or One Of His Assistants Made Us Nervous’",Yahoo Finance,0.225608,Somewhat-Bullish,0.305071,0.636471
+20241229T123000,MSFT,Costco defends DEI program as other major retailers drop controversial diversity push,Fox Business,0.080266,Neutral,0.022823,0.619666
+20241230T000000,MSFT,Growth ETFs Shaken Up as Tech Takes on Value Blush,ETF.com,0.100529,Neutral,0.115308,0.866758
+20241230T000000,MSFT,Bitwise CEO Predicts Major Bitcoin Adoption by 2025,Live Bitcoin News,0.099405,Neutral,0.118799,0.602242
+20241230T195600,MSFT,10 Best Performing Dividend ETFs In 2024,Insider Monkey,0.326299,Somewhat-Bullish,0.457348,0.726258
+20241230T224400,MSFT,How AI is being misused in creating deep fakes and 3 countries which top this list of viewers,Times of India,-0.249214,Somewhat-Bearish,-0.332805,0.644761
+20241231T000000,MSFT,Corsair Gaming Reports Fourth Quarter and Full Year 2024 Financial Results,Business Wire,0.274186,Somewhat-Bullish,0.114290,0.595094
+20241231T035328,MSFT,Intermedia Unite Review,PCMag,0.288218,Somewhat-Bullish,0.103764,0.639999
+20241231T044141,MSFT,UiPath Stock is Consolidating: Is This the Right Time to Enter?,Nasdaq,0.373969,Bullish,0.319487,0.611305
+20241231T083900,MSFT,Assessing Five9 Stock's 2025 Comeback Potential After 48.3% Drop in 2024,Nasdaq,0.408695,Bullish,0.342674,0.718216

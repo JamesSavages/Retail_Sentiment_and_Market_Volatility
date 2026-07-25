@@ -1,0 +1,52 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20230403T014738,MSFT,12 Most Advanced Countries in the World In 2023,WorldAtlas,0.383391,Bullish,0.426094,0.657040
+20230403T044354,MSFT,"iShares MSCI USA Quality Factor ETF (QUAL) Stock Price, Holdings, Dividend Yield",GuruFocus,0.233879,Somewhat-Bullish,0.274767,0.894502
+20230403T045136,MSFT,"ProShares Ultra QQQ 2x Shares (QLD) Stock Price, Holdings, Dividend Yield",GuruFocus,0.172975,Somewhat-Bullish,0.225767,0.794727
+20230403T055218,MSFT,"Schwab 1000 Index ETF (SCHK) Stock Price, Holdings, Dividend Yield",GuruFocus,0.23459,Somewhat-Bullish,0.258092,0.702452
+20230404T000000,MSFT,China AI: What Lies Ahead?,Citigroup,0.248355,Somewhat-Bullish,0.225747,0.572439
+20230404T080914,MSFT,"Abrdn Total Dynamic Dividend Fund (AOD) Stock Live Price, Chart & News",CoinCodex,0.053613,Neutral,0.118171,0.647366
+20230404T103000,MSFT,Google Cloud brings new blood into its go-to-market organization,SiliconANGLE,0.232191,Somewhat-Bullish,0.242731,0.834929
+20230404T235208,MSFT,"iShares Russell Top 200 Growth ETF (IWY) Stock Price, Holdings, Dividend Yield",GuruFocus,0.175442,Somewhat-Bullish,0.143154,0.721436
+20230405T123932,MSFT,"Locust Walk Acquisition Corp. (LWAC) Stock Live Price, Chart & News",CoinCodex,-0.128254,Neutral,0.349052,0.600652
+20230405T195252,MSFT,"Flaherty & Crumrine Total Return Fund Inc. (FLC) Stock Live Price, Chart & News",CoinCodex,0.120087,Neutral,0.111557,0.617231
+20230406T015159,MSFT,Renesas Cellular-to-Cloud Development Kits Now Connect Seamlessly to Microsoft Azure Cloud Services,Renesas,0.303516,Somewhat-Bullish,0.424306,0.992745
+20230406T040246,MSFT,"iShares Global 100 ETF (IOO) Stock Price, Holdings, Dividend Yield",GuruFocus,0.188925,Somewhat-Bullish,0.234280,0.720738
+20230406T161015,MSFT,"Tradr 1.5X Short NVDA Daily ETF (NVDS) News, Articles, Events & Latest Updates",Stocktwits,0.121298,Neutral,0.215950,0.644310
+20230407T012843,MSFT,Cadence Launches Cloud AI Tool to Shrink PCB Placement and Routing Times,All About Circuits,0.409201,Bullish,0.221431,0.567979
+20230409T012440,MSFT,"ByteDance’s Profit Surges 79%, Exceeding Alibaba and Tencent",The Business of Fashion,0.155354,Somewhat-Bullish,0.146543,0.626545
+20230411T014042,MSFT,"Hovering Around $100, Generac Is a Powerful Long-Term Opportunity",Entrepreneur,-0.094311,Neutral,0.007176,0.627580
+20230411T014521,MSFT,"Gartner: Top 5 Markets In $4.6 Trillion Tech Industry For 2023, 2024",CRN,0.217052,Somewhat-Bullish,0.241823,0.644024
+20230411T144018,MSFT,DFEM Stock Price | Dimensional Emerging Markets Core Equity 2 ETF,Investing.com,0.234759,Somewhat-Bullish,0.211521,0.620682
+20230411T164000,MSFT,"Ibex Global Solutions closing San Antonio call center, affecting 227 employees",San Antonio Express-News,-0.177501,Somewhat-Bearish,-0.201971,0.616045
+20230412T015840,MSFT,The leading IoT software companies 2023,IoT Analytics,0.179926,Somewhat-Bullish,0.301816,0.732010
+20230412T021001,MSFT,Viasat real-time Earth antennas integrated on Microsoft Azure Orbital,SatNews Publishers,0.367091,Bullish,0.340758,0.868596
+20230413T015200,MSFT,Amazon Launches AI Platform Aimed At Corporate Customers—Joining Google And Microsoft In AI Race,Forbes,0.327143,Somewhat-Bullish,0.294611,0.946647
+20230413T072758,MSFT,Bloomberg plans to integrate GPT-style A.I. into its terminal,CNBC,0.226828,Somewhat-Bullish,0.341495,0.664099
+20230417T000000,MSFT,"Chegg announces CheggMate, the new AI companion, built with GPT-4",Business Wire,0.367803,Bullish,0.297729,0.643673
+20230418T015911,MSFT,Samsung competes with Apple on rising non-terrestrial network market,KED Global,0.229618,Somewhat-Bullish,0.310406,0.609851
+20230418T020755,MSFT,"Video Game Engine market Future Demand Competitive Situation and Emerging Trends with Historic Forecast 2023-2029-Unity Technologies, Epic Games, Chukong Tech",Digital Journal,0.323091,Somewhat-Bullish,0.329203,0.608596
+20230418T021307,MSFT,2023 Phishing Report shows 47.2% more attacks,Zscaler,0.244706,Somewhat-Bullish,-0.146163,0.643334
+20230419T014520,MSFT,Gartner Magic Quadrant for Analytics and Business Intelligence Platforms 2023,CX Today,0.412269,Bullish,0.632962,0.964922
+20230419T015200,MSFT,CBRE strengthens every employees’ engagement and productivity with Microsoft Viva,Microsoft,0.451723,Bullish,0.474969,1.000000
+20230419T020737,MSFT,Tap collaboration devices for employee experience data,TechTarget,0.243773,Somewhat-Bullish,0.347729,0.623015
+20230419T021307,MSFT,Improve DNS Security with Zscaler's New Innovations,Zscaler,0.325214,Somewhat-Bullish,0.263011,0.605799
+20230420T014055,MSFT,Google DeepMind: Bringing together two world-class AI teams,blog.google,0.576475,Bullish,0.333989,0.643070
+20230420T020730,MSFT,Semiconductor industry electricity consumption to more than double by 2030: study,Greenpeace,-0.260165,Somewhat-Bearish,-0.222229,0.622097
+20230420T144949,MSFT,Problems at Hercules Capital (HTGC),The Bear Cave | Edwin Dorsey,-0.304492,Somewhat-Bearish,-0.406375,0.569720
+20230421T071400,MSFT,Job cuts in India just a small fraction of global layoffs: Recruitment firms,The Economic Times,-0.104522,Neutral,-0.121763,0.553542
+20230422T163949,MSFT,New ETF Makes a Big Bet on Cleaning Up the Environment,NBC10 Philadelphia,0.215817,Somewhat-Bullish,0.217609,0.630544
+20230423T015159,MSFT,Microsoft to shed more office space with Redmond sublease,The Business Journals,-0.040806,Neutral,0.142229,0.946946
+20230425T015156,MSFT,3 reasons why the Vanguard MSCI Index International Shares ETF (VGS) could be an excellent investment for beginners,The Motley Fool Australia,0.312434,Somewhat-Bullish,0.320720,0.712435
+20230425T015159,MSFT,LinkedIn Business Highlights from Microsoft’s FY23 Q3 Earnings,LinkedIn,0.49897,Bullish,0.464382,1.000000
+20230425T015348,MSFT,Infosys Launches the Live Operations Platform in Collaboration with ServiceNow to Boost Customer Experience for Telecom Providers,PR Newswire,0.347716,Somewhat-Bullish,0.274243,0.625463
+20230425T111500,MSFT,Lloyds Bank joins industry IT standards group,Computer Weekly,0.386546,Bullish,0.340935,0.622706
+20230425T113500,MSFT,3M laying off 10 percent of workforce amid slowing demand,The Hill,-0.234285,Somewhat-Bearish,-0.132353,0.553848
+20230427T015200,MSFT,Elon Musk Threatens to Sue Microsoft Over Alleged Illegal Data Usage,Vision Times,-0.046751,Neutral,-0.294356,1.000000
+20230427T232828,MSFT,2 Invesco ETFs That Offer Meta Exposure,ETF Database,0.334771,Somewhat-Bullish,0.222475,0.614723
+20230428T012945,MSFT,MDLIVE for Cigna cuts wait times by 50 percent by predicting changing healthcare demands with Azure Machine Learning,Microsoft,0.335016,Somewhat-Bullish,0.401639,0.849979
+20230428T020723,MSFT,Google Search vs. ChatGPT AI: Which Should P/C Insurers Use?,Carrier Management,0.177596,Somewhat-Bullish,0.114756,0.616802
+20230428T075500,MSFT,Sony expects profit to slip despite record PlayStation 5 sales,Reuters,-0.061565,Neutral,0.129754,0.619656
+20230428T133300,MSFT,U.S. government has 'serious concerns' that some H-1B visa applicants are trying to game the system,Fortune,0.127099,Neutral,0.121893,0.622181
+20230428T155104,MSFT,Trimble partners with Microsoft to take on construction’s biggest challenges,Microsoft,0.37079,Bullish,0.342790,0.884928
+20230429T011021,MSFT,"iShares U.S. Equity Factor Rotation Active ETF (DYNF) Stock Price, Holdings, Dividend Yield",GuruFocus,0.265474,Somewhat-Bullish,0.289141,0.568834
+20230430T015404,MSFT,AWS Data Transfer Pricing: Solving Hidden Network Transfer Costs,NetApp,0.194232,Somewhat-Bullish,0.128662,0.613560

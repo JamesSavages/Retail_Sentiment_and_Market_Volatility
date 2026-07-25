@@ -1,0 +1,8 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20230301T063921,PLTR,RYJ Top Holdings List & Exposure (Invesco Bloomberg Analyst Rating Improvers ETF),MarketBeat,0.196578,Somewhat-Bullish,0.231436,0.734099
+20230301T164000,PLTR,Palantir Stock Price (PLTR) Falling Due to Rating and Layoffs,The Coin Republic,-0.425498,Bearish,-0.416274,1.000000
+20230307T025117,PLTR,AI & Computer Vision Capabilities for Teal 2 Military Drone,Unmanned Systems Technology,0.34359,Somewhat-Bullish,0.229087,0.561051
+20230308T024911,PLTR,Palantir Stock: Karp Really Messed It Up For 2023 (NYSE:PLTR),Seeking Alpha,-0.205748,Somewhat-Bearish,-0.208379,1.000000
+20230324T025310,PLTR,"ASRC Federal Strikes $350M Cash Deal for SAIC’s Logistics, Supply Chain Management Arm; Jennifer Felix Quoted",GovCon Wire,0.246825,Somewhat-Bullish,0.119412,0.617069
+20230328T093300,PLTR,"Rackspace cutting workforce in response to downturn. Amid string of losses, its stock has plummeted.",San Antonio Express-News,-0.04415,Neutral,0.111322,0.644877
+20230330T030350,PLTR,Laura Fritzlen Joins Zscaler as Public Sector Alliances & Channels VP,GovCon Wire,0.292831,Somewhat-Bullish,0.305843,0.647054

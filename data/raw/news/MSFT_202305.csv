@@ -1,0 +1,62 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20230501T145600,MSFT,Survey Signals Pause-and-Pivot Year for CEOs,Gartner,0.306109,Somewhat-Bullish,0.341077,0.608656
+20230502T010420,MSFT,Palo Alto Networks Unveils Its Cloud Next-Generation Firewall for Microsoft Azure Customers,Palo Alto Networks,0.394408,Bullish,0.333404,0.920442
+20230502T161800,MSFT,IBM to pause hiring for certain jobs that could be replaced by AI,Fox Business,-0.082818,Neutral,0.115201,0.640665
+20230503T000000,MSFT,LSEG signs long-term strategic partnership with Barclays,LSEG,0.17092,Somewhat-Bullish,0.316093,0.644702
+20230503T011127,MSFT,Roger Federer - $95 million man,Tennis Majors,0.203576,Somewhat-Bullish,0.217196,0.566826
+20230503T030629,MSFT,Should Franklin U.S. Large Cap Multifactor Index ETF (FLQL) Be on Your Investing Radar?,Yahoo Finance,0.348175,Somewhat-Bullish,0.302209,0.606303
+20230503T143016,MSFT,"Msci Kld 400 Social Index: Meaning, Example, FAQs",Investopedia,0.31116,Somewhat-Bullish,0.443943,0.908729
+20230503T143459,MSFT,"Edgewell moves to SAP on Azure, strengthening BCDR and innovation on the Microsoft Cloud",Microsoft,0.224429,Somewhat-Bullish,0.434982,0.817102
+20230503T214100,MSFT,IBM CEO Arvind Krishna warns employees who work remotely: 'Your career does suffer',The Economic Times,-0.0782,Neutral,0.111317,0.611708
+20230504T000000,MSFT,40 Under 40: Champions of Construction 2022,Autodesk,0.380015,Bullish,0.388508,0.615625
+20230504T010001,MSFT,"xCloud generated less than $50 million for Microsoft in 2021, but estimated to become largest cloud gaming service in 2026",Game World Observer,0.105978,Neutral,0.116695,0.924825
+20230504T010001,MSFT,The era of generative AI: Driving transformation in banking,Microsoft,0.417621,Bullish,0.425407,1.000000
+20230504T010840,MSFT,The Unmissable Roku NewFront,MediaVillage,0.338672,Somewhat-Bullish,0.231495,0.590694
+20230504T172800,MSFT,Amkor Technology seeks to open Vietnam factory in fourth quarter,Theinvestor,0.193473,Somewhat-Bullish,0.102332,0.566476
+20230505T010750,MSFT,"Redwire, Microsoft, and Marvel are teaming up on a new STEM initiative",Fast Company,0.321359,Somewhat-Bullish,0.296406,0.847899
+20230506T111200,MSFT,Hanumakonda: KTR inaugurates 4 new companies; IT sector hired 1.5L people last year,NewsMeter,0.321022,Somewhat-Bullish,0.332616,0.645273
+20230508T000000,MSFT,Cisco Business Model,Business Model Analyst,0.212618,Somewhat-Bullish,0.115151,0.615317
+20230508T010650,MSFT,Google’s Quantum Computing Technology in 2024 Review,The Quantum Insider,0.174069,Somewhat-Bullish,0.132332,0.602379
+20230509T003825,MSFT,New Global Blockchain Network of Networks for Financial Market Participants and Institutional Assets,Business Wire,0.353869,Bullish,0.367073,0.730388
+20230509T004722,MSFT,The Definition Of “More From Less” In B2B Content Strategy And Operations,Forrester,0.277245,Somewhat-Bullish,0.228078,0.554941
+20230509T004727,MSFT,Firing Tucker Carlson from Fox won't change what viewers want. Will the media win them back?,USA Today,0.018072,Neutral,0.149465,0.552770
+20230509T011519,MSFT,5 major data backup trends to watch,TechTarget,0.268618,Somewhat-Bullish,0.338578,0.610830
+20230509T055700,MSFT,Google AI pioneer says he quit to speak freely about technology's 'dangers',Reuters,-0.07262,Neutral,0.139989,0.649763
+20230510T000000,MSFT,Big Names Provide Ballast for Blockchain Technology,ETF Trends,0.248209,Somewhat-Bullish,0.267641,0.729722
+20230510T100000,MSFT,POKERSTARS VR LAUNCHES ON PLAYSTATION VR2,PR Newswire UK,0.085498,Neutral,0.127088,0.626314
+20230511T050100,MSFT,Microsoft bets big on Sam Altman-backed Helion to deliver clean fusion energy by 2028,Interesting Engineering,0.466898,Bullish,0.456316,1.000000
+20230512T073000,MSFT,Here's how AI is driving the rise of GPU cloud specialists,Fierce Network,0.356868,Bullish,0.292026,0.632015
+20230513T000000,MSFT,Top 15 Coursera Competitors and Alternatives,Business Strategy Hub,0.107654,Neutral,0.128989,0.640412
+20230515T002833,MSFT,TCHP Outshines iShares S&P 500 Growth Fund,ETF Trends,0.301142,Somewhat-Bullish,0.209616,0.607447
+20230515T005417,MSFT,Layoffs may cause organizational drag: Gartner,CFO Dive,-0.132119,Neutral,-0.127604,0.602384
+20230515T010331,MSFT,Omnicell Appoints Nchacha E. Etta as Executive Vice President and Chief Financial Officer,Business Wire,0.274257,Somewhat-Bullish,0.248013,0.568751
+20230516T005137,MSFT,HPE Ezmeral refresh broadens open-source support and now works with objects and streams,SiliconANGLE,0.338648,Somewhat-Bullish,0.339139,0.638874
+20230516T010002,MSFT,UAE Cybersecurity Council partners with Microsoft to host Middle East Cybersecurity Conference,Microsoft Source,0.427304,Bullish,0.418881,1.000000
+20230516T011036,MSFT,"Comparing Google’s Bard with ChatGPT: What’s wrong, what’s bright",INDOlink,-0.076494,Neutral,0.129871,0.602805
+20230516T011057,MSFT,"Cormint raises $30,000,000 Series A and 400 BTC in Bitcoin debt to scale West Texas Bitcoin mine",Business Wire,0.29363,Somewhat-Bullish,0.131729,0.594950
+20230516T134900,MSFT,FTC Sues to Block Amgen’s Acquisition of Horizon Therapeutics,Investopedia,-0.200711,Somewhat-Bearish,-0.128406,0.612054
+20230517T201000,MSFT,Land O'Lakes says US carbon farming payouts top $5 million in 2022,Reuters,0.155784,Somewhat-Bullish,0.118960,0.649828
+20230518T000000,MSFT,Roundhill Launches Generative AI & Technology ETF With CHAT,ETF Trends,0.315506,Somewhat-Bullish,0.291666,0.821124
+20230518T011132,MSFT,Galileo Financial Technologies Joins AWS Marketplace,Business Wire,0.34597,Somewhat-Bullish,0.222873,0.642969
+20230518T082500,MSFT,Roundhill Investments Launches Generative AI & Technology ETF (NYSE Arca: CHAT),Stock Titan,0.369113,Bullish,0.323250,0.806861
+20230518T170919,MSFT,CHAT ETF: 10 Things to Know as the New AI Stocks Fund Starts Trading,InvestorPlace,0.365318,Bullish,0.332450,0.635127
+20230519T010930,MSFT,"Nazzic Keene to Retire as SAIC CEO, Toni Townes-Whitley Named Successor",GovCon Wire,0.12833,Neutral,0.142740,0.606297
+20230522T144400,MSFT,Steve Jobs: Apple Cofounder and Tech Innovator,Biography,0.295401,Somewhat-Bullish,0.138626,0.629211
+20230523T035326,MSFT,Is BULZ Stock a buy?,Cantech Letter,0.034191,Neutral,0.049928,0.724502
+20230523T070851,MSFT,FTQI Top Holdings List & Exposure (First Trust NASDAQ BuyWrite Income ETF),MarketBeat,0.104358,Neutral,0.112470,0.853063
+20230523T083921,MSFT,"NYLI U.S. Large Cap R&D Leaders ETF ETF Price, Holdings, & News (NASDAQ:LRND)",MarketBeat,0.2748,Somewhat-Bullish,0.330421,0.608660
+20230523T151056,MSFT,NVIDIA Collaborates With Microsoft to Accelerate Enterprise-Ready Generative AI,NVIDIA Newsroom,0.465122,Bullish,0.489021,1.000000
+20230523T193945,MSFT,TUG Top Holdings List & Exposure (STF Tactical Growth ETF),MarketBeat,0.127332,Neutral,0.142951,0.926150
+20230523T195204,MSFT,"Burney U.S. Factor Rotation ETF ETF Price, Holdings, & News (NASDAQ:BRNY) $BRNY",MarketBeat,0.235008,Somewhat-Bullish,0.258507,0.663017
+20230524T005137,MSFT,"In The Multicloud World, The Data’s The Thing",The Next Platform,0.172997,Somewhat-Bullish,0.225969,0.638338
+20230524T085127,MSFT,"Wahed Dow Jones Islamic World ETF ETF Price, Holdings, & News (NASDAQ:UMMA)",MarketBeat,0.179263,Somewhat-Bullish,0.105515,0.554239
+20230524T195220,MSFT,"Wahed FTSE USA Shariah ETF ETF Price, Holdings, & News (NASDAQ:HLAL) $HLAL",MarketBeat,0.021943,Neutral,0.002792,0.611784
+20230528T010236,MSFT,NVIDIA Announces DGX GH200 AI Supercomputer,NVIDIA Newsroom,0.387663,Bullish,0.342154,0.718977
+20230530T000000,MSFT,Salesforce looks to sublease Tableau HQ building in Seattle,The Business Journals,-0.174732,Somewhat-Bearish,-0.120065,0.626597
+20230530T124900,MSFT,Microsoft shares fix for cameras not working on Surface laptops,BleepingComputer,0.054646,Neutral,0.127181,1.000000
+20230530T145601,MSFT,Lenovo ranks eighth in the Gartner® Supply Chain Top 25 for 2023,Lenovo StoryHub,0.306047,Somewhat-Bullish,0.342920,0.629978
+20230531T000000,MSFT,Generative AI is too much for Amex to ignore,eMarketer,0.236227,Somewhat-Bullish,0.226648,0.632080
+20230531T000000,MSFT,Everything you need to know about Salesforce’s Q1 2024 financial results,AlphaStreet,0.108185,Neutral,0.038437,0.633966
+20230531T004103,MSFT,What’s lurking in your email?,Cisco Blogs,0.287284,Somewhat-Bullish,0.111420,0.640499
+20230531T005709,MSFT,Optical Transceivers Market Hit USD 32.22 Bn by 2032 | CAGR 10.8%,Enterprise Apps Today,0.295729,Somewhat-Bullish,0.298181,0.608053
+20230531T091200,MSFT,SOPHiA GENETICS Announces Nomination of Lila Tretikov to Board of Directors,PR Newswire,0.201396,Somewhat-Bullish,0.266099,0.520026

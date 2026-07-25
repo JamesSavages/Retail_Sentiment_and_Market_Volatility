@@ -1,0 +1,69 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20231002T183900,MSFT,Elon Musk's X hit with trademark lawsuit from marketing agency,Reuters,-0.190995,Somewhat-Bearish,-0.126761,0.624579
+20231002T203559,MSFT,What’s Changed: 2023 Gartner Magic Quadrant for Sales Force Automation Platforms,Solutions Review,0.292741,Somewhat-Bullish,0.320317,0.829083
+20231002T203853,MSFT,DXC Technology Adds Industry Veteran Andrew Wilson to Senior Leadership Team,DXC Technology,0.267897,Somewhat-Bullish,0.110214,0.630771
+20231002T210359,MSFT,Rockwell Automation goes cloud-native on Azure to bring modern software development paradigms to the factory floor,Microsoft,0.463706,Bullish,0.417561,0.886561
+20231002T210436,MSFT,"An exclusive conversation with Toni Townes-Whitley, one of only two Black women running a Fortune 500 company",Fast Company,0.308968,Somewhat-Bullish,0.235372,0.628884
+20231002T211017,MSFT,Generative AI in the enterprise raises questions for CIOs,TechTarget,0.303907,Somewhat-Bullish,0.309958,0.550445
+20231003T000000,MSFT,ConocoPhillips goes global with digital twins,CIO,0.381806,Bullish,0.341703,0.614462
+20231003T084000,MSFT,The Fortune 500 adds a second Black woman CEO in SAIC’s Toni Townes-Whitley,Fortune,0.128025,Neutral,0.246751,0.607529
+20231003T143919,MSFT,"Crypto Prices Today: BTC, SOL, CRV, PEPE All Record 24H Losses",Coin Edition,-0.077367,Neutral,-0.133395,0.642247
+20231003T180900,MSFT,Boeing PAC joins fleet of corporate givers to Kentucky Republican Party building fund,Kentucky Lantern,0.076589,Neutral,0.052451,0.641516
+20231003T211018,MSFT,Using the FAIR model to quantify cyber-risk,TechTarget,0.200334,Somewhat-Bullish,0.237765,0.562396
+20231004T110857,MSFT,JPMorgan Hedged Equity Laddered Overlay ETF,ETF Database,0.330912,Somewhat-Bullish,0.344177,0.646731
+20231005T205642,MSFT,theNET | Phishing keeps evolving,Cloudflare,0.215334,Somewhat-Bullish,0.114890,0.619409
+20231005T211404,MSFT,Tech spared as bond selloff buffets stocks,The Guam Daily Post,0.266746,Somewhat-Bullish,0.311586,0.642155
+20231006T144947,MSFT,HR costs rise as data suggests tech can cut HR staff,TechTarget,0.161156,Somewhat-Bullish,0.121435,0.612491
+20231009T140955,MSFT,Moat Investing Rises Above Magnificent Seven Dominance,VanEck,0.203332,Somewhat-Bullish,0.141009,0.629533
+20231009T204230,MSFT,Loan Servicing Software Market is Booming Worldwide with a High CAGR,openPR.com,0.338327,Somewhat-Bullish,0.213929,0.616988
+20231009T210204,MSFT,ANZ Product Lifecycle Management (PLM) Software Market Trends,Fortune Business Insights,0.285086,Somewhat-Bullish,0.287834,0.592334
+20231010T204241,MSFT,Over 800k Flagstar Bank Customers Impacted by Third Data Breach Since 2021,IT Security Guru,-0.141631,Neutral,-0.140087,0.620596
+20231010T211018,MSFT,Security posture management a huge challenge for IT pros,TechTarget,0.239649,Somewhat-Bullish,0.113524,0.558100
+20231010T211510,MSFT,Why CXOs should go all-in on Cybersecurity Awareness Month,Zscaler,0.361911,Bullish,0.226457,0.602357
+20231011T203600,MSFT,Microsoft Plans to Contest IRS Claim It Owes $28.9 Billion in Back Taxes,Bloomberg.com,-0.252338,Somewhat-Bearish,-0.289216,1.000000
+20231011T205926,MSFT,PacBio Announces Complete Computational Workflow for Human Whole Genome Sequencing Data Analysis,PacBio,0.246724,Somewhat-Bullish,0.143604,0.548609
+20231012T202808,MSFT,IWF ETF: Be Cautious Of High Valuations (NYSEARCA:IWF),Seeking Alpha,-0.159369,Somewhat-Bearish,-0.145659,0.633144
+20231012T203823,MSFT,Amdocs Enables Migration of Classic Applications to Azure and Oracle Cloud for Service Providers,TechAfrica News,0.286752,Somewhat-Bullish,0.429790,0.988896
+20231012T205642,MSFT,theNET | Using AI in cyber defenses,Cloudflare,0.209935,Somewhat-Bullish,0.201109,0.612783
+20231013T000000,MSFT,Generative AI Delivers a Boost to Cloud Computing,Global X ETFs,0.310472,Somewhat-Bullish,0.406027,0.877324
+20231013T102600,MSFT,"On Amazon, eBay, and Shopify, AI is the new third-party seller",CNBC,0.290803,Somewhat-Bullish,0.274421,0.692225
+20231013T202611,MSFT,"Google joins Adobe, Microsoft in promising to protect its AI users from copyright claims",The Business Journals,0.264084,Somewhat-Bullish,0.341952,0.847056
+20231013T202739,MSFT,AI Accelerated Video Editing with DaVinci Resolve 18.6 & AMD Radeon Graphics,AMD,0.308888,Somewhat-Bullish,0.206469,0.617853
+20231013T211029,MSFT,Microsoft’s Activision Buy Extends Nadella’s Decade of Deals,The Wall Street Journal,0.21694,Somewhat-Bullish,0.445754,1.000000
+20231014T205642,MSFT,"Malicious “RedAlert - Rocket Alerts” application targets Israeli phone calls, SMS, and user information",Cloudflare,0.114348,Neutral,-0.099278,0.590634
+20231015T211028,MSFT,Microsoft Closed Its Activision Deal. These Stocks Stand to Gain.,Barron's,0.16267,Somewhat-Bullish,0.303113,1.000000
+20231016T145559,MSFT,Gartner Identifies the Top 10 Strategic Technology Trends for 2024,Gartner,0.322284,Somewhat-Bullish,0.304132,0.723657
+20231016T210553,MSFT,"Will AI Take Your Job? Answer: Yes, No & Awesomely So",Sify News,0.239733,Somewhat-Bullish,0.232348,0.640316
+20231017T203441,MSFT,Five reasons why... WPP has merged VMLY&R and Wunderman Thompson,Creative Salon,0.333739,Somewhat-Bullish,0.304765,0.725733
+20231018T000000,MSFT,"70% of Companies Use AI, Other Tech to Optimize Business Travel: Weekly Stat",CFO.com,0.268954,Somewhat-Bullish,0.289994,0.617133
+20231018T000000,MSFT,BlackLine (BL) Strengthens Portfolio With Microsoft Teams Integration,Yahoo Finance,0.276197,Somewhat-Bullish,0.323169,0.723954
+20231018T155000,MSFT,Lululemon Athletica to join the S&P500 next week,Business in Vancouver,0.189591,Somewhat-Bullish,0.144383,0.723419
+20231018T203608,MSFT,Unidentified attackers breach tens of thousands of Cisco devices,CyberScoop,-0.191139,Somewhat-Bearish,-0.106167,0.633327
+20231018T205426,MSFT,"Authors sue Meta, Microsoft, Bloomberg in latest AI copyright clash",Reuters,-0.30475,Somewhat-Bearish,-0.343035,0.845501
+20231018T211336,MSFT,"WPP announces merger of Wunderman Thompson and VMLY&R, launching VML",eMarketer,0.285905,Somewhat-Bullish,0.323370,0.629018
+20231019T144107,MSFT,Ask AI Guru: Genpact turns to generative AI to help employees learn,Microsoft Source,0.361342,Bullish,0.302018,0.708601
+20231020T143123,MSFT,EXCLUSIVE: Franklin Templeton Optimistic About Emerging Markets,WealthBriefing,0.341469,Somewhat-Bullish,0.332041,0.640726
+20231020T202713,MSFT,Allstate’s cloud-first approach to digital transformation pays off,CIO,0.25053,Somewhat-Bullish,0.220511,0.611938
+20231023T202544,MSFT,Apple to spend $1 billion on AI in catch-up move: report,Fox Business,0.223518,Somewhat-Bullish,0.247779,0.724643
+20231023T210019,MSFT,Pfizer to pay $2M to resolve allegations that the company underpaid women,HR Dive,-0.176636,Somewhat-Bearish,-0.123874,0.645297
+20231024T000000,MSFT,The Top 50 SaaS CEOs of 2023,The Software Report,0.352591,Bullish,0.272770,0.634822
+20231024T205116,MSFT,"Capri Sun serves ‘epic’ kid moments on Dude Perfect, family-focused platforms",Marketing Dive,0.176408,Somewhat-Bullish,0.144550,0.607498
+20231025T000000,MSFT,"World's largest ammonia production complex: world record in Donaldsonville, Louisiana",worldrecordacademy.org,0.571511,Bullish,0.318302,0.625109
+20231025T133000,MSFT,Top 10 Cloud Security Companies,Investing News Network,0.321443,Somewhat-Bullish,0.437225,0.888837
+20231025T203815,MSFT,More tech coming for Schwab advisors,InvestmentNews,0.127921,Neutral,0.019589,0.642000
+20231025T204151,MSFT,9 Ways to Use Generative Artificial Intelligence Today,FactSet Insight,0.139528,Neutral,0.134441,0.646843
+20231026T204306,MSFT,"Predictions 2024: Automation Influenced By LLMs, Regulators, And Enterprise App Vendors",Forrester,0.145691,Neutral,0.113584,0.621438
+20231026T210359,MSFT,"Microsoft, Rockwell Automation to bring Gen AI to robotics development",The Robot Report,0.471911,Bullish,0.433059,0.987501
+20231026T210637,MSFT,Nasdaq 100 outlook: How will Amazon earnings impact AMZN stock?,FOREX.com,0.027195,Neutral,0.283803,0.680299
+20231026T210823,MSFT,"Deals in brief: ComfortDelGro leads investment in Drive Lah, Heidi Health secures Series A funding, Flourish Ventures raises USD 350 million, and more",KrASIA,0.141443,Neutral,0.105116,0.606222
+20231026T210849,MSFT,Best Graphic Design Tools for Creating Digital Ads,Outbrain,0.170037,Somewhat-Bullish,0.223656,0.638004
+20231027T204554,MSFT,Understanding Artificial Intelligence (AI) | Infographic,USFunds,0.272782,Somewhat-Bullish,0.315533,0.637945
+20231027T204910,MSFT,|Intapp and Microsoft deliver AI-based solutions built on Azure to financial and professional services firms,Microsoft,0.398936,Bullish,0.314785,0.983414
+20231027T210739,MSFT,Shutterstock Integrates AI Into Its Library of 700 Million Images,Decrypt,0.222375,Somewhat-Bullish,0.134185,0.617809
+20231028T132400,MSFT,Microsoft will hold a 27% stake in OpenAI and gain access to its AI models.,富途牛牛,0.364866,Bullish,0.456089,1.000000
+20231030T205733,MSFT,Insight 2023: NetApp Enhanced Data Pipeline for Hybrid Multi-Cloud AI and Advancements on Secure Storage Vs. Ransomware,StorageNewsletter,0.302764,Somewhat-Bullish,0.240224,0.576042
+20231030T210418,MSFT,Rentokil Initial enhances security,Security Journal UK,0.346852,Somewhat-Bullish,0.547657,0.623550
+20231031T000000,MSFT,Microsoft Edged Out Its Cloud Computing Competitors in Q3,ETF Trends,0.125067,Neutral,0.334554,0.949477
+20231031T042500,MSFT,"Vanguard, BlackRock, State Street rejected environmental and social proposals this year",Fortune,0.016887,Neutral,0.267311,0.635045
+20231031T070000,MSFT,7 Quantum Computing Stocks That AI Will Send Soaring,InvestorPlace,0.319506,Somewhat-Bullish,0.213483,0.661814
+20231031T090110,MSFT,This Niche Could Boost Blockchain Usage,ETF Trends,0.375125,Bullish,0.347675,0.635301

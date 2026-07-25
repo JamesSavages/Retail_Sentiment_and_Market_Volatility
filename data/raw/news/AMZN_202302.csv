@@ -1,0 +1,97 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20230201T030358,AMZN,"I-Team: License Plate Covers Still for Sale at Big-Name Stores, Despite NYC Ban",NBC 4 New York,-0.301961,Somewhat-Bearish,-0.448773,0.618613
+20230201T030445,AMZN,AerCap celebrates the delivery of its 50th 737-800 Boeing Converted Freighter,Aviation24.be,0.287503,Somewhat-Bullish,0.314051,0.617766
+20230201T031916,AMZN,2 Seattle CEOs rank among the nation's 3 best paid,Axios,0.256821,Somewhat-Bullish,0.252000,0.600796
+20230201T034430,AMZN,We Finally Know Where 'Westworld' Will be Available to Stream,Inverse,0.165998,Somewhat-Bullish,0.128753,0.633358
+20230201T035152,AMZN,10 Companies Who Inspire Creative Team Collaboration,TriNet,0.270659,Somewhat-Bullish,0.332080,0.748624
+20230201T122500,AMZN,Rivian to lay off 6% of its workforce as EV price war concerns grow,CNBC,-0.130838,Neutral,-0.103540,0.608054
+20230201T191100,AMZN,Your Guide to the Blink EV Charging Network,U.S. News & World Report,0.117993,Neutral,0.124616,0.631675
+20230202T030558,AMZN,AMZN Earnings: All you need to know about Amazon’s Q4 2022 earnings results,AlphaStreet News,0.039873,Neutral,-0.206791,1.000000
+20230202T032342,AMZN,"Checkout.com expands into US, picks CFO from within",CFO Dive,0.043414,Neutral,-0.134560,0.633799
+20230202T033355,AMZN,What Was Paul Allen's Net Worth?,Masterworks,0.265793,Somewhat-Bullish,0.249029,0.631742
+20230202T034229,AMZN,"Samsung’s next frontier: XR in partnership with Qualcomm, Google",KED Global,0.280359,Somewhat-Bullish,0.130483,0.637859
+20230202T145049,AMZN,"HubSpot, Pinterest Add to Tech Layoff Chaos",Tech.co,-0.341034,Somewhat-Bearish,-0.323012,0.649632
+20230202T164800,AMZN,Dollar General Corp. stock underperforms Thursday when compared to competitors,MarketWatch,-0.059686,Neutral,0.272351,0.704976
+20230202T165600,AMZN,Tom Kingsbury’s Challenge as New CEO of Kohl’s,WWD,0.115582,Neutral,0.143254,0.649875
+20230203T032154,AMZN,Gap Inc. Wants to Outsource Warehousing for SMBs,Sourcing Journal,0.122501,Neutral,-0.063751,0.634655
+20230203T112700,AMZN,"Netflix deletes new rules on account sharing after public outrage, says US customers yet to be affected",The National News Desk,-0.160665,Somewhat-Bearish,-0.101591,0.598915
+20230203T172600,AMZN,"Sysco Corp. stock falls Friday, still outperforms market",MarketWatch,-0.301582,Somewhat-Bearish,-0.526910,0.622931
+20230204T210924,AMZN,"State Street Consumer Discretionary Select Sector SPDR ETF (XLY) Stock Price, Holdings, Dividend Yield",GuruFocus,0.341483,Somewhat-Bullish,0.301458,0.873173
+20230205T031229,AMZN,What ‘Digital First’ Means for Church & Dwight,Consumer Goods Technology,0.262006,Somewhat-Bullish,0.231222,0.625972
+20230205T032829,AMZN,News | Amazon’s HQ2 Set To Open This Year in Northern Virginia Even As Tech Giants Scale Back,CoStar,0.183308,Somewhat-Bullish,0.212135,0.946596
+20230205T035343,AMZN,The 7 most in-demand tech skills for freelancers—many pay more than $125 an hour,CNBC,-0.247374,Somewhat-Bearish,-0.424339,0.603748
+20230206T030359,AMZN,NLRB: Apple illegally interfered with employees’ protected activity,HR Dive,-0.344062,Somewhat-Bearish,-0.284901,0.647389
+20230206T032316,AMZN,"CEBA: Energy Customers Announce Record-High of Nearly 17 GW of Clean Energy in 2022, Despite Policy and Market Challenges",cebuyers.org,0.298867,Somewhat-Bullish,0.449414,0.896248
+20230206T032759,AMZN,Oracle Named a Leader in Two Gartner® Magic Quadrant™ Reports: iPaaS and Data Integration,Oracle Blogs,0.214607,Somewhat-Bullish,0.110442,0.616108
+20230206T033806,AMZN,"Oracle to invest $1.5 bn in Saudi Arabia, open data centre in Riyadh",The Arab Weekly,0.271901,Somewhat-Bullish,0.247093,0.618544
+20230206T034827,AMZN,Sonos Is Having a Secret Sale Ahead of President's Day,Men's Health,0.235228,Somewhat-Bullish,0.218243,0.701528
+20230206T132309,AMZN,Software company Autodesk lays off 250 employees,The Economic Times,-0.257987,Somewhat-Bearish,-0.211278,0.634955
+20230207T033616,AMZN,"NetApp adds storage buying options, arrays",TechTarget,0.335122,Somewhat-Bullish,0.336272,0.607525
+20230207T230819,AMZN,NFL extends Zebra next gen data partnership until 2025,SportsPro,0.38211,Bullish,0.203622,0.649556
+20230208T031250,AMZN,4.9 Million Fabuloso Bottles Recalled for Bacteria Risk (Published 2023),The New York Times,-0.182993,Somewhat-Bearish,-0.101517,0.623247
+20230208T031438,AMZN,CVS Reaches $10.6 Billion Deal to Buy Clinic Owner Oak Street Health - WSJ,The Wall Street Journal,0.28629,Somewhat-Bullish,0.324413,0.620959
+20230208T032716,AMZN,"Mobile App Development market, it is estimated to increase at the rate of more than 23.80% from 2020 to the end of the year 2030",vocal.media,0.40609,Bullish,0.414246,0.625034
+20230208T033616,AMZN,Cure imaging storage challenges in the medical cloud,NetApp,0.322991,Somewhat-Bullish,0.349091,0.702500
+20230208T103600,AMZN,Don’t use these cleaners: Millions of bottles recalled because of bacteria,PennLive.com,-0.253826,Somewhat-Bearish,-0.126231,0.619889
+20230208T105400,AMZN,CVS buys primary care provider Oak Street for $10.6 billion,PBS,0.209209,Somewhat-Bullish,0.124233,0.617961
+20230208T110700,AMZN,Fabuloso recall: Colgate-Palmolive recalls 4.9M cleaners over bacteria risk,FOX 13 Seattle,-0.363332,Bearish,-0.340981,0.628702
+20230208T123300,AMZN,Colgate-Palmolive recalls 4.9 million bottles of Fabuloso,KWTX,-0.163109,Somewhat-Bearish,-0.113821,0.624615
+20230208T163300,AMZN,4.9 million Fabuloso cleaning products recalled due to bacteria risk,ABC News,-0.107372,Neutral,0.081924,0.585159
+20230209T032331,AMZN,Here’s Some Wisdom: Expect the Unexpected,Morningstar,0.129534,Neutral,0.149285,0.711115
+20230209T032657,AMZN,A new era for discoveries at Admera Health,Illumina,0.461905,Bullish,0.105327,0.640810
+20230209T131008,AMZN,Unusual Whales Subversive Democratic Trading ETF,ETF Database,0.223704,Somewhat-Bullish,0.246436,0.593286
+20230210T031715,AMZN,EBay lays off 500 workers,Retail Dive,-0.140833,Neutral,0.136035,0.613129
+20230210T032716,AMZN,Rhode Island Leverages Blockchain Technology for Easier Business,Infosys,0.480985,Bullish,0.429077,0.717225
+20230210T140000,AMZN,Ring Floodlight Cam Wired Pro vs. Arlo Pro 3 Floodlight Camera: Which is right for you?,Android Police,0.210249,Somewhat-Bullish,0.231395,0.815080
+20230213T033353,AMZN,Diverse Brokers in Bond Issuances,Morgan Stanley,0.292461,Somewhat-Bullish,0.223702,0.612653
+20230213T033806,AMZN,"Uber goes multicloud, announcing big deals with Oracle and Google",SiliconANGLE,0.210897,Somewhat-Bullish,-0.247061,0.627533
+20230213T033945,AMZN,Chinese e-commerce giant PDD splashes on Super Bowl ad for its Temu U.S. shopping site,CNBC,0.275805,Somewhat-Bullish,0.149198,0.622180
+20230214T030523,AMZN,Akamai Stock Gains as Earnings Top Estimates. It's Taking On the Cloud Giants.,Barron's,0.199662,Somewhat-Bullish,0.116301,0.616468
+20230214T032953,AMZN,The Coca-Cola Company Joins National Museum of African American History and Culture’s Corporate Leadership Council With $1 Million Contribution,The Coca-Cola Company,0.335877,Somewhat-Bullish,0.348413,0.623393
+20230214T033249,AMZN,持续动荡！这一美股巨头首席商务官将离职！又要新一轮裁员？去年宣布裁员1.1万人,新浪财经,-0.355063,Bearish,-0.436119,0.614668
+20230214T035635,AMZN,Walmart shuts the door on e-commerce-only stores,Grocery Dive,-0.097496,Neutral,0.102480,0.632354
+20230214T105512,AMZN,KB Securities launches AI-based RoboNews on US stocks,KED Global,0.150431,Somewhat-Bullish,0.305986,0.646305
+20230214T145200,AMZN,"Hedge Fund and Insider Trading News: George Soros, Seth Klarman, D.E. Shaw, Millennium Management, Element Capital, Coliseum Capital Management, Renaissance Technologies, Clearfield Inc (CLFD), Alset Inc. (AEI), and More",Insider Monkey,0.393732,Bullish,0.395233,0.710197
+20230215T030523,AMZN,Akamai Stock Tumbles on New Cloud Computing Push,Barron's,-0.050994,Neutral,0.114928,0.642979
+20230215T030940,AMZN,SaaS company Blackbaud closes four data centers as it moves to the cloud,Data Center Dynamics,0.165368,Somewhat-Bullish,0.138664,0.601073
+20230216T030545,AMZN,The 7 Best ChatGPT Stocks to Buy Now,InvestorPlace,0.344658,Somewhat-Bullish,0.149946,0.745572
+20230216T033341,AMZN,Dissecting the Chamber’s stance on climate policies,Politico,0.146781,Neutral,0.216026,0.600970
+20230216T035629,AMZN,WPP partners with Stripe to expand commerce and payments solutions for brands,WPP,0.368635,Bullish,0.325778,0.623509
+20230217T102900,AMZN,Amazon asks employees to be in office at least three days a week,Reuters,0.139243,Neutral,0.120925,1.000000
+20230218T140000,AMZN,Funding Roundup: Crypto Companies Landed $185M This Week,Blockworks,0.329216,Somewhat-Bullish,0.313574,0.640973
+20230219T185200,AMZN,Kroger workers who quit are getting texts and emails from the company asking them to come back,Fortune,-0.156866,Somewhat-Bearish,-0.238414,0.583132
+20230220T035429,AMZN,Veritone Q4 Earnings Preview: Going Nowhere (NASDAQ:VERI),Seeking Alpha,-0.31301,Somewhat-Bearish,-0.222597,0.604727
+20230221T031046,AMZN,FTC Alleges Supplement Company ‘Hijacked’ Amazon Reviews to Boost Sales,The Wall Street Journal,-0.122988,Neutral,-0.235754,0.731576
+20230221T031125,AMZN,Why Missouri has seen a wave of distribution center openings,Supply Chain Dive,0.372914,Bullish,0.331720,0.600545
+20230221T032254,AMZN,Lessons from transformers: How some distributors reset and won,McKinsey & Company,0.183718,Somewhat-Bullish,-0.339874,0.638254
+20230221T033642,AMZN,"NVIDIA GTC 2023 to Feature Latest Advances in AI Computing Systems, Generative AI, Industrial Metaverse, Robotics; Keynote by Jensen Huang; Talks by OpenAI, DeepMind Founders",NVIDIA Newsroom,0.460705,Bullish,0.334960,0.608891
+20230221T084300,AMZN,Focus: ChatGPT launches boom in AI-written e-books on Amazon,Reuters,0.0168,Neutral,0.033473,0.316848
+20230222T030558,AMZN,One Medical joins Amazon to make it easier for people to get and stay healthier,About Amazon,0.498647,Bullish,0.453816,1.000000
+20230222T031046,AMZN,"A Supplement Company 'Hijacked' Its Amazon Reviews to Boost Sales, According to the FTC",Gizmodo,-0.107184,Neutral,-0.204800,0.807364
+20230222T035120,AMZN,"Target Investing $100 Million in Sortation, Speeding Up Online Orders",WWD,0.273728,Somewhat-Bullish,0.131621,0.622520
+20230222T060100,AMZN,"Amazon completes One Medical takeover after FTC nod, discounts membership",Reuters,0.317156,Somewhat-Bullish,0.337568,0.994313
+20230222T061025,AMZN,Can PDD’s share price maintain its streak following Temu’s debut?,CMC Markets,-0.055992,Neutral,-0.217289,0.667097
+20230222T093000,AMZN,HPE boss Antonio Neri paid as much as 271 employees in 2022,The Register,0.074605,Neutral,0.123172,0.639381
+20230223T030833,AMZN,"Roku, Best Buy Partner for SXSW Confab Exhibit March 11-12",Media Play News,0.130142,Neutral,-0.134166,0.609990
+20230223T033532,AMZN,Netflix plunges after the streaming giant launches a wave of price cuts in 100 countries in the face of stiff competition,markets.businessinsider.com,-0.172417,Somewhat-Bearish,-0.139036,0.608790
+20230224T032339,AMZN,Amazon Launches OEM Auto Parts Store,Modern Distribution Management,0.138521,Neutral,0.294795,1.000000
+20230224T033603,AMZN,18 Ways to Make Money Online and Offline in Canada,NerdWallet,0.063723,Neutral,-0.123831,0.602321
+20230224T035001,AMZN,Court rejects deception charges against Savers Value Village,KOMO,0.179827,Somewhat-Bullish,-0.326683,0.641690
+20230225T030558,AMZN,"Amazon Takes Over One Medical Primary Care Service, Which Includes San Diego Market",Times of San Diego,0.480336,Bullish,0.489520,1.000000
+20230225T120500,AMZN,Amazon's Lagging Performance Vs. eBay Since 2020 Should Continue,Seeking Alpha,-0.047084,Neutral,-0.405398,0.965094
+20230227T033556,AMZN,GSMA debuts open API toolkit as AWS and Microsoft roll out new carrier offerings,SiliconANGLE,0.334639,Somewhat-Bullish,0.334674,0.703407
+20230227T034841,AMZN,SaksOff5th.com beefs up user experience leadership,Retail Dive,0.049437,Neutral,-0.136466,0.633466
+20230227T034942,AMZN,How Have the Top U.S. Asset Managers Voted in 2022?,The Harvard Law School Forum on Corporate Governance,0.059098,Neutral,0.060825,0.603524
+20230227T093400,AMZN,"Focus: Aviation industry turns to childcare, free iPhones to lure workers",Reuters,0.06953,Neutral,-0.105614,0.623826
+20230227T114700,AMZN,Start of a New Era: Why Nokia has changed its logo for the first time in 60 years,Firstpost,0.088189,Neutral,0.048492,0.636077
+20230228T010851,AMZN,PWB Top Holdings List & Exposure (Invesco Large Cap Growth ETF),MarketBeat,0.109996,Neutral,0.145018,0.744973
+20230228T030558,AMZN,"Amazon closes, cancels more warehouses as cost-cutting persists",Supply Chain Dive,0.288536,Somewhat-Bullish,0.265359,0.998573
+20230228T030717,AMZN,Better Launches Newest Mortgage Innovation ‘Equity Unlocker’ to Help Tech Employees Purchase Homes,Business Wire,0.192772,Somewhat-Bullish,0.344304,0.908215
+20230228T030918,AMZN,ITAN Top Holdings List & Exposure (Sparkline Intangible Value ETF),MarketBeat,0.139078,Neutral,0.123248,0.919654
+20230228T031848,AMZN,"Thoughtworks tops fourth-quarter estimates, but stock tumbles 17%+",SiliconANGLE,-0.157675,Somewhat-Bearish,-0.105477,0.613688
+20230228T055602,AMZN,Cloud kitchen operator Rebel Foods to run 150 Wendy’s restaurants in India,Al Arabiya English,0.208426,Somewhat-Bullish,0.112405,0.690898
+20230228T093908,AMZN,IOO Top Holdings List & Exposure (iShares Global 100 ETF),MarketBeat,0.109118,Neutral,0.141876,0.632457
+20230228T100853,AMZN,CRBN Top Holdings List & Exposure (iShares MSCI ACWI Low Carbon Target ETF),MarketBeat,0.23468,Somewhat-Bullish,0.240846,0.644082
+20230228T115211,AMZN,XLY Top Holdings List & Exposure (Consumer Discretionary Select Sector SPDR Fund),MarketBeat,0.081561,Neutral,0.051641,0.881776
+20230228T191233,AMZN,XLG Top Holdings List & Exposure (Invesco S&P 500 Top 50 ETF),MarketBeat,0.122894,Neutral,0.206781,0.612174
+20230228T200915,AMZN,PY Top Holdings List & Exposure (Principal Value ETF),MarketBeat,0.14512,Neutral,0.103694,0.815621

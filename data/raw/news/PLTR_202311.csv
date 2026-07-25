@@ -1,0 +1,4 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20231107T195827,PLTR,"Cloud Software Firm Intapp Crushes Sales, Earnings Targets",Investor's Business Daily,0.251212,Somewhat-Bullish,0.149846,0.654305
+20231115T201033,PLTR,"Palantir Stock: The Retail Army Is Winning, But Is It Too Late To Join The Party?",Seeking Alpha,0.142132,Neutral,0.117400,1.000000
+20231130T195201,PLTR,Arthur Cox wins top Irish accolade at European M&A awards,Irish Legal News,0.182013,Somewhat-Bullish,0.149532,0.639950

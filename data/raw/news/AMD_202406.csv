@@ -1,0 +1,47 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20240602T000000,AMD,"‘Accelerate Everything,’ NVIDIA CEO Says Ahead of COMPUTEX",NVIDIA Blog,0.522223,Bullish,0.241175,0.609351
+20240602T000000,AMD,Computer Industry Joins NVIDIA to Build AI Factories and Data Centers for the Next Industrial Revolution,NVIDIA,0.462204,Bullish,0.335071,0.733451
+20240602T124045,AMD,"AMD Extends AI and High-Performance Leadership in Data Center and PCs with New AMD Instinct, Ryzen and EPYC Processors at Computex 2024",AMD,0.392471,Bullish,0.462839,1.000000
+20240602T131040,AMD,NVIDIA Brings AI Assistants to Life With GeForce RTX AI PCs,NVIDIA Investor Relations,0.310322,Somewhat-Bullish,0.248850,0.641323
+20240603T000000,AMD,AMD-Nvidia ETFs in Focus Amid New Chip Introductions,Yahoo Finance,0.388263,Bullish,0.412548,0.961076
+20240603T032700,AMD,"AMD announces new AI chips amid intensifying competition with Nvidia, Intel",CNBC,0.199377,Somewhat-Bullish,0.433265,1.000000
+20240603T124045,AMD,AMD debuts ‘world’s fastest’ consumer desktop processor and AI-optimized server chips,SiliconANGLE,0.134858,Neutral,0.426801,1.000000
+20240603T124829,AMD,Coherent Appoints Jim Anderson as CEO,citybiz,0.309273,Somewhat-Bullish,0.317261,0.619638
+20240603T130609,AMD,Coherent Corp. names Lattice Semiconductor executive as CEO; shares rise in early trading,WFMZ.com,0.06994,Neutral,0.107052,0.616822
+20240603T164600,AMD,"Lattice Semiconductor Plunges as CEO Departs For Coherent, Whose Stock Soars",Investopedia,-0.134445,Neutral,0.024762,0.614165
+20240604T110600,AMD,Cisco Live Day 1 news brings together networking and security,SiliconANGLE,0.291868,Somewhat-Bullish,0.293597,0.632042
+20240604T124045,AMD,"AMD, TSMC to produce new chips",Taipei Times,0.3266,Somewhat-Bullish,0.428587,1.000000
+20240604T124100,AMD,Which AI Stocks Are Turning Hype Into Revenue?,Morningstar,0.267122,Somewhat-Bullish,-0.128084,0.738883
+20240605T093300,AMD,ASML to Ship Its $380 Million Chip Machine to TSMC This Year,Bloomberg.com,0.221022,Somewhat-Bullish,0.108620,0.646182
+20240606T132010,AMD,Nvidia’s Huang champions Supermicro’s direct liquid cooling tech,Taipei Times,0.294435,Somewhat-Bullish,0.227025,0.619546
+20240606T132417,AMD,TSMC Shares Hit Record High as AI Demand Boosts Chip Industry,The Wall Street Journal,0.597089,Bullish,0.508815,0.639128
+20240607T000000,AMD,Coherent Corp. Gets a New CEO,Optics & Photonics News,0.193239,Somewhat-Bullish,0.119112,0.604647
+20240607T124045,AMD,NVIDIA and AMD Make Their Next Move in the AI Chip War,InvestorPlace,0.241777,Somewhat-Bullish,0.062619,0.961281
+20240610T123928,AMD,Microcontroller operations in an OCP ORV3 smart battery backup unit,Embedded-Control-Europe,0.376256,Bullish,0.316114,0.608729
+20240610T124227,AMD,Who are the highest-paid S&P 500 CEOs of 2023?,InvestmentNews,0.062317,Neutral,0.006443,0.649039
+20240611T074041,AMD,Nvidia's Stock Split Could Spell Upside For Spear Alpha ETF's (SPRX) Top Holding,Investing.com UK,0.564629,Bullish,0.296561,0.557681
+20240611T124938,AMD,Five thoughts from Cisco Live 2024,SiliconANGLE,0.297521,Somewhat-Bullish,0.304733,0.705705
+20240612T145900,AMD,South Korean AI chip developers Rebellions and Sapeon to merge,Reuters,0.212616,Somewhat-Bullish,0.204025,0.646070
+20240613T000000,AMD,Archaea Energy and Republic Services celebrate first RNG plant in landmark partnership,bp global,0.402386,Bullish,0.341036,0.615887
+20240613T125737,AMD,‘Record demonstration’: Dark horse in quantum race passes new milestone,Forbes Australia,-0.02303,Neutral,-0.130847,0.551138
+20240614T124045,AMD,AMD Confident About Increasing Market Share In India,Entrepreneur,0.353597,Bullish,0.419540,1.000000
+20240614T125806,AMD,This Stock Is About to Get an AI Boost. No One Is Paying Attention—Yet.,Barron's,0.411253,Bullish,0.345943,0.636157
+20240618T000000,AMD,"Nvidia Becomes Most Valuable Public Company, Topping Microsoft (Published 2024)",The New York Times,0.152039,Somewhat-Bullish,0.120771,0.589421
+20240618T194400,AMD,Nvidia surpasses Microsoft to become the world’s most valuable company,SiliconANGLE,0.283639,Somewhat-Bullish,0.105096,0.609492
+20240619T000000,AMD,Nvidia beats Microsoft to become world's most valuable company,BBC,0.42168,Bullish,0.233268,0.557380
+20240619T124041,AMD,"To address talent shortage, chipmakers skilling engineering students",The Economic Times,0.388821,Bullish,0.466359,0.868003
+20240619T132501,AMD,Former TSMC and UMC leadership unite to chart future semiconductor ecosystem,digitimes,0.210498,Somewhat-Bullish,0.105887,0.607048
+20240620T000000,AMD,Kubota Corporation develops engines faster with high-performance computing on Azure,Microsoft,0.461646,Bullish,0.441899,0.810949
+20240620T073000,AMD,Here’s why AMD’s stock was just dubbed a top pick,MarketWatch,0.163998,Somewhat-Bullish,0.304211,1.000000
+20240620T073000,AMD,Here’s why AMD’s stock was just dubbed a top pick,MarketWatch,0.143814,Neutral,0.320591,1.000000
+20240620T164100,AMD,Semiconductor cycle: Going up or down?,The Edge Singapore,0.199532,Somewhat-Bullish,0.128542,0.648342
+20240620T170000,AMD,Not all semiconductor ETFs are the same. What investors need to know before betting on Nvidia and other chip stocks.,MarketWatch,0.157814,Somewhat-Bullish,0.115841,0.629535
+20240620T170000,AMD,Not all semiconductor ETFs are the same. What investors need to know before betting on Nvidia and other chip stocks.,MarketWatch,0.114017,Neutral,0.148194,0.612725
+20240621T130816,AMD,How Nvidia surpassed Microsoft and Apple to become world’s most valuable company,Bobsguide,0.361973,Bullish,-0.092686,0.572746
+20240624T024200,AMD,"AOSL is a new GB200 supplier, leading beneficiaries of NVIDIA's process certification changes",TweakTown,0.30663,Somewhat-Bullish,0.121806,0.617042
+20240624T131937,AMD,What’s new in Azure app service at Build 2024: Key announcements and features,INDOlink,0.262237,Somewhat-Bullish,0.316039,0.774720
+20240625T064100,AMD,Here Are 5 Things Smart Investors Should Know About Broadcom's Upcoming 10-for-1 Stock Split,Nasdaq,0.306973,Somewhat-Bullish,0.317540,0.635004
+20240626T000000,AMD,Intel Demonstrates First Fully Integrated Optical I/O Chiplet,Intel Newsroom,0.467052,Bullish,0.250474,0.583413
+20240626T000000,AMD,"What Exactly Does NVIDIA Do, and Why Should You Care?",CX Today,0.346286,Somewhat-Bullish,0.194038,0.611662
+20240626T003955,AMD,"The Nightview Fund ETF Price, Holdings, & News (NYSEARCA:NITE) $NITE",MarketBeat,0.088331,Neutral,0.138575,0.551113
+20240627T000000,AMD,Microchip Rad-hard MCU Targeted at Aerospace and Defense Market,EE Times Asia,0.3843,Bullish,0.329372,0.642988

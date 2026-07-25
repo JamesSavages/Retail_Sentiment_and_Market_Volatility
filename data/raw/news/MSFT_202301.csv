@@ -1,0 +1,117 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20230103T035902,MSFT,Apple’s market value drops below $2 trillion,Al Jazeera,-0.175391,Somewhat-Bearish,-0.106817,0.634857
+20230103T042218,MSFT,HDFC Bank partners with Microsoft to drive its digital transformation efforts,Techcircle,0.463108,Bullish,0.538540,0.918144
+20230103T042218,MSFT,HDFC Bank partners with Microsoft as part of its digital transformation journey,Microsoft Source,0.262913,Somewhat-Bullish,0.471282,0.960538
+20230103T042553,MSFT,Pulp and Paper Industry 2022 Year in Review,ResourceWise,0.217113,Somewhat-Bullish,0.248360,0.575850
+20230103T044644,MSFT,A bird’s eye view of Data Centers,INDOlink,0.332704,Somewhat-Bullish,0.329443,0.606999
+20230103T090000,MSFT,CES: Intel Extends Performance Leadership with World's Fastest Mobile Processor,Investor Relations :: Intel Corporation (INTC),0.382687,Bullish,0.296173,0.642060
+20230103T183700,MSFT,Amazon's AWS Growth Strategy Probably More Sustainable Than Oracle's (AMZN),Seeking Alpha,-0.063848,Neutral,0.083014,0.626959
+20230104T040113,MSFT,AMD Highlights Future of High-Performance and Adaptive Computing During Opening Keynote of CES 2023,AMD,0.25103,Somewhat-Bullish,0.208475,0.614749
+20230104T041031,MSFT,Salesforce to cut 10% of workforce in latest tech layoffs,Al Jazeera,0.185263,Somewhat-Bullish,0.104050,0.612645
+20230104T041750,MSFT,Distributed Cloud Global Market Report 2022: Ukraine-Russia War Impact,GlobeNewswire,0.328885,Somewhat-Bullish,0.333473,0.746453
+20230104T042318,MSFT,HP launches PCs for hybrid workers with 'world-first' dual-camera setups,IT Pro,0.232997,Somewhat-Bullish,-0.132915,0.607160
+20230104T044644,MSFT,The Power of 7: Tech that will disrupt 2023,Sify News,0.255036,Somewhat-Bullish,0.317041,0.634018
+20230105T043846,MSFT,PurpleUrchin Bypasses CAPTCHA and Steals Cloud Platform Resources,Unit 42,-0.181944,Somewhat-Bearish,-0.307424,0.606472
+20230105T140000,MSFT,Warning over ransomware attacks spreading via Fortinet kit,Computer Weekly,-0.165171,Somewhat-Bearish,-0.118219,0.555522
+20230106T040756,MSFT,Comcast Promotes Jason S. Armstrong to CFO,Variety,0.189306,Somewhat-Bullish,0.131308,0.622852
+20230106T044802,MSFT,Sony: Japanese Emperor With Diversified Growth (NYSE:SONY),Seeking Alpha,0.30948,Somewhat-Bullish,0.142819,0.622821
+20230106T044922,MSFT,"ATCO acquires $713M wind, solar portfolio from Suncor",SustainableBiz,0.036897,Neutral,0.313669,0.732366
+20230106T192400,MSFT,China’s NetEase buys Halo co-developer SkyBox Labs in global expansion drive,Reuters,0.246397,Somewhat-Bullish,0.293090,0.741887
+20230109T044645,MSFT,2023 Blue Arc e-Van First Drive: An Anti-Startup Goes Electric,MotorTrend,0.391313,Bullish,0.253918,0.550935
+20230109T045556,MSFT,WPP strengthens Salesforce expertise with Fenom Digital acquisition,Marketing Dive,-0.058749,Neutral,-0.119689,0.637318
+20230110T000000,MSFT,DXC Technology Identifies Five Cybersecurity Trends that will Impact Life and Business in 2023 and Beyond,DXC Technology,0.289346,Somewhat-Bullish,0.115735,0.611187
+20230110T041837,MSFT,Are You Ready To Step Up To B2B Marketing’s New Destiny?,Forrester,0.236325,Somewhat-Bullish,0.203576,0.563240
+20230110T042539,MSFT,Intel 4th Gen Xeon series offers a leap in data center performance and efficiency,SiliconANGLE,0.504983,Bullish,0.545292,0.647286
+20230110T042539,MSFT,"Intel Launches 4th Gen Xeon Scalable Processors, Max Series CPUs and GPUs",Investor Relations :: Intel Corporation (INTC),0.338276,Somewhat-Bullish,0.308377,0.638355
+20230110T042541,MSFT,Networked Quantum Computers: IonQ Acquires Assets of Entangled Networks,IonQ: Trapped Ion Quantum Computing,0.283181,Somewhat-Bullish,0.133552,0.644018
+20230110T042542,MSFT,IonQ acquires quantum networking startup Entangled Networks,SiliconANGLE,0.322136,Somewhat-Bullish,0.133852,0.619732
+20230110T042712,MSFT,The 7 Best Mutual Funds for Your 401k,InvestorPlace,0.253734,Somewhat-Bullish,0.308796,0.616903
+20230110T043357,MSFT,Resilient Retail,Microsoft,0.324065,Somewhat-Bullish,0.441765,1.000000
+20230110T043443,MSFT,"Collective intelligence exponentially outperforms any one person or idea:"" An interview with N-able's John Pagliuca",Computing UK,0.367154,Bullish,0.343737,0.629018
+20230110T043611,MSFT,"Thousands reportedly laid off at Cloud Software Group, the parent company of Citrix",SiliconANGLE,0.071947,Neutral,-0.144132,0.624527
+20230112T041312,MSFT,Cognizant appoints ex-Infosys president Ravi Kumar as CEO,Techcircle,0.174989,Somewhat-Bullish,0.345916,0.645432
+20230112T043234,MSFT,Meta faces a future of more legal woes and falling revenues,DW.com,-0.231634,Somewhat-Bearish,-0.134160,0.552836
+20230112T045200,MSFT,Buffett-Backed Taiwan Semiconductor Braces for Chip-Sector Downturn,Barron's,-0.198126,Somewhat-Bearish,-0.129351,0.585563
+20230112T202400,MSFT,"Google, Nvidia Express Concerns to FTC About Microsoft’s Activision Deal",Bloomberg.com,-0.197149,Somewhat-Bearish,-0.349878,0.914517
+20230113T043813,MSFT,Oracle jumps into payments for retailers,Payments Dive,0.314426,Somewhat-Bullish,0.226062,0.618633
+20230117T040410,MSFT,Banco de Chile y SKY suman nuevos beneficios para sus clientes,Chócale,0.304722,Somewhat-Bullish,0.103195,0.644173
+20230117T040521,MSFT,Biometric Sensors Market Size to Touch USD 3.5829 million by 2030 According to Acumen Research and Consulting,GlobeNewswire,0.318477,Somewhat-Bullish,0.305389,0.807030
+20230117T041208,MSFT,Rio Tinto Lowers Production Forecast for Diavik Mine,IDEX Online,-0.140276,Neutral,-0.249074,0.636950
+20230117T043357,MSFT,World Economic Forum Establishes Purpose-driven Metaverse to Tackle World’s Most Pressing Challenges,Accenture,0.006229,Neutral,0.013166,0.301702
+20230117T044210,MSFT,The January 2023 Patch Tuesday Security Update Review,Qualys,0.345366,Somewhat-Bullish,0.307679,0.909297
+20230117T090000,MSFT,TD SYNNEX Unveils New Fraud Defense Solution to Combat Widespread Security Risks,FinancialContent,0.333522,Somewhat-Bullish,0.307523,0.640087
+20230118T043357,MSFT,"Microsoft to shed 10,000 jobs, adding to glut of tech layoffs",Reuters,-0.223288,Somewhat-Bearish,-0.222881,1.000000
+20230118T043500,MSFT,"nCino lays off 7% of workforce, CFO exits",Port City Daily,-0.177166,Somewhat-Bearish,-0.101053,0.623847
+20230118T043846,MSFT,"Rubrik grows fast, ex-CEO of Palo Alto Networks joins board",Techzine Global,0.138897,Neutral,0.148691,0.607460
+20230118T044644,MSFT,Author: Bhagya Ayyavoo,INDOlink,0.130174,Neutral,0.128558,0.604390
+20230118T045556,MSFT,"GroupM confirms layoffs of staffers across N. America, EMEA regions",Digiday,-0.151399,Somewhat-Bearish,-0.143381,0.600278
+20230118T085200,MSFT,"Wednesday's Top Analyst Upgrades and Downgrades: BP, Exxon Mobil, Kroger, Microsoft, RingCentral, Wayfair, Wendy's and More",24/7 Wall St.,0.264203,Somewhat-Bullish,-0.509405,0.933215
+20230118T094700,MSFT,Getty Images suing the makers of popular AI art tool for allegedly stealing photos,CNN,0.003515,Neutral,0.122301,0.615232
+20230118T190832,MSFT,"Sobre a J.B. Hunt Transport, Inc.",IBM,0.341367,Somewhat-Bullish,0.231052,0.637637
+20230118T231045,MSFT,"Who the heck paid $100,000 for an old Twitter logo statue in Elon Musk's auction?",Business Insider,0.110386,Neutral,0.114425,0.617063
+20230119T000000,MSFT,AI Time: 10 Ways Artificial Intelligence is Getting Real,Citigroup,0.300528,Somewhat-Bullish,0.336516,0.629117
+20230119T035853,MSFT,Cotações de BDRs: Bolsa de Valores ao Vivo e últimas notícias,Money Times,0.308756,Somewhat-Bullish,0.384430,0.635263
+20230119T040523,MSFT,A new way of selling cruises; VR gains new friends; the sector that ‘knows too much’ but not enough; cruise ships get TikTok - WiT,Web In Travel,0.238314,Somewhat-Bullish,0.205138,0.618379
+20230119T040526,MSFT,Bitcoin Could Be on Precipice of New Bull Market,ETF Trends,0.230236,Somewhat-Bullish,0.246283,0.614714
+20230119T045259,MSFT,Best 12 Freelancing Sites in India,Business Outreach Magazine,0.205613,Somewhat-Bullish,0.101847,0.587571
+20230119T105936,MSFT,Global X S&p 500 Covered Call Etf Share Price,INDmoney,0.107947,Neutral,0.133574,0.635748
+20230119T171800,MSFT,PNC Financial Services Group Inc. stock underperforms Thursday when compared to competitors,MarketWatch,-0.28874,Somewhat-Bearish,0.128855,0.645627
+20230120T042736,MSFT,Do Companies Need to Shake Up the Way They Find Tech Talent?,JPMorganChase,0.277181,Somewhat-Bullish,0.239180,0.564702
+20230120T043357,MSFT,100-Year-Old Retailer Canadian Tire Modernizes Data Platform with Azure Synapse Analytics and Power BI,Microsoft,0.716327,Bullish,0.722958,0.925648
+20230120T043925,MSFT,A Survival Guide for When You’ve Been Laid Off,The Wall Street Journal,-0.22072,Somewhat-Bearish,-0.245486,0.720552
+20230120T044020,MSFT,Israeli Game Maker Playtika To Offer 683M Euros For Rovio Studios Acquisition,Asia Business Outlook,0.213232,Somewhat-Bullish,0.349589,0.622638
+20230120T044151,MSFT,"D-Wave Highlights Commercial Customer Engagements, Cross-Platform Product Enhancements",The Quantum Insider,0.268651,Somewhat-Bullish,0.108504,0.568802
+20230120T123700,MSFT,"Here are the layoff severance packages Google, Microsoft, Amazon and other tech giants have promised",CNBC,-0.252046,Somewhat-Bearish,-0.274454,0.867443
+20230120T150000,MSFT,"Amazon, Microsoft Job Cuts Deal Another Blow to Ailing Seattle",Bloomberg.com,-0.420813,Bearish,-0.380970,0.923032
+20230120T160000,MSFT,Amazon to Plow Extra $35 Billion Into Virginia Data Centers in Cloud Race,Bloomberg.com,0.192096,Somewhat-Bullish,0.125024,0.633610
+20230123T040129,MSFT,Stripe becomes a strategic payments partner for Amazon,SiliconANGLE,0.216021,Somewhat-Bullish,0.103797,0.629764
+20230123T043813,MSFT,Silicon Valley 2.0? 5 US cities that could be the new tech start-up central,South China Morning Post,0.313636,Somewhat-Bullish,0.279792,0.640359
+20230123T130100,MSFT,"Spotify to slash 6% of workforce, adding to tech layoffs glut | Daily Sabah",Daily Sabah,-0.22822,Somewhat-Bearish,-0.220742,0.629254
+20230123T151056,MSFT,Microsoft and OpenAI extend partnership,The Official Microsoft Blog,0.705983,Bullish,0.727455,1.000000
+20230123T163600,MSFT,Ansys Inc. stock outperforms market on strong trading day,MarketWatch,0.235702,Somewhat-Bullish,0.225325,0.641556
+20230124T041057,MSFT,News | King Charles's Property Company 'Sues' Twitter Over Unpaid Rent,CoStar,-0.160624,Somewhat-Bearish,-0.141114,0.647343
+20230124T042617,MSFT,What's Changed: 2023 Gartner Magic Quadrant for Enterprise Low-Code Application Platforms,Solutions Review,0.333269,Somewhat-Bullish,0.335898,0.685169
+20230124T045131,MSFT,Understanding the value of an ESG audit certification,Thomson Reuters tax,0.329651,Somewhat-Bullish,0.309484,0.622834
+20230124T171500,MSFT,"Oracle Corp. stock rises Tuesday, outperforms market",MarketWatch,-0.125728,Neutral,-0.249072,0.635332
+20230125T040601,MSFT,Bp powers greater innovations with a modular data mesh design on Azure,Microsoft,0.364988,Bullish,0.329544,0.911247
+20230125T041241,MSFT,Bad Week of Earnings Pulls Q4 Growth Rate Lower,See It Market,0.178937,Somewhat-Bullish,0.144335,0.738982
+20230125T041837,MSFT,Five Proven Ways That DEX Tools Can Save You Money In 2023,Forrester,-0.050393,Neutral,-0.110617,0.631849
+20230125T042617,MSFT,Gartner Magic Quadrant for Enterprise Low-Code Application Platforms 2023,CX Today,0.194895,Somewhat-Bullish,0.245774,0.843361
+20230125T043611,MSFT,5 Interesting Learnings from ServiceNow at $8 Billion in ARR,SaaStr,0.191689,Somewhat-Bullish,0.309957,0.635955
+20230125T043646,MSFT,Nvidia CEO Jensen Huang: AI is creating tools that will need regulation,The Business Journals,0.116609,Neutral,0.111112,0.741516
+20230126T040609,MSFT,Financial services firms investing in AI for digital future,AI Magazine,0.399777,Bullish,0.334886,0.557657
+20230126T040756,MSFT,Comcast Corp. nods to new Frisco park and sees ‘great momentum’ in theme parks business,Dallas News,0.192413,Somewhat-Bullish,0.143888,0.610486
+20230126T040916,MSFT,"Chipotle Plans to Hire 15,000 People Ahead of ‘Burrito Season’",The New York Times,-0.179536,Somewhat-Bearish,-0.315346,0.556324
+20230126T042427,MSFT,How Quantum Computing Will Transform Our World,TIME,0.25316,Somewhat-Bullish,0.145261,0.594363
+20230126T042427,MSFT,"IBM to cut 3,900 jobs amid broader tech slowdown: WSJ",ANI News,-0.180647,Somewhat-Bearish,-0.323744,0.624610
+20230126T042539,MSFT,Intel shares drop on weak quarterly results and expectations for another quarter of losses,CNBC,-0.110676,Neutral,0.141172,0.601623
+20230126T042639,MSFT,Flying high: How ORIX Aviation has built a stellar track record in aviation investment,オリックス株式会社,0.268294,Somewhat-Bullish,0.042626,0.530304
+20230126T044514,MSFT,"IBM, SAP latest to slash workforce",CFO Dive,-0.0962,Neutral,-0.119542,0.603703
+20230126T044514,MSFT,SAP plans layoffs and selloff with cloud revenue up but profit down,CIO,-0.11835,Neutral,-0.107115,0.564133
+20230126T044514,MSFT,"SAP to lay off 3,000 and sell Qualtrics stake as profits plunge",SiliconANGLE,0.086316,Neutral,0.107818,0.647246
+20230126T044905,MSFT,Shutterstock Launches AI Image Generator Using DALL-E’s Technology,PetaPixel,0.276741,Somewhat-Bullish,0.211009,0.613270
+20230126T055900,MSFT,Swiss Industrial Company Georg Fischer (GF) Taps DXC Technology to Transform the Workplace,PR Newswire,0.362948,Bullish,0.318840,0.727073
+20230126T073000,MSFT,IBM Is Tech’s Most Beaten-Down Company,24/7 Wall St.,-0.410511,Bearish,-0.320649,0.606641
+20230126T151519,MSFT,ServiceNow CEO: Our Ambition Is to Be the Defining Enterprise Software Company of the 21st Century,CX Today,0.293132,Somewhat-Bullish,0.147420,0.600396
+20230126T163700,MSFT,"Dow Chemical to cut 2,000 jobs",upi,-0.162098,Somewhat-Bearish,-0.146271,0.616071
+20230126T210600,MSFT,Spotify back up after second outage in two weeks,Reuters,-0.080306,Neutral,0.133987,0.636890
+20230127T043409,MSFT,ArcelorMittal Leads $120 Million Capital Raise for Green Steel Startup Boston Metal,ESG Today,0.362734,Bullish,0.345460,0.677678
+20230127T043409,MSFT,Microsoft and ArcelorMittal invest in green Boston Steel startup spun out of MIT,Shacknews,0.318016,Somewhat-Bullish,0.287909,0.905525
+20230127T044644,MSFT,Is Augmented Reality safe?,Sify News,0.02665,Neutral,0.001954,0.647717
+20230127T045757,MSFT,Too much trust in the cuckoo’s nest,Zscaler,0.223837,Somewhat-Bullish,0.116831,0.618591
+20230127T155400,MSFT,Salesforce appoints new board directors amid activist investor pressure,Reuters,0.130662,Neutral,0.133881,0.615192
+20230127T200000,MSFT,Procter & Gamble CIO: ‘Everybody Must Own the Digital Story’,The Wall Street Journal,0.322233,Somewhat-Bullish,0.275429,0.595047
+20230129T123400,MSFT,"Save $200 on the Sonos Arc Soundbar, now $699 (lowest price ever)",AppleInsider,0.214222,Somewhat-Bullish,0.132105,0.617892
+20230130T040600,MSFT,China's Baidu to launch ChatGPT-style bot in March - source,Reuters,0.268102,Somewhat-Bullish,0.217294,0.627355
+20230130T042651,MSFT,Apple takes first steps towards 'Made in India' AirPods,Times of India,0.319311,Somewhat-Bullish,0.237477,0.560300
+20230130T043409,MSFT,ArcelorMittal and Microsoft Back MIT Green Steel Firm With $120M,CarbonCredits.com,0.356063,Bullish,0.352200,0.833876
+20230130T043624,MSFT,S3 Intelligent-Tiering's Archive Instant Access Tier,NetApp,0.249241,Somewhat-Bullish,0.103968,0.623999
+20230130T045205,MSFT,How a digital retail firm uses enterprise search,TechTarget,0.320254,Somewhat-Bullish,0.119807,0.605174
+20230130T045205,MSFT,Big tech layoffs may ease software engineer shortage,TechTarget,-0.067243,Neutral,0.104796,0.666710
+20230130T051500,MSFT,Dr Reddy’s Laboratories to invest in branded markets,The Financial Express,0.374711,Bullish,0.324194,0.599574
+20230131T040116,MSFT,"Amgen lays off 300, does not disclose whether any are in Thousand Oaks",Ventura County Star,-0.257972,Somewhat-Bearish,-0.245567,0.619887
+20230131T044150,MSFT,"PayPal to lay off 2,000 employees in coming weeks, about 7% of workforce",CNBC,-0.233093,Somewhat-Bearish,-0.240877,0.622907
+20230131T045546,MSFT,AI - opportunity or threat?,Globes - Israel Business News,-0.042866,Neutral,0.306653,0.838865
+20230131T045654,MSFT,Exxon Vaults to Record Annual Profit of $55.7 Billion,The Wall Street Journal,0.492215,Bullish,0.325096,0.612840
+20230131T045753,MSFT,AV for startups and SMEs,Startups Magazine,0.250596,Somewhat-Bullish,0.268545,0.818283
+20230131T142956,MSFT,Dole plc offloads US fresh veg division to unit of Chiquita Brands International,Global Food Industry News,-0.121164,Neutral,-0.220375,0.630261

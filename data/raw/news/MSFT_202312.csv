@@ -1,0 +1,52 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20231201T150300,MSFT,One ETF that focuses on employee happiness is outperforming the market this year,CNBC,0.339998,Somewhat-Bullish,0.349939,0.605228
+20231204T033938,MSFT,This Growth-Focused ETF Makes for an Excellent Long-Term Investment,Baystreet.ca,0.283174,Somewhat-Bullish,0.333992,0.721937
+20231204T191038,MSFT,"Online Meeting App Market is Booming Worldwide | Adobe Systems, Microsoft, Cisco WebEx, Google, Logitech International",industrytoday.co.uk,0.294049,Somewhat-Bullish,0.253310,0.638802
+20231205T190704,MSFT,美股科技股“疯牛”行情未完待续? AI仍是引爆明年行情的关键,新浪财经,0.402226,Bullish,0.582485,0.933666
+20231205T192319,MSFT,"Generative AI: writing, editing and designing in 2023",comScore,0.419585,Bullish,0.347107,0.649163
+20231206T144551,MSFT,Why Investors Should Keep An Eye on Small-Cap Stocks,Morningstar,-0.147257,Neutral,-0.101956,0.633661
+20231206T145603,MSFT,Oracle Recognized as a Leader in the 2023 Gartner® Magic Quadrant™ for Strategic Cloud Platform Services,Oracle,0.279988,Somewhat-Bullish,0.259744,0.704109
+20231206T150000,MSFT,AMD's highly anticipated MI300X AI chips hit general availability along with new Ryzen 8040 CPUs,SiliconANGLE,0.380187,Bullish,0.411838,0.702822
+20231206T185359,MSFT,Dominion Energy says data centers are “key industries” to the company but its South Carolina subsidiary may soon refuse them service,Energy and Policy Institute,0.026978,Neutral,0.081930,0.604202
+20231206T185711,MSFT,Confluent Now Available on SAP® Store,EPAM,0.347645,Somewhat-Bullish,0.249043,0.624186
+20231206T185922,MSFT,Five9 Breaks General Policy to Quash Acquisition Rumors,CX Today,0.046248,Neutral,0.127580,0.630374
+20231206T210800,MSFT,AMD releases new chips to power faster AI training,The Verge,0.298268,Somewhat-Bullish,0.311144,0.704973
+20231207T151056,MSFT,Microsoft Annual Shareholders Meeting 2023,Microsoft,0.118738,Neutral,0.474457,1.000000
+20231207T190654,MSFT,Microsoft named a Leader in 2023 Gartner® Magic Quadrant™ for Unified Communications as a Service for the fifth year in a row,Microsoft,0.278508,Somewhat-Bullish,0.417514,1.000000
+20231208T000000,MSFT,"Just 3 of the ""Magnificent Seven"" Have Outperformed the S&P 500 Since 2022. Here's the One I'd Buy for 2024 and 2025.",Barchart.com,0.289427,Somewhat-Bullish,0.277780,0.731104
+20231208T184526,MSFT,AMD debuts new chip with eye to rival Nvidia product,Taipei Times,0.217554,Somewhat-Bullish,0.112792,0.649544
+20231209T192537,MSFT,Shinichi Ata,The Worldfolio,0.184976,Somewhat-Bullish,0.318975,0.740617
+20231210T000000,MSFT,"AMD launches MI300, claims AI performance lead over Nvidia ...",eeNews Europe,0.22399,Somewhat-Bullish,0.344487,0.605104
+20231211T130000,MSFT,"Epic, Elevance Health CEOs make a pitch for harnessing data, AI to support providers",Fierce Healthcare,0.35515,Bullish,0.331218,0.707923
+20231211T163000,MSFT,"BCE Inc. stock falls Monday, underperforms market",MarketWatch,-0.099207,Neutral,0.009434,0.646091
+20231211T192035,MSFT,The Nasdaq-100 Has Had a Monster 2023 So Far. Is It Too Late to Invest in It Before 2024 Arrives?,The Globe and Mail,0.344934,Somewhat-Bullish,0.327896,0.712102
+20231211T192427,MSFT,SLB Collaborates with Northern Lights JV and Microsoft to Digitalize Carbon Capture and Storage Value Chain,SLB,0.398227,Bullish,0.347349,0.932340
+20231212T191048,MSFT,Cooperation with ASML in Netherlands becomes important for AI chip war,동아일보,0.29804,Somewhat-Bullish,0.324622,0.614797
+20231213T002816,MSFT,DGRW Has Hallmarks of a Great Dividend ETF,ETF Trends,0.420067,Bullish,0.323048,0.618594
+20231213T184938,MSFT,Financial Outlook 2024: Navigating Choppy Waters,Brown & Brown,0.09052,Neutral,0.206947,0.624961
+20231213T204136,MSFT,DGRW Has Hallmarks of a Great Dividend ETF,ETF Trends,0.439282,Bullish,0.338724,0.650864
+20231214T154054,MSFT,"Molecular Modeling Market Size, Growth, Trends & Demand Report by 2033",Straits Research,0.324701,Somewhat-Bullish,0.229048,0.603853
+20231214T184400,MSFT,IIT-BBS placement drive sees 200 offers in 10 days,The New Indian Express,0.256307,Somewhat-Bullish,0.275057,0.713576
+20231214T185958,MSFT,GenAI’s World-Changing Power Is Putting Knowledge To Work,Forrester,0.521609,Bullish,0.346832,0.609366
+20231214T190416,MSFT,H&R Block unveils conversational AI tax assistant for DIY filers,SiliconANGLE,0.134664,Neutral,0.138339,0.606098
+20231215T000000,MSFT,"Google, AES, others to create marketplace for 24/7 hourly renewable energy certificates",Utility Dive,0.308999,Somewhat-Bullish,0.328097,0.742271
+20231215T185321,MSFT,"New KV-Botnet Targeting Cisco, DrayTek, and Fortinet Devices for Stealthy Attacks",The Hacker News,-0.18052,Somewhat-Bearish,0.101489,0.614885
+20231216T184609,MSFT,Arm boss's chilling warning humans WILL lose control of AI as he demands 'override',The Mirror,0.136362,Neutral,0.304002,0.711948
+20231216T192418,MSFT,Call translation services new battleground in AI race,Korea JoongAng Daily,0.289713,Somewhat-Bullish,0.244398,0.619934
+20231219T000000,MSFT,The Best Artificial Intelligence ETFs of 2023,ETF.com,0.661856,Bullish,0.632206,0.741061
+20231220T081100,MSFT,5 Reasons to Avoid Microsoft (MSFT) Right Now,24/7 Wall St.,-0.198207,Somewhat-Bearish,-0.245365,1.000000
+20231220T151056,MSFT,Midmark improves performance by up to 75 percent by migrating and running Oracle on Azure,Microsoft,0.271863,Somewhat-Bullish,0.428355,1.000000
+20231220T184401,MSFT,"After Earnings, Is Adobe Stock a Buy, a Sell, or Fairly Valued?",Morningstar,0.295919,Somewhat-Bullish,0.317433,0.645151
+20231221T000000,MSFT,Ally Financial empowers customer service associates to focus on human engagement by using Azure OpenAI Service,Microsoft,0.365254,Bullish,0.337506,0.745255
+20231221T184757,MSFT,Banco de Chile y DDB: “Fuimos el primer banco en Fortnite”,Adlatina,0.311844,Somewhat-Bullish,0.139320,0.621281
+20231222T001500,MSFT,Vice president of Advanced Micro Devices Jason Banta: ‘Computers with artificial intelligence will be able to anticipate our needs’,EL PAÍS English,0.578099,Bullish,0.513258,0.620656
+20231222T143019,MSFT,The Rise of Smart Machines,Global X ETFs,0.57145,Bullish,0.455022,0.567897
+20231222T191308,MSFT,"Microsoft closes on 1,030 acres of land in Mount Pleasant; company is now largest land owner in TID 5",Racine County Eye,0.406643,Bullish,0.433842,1.000000
+20231222T192250,MSFT,10 Years of SAP AppHaus: Looking Back and Ahead,SAP News Center,0.454937,Bullish,0.255852,0.597872
+20231226T171105,MSFT,"Use XMHQ, XSHQ to Fill Gaps in Quality SMID-Cap Exposure",ETF Trends,0.428312,Bullish,0.130229,0.578640
+20231226T190231,MSFT,Top 6 Portfolio Moves for 2024,Morningstar,0.174852,Somewhat-Bullish,0.220988,0.716678
+20231227T055000,MSFT,T. Rowe Price Capital Appreciation Equity ETF (TCAF): A Promising Active Fund,Seeking Alpha,0.373157,Bullish,0.300397,0.740211
+20231228T002800,MSFT,New York Times sues OpenAI and Microsoft for using millions of copyrighted articles to train AI,TweakTown,0.043909,Neutral,0.040338,0.314940
+20231228T114600,MSFT,Palo Alto Networks Completes Acquisition of Talon,SecurityWeek,0.290723,Somewhat-Bullish,0.107094,0.633844
+20231228T191309,MSFT,Erich Andersen,worth.com,0.432624,Bullish,0.418807,1.000000
+20231230T201003,MSFT,"Cyber Hornet S&P 500 and Bitcoin 75/25 Strategy ETF ETF Price, Holdings, & News (NASDAQ:ZZZ)",MarketBeat,0.263317,Somewhat-Bullish,0.342426,0.641007

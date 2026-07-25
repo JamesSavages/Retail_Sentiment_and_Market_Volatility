@@ -1,0 +1,36 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20241101T075637,META,"Tech layoffs tracker 2024: Dropbox, Meta, Tidal cut jobs in October",Fast Company,-0.081392,Neutral,0.017218,0.942495
+20241101T084021,META,"Bay Area tech layoffs hit Upwork, Coursera, Kraken and other companies",San Francisco Chronicle,-0.258408,Somewhat-Bearish,-0.205062,0.648497
+20241104T145000,META,Analysts Offer Insights on Communication Services Companies: IAC/InteractiveCorp. (IAC) and Meta Platforms (META),The Globe and Mail,0.604704,Bullish,0.622463,1.000000
+20241105T000000,META,"After Earnings, Is Meta Stock a Buy, a Sell, or Fairly Valued?",Morningstar,0.181672,Somewhat-Bullish,0.182844,1.000000
+20241105T082331,META,United States Supreme Court to Hear Two Securities Cases This Term,Jones Day,-0.217765,Somewhat-Bearish,-0.223918,0.808109
+20241108T000000,META,Arista Earnings: Impressive Performance Continues,Morningstar,0.252506,Somewhat-Bullish,0.326088,0.645118
+20241108T163000,META,"Lumen’s CEO delivers the bad news first, then the good news",Fierce Network,0.321044,Somewhat-Bullish,0.337902,0.644579
+20241109T090934,META,"WisdomTree Artificial Intelligence and Innovation Fund (WTAI) Stock Price, Holdings, Dividend Yield",GuruFocus,0.439931,Bullish,0.381696,0.738870
+20241111T081901,META,Exploring high growth characteristics of META PLATFORMS INC-CLASS A (NASDAQ:META).,ChartMill,0.321084,Somewhat-Bullish,0.806984,1.000000
+20241112T000000,META,"Apple’s Next Device Is an AI Wall Tablet for Home Control, Siri and Video Calls",Yahoo Finance,0.120737,Neutral,-0.134683,0.588478
+20241114T050954,META,APUE: This Sophisticated ETF Still Has To Prove Itself (APUE),Seeking Alpha,0.078798,Neutral,0.105432,0.737962
+20241115T000000,META,"While the grid catches up to demand, AEP secures up to 1 GW of fuel cells for data centers, large energy users",Power Engineering Magazine,0.216262,Somewhat-Bullish,0.121084,0.634459
+20241115T000000,META,"PHARMACIES, PIXELS, AND PRIVACY: Costco’s Prescription for Legal Trouble",The National Law Review,-0.11398,Neutral,-0.243146,0.802772
+20241115T000900,META,EU fines Meta 797 mln euros over abusive practices benefiting Facebook Marketplace,Reuters,-0.440708,Bearish,-0.404702,1.000000
+20241115T070000,META,"AEP, Hyperscalers, Data Center Coalition Mull Energy Tariff Plan for Ohio Cloud Cluster",Data Center Frontier,0.108656,Neutral,0.103251,0.620055
+20241117T110054,META,UBS: Raymond James Financial (RJF) Is A Bottom-Ranked Quant Stock,Yahoo Finance,-0.180798,Somewhat-Bearish,-0.143898,0.590492
+20241118T000000,META,Coca-Cola Co: Alignment of Stated Corporate Values with Political and Electioneering Expenditures,As You Sow,-0.084932,Neutral,0.124289,0.629190
+20241118T070500,META,Costco Membership Fees Are What Makes It Profitable,24/7 Wall St.,0.031114,Neutral,0.148336,0.577507
+20241118T082905,META,"Qurate’s new strategy banks on streaming, social media platforms",Retail Dive,-0.099676,Neutral,-0.141426,0.621905
+20241118T083935,META,Global X Social Media ETF Holdings,Quiver Quantitative,0.119564,Neutral,0.146477,0.865390
+20241118T213900,META,"Meta, Netflix Get Hit With Lawsuit Over Streaming Video Market",Bloomberg Law News,0.015867,Neutral,0.046265,0.316180
+20241118T222100,META,FBY: One Of My Favorite Santa's Income Plays,Seeking Alpha,0.1283,Neutral,0.280047,0.811931
+20241119T081016,META,BAFE Top Holdings List & Exposure (Brown Advisory Flexible Equity ETF),MarketBeat,0.326273,Somewhat-Bullish,0.348019,0.624030
+20241119T125000,META,Wearable Devices Ltd. Unveils Mudra Band and Mudra Link: Revolutionary Neural Wristband Technology for Gesture Control,Quiver Quantitative,0.280411,Somewhat-Bullish,0.137700,0.634951
+20241119T135231,META,"Brown Advisory Flexible Equity ETF ETF Price, Holdings, & News (NASDAQ:BAFE)",MarketBeat,0.009835,Neutral,0.002025,0.637867
+20241119T161500,META,Dolby Laboratories Reports Fourth Quarter and Fiscal Year 2024 Financial Results,PR Newswire,0.368127,Bullish,0.315661,0.633270
+20241120T000000,META,CEO of Salesforce AI Clara Shih has left,CIO,0.141865,Neutral,0.209041,0.824014
+20241120T000000,META,Meta Poaches Salesforce Exec to Build AI Business Tools,Inc.com,0.15287,Somewhat-Bullish,0.443631,0.998381
+20241120T000000,META,The geothermal industry has a potential ally in Chris Wright,Latitude Media,0.211126,Somewhat-Bullish,0.304524,0.639293
+20241121T000000,META,America eats the world,Morningstar Australia,0.136039,Neutral,0.117232,0.875616
+20241121T083751,META,"How To Dallas"" app seeks to build community for newcomers",Axios,0.101852,Neutral,-0.117824,0.635954
+20241122T083100,META,ICLV: Value With Some Tech Exposure (NYSEARCA:ILCV),Seeking Alpha,0.150978,Somewhat-Bullish,0.120822,0.647882
+20241125T000000,META,Special Report: Astoria’s 10 ETFs for 2025,ETF Trends,0.149883,Neutral,0.107114,0.604323
+20241126T082449,META,"Oracle generative AI approach based on Cohere, Meta models",TechTarget,0.367785,Bullish,0.343017,0.842028
+20241129T082203,META,NODWIN Gaming acquires Trinity Gaming,Esports Insider,0.139077,Neutral,0.111787,0.631603

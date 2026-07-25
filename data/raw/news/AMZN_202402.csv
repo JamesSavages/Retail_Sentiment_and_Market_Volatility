@@ -1,0 +1,87 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20240201T000000,AMZN,Plug Power Completes First Customer Fill of Liquid Green Hydrogen at its Georgia Plant,Plug Power,0.395498,Bullish,0.292049,0.609981
+20240201T052800,AMZN,What companies experienced massive layoffs in 2024? Who's making cuts so far,The Courier-Journal,-0.360235,Bearish,-0.326680,0.631455
+20240201T080000,AMZN,Sonos Era 100 vs. Era 300: Budget or brawn?,Android Police,0.186056,Somewhat-Bullish,0.102368,0.636389
+20240201T164107,AMZN,NEOS Nasdaq 100 High Income ETF,ETF Database,0.10621,Neutral,0.143292,0.638336
+20240202T000000,AMZN,Markets Brief: Will the ‘Magnificent Seven’ Stocks Keep Carrying the Market After Earnings?,Morningstar,0.155659,Somewhat-Bullish,0.313819,0.921597
+20240202T000000,AMZN,"Apple, Skechers fall; Amazon, Deckers Outdoor rise, Friday, 2/2/2024",Quartz,0.220419,Somewhat-Bullish,0.529300,0.807444
+20240202T111500,AMZN,BofA’s Hartnett Says Stock Markets Are Behaving Like Dot-Com Era,Bloomberg.com,0.238465,Somewhat-Bullish,0.211945,0.621318
+20240202T164625,AMZN,"Amazon Stock Jumps On Earnings Beat, Cloud AI Product Growth—Key Price Levels to Watch",Investopedia,0.407791,Bullish,0.419286,1.000000
+20240202T164625,AMZN,Amazon’s Jeff Bezos Filed Plan to Sell Up to $8.6 Billion of Stock,Barron's,-0.194265,Somewhat-Bearish,-0.197108,1.000000
+20240202T165638,AMZN,Crocs names CFO Anne Mehlman as President,TheIndustry.fashion,0.278714,Somewhat-Bullish,0.147628,0.619683
+20240202T171222,AMZN,"Exclusive | Intel Delays $20 Billion Ohio Project, Citing Slow Chip Market",The Wall Street Journal,-0.049766,Neutral,0.106398,0.641464
+20240202T172200,AMZN,Bezos plans on selling 50 million Amazon shares during next 12 months,Fox Business,-0.206562,Somewhat-Bearish,-0.245199,1.000000
+20240205T140100,AMZN,"Snap, the owner of Snapchat, is laying off about 10% of its global workforce",WAVY.com,-0.304097,Somewhat-Bearish,-0.331903,0.636810
+20240205T174518,AMZN,"Security startup Wiz adds former Zscaler COO, plans hiring spree",Reuters,0.17551,Somewhat-Bullish,0.132302,0.642232
+20240205T185230,AMZN,"FNDX ETF: Fundamentals Are Attractive, Performance Is Not (NYSEARCA:FNDX)",Seeking Alpha,0.41762,Bullish,0.507777,0.636400
+20240206T000000,AMZN,Why US large cap growth’s banner year didn’t look the same across index providers,LSEG,0.113247,Neutral,0.309118,0.607321
+20240206T165816,AMZN,Dollar General taps AI to optimize produce ordering,Supply Chain Dive,0.294573,Somewhat-Bullish,0.201210,0.618803
+20240206T165933,AMZN,EA SPORTS Madden NFL 24 Predicts Kansas City Chiefs to Win Second Consecutive Super Bowl,Business Wire,0.239843,Somewhat-Bullish,0.142805,0.591556
+20240206T170413,AMZN,Were Our 2023 Cloud Predictions Correct?,Forrester,0.12986,Neutral,0.126025,0.614961
+20240206T172403,AMZN,What Ideas Do We Need To Change The World? 100 Issues of Socialist Alternative,Socialist Alternative,-0.291965,Somewhat-Bearish,-0.345929,0.649638
+20240207T000000,AMZN,"Ingles Sees Net Sales, Income Decline in Q1",Progressive Grocer,-0.039947,Neutral,0.229519,0.625860
+20240207T164625,AMZN,"After Earnings, Is Amazon Stock a Buy, a Sell, or Fairly Valued?",Morningstar,0.131613,Neutral,0.130845,1.000000
+20240208T161128,AMZN,Reap Large Cap Benefits With This Low-Cost Active ETF,ETF Database,0.334448,Somewhat-Bullish,0.319211,0.713517
+20240208T172231,AMZN,"Natural Grocers Encouraged by Q1 Results, Raises 2024 Guidance",Progressive Grocer,0.226611,Somewhat-Bullish,0.446110,0.623825
+20240209T123955,AMZN,JGLO Stock Price | Jpmorgan Global Select Equity ETF,Investing.com,-0.017885,Neutral,-0.080477,0.631782
+20240209T165242,AMZN,DLN: Large-Cap Monthly Dividend Payer Not So Hot,Seeking Alpha,0.087161,Neutral,0.145626,0.704436
+20240209T171530,AMZN,Kroger links with AI retail analytics firm to boost marketplace listings,Grocery Dive,0.196726,Somewhat-Bullish,0.126573,0.631454
+20240210T135400,AMZN,Exclusive: Cisco to cut thousands of jobs as it seeks to focus on high growth areas,Reuters,-0.262677,Somewhat-Bearish,-0.230042,0.626401
+20240210T164625,AMZN,Jeff Bezos sells $2 billion of Amazon shares as stock surge puts him within reach of becoming the world’s richest person,Fortune,0.120609,Neutral,0.142968,1.000000
+20240210T220655,AMZN,Vistra Corp (NYSE:VST) Surges Amidst AI Energy Boom and Nuclear Expansion,TradingNEWS,0.457788,Bullish,0.318438,0.637683
+20240212T042900,AMZN,Nvidia Overtakes Amazon in Market Value,Bloomberg,0.155226,Somewhat-Bullish,0.135221,0.917302
+20240212T151800,AMZN,5 Investors Betting Big on Beamr Imaging (BMR) Stock,InvestorPlace,0.611766,Bullish,0.432549,0.613152
+20240212T164928,AMZN,Everyone can celebrate with these post-game deals on TVs and more tech — up to 75% off,TODAY.com,0.250716,Somewhat-Bullish,0.215049,0.720203
+20240212T172335,AMZN,"Netgear Nighthawk RS700S Wi-Fi 7 router review: Powerful, pricey and premature",Expert Reviews,0.11599,Neutral,-0.146978,0.742392
+20240212T172358,AMZN,AI frenzy puts Nvidia briefly ahead of Amazon in market value,CNBC,0.215483,Somewhat-Bullish,0.216090,0.931173
+20240213T000000,AMZN,Real Estate Giant CoStar Group Chooses Arlington for its Headquarters,Arlington County,0.176839,Somewhat-Bullish,0.124437,0.606456
+20240213T000000,AMZN,This Leveraged ETF Is Up Almost 50% the Past 3 Months,ETF Trends,0.277755,Somewhat-Bullish,0.313228,0.639147
+20240213T063000,AMZN,Machine Learning Meets Customer Experience: How AI Is Reshaping CX,Forbes,0.274002,Somewhat-Bullish,0.214985,0.624888
+20240213T130100,AMZN,"Akamai extends its edge-computing platform as it looks to challenge AWS, Azure and GCP",TechCrunch,0.212512,Somewhat-Bullish,0.136405,0.618393
+20240213T164615,AMZN,"Going Into Earnings, Is Nvidia a Buy, a Sell, or Fairly Valued?",Morningstar,-0.091934,Neutral,-0.077108,0.612728
+20240213T164908,AMZN,"Fleet owner pleads guilty after opening sealed trailers, illegally consolidating freight",Commercial Carrier Journal,-0.192303,Somewhat-Bearish,-0.339846,0.742402
+20240213T173309,AMZN,Shopify Fends Off Temu and Shein as Sales Narrowly Beat Estimates,The Business of Fashion,0.211089,Somewhat-Bullish,0.138757,0.626991
+20240213T181042,AMZN,Steven Cohen's Point72 Asset Management Acquires New Stake in Annexon Inc,Yahoo Finance,0.199607,Somewhat-Bullish,0.141453,0.629456
+20240213T183000,AMZN,BREAKING: Arlington lands HQ of another publicly traded company,ARLnow,0.3167,Somewhat-Bullish,0.335064,0.745293
+20240213T195000,AMZN,Real estate giant CoStar Group moves DC headquarters across the river in new Rosslyn building,WTOP,0.257087,Somewhat-Bullish,0.232730,0.608630
+20240214T105400,AMZN,Nvidia replaces Alphabet as Wall St's third most valuable company,Reuters,0.175338,Somewhat-Bullish,0.022827,0.755245
+20240214T124000,AMZN,Colorado Attorney General files lawsuit to block merger between Kroger and Albertsons,CBS News,-0.419838,Bearish,-0.309121,0.623514
+20240214T170404,AMZN,February 2024 The AI race makes first meaningful impact on the suppliers of optics,LightCounting,0.252418,Somewhat-Bullish,0.231378,0.717960
+20240214T171530,AMZN,"Seattle office tower vacated by Amazon is drawing interest, owner says",The Business Journals,0.024949,Neutral,0.022663,0.975150
+20240214T203500,AMZN,"Michael Burry Covers Bet Against Chips ETF, Buys Health and Tech Stocks",Bloomberg.com,-0.106117,Neutral,0.243151,0.712738
+20240215T000000,AMZN,Relx Share Price Spiked Up 3% but Later Fell on FY 2023 Results,AskTraders.com,0.220859,Somewhat-Bullish,0.166944,0.640535
+20240215T033944,AMZN,YieldMax Magnificent 7 Fund of Option Income ETFs,ETF Database,0.113721,Neutral,0.115591,0.707011
+20240215T160100,AMZN,Chase Coleman's Tiger Global Management Reduces Stake in ATRenew Inc,GuruFocus,0.032995,Neutral,0.110219,0.623804
+20240215T164856,AMZN,3 Hidden-Gem AI Stocks Ready to Ride a Massive Market Wave,InvestorPlace,0.447874,Bullish,0.228847,0.605607
+20240215T171419,AMZN,Stock market concentration is on the rise. Will this continue?,J.P. Morgan,0.127751,Neutral,0.109247,0.738728
+20240215T173750,AMZN,Target launches in-house bargain brand Dealworthy,The Business Journals,0.151083,Somewhat-Bullish,0.069047,0.558094
+20240216T052000,AMZN,Rackspace Technology Aims to Double Revenue in India with Growing AI Adoption,Siliconindia,0.405859,Bullish,0.305642,0.619689
+20240216T163000,AMZN,Amazon.com Inc. stock outperforms competitors despite losses on the day,MarketWatch,0.127513,Neutral,0.121376,1.000000
+20240216T163000,AMZN,Amazon.com Inc. stock outperforms competitors despite losses on the day,MarketWatch,-0.131404,Neutral,-0.142897,0.996300
+20240216T171229,AMZN,IonQ Opens Doors to Quantum Computing Manufacturing Facility in Bothell,425business.com,0.565183,Bullish,0.315084,0.634523
+20240216T174004,AMZN,"San Diego woman charged as ringleader of makeup retail theft ring, $8M in products stolen",10News.com,-0.278081,Somewhat-Bearish,-0.230785,0.616573
+20240220T000000,AMZN,Capital One Archives,Finovate,0.244664,Somewhat-Bullish,0.083970,0.581277
+20240220T093940,AMZN,Nvidia Likely to Beat on Q4 Earnings: 5 ETFs to Tap,TradingView,0.286395,Somewhat-Bullish,0.096646,0.613513
+20240220T165310,AMZN,Grenada-Born Technology Leader Dr. Camille Lewis Shines At US Engineering Awards,South Florida Caribbean News,0.693805,Bullish,0.627895,0.645537
+20240220T172330,AMZN,Nvidia CEO Wears Fuchsia Leather Jacket At Insight Sales Event,CRN,0.257664,Somewhat-Bullish,0.059506,0.627665
+20240220T230400,AMZN,Amazon Set to Replace Walgreens in Dow Jones Industrial Average,Bloomberg.com,0.124635,Neutral,0.478561,1.000000
+20240221T034354,AMZN,CrowdStrike's Surge Pulls This Cloud Computing ETF Higher,ETF Trends,0.489942,Bullish,0.115686,0.604775
+20240221T131900,AMZN,"Hedge Fund and Insider Trading News: Boaz Weinstein, Bill Ackman, Elliott Investment Management, Rokos, Capital Management, Segantii Capital Management, Pantera Capital, AutoNation, Inc. (AN), and More",Insider Monkey,0.109725,Neutral,0.131146,0.637761
+20240221T172358,AMZN,Nvidia gives upbeat forecast as AI reaches ‘tipping point’,Los Angeles Times,0.282591,Somewhat-Bullish,0.237842,0.559433
+20240221T201700,AMZN,DigitalOcean beats expectations under the helm of new CEO Paddy Srinivasan,SiliconANGLE,0.280442,Somewhat-Bullish,0.102078,0.637787
+20240221T220700,AMZN,"Home Depot ban on worker's Black Lives Matter apron was illegal, US agency rules",Reuters,-0.172218,Somewhat-Bearish,-0.133610,0.624264
+20240222T172231,AMZN,"Retail Universe for U.S. Premium Natural Organic Food, Supplement, and Personal Care Sales",WholeFoods Magazine,0.216602,Somewhat-Bullish,0.130227,0.705583
+20240223T093100,AMZN,"Vice Media to stop publishing on its website, lay off 'several' hundreds",Business Standard,-0.242903,Somewhat-Bearish,-0.321365,0.621934
+20240223T190937,AMZN,SPY First ETF to Reach $500B in Assets,ETF.com,0.284729,Somewhat-Bullish,0.374383,0.648528
+20240226T000000,AMZN,What's Cathie Wood been selling?,InvestmentNews,-0.221737,Somewhat-Bearish,-0.128258,0.613121
+20240227T134142,AMZN,FFLG Top Holdings List & Exposure (Fidelity Fundamental Large Cap Growth ETF),MarketBeat,0.032267,Neutral,0.024566,0.705367
+20240227T185200,AMZN,"Fidelity Fundamental Large Cap Core ETF ETF Price, Holdings, & News (BATS:FFLC) $FFLC",MarketBeat,0.272613,Somewhat-Bullish,0.320975,0.623452
+20240228T042138,AMZN,NANC ETF Tracking Democrat Stock Trades Beating S&P 500 on Tech Bets,markets.businessinsider.com,0.383533,Bullish,0.313018,0.623182
+20240228T125700,AMZN,"eBay Among Top S&P 500 Gainers With 8% Surge on Buoyant Results, Buyback Plan",Investopedia,0.237432,Somewhat-Bullish,-0.145228,0.607757
+20240228T171234,AMZN,Pioneering carbon capture initiative launched at International Paper's Vicksburg mill,PULPAPERnews.com,0.398308,Bullish,0.324492,0.748161
+20240228T173200,AMZN,"EU lawmakers back draft rules on patents for connected cars, telecom equipment",Reuters,0.088821,Neutral,0.244092,0.730409
+20240228T174411,AMZN,"TiVo OS to Generate $190 Million in Annual Revenue by 2026, Xperi Predicts",Nexttv,0.244791,Somewhat-Bullish,0.127143,0.623868
+20240229T105500,AMZN,VONG ETF: A Great Way to Invest in Top Growth Stocks,Nasdaq,0.524444,Bullish,0.502915,0.617148
+20240229T164625,AMZN,Amazon's Stock Looks Cheap (NASDAQ:AMZN),Seeking Alpha,0.438139,Bullish,0.408570,1.000000
+20240229T171540,AMZN,KT teams up with Amazon to bolster B2B generative AI,KED Global,0.25657,Somewhat-Bullish,0.419073,0.986036
+20240229T224200,AMZN,The RealReal Hits Profitability Milestone in Q4 After ‘Strategic Shift’ to Focus on Core Business,Yahoo,0.262074,Somewhat-Bullish,0.111621,0.638059

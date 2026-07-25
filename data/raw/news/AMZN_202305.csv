@@ -1,0 +1,49 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20230501T180200,AMZN,"Forerunner 965, 265, 265S: Everything to know about Garmin’s first AMOLED display-toting running watches in India",The Financial Express,0.225522,Somewhat-Bullish,0.106588,0.630713
+20230502T010721,AMZN,"Restaurant Brands earnings beats estimates, fueled by Tim Hortons' and Burger King's strong sales",CNBC,0.400187,Bullish,0.106688,0.617988
+20230502T154000,AMZN,"3M laying off 1,100 at Maplewood headquarters",Star Tribune,-0.25662,Somewhat-Bearish,-0.201750,0.613954
+20230503T005547,AMZN,"Keysight Highlights Challenges, Opportunities in Satellite Industry",EE Times Asia,0.325981,Somewhat-Bullish,0.347757,0.634628
+20230503T214100,AMZN,IBM CEO Arvind Krishna warns employees who work remotely: 'Your career does suffer',The Economic Times,-0.042844,Neutral,0.121510,0.626655
+20230504T000000,AMZN,40 Under 40: Champions of Construction 2022,Autodesk,0.383439,Bullish,0.411348,0.685321
+20230504T004333,AMZN,DXC Technology migrates insurance marketplace Lloyd’s to new data center,Data Center Dynamics,0.386259,Bullish,0.260686,0.613113
+20230505T003253,AMZN,Amazon class action alleges Prime subscribers pay false discount prices,Class Action Lawsuits,-0.631263,Bearish,-0.640004,1.000000
+20230505T003253,AMZN,"Amazon Prime Subscribers Do Not Get the ‘Exclusive Savings’ They’re Promised, Class Action Alleges [DISMISSED]",ClassAction.org,0.137578,Neutral,0.105862,1.000000
+20230505T005130,AMZN,"Goop, Lemme Among Co. Hit With FTC Notices Over Marketing",The Fashion Law,-0.139902,Neutral,-0.229031,0.722975
+20230505T153021,AMZN,Promotional home environment dinks Cornerstone Brand sales,Home Textiles Today,0.035897,Neutral,0.107005,0.618576
+20230506T111200,AMZN,Hanumakonda: KTR inaugurates 4 new companies; IT sector hired 1.5L people last year,NewsMeter,0.345139,Somewhat-Bullish,0.342689,0.642341
+20230508T000000,AMZN,Cantaloupe Launches Smart Technology for Grab And Go at Self-Service Environments,Digital Transactions,0.340131,Somewhat-Bullish,0.222709,0.633916
+20230508T010524,AMZN,Is the Market Reacting Too Negatively to Pinterest Earnings?,MarketBeat,0.032189,Neutral,0.125584,0.609077
+20230508T010540,AMZN,CEO pay continues to soar – new study,Human Resources Director,0.226254,Somewhat-Bullish,0.212904,0.720610
+20230508T143034,AMZN,"From stores to suppliers, how Destination XL tries to dodge the inventory ‘kiss of death’",Supply Chain Dive,0.200617,Somewhat-Bullish,0.135389,0.625383
+20230510T005347,AMZN,IonQ Appoints Pat Tang as VP of Research & Development,citybiz,0.368039,Bullish,0.340104,0.619810
+20230511T004915,AMZN,GlobalFoundries taps former Amazon exec for CFO seat,CFO Dive,0.029992,Neutral,0.141806,0.603295
+20230511T165200,AMZN,"Dillard’s Shoppers Bought Shoes, Cosmetics and Women’s Clothing in Q1",Sourcing Journal,0.196359,Somewhat-Bullish,0.206454,0.648330
+20230512T000000,AMZN,"Flush With Federal Money, Strings Attached, a Deep South Factory Votes to Unionize (Published 2023)",The New York Times,0.134999,Neutral,0.146038,0.620292
+20230512T004020,AMZN,One Giant Leap for Brand Kind,The Atlantic,0.129259,Neutral,0.146194,0.676690
+20230512T173000,AMZN,"George Soros bet on railroads, fitness, gig economy and lightened load on Disney, Amazon, dumped Tesla",MarketWatch,-0.07785,Neutral,0.135667,0.719648
+20230515T005417,AMZN,Layoffs may cause organizational drag: Gartner,CFO Dive,-0.155703,Somewhat-Bearish,-0.137973,0.615746
+20230515T011939,AMZN,Launch of first TiVo-based TVs delayed to second half of 2023,Light Reading,-0.050652,Neutral,0.038395,0.604849
+20230515T165000,AMZN,Opal Fuels Sees Heavy-Duty Trucking Bulking RNG Demand,Natural Gas Intelligence,0.139632,Neutral,0.120956,0.707305
+20230516T115900,AMZN,Cable One® Teams with eero to Launch Advanced Whole-Home Connectivity Solution,PR Newswire,0.399189,Bullish,0.326471,0.715531
+20230518T011132,AMZN,Galileo Financial Technologies Joins AWS Marketplace,Business Wire,0.326303,Somewhat-Bullish,0.340179,0.748984
+20230519T000000,AMZN,"Amazon Bulls, Take Note: The Company's Improving Its Operations",ETF Trends,0.268446,Somewhat-Bullish,0.411045,1.000000
+20230519T000000,AMZN,Cognizant Strengthens its Global Delivery Network with New Innovation Hub in Malaysia,Cognizant,0.621282,Bullish,0.328918,0.613896
+20230519T174008,AMZN,A2Z Smart Technologies Corp. announces formation of dedicated Big Data team,Retail Technology Innovation Hub,0.236167,Somewhat-Bullish,0.147642,0.567067
+20230521T003322,AMZN,Aramark Sports + Entertainment Announces Latest Innovation with Launch of New Amazon One Age Verification Capability at Coors Field,Aramark,0.17781,Somewhat-Bullish,0.317626,0.618764
+20230521T010445,AMZN,"What you need to know about Temu, the online shopping app dominating download charts",CBC,-0.056248,Neutral,0.142465,0.638545
+20230523T035326,AMZN,Is BULZ Stock a buy?,Cantech Letter,0.013542,Neutral,0.033201,0.724015
+20230523T145112,AMZN,Japan Airlines,IBM,0.327479,Somewhat-Bullish,0.299335,0.611169
+20230523T185931,AMZN,"Invesco BulletShares 2031 Corporate Bond ETF ETF Price, Holdings, & News (NASDAQ:BSCV)",MarketBeat,0.106031,Neutral,0.138949,0.611684
+20230523T193945,AMZN,TUG Top Holdings List & Exposure (STF Tactical Growth ETF),MarketBeat,0.121436,Neutral,0.111930,0.831588
+20230524T003253,AMZN,Amazon Drivers Avoid Arbitration Claiming Non-delivery of Updated TOS,Proskauer Rose LLP,-0.282319,Somewhat-Bearish,-0.266878,1.000000
+20230524T005137,AMZN,"In The Multicloud World, The Data’s The Thing",The Next Platform,0.189225,Somewhat-Bullish,0.183336,0.568526
+20230524T182100,AMZN,Activist firm Jana eyes boardroom fight at Freshpet,Reuters,-0.049736,Neutral,0.145586,0.748302
+20230525T040934,AMZN,ETF of the Week: Goldman Sachs Hedge Industry VIP ETF (GVIP),ETF Trends,0.320329,Somewhat-Bullish,0.321762,0.640502
+20230525T042237,AMZN,Local Bounti names new CEO in executive transition,bluebookservices.com,0.45677,Bullish,0.336668,0.718093
+20230525T060000,AMZN,New HP and Sonos Devices Accentuate the Ultimate Home Office Workstation,TechNewsWorld,0.228724,Somewhat-Bullish,-0.051934,0.553689
+20230525T195308,AMZN,ETF of the Week: Goldman Sachs Hedge Industry VIP ETF (GVIP),ETF Trends,0.179005,Somewhat-Bullish,0.110133,0.715229
+20230526T085743,AMZN,US: Local Bounti appoints Anna Fabrega as CEO,Vertical Farm Daily,0.348697,Somewhat-Bullish,0.220816,0.605380
+20230530T031018,AMZN,Local Bounti names new CEO,Produce News,0.241,Somewhat-Bullish,0.135418,0.624591
+20230530T120957,AMZN,Local Bounti names new CEO,The Produce News,0.307593,Somewhat-Bullish,0.223115,0.632699
+20230531T003254,AMZN,Amazon Settles With FTC Over Claims Ring Doorbell Spies on Users (AMZN),Bloomberg.com,-0.281322,Somewhat-Bearish,-0.296785,1.000000
+20230531T010217,AMZN,Netgear Nighthawk M6 Pro Wi-Fi Router Review,TechRadar,0.17792,Somewhat-Bullish,0.100847,0.579930

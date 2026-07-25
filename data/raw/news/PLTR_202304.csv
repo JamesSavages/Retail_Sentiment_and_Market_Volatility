@@ -1,0 +1,6 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20230404T111002,PLTR,"DoubleLine Mortgage ETF ETF Price, Holdings, & News (NYSEARCA:DMBS)",MarketBeat,0.148387,Neutral,0.160516,0.633634
+20230405T050925,PLTR,"iShares MSCI USA Momentum Factor ETF (MTUM) Stock Price, Holdings, Dividend Yield",GuruFocus,0.263999,Somewhat-Bullish,0.240792,0.685055
+20230405T130855,PLTR,"ARK Next Generation Internet ETF (ARKW) Stock Price, Holdings, Dividend Yield",GuruFocus,0.038888,Neutral,-0.278252,0.565681
+20230420T144949,PLTR,Problems at Hercules Capital (HTGC),The Bear Cave | Edwin Dorsey,-0.301239,Somewhat-Bearish,-0.409773,0.723867
+20230426T014201,PLTR,"Meet the Innovators: data scientists crack the career code, finding purpose in healthcare transformation",HCA Healthcare Today,0.375272,Bullish,0.313246,0.649431

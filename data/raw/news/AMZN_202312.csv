@@ -1,0 +1,51 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20231201T093500,AMZN,WaterWorld - Retail sector resurgence: optimism grows for holiday momentum,FinancialContent,0.249168,Somewhat-Bullish,-0.072856,0.567956
+20231201T153044,AMZN,Reborn Coffee makes its international debut with Malaysia outlet,World Coffee Portal,0.156175,Somewhat-Bullish,0.127908,0.635713
+20231204T033938,AMZN,This Growth-Focused ETF Makes for an Excellent Long-Term Investment,Baystreet.ca,0.267732,Somewhat-Bullish,0.327624,0.744861
+20231204T184529,AMZN,Amazon aims to add data center to proposed Round Rock site after year-long pause,The Business Journals,0.303644,Somewhat-Bullish,0.301040,1.000000
+20231204T191510,AMZN,AWS re:Invent: NetApp Scale-out FSx for Ontap File Systems Up to 9x Higher Storage Performance Compared to Existing File Systems,StorageNewsletter,0.359945,Bullish,0.306899,0.710363
+20231205T000000,AMZN,Celestica stock rides another tech wave – but can it avoid a crash this time?,The Globe and Mail,0.367838,Bullish,0.323364,0.624274
+20231205T054011,AMZN,Hartford US Quality Growth ETF Holdings,Quiver Quantitative,0.286187,Somewhat-Bullish,0.252184,0.757622
+20231205T200920,AMZN,8 Retail Stocks Whose Price and Fundamentals Don’t Line Up,Barron's,0.272582,Somewhat-Bullish,0.327323,0.639279
+20231206T000000,AMZN,"Amazon’s 2023 Black Friday week observed sales rose, while big-box retailers showed mixed results",Bloomberg Second Measure,-0.052647,Neutral,0.332311,0.933843
+20231206T071800,AMZN,Ross Stores shares dip ending three-day rally as market falls,Investing.com India,0.003747,Neutral,0.211503,0.618596
+20231206T144551,AMZN,Why Investors Should Keep An Eye on Small-Cap Stocks,Morningstar,-0.118159,Neutral,-0.106018,0.613367
+20231206T145603,AMZN,Oracle Recognized as a Leader in the 2023 Gartner® Magic Quadrant™ for Strategic Cloud Platform Services,Oracle,0.278717,Somewhat-Bullish,0.185196,0.567615
+20231206T185359,AMZN,Dominion Energy says data centers are “key industries” to the company but its South Carolina subsidiary may soon refuse them service,Energy and Policy Institute,0.010925,Neutral,0.076805,0.647259
+20231206T192342,AMZN,Robotic Reindeer Delivering Meals for Uber Eats,Food On Demand,0.112586,Neutral,0.018087,0.634703
+20231207T020942,AMZN,CastleArk Enters ETF Market With Large Growth ETF CARK,ETF Database,0.185998,Somewhat-Bullish,0.103834,0.628057
+20231207T190910,AMZN,"Kroger, Marriott CFOs Deal with Digital Transformations",CFO.com,0.315917,Somewhat-Bullish,0.116685,0.634037
+20231207T193334,AMZN,TIDAL cuts 10% of staff as parent company Block enforces cost-saving measures,Music Business Worldwide,-0.114141,Neutral,-0.114774,0.613735
+20231207T213849,AMZN,CastleArk Enters ETF Market With Large Growth ETF CARK,ETF Trends,0.339832,Somewhat-Bullish,0.340440,0.648335
+20231209T184711,AMZN,"Sell Alibaba (BABA), Buy Pinduoduo (PDD)?",Dr Wealth,-0.068872,Neutral,0.089199,0.561662
+20231209T194027,AMZN,WISE Top Holdings List & Exposure (Themes Generative Artificial Intelligence ETF),MarketBeat,0.422023,Bullish,0.420511,0.628625
+20231211T144200,AMZN,Costco Stock Hits 2023 Highs Ahead of Earnings,Schaeffer's Investment Research,0.37583,Bullish,0.341272,0.583381
+20231211T150035,AMZN,"When parents have child care problems, companies have labor force problems",Marketplace.org,0.172179,Somewhat-Bullish,0.125922,0.574784
+20231211T191623,AMZN,Jennifer Garner Is Leading a Plant-Based Baby Food Shift: “We Gotta Do a Better Job of Feeding Our Kids”,VegNews.com,0.071229,Neutral,0.125180,0.644191
+20231211T192035,AMZN,The Nasdaq-100 Has Had a Monster 2023 So Far. Is It Too Late to Invest in It Before 2024 Arrives?,The Globe and Mail,0.346785,Somewhat-Bullish,0.245494,0.644818
+20231211T192516,AMZN,Top Staples Competitors & Similar Companies,MBA Skool,0.033929,Neutral,0.047861,0.867027
+20231212T184317,AMZN,How Google’s Epic Legal Defeat Threatens the App-Store Industry’s $200 Billion Business Model,Time Magazine,-0.025487,Neutral,0.124533,0.602730
+20231212T191108,AMZN,"Philadelphia-based mall owner PREIT files for Chapter 11 bankruptcy, gives up ownership over Fashion District",6abc Philadelphia,0.121124,Neutral,-0.115993,0.642739
+20231213T145000,AMZN,"BigBear.ai Stock Is High Risk, High Reward (NYSE:BBAI)",Seeking Alpha,0.210222,Somewhat-Bullish,0.147850,0.618995
+20231214T000000,AMZN,They Made ‘Sound of Freedom’ a Hit — But Were They Deceiving Their Audience?,Rolling Stone,-0.241492,Somewhat-Bearish,0.102155,0.601166
+20231214T000000,AMZN,Salesforce’s Benioff Cashing Out at Rate of $3 Million a Day,Crain Currency,0.13654,Neutral,0.119604,0.645802
+20231214T081500,AMZN,Why Is Freight Technologies (FRGT) Stock Up 120% Today?,InvestorPlace,0.743351,Bullish,0.633086,0.737790
+20231214T145014,AMZN,"Now that ‘clean’ is commonplace, can the Honest Company still stand out?",Fast Company,-0.05517,Neutral,0.114931,0.622568
+20231214T163000,AMZN,Amazon.com Inc. stock underperforms Thursday when compared to competitors,MarketWatch,0.023332,Neutral,0.034034,0.324030
+20231215T122300,AMZN,"US Chamber, Comcast, tech group split over net neutrality",Reuters,0.07029,Neutral,0.230898,0.709679
+20231215T192505,AMZN,Innovative Drone Program Combats Global Landmine Crisis with AI Precision,Dronelife,0.223403,Somewhat-Bullish,0.377645,0.604386
+20231219T000000,AMZN,‘Asian Amazon’ Coupang rescues Farfetch with $500 million deal,Campaign Asia,0.185391,Somewhat-Bullish,0.133820,0.720564
+20231219T225400,AMZN,East Buy controversy reflects rapid evolution of China’s consumer ecology,Global Times,0.377622,Bullish,0.309687,0.636114
+20231220T042754,AMZN,Meta: Sell it? Buy it?,新浪财经,0.018991,Neutral,0.108121,0.620365
+20231220T081100,AMZN,5 Reasons to Avoid Microsoft (MSFT) Right Now,24/7 Wall St.,-0.157434,Somewhat-Bearish,-0.133509,0.622573
+20231220T130000,AMZN,Project Car Diaries: My Engine-Cleaning Techniques for Sensitive Old Cars,The Drive,0.20189,Somewhat-Bullish,0.135055,0.712301
+20231220T191058,AMZN,Former AWS AI Services Lead Satish Lakshmanan Named Lumen Chief Product Officer,ExecutiveBiz,0.312284,Somewhat-Bullish,0.242419,0.727113
+20231221T185133,AMZN,Season Scam Survival: Safeguarding against common seasonal holiday scams,www.varindia.com,0.168159,Somewhat-Bullish,0.132699,0.620047
+20231222T000000,AMZN,"After Narrowly Avoiding a Collapse, What Happened to Farfetch?",The Fashion Law,0.155081,Somewhat-Bullish,-0.115070,0.608917
+20231222T064030,AMZN,"ITAN ETF Analysis: Dividends, Returns AMEX:ITAN",TradingView,0.175789,Somewhat-Bullish,0.238290,0.648852
+20231222T151050,AMZN,Megatrends: How to Invest in the AI Boom,Morgan Stanley,0.350779,Bullish,0.333736,0.586279
+20231224T175127,AMZN,"AMZU ETF Analysis: Dividends, Returns NASDAQ:AMZU",TradingView,-0.143644,Neutral,-0.108136,0.600045
+20231226T215200,AMZN,Apple files appeal after Biden administration allows US ban on watch imports,Reuters,-0.104213,Neutral,0.014872,0.611503
+20231227T055000,AMZN,T. Rowe Price Capital Appreciation Equity ETF (TCAF): A Promising Active Fund,Seeking Alpha,0.342728,Somewhat-Bullish,0.332552,0.740574
+20231229T083000,AMZN,Apple's stock underperformed top tech peers in 2023 due to longest revenue slide in 22 years,CNBC,0.16184,Somewhat-Bullish,0.274620,0.632009
+20231229T192500,AMZN,"What to expect from Sonos in 2024 – headphones, new Arc and a big surprise",What Hi-Fi?,0.148044,Neutral,0.105542,0.629702

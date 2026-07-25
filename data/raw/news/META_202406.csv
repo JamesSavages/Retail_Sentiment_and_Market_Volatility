@@ -1,0 +1,27 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20240602T130712,META,Facebook India Battles a Sea of Spam: Over 6.8 Million Content Removed In Just One Month,Dazeinfo,0.111942,Neutral,0.109780,1.000000
+20240603T075800,META,大模型，正在排队寻求卖身,新浪网,0.165911,Somewhat-Bullish,0.111292,0.628003
+20240603T130712,META,"Uvalde shooting victims’ families file lawsuits against Meta, video game cos., others",Class Action Lawsuits,-0.384268,Bearish,-0.360135,1.000000
+20240604T130712,META,估值1000亿，辍学90后华裔天才，刚刚融了72亿,新浪财经,0.256196,Somewhat-Bullish,0.349869,0.766136
+20240605T000000,META,Direxion Completes Mag 7 Collection With Leveraged & Inverse Meta ETFs,ETF Trends,-0.136989,Neutral,0.136334,0.811881
+20240605T001200,META,"Meta Withheld Information on Instagram, WhatsApp Deals, FTC Says",Bloomberg.com,-0.31995,Somewhat-Bearish,-0.324695,1.000000
+20240605T080000,META,The 3 Best ETFs to Buy in June 2024,InvestorPlace,0.311437,Somewhat-Bullish,0.215884,0.605431
+20240605T132010,META,Supermicro Introduces Rack Scale Plug-and-Play Liquid-Cooled AI SuperClusters for NVIDIA Blackwell and NVIDIA HGX H100/H200,HPCwire,0.314641,Somewhat-Bullish,0.130416,0.631431
+20240605T215704,META,Direxion Completes Mag 7 Collection With Leveraged & Inverse Meta ETFs,ETF Database,0.408574,Bullish,0.323911,0.828738
+20240605T234133,META,"Direxion Daily META Bull 2X Shares ETF Price, Holdings, & News (NASDAQ:METU)",MarketBeat,0.03491,Neutral,0.140360,0.872306
+20240606T093600,META,'Cradle to Grave': Children's Clothing Company Carter's Sued in Digital Privacy Class Action,Law.com,-0.229213,Somewhat-Bearish,-0.320609,0.634066
+20240606T150100,META,Nvidia overtakes Apple as No. 2 most valuable company,Reuters,0.222726,Somewhat-Bullish,0.142288,0.621789
+20240607T025814,META,FBL: A Leveraged Bet On Meta Platforms’ Strong Growth (NASDAQ:FBL),Seeking Alpha,0.255024,Somewhat-Bullish,0.328710,0.869717
+20240608T094103,META,Direxion Daily META Bull 2X ETF,ETF Database,0.14515,Neutral,0.285340,0.843176
+20240610T000000,META,2 Popular Stocks That Top Managers Are Selling,Morningstar,0.022198,Neutral,0.047212,1.000000
+20240612T091000,META,Immersion Corp completes major BNED asset acquisition,Investing.com,0.348922,Somewhat-Bullish,0.222863,0.646902
+20240618T000000,META,"After Earnings, Is Broadcom Stock a Buy, a Sell, or Fairly Valued?",Morningstar,0.017013,Neutral,0.029794,0.329832
+20240618T132429,META,"AI, Economy Affect 2024 Tech Workforce Trends, Survey Shows",TechTarget,0.192339,Somewhat-Bullish,0.244277,0.612389
+20240618T174400,META,Nvidia eclipses Microsoft as world's most valuable company,VOA - Voice of America English News,0.32906,Somewhat-Bullish,0.319434,0.557289
+20240618T184400,META,Nvidia becomes world’s most valuable company amid AI boom,The Guardian,0.349068,Somewhat-Bullish,0.236111,0.564255
+20240619T000000,META,"Nvidia becomes world’s most valuable company, dethroning Microsoft",Al Jazeera,0.321012,Somewhat-Bullish,0.319510,0.635696
+20240620T130816,META,Microsoft Strikes 2 Record-Breaking Carbon Credit Deals,CarbonCredits.com,0.356095,Bullish,0.320788,0.637354
+20240621T150100,META,"Apple Intelligence won't launch in EU in 2024 due to antitrust regulation, company says",CNBC,-0.13857,Neutral,-0.136173,0.628548
+20240624T000000,META,Apple is first tech company accused of violating EU's new competition law,Axios,-0.090474,Neutral,0.042649,0.614669
+20240625T124600,META,"Anthony Denier, President of Webull - Building a $7Bn Disruptor, Expanding US Markets Access Globally, What Makes a Great Trader",Fintech Leaders | Miguel Armaza,0.513571,Bullish,0.519616,0.600568
+20240628T000000,META,Tractor Supply Co. Just Made a Bold Change to Drop DEI at the End of Pride Month,Inc.com,0.039378,Neutral,0.036716,0.642327

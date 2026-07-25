@@ -1,0 +1,27 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20230801T000000,AMD,"Megatrends, PCs, Servers and Moore",Citigroup,0.36461,Bullish,0.377405,0.733482
+20230801T035320,AMD,Top Performing Leveraged/Inverse ETFs: 07/30/2023,ETF Trends,0.406917,Bullish,0.323384,0.647927
+20230801T073300,AMD,"Intel plans massive Oregon factory expansion, filings show",OregonLive.com,0.182144,Somewhat-Bullish,-0.237405,0.715373
+20230801T163900,AMD,"AMD stock rises 3% after earnings beat, CEO predicts ‘multiple winners’ in AI race",MarketWatch,0.319722,Somewhat-Bullish,0.424963,1.000000
+20230801T210500,AMD,"Opinion: AMD’s AI era to begin near year’s end, but it’s looking more like a 2024 story",MarketWatch,0.197249,Somewhat-Bullish,0.186355,0.992740
+20230801T221327,AMD,Arm and Industry Leaders Launch Semiconductor Education Alliance to Address the Skills Shortage,Arm Newsroom,0.365593,Bullish,0.335554,0.621138
+20230802T203800,AMD,JP Morgan Maintains Advanced Micro Devices (AMD) Neutral Recommendation,Nasdaq,0.119906,Neutral,0.198757,1.000000
+20230803T090000,AMD,"phoenixNAP Powers Expanded AI and Cloud Services with Energy-saving, Ampere-Based Servers from Hewlett Packard Enterprise",The Chronicle-Journal,0.126573,Neutral,0.306312,0.723487
+20230803T114000,AMD,Mobile chip giant Qualcomm shares slide amid worst smartphone slump in years,South China Morning Post,-0.287184,Somewhat-Bearish,-0.209491,0.625366
+20230804T184000,AMD,AMD's stock breaks with chip selloff to finish week higher as analyst cites 'important buying opportunity',MarketWatch,-0.096529,Neutral,0.426465,1.000000
+20230807T064900,AMD,Micron Launches Memory Expansion Module Portfolio to Accelerate CXL 2.0 Adoption,TechPowerUp,0.300686,Somewhat-Bullish,0.297912,0.700990
+20230808T160200,AMD,BlackRock Inc. Acquires Additional Shares in Mercury Systems Inc.,GuruFocus,0.176885,Somewhat-Bullish,0.130772,0.571550
+20230809T041900,AMD,The Case For Intel: An Illustration Of The ‘Value’ Investing Mindset,Forbes,0.194035,Somewhat-Bullish,0.213886,0.663002
+20230810T154059,AMD,Supermicro Announces High Volume Production of E3.S All-Flash Storage Portfolio with New CXL Memory Expansion Offerings,Supermicro,0.363096,Bullish,0.322240,0.600777
+20230814T162100,AMD,"Stan Druckenmiller's Duquesne adds GE, Builders FirstSource, exits AMD (NASDAQ:NWS)",Seeking Alpha,0.177485,Somewhat-Bullish,-0.317547,0.733555
+20230816T214053,AMD,"Tema Oncology ETF ETF Price, Holdings, & News (NASDAQ:CANC)",MarketBeat,0.33482,Somewhat-Bullish,0.347350,0.639844
+20230817T000000,AMD,"Insider Sell: AMD Chair, President & CEO Lisa Su Sells 75,000 Shares",Yahoo Finance,-0.266774,Somewhat-Bearish,-0.287029,1.000000
+20230821T223148,AMD,LX International liquidates Yantai LCD component warehouse in China,알파경제,-0.159837,Somewhat-Bearish,-0.104777,0.618275
+20230822T220739,AMD,"TSMC’s CoWoS Dominance: Amkor, ASE, JCET’s Response",TrendForce,0.308562,Somewhat-Bullish,0.223591,0.722292
+20230822T224030,AMD,Samsung weighs retooling Galaxy S series with Exynos chipsets,KED Global,0.057638,Neutral,0.240743,0.730122
+20230823T220630,AMD,Why Ireland is well positioned to capitalise on chip ‘gold rush’,Silicon Republic,0.323553,Somewhat-Bullish,0.308568,0.746788
+20230823T220750,AMD,"GraniteShares' Single Stock ETFs Will Follow Nvidia, Tesla, AMD",ETF.com,0.250137,Somewhat-Bullish,0.340377,0.949441
+20230825T220738,AMD,"New AMD Radeon RX 7800 XT and Radeon RX 7700 XT Graphics Cards Deliver High-Performance, Visually Stunning 1440p Gaming Experiences and Superior Performance-Per-Dollar",AMD,0.637781,Bullish,0.616124,1.000000
+20230825T220738,AMD,AMD debuts two new graphics cards for the consumer market,SiliconANGLE,0.29853,Somewhat-Bullish,0.432188,1.000000
+20230828T163000,AMD,"Unusual Call Option Trade in Advanced Micro Devices (AMD) Worth $1,281.25K",Nasdaq,0.472011,Bullish,0.491456,1.000000
+20230829T193932,AMD,"Invesco AI and Next Gen Software ETF ETF Price, Holdings, & News (NYSEARCA:IGPT)",MarketBeat,0.183893,Somewhat-Bullish,0.130292,0.717684

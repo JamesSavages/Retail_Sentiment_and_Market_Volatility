@@ -1,0 +1,77 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20240301T000000,AMZN,"The Rise of Humanoids, Explained",Global X ETFs,0.406349,Bullish,0.323831,0.731745
+20240301T145146,AMZN,"S&P 500 Dashboard And Focus On BBUS ETF, A Cheap Alternative To SPY",Seeking Alpha,0.16717,Somewhat-Bullish,0.115654,0.606791
+20240301T161921,AMZN,Microsoft spends big on data center land near Gainesville,InsideNoVa.com,0.150258,Somewhat-Bullish,0.140514,0.709545
+20240301T163346,AMZN,Citadel's Ken Griffin Oversees $500 Billion in Managed Assets: These Are His Top 5 Holdings,The Globe and Mail,0.42151,Bullish,0.525902,0.717070
+20240304T000000,AMZN,"Phase II of Willow Grove Shopping Center construction complete: Amazon Fresh, other tenants on the way",Glenside Local,0.331208,Somewhat-Bullish,0.203100,0.706024
+20240304T000000,AMZN,Magnificent Seven vs. the ‘Granolas’: How does Europe’s version stack up?,Morningstar,0.145499,Neutral,0.140479,0.713871
+20240304T153600,AMZN,TeraWulf Reaffirms Business as Usual at the Nautilus Facility Amid Talen’s Sale of Data Center Campus,TeraWulf,0.350145,Bullish,0.281828,0.630725
+20240305T000000,AMZN,‘Funflation’ & Technology Driving Music Industry Resurgence,ETF Trends,0.280013,Somewhat-Bullish,0.248926,0.721134
+20240305T000000,AMZN,Target to open 300 stores over next decade,Chain Store Age,0.21072,Somewhat-Bullish,0.126171,0.732227
+20240305T102500,AMZN,News | The Body Shop To Close 33 Stores in Canada as US Operations Halt,CoStar,0.069819,Neutral,0.128680,0.632320
+20240305T122300,AMZN,Target launches a $49 subscription service for customers wanting quick delivery,Los Angeles Times,0.136242,Neutral,0.133246,0.712959
+20240305T160429,AMZN,F1 owner Liberty Media eyeing ‘€4bn’ MotoGP acquisition,BlackBook Motorsport,0.166894,Somewhat-Bullish,0.129036,0.724358
+20240305T163600,AMZN,Target’s Profit Leapt 58% in Q4,Twin Cities Business,0.172185,Somewhat-Bullish,0.102436,0.601949
+20240305T163600,AMZN,New Target Membership Plan Will Offer Free Same-Day Delivery,Transport Topics,0.143795,Neutral,0.114593,0.826438
+20240306T000000,AMZN,"Target Starts $49 Membership Program to Compete With Amazon, Walmart",Supply Chain Brain,0.151391,Somewhat-Bullish,0.103583,0.720294
+20240306T161237,AMZN,JD.com Approves $3 Billion Buyback After Revenue Beat Estimates,The Business of Fashion,0.150492,Somewhat-Bullish,-0.144828,0.649410
+20240306T161915,AMZN,Why Mega-Cap Tech Stocks’ Dominance Is a Risk,Morgan Stanley,-0.227468,Somewhat-Bearish,-0.309466,0.733386
+20240307T162548,AMZN,"Turn $10k Into a Fortune With These 3 High-Risk, High-Reward Space Stocks",InvestorPlace,0.281654,Somewhat-Bullish,0.238119,0.551528
+20240307T163656,AMZN,Electric Hydrogen turns to ‘really efficient capital’ to expand manufacturing,Latitude Media,0.33728,Somewhat-Bullish,0.342817,0.614633
+20240308T012900,AMZN,SCHX: As Cheap As It Gets For Large-Cap Exposure,Seeking Alpha,0.316514,Somewhat-Bullish,0.318735,0.610576
+20240308T155428,AMZN,Fortune 500 list: The top 10 companies dominating business,Fortune,0.223761,Somewhat-Bullish,0.269446,0.918146
+20240308T163005,AMZN,Roku Forces Customers to Give Up Basic Legal Rights In New TOC,Lifewire,-0.187446,Somewhat-Bearish,-0.113613,0.601048
+20240309T115917,AMZN,Megacap tech stocks dominate many ESG funds. Here’s why,CNBC,0.227037,Somewhat-Bullish,0.233452,0.815478
+20240309T131000,AMZN,Megacap tech stocks dominate many ESG funds. Here's why,NBC4 Washington,0.134398,Neutral,0.110376,0.644174
+20240311T160055,AMZN,EXL Service CEO Rohit Kapoor Discusses Generative AI’s Emerging Role in Revolutionizing the Insurance Sector,AI Insider,0.33375,Somewhat-Bullish,0.305246,0.621416
+20240311T160200,AMZN,1How AI Enabled Smart Carts Can Bring Retail Into The 21st Century,Forbes,0.243932,Somewhat-Bullish,0.235598,0.741053
+20240311T162344,AMZN,Oracle Stock Jumps 14% as Large Customer Contracts Boost Earnings—Key Level to Watch,Investopedia,0.176369,Somewhat-Bullish,-0.160681,0.603350
+20240311T164300,AMZN,"Code and Theory, a Stagwell (STGW) Network Company, Named Ad Age Business Transformation Agency of the Year",PR Newswire,0.335453,Somewhat-Bullish,0.326575,0.644911
+20240311T174300,AMZN,"Code and Theory, a Stagwell (STGW) Network Company, Named Ad Age Business Transformation Agency of the Year",Sahm,0.35995,Bullish,0.445009,0.666119
+20240312T111909,AMZN,15 Best eBay Alternatives to Try in 2024,Yahoo Finance,0.312454,Somewhat-Bullish,0.340046,0.764518
+20240312T162532,AMZN,Philips and AWS collaborate to scale digital pathology,Philips,0.355913,Bullish,0.314915,0.703363
+20240313T100600,AMZN,Lilly partners with Amazon to deliver Zepbound and other drugs,Reuters,0.34544,Somewhat-Bullish,0.340187,0.906883
+20240313T110000,AMZN,Sonos Era 100 review: Room-filling sound meets thoughtful improvements,Android Police,0.179998,Somewhat-Bullish,0.118384,0.620652
+20240313T110300,AMZN,Veritone launches AI-powered digital evidence management system,Police1,0.441986,Bullish,0.249803,0.609293
+20240313T132300,AMZN,AT&T agrees to purchase carbon credits from Occidental's 1PointFive,Reuters,0.194112,Somewhat-Bullish,0.144125,0.623146
+20240313T160933,AMZN,IBM Stock Gains After Cuts to Marketing and Communications Staff—Key Level To Watch,Investopedia,0.176848,Somewhat-Bullish,0.134005,0.667257
+20240313T161611,AMZN,Eli Lilly partners with Amazon to deliver GLP-1 drugs Mounjaro and Zepbound,Medical Marketing and Media,0.374017,Bullish,0.334546,0.920345
+20240313T161611,AMZN,"Eli Lilly taps Amazon Pharmacy to help deliver weight loss drug Zepbound, other medicines to patients",CNBC,0.216251,Somewhat-Bullish,0.329637,0.931534
+20240313T161920,AMZN,"Microsoft, P&G, Unilever and Walmart among 239 companies to miss net-zero deadline",Trellis Group (formerly GreenBiz),-0.2197,Somewhat-Bearish,-0.292376,0.692899
+20240313T162344,AMZN,Oracle unveils $10B data center expansion plan,Construction Dive,0.364737,Bullish,0.326696,0.620652
+20240314T133300,AMZN,"Markets Showing Signs of Bubble on Big Tech, Crypto Surge, BofA’s Hartnett Says",Bloomberg.com,-0.164198,Somewhat-Bearish,-0.206072,0.738582
+20240314T143400,AMZN,Democratic ETF outpaces Republican peer on Big Tech bets,Reuters,0.287332,Somewhat-Bullish,0.219842,0.637132
+20240314T154534,AMZN,"Watch BofA’s Hartnett Sees Characteristics of a Bubble in Mag 7, Crypto",Bloomberg.com,-0.267032,Somewhat-Bearish,-0.319404,0.621676
+20240315T045225,AMZN,Nasdaq listing is a strategic move aimed at bringing value to Noventiq: CEO Hervé Tessler,AlphaStreet,0.25557,Somewhat-Bullish,0.345671,0.646805
+20240318T000000,AMZN,First over-the-counter birth control pill now for sale online,capradio.org,0.488853,Bullish,0.306119,0.711318
+20240318T000000,AMZN,NVIDIA Blackwell Platform Arrives to Power a New Era of Computing,NVIDIA Newsroom,0.764995,Bullish,0.701146,0.645080
+20240318T123000,AMZN,"Gaia Launches Gaia+, the World’s Most Extensive Streaming Platform for Transformation",Yahoo Finance,0.179576,Somewhat-Bullish,0.137368,0.635078
+20240318T155321,AMZN,The Rise of Copart: From Salvage Yard to Tech Giant,Quartr,0.47145,Bullish,0.240671,0.591270
+20240318T155346,AMZN,Tough stuff: this rugged Corsair gaming headset just scored its biggest discount yet,TechRadar,0.311367,Somewhat-Bullish,0.293998,0.614286
+20240318T162501,AMZN,PepsiCo’s former CEO led the Fortune 500 company for 12 years. Her playbook includes a lesson from Carrie Bradshaw,Yahoo Finance,0.149034,Neutral,0.112072,0.630698
+20240319T160500,AMZN,Amazon Beats University’s Patent Lawsuit Over Alexa Voice Tech,Bloomberg Law News,0.502531,Bullish,0.511021,1.000000
+20240320T041055,AMZN,CONY Total Assets Under Management Insights,YCharts,0.016984,Neutral,0.020948,0.613178
+20240320T080000,AMZN,Manuka Health Limited leverages VerifyMe QR codes to participate in Amazon Transparency,PR Newswire,0.362781,Bullish,0.332452,0.621242
+20240320T154157,AMZN,IPO winter ending? Astera Labs and Reddit surge in stock trading debuts,SiliconANGLE,0.343349,Somewhat-Bullish,0.105898,0.610469
+20240320T154245,AMZN,E-commerce giant Amazon inks huge lease in West Valley,The Business Journals,0.449899,Bullish,0.426739,1.000000
+20240320T161525,AMZN,"12 Best Beach Towels of 2024, Tested by Experts",Good Housekeeping,0.210778,Somewhat-Bullish,0.246733,0.703593
+20240320T204600,AMZN,UnitedHealth says unit Change has restored and rebuilt functions handled by Amazon,Reuters,0.161117,Somewhat-Bullish,0.148804,0.720266
+20240321T051205,AMZN,Impact Shares YWCA Women’s Empowerment ETF (WOMN) Reaches $50M in Assets Under Management,Yahoo Finance,0.345356,Somewhat-Bullish,0.303374,0.633558
+20240321T115122,AMZN,"GraniteShares 2x Long AMZN Daily ETF ETF Price, Holdings, & News (NASDAQ:AMZZ)",MarketBeat,0.198303,Somewhat-Bullish,0.149123,0.907489
+20240321T192900,AMZN,Palo Alto Networks CEO explains why he's partnering with companies like Nvidia,CNBC,0.183775,Somewhat-Bullish,0.252788,0.599188
+20240321T193908,AMZN,AMZZ Stock Price | GraniteShares 2x Long AMZN Daily ETF,Investing.com,-0.128835,Neutral,-0.102893,0.705051
+20240322T000000,AMZN,Get to know QQQ: Charting 25 years of performance,Invesco,0.326154,Somewhat-Bullish,0.336241,0.621173
+20240322T104000,AMZN,Tejon Ranch CEO to Leave after 2024,Commercial Observer,0.101011,Neutral,0.144857,0.631393
+20240322T154008,AMZN,ABM General Services lays off more than 100 workers at Northeast Ohio Amazon facility,The Business Journals,0.191147,Somewhat-Bullish,0.148963,0.708660
+20240322T154014,AMZN,Under Pressure: Antitrust and Competition Authorities are Now Focusing on Apple,Tech Policy Press,-0.170299,Somewhat-Bearish,-0.114906,0.599759
+20240325T000000,AMZN,Northrop Grumman awards 70 suppliers for delivering excellence,Aerospace Manufacturing magazine,0.346992,Somewhat-Bullish,0.305010,0.640909
+20240325T163538,AMZN,7 Best Brand Video Marketing Campaigns,Outbrain,0.179626,Somewhat-Bullish,0.204453,0.628611
+20240325T163753,AMZN,More Canadians ditch traditional TV as streamers are ‘winning the battle’: report,CityNews Toronto,0.094393,Neutral,0.274389,0.724549
+20240326T000000,AMZN,S&P Global Commodity Insights and Amazon Web Services Empower Digital Transformation in Upstream Oil & Gas Industry,S&P Global,0.337629,Somewhat-Bullish,0.318730,0.932113
+20240326T050339,AMZN,DWS social fairness SDG ETF: Screened rather than thematic impact,ETF Stream,-0.040588,Neutral,0.034725,0.632295
+20240326T162623,AMZN,POET Enters Optical Module Market with 800G Transceiver for Artificial Intelligence Networks,Stock Titan,0.35702,Bullish,0.312998,0.629320
+20240327T111500,AMZN,News | Amazon's HQ2 Takes Shape at Metropolitan Park,CoStar,0.37418,Bullish,0.526305,0.926102
+20240328T000000,AMZN,"Proven Retail Winners: IKEA, Williams Sonoma, Crate + Barrel",The Robin Report,0.134196,Neutral,-0.177076,0.601504
+20240328T072900,AMZN,A new product allows 5x leveraged bets on the Magnificent Seven. Traders should be wary.,MarketWatch,-0.145209,Neutral,-0.141759,0.718414
+20240328T160720,AMZN,PREORDER! Transformers X Teenage Mutant Ninja Turtles Party Wallop Official Images & Details,Tformers,0.13639,Neutral,0.136444,0.706058
+20240329T154245,AMZN,This Is How Much Money Amazon Makes Every Minute,24/7 Wall St.,0.401465,Bullish,0.444313,1.000000

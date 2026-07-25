@@ -1,0 +1,13 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20230911T133959,META,"ALPS OShares Global Internet Giants ETF (OGIG) Stock Price, Holdings, Dividend Yield",GuruFocus,0.077836,Neutral,0.052610,0.566280
+20230911T143133,META,"Breakthrough and Enovis (TM) Announce Official Partnership, Empowering Private Practice Healthcare to Help Improve Quality of Care While Increasing Profitability",Newswire.com,0.334383,Somewhat-Bullish,0.314888,0.647791
+20230911T153002,META,"Qualcomm, Meta Platforms rise; J.M. Smucker, RTX fall, Monday, 9/11/2023",Quartz,0.062221,Neutral,0.428857,0.842378
+20230911T193300,META,More writers sue OpenAI for copyright infringement over AI training,Reuters,-0.200685,Somewhat-Bearish,-0.231267,0.712322
+20230912T181300,META,"Pulitzer winner Chabon, other authors sue Meta over AI program",Reuters,-0.270312,Somewhat-Bearish,-0.320431,1.000000
+20230913T214458,META,Group targets Meta and peers over diversity hiring initiative for BIPOC film crew,HR Dive,-0.245828,Somewhat-Bearish,-0.242833,1.000000
+20230914T230959,META,"Direxion Daily NVDA Bull 2X Shares ETF Price, Holdings, & News (NASDAQ:NVDU)",MarketBeat,0.046152,Neutral,0.065249,0.602018
+20230920T080000,META,Instacart Pops 12% On Nasdaq Debut: 6 ETFs in Focus,Nasdaq,0.169719,Somewhat-Bullish,0.126778,0.575028
+20230920T210857,META,Communications ETF XLC Offers Loud & Clear Exposure to the Space,AdvisorHub,0.312003,Somewhat-Bullish,0.300105,0.728979
+20230923T124100,META,Meta Platforms hit with US trademark lawsuit from tech company Metabyte,Reuters,-0.24492,Somewhat-Bearish,-0.233562,1.000000
+20230926T195255,META,"FNGG ETF Analysis: Dividends, Returns AMEX:FNGG",TradingView,0.098714,Neutral,0.100370,0.604560
+20230928T154059,META,Supermicro At 30: From Designing AI Chips To Selling AI Systems,The Next Platform,0.329221,Somewhat-Bullish,0.128127,0.555766

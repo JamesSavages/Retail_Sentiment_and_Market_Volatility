@@ -1,0 +1,16 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20231101T144954,META,Hartford Funds Seeks to Let $4.1B Fund Make More Concentrated Investments,plansponsor,0.169159,Somewhat-Bullish,0.237467,0.714331
+20231102T000000,META,"Shoot, Don’t Kill",The Trace,0.081855,Neutral,-0.126967,0.551692
+20231103T062725,META,"GoodRx class action claims company shares personal info with Meta, Google, others",Class Action Lawsuits,-0.265349,Somewhat-Bearish,-0.241302,0.843703
+20231106T143127,META,The Magnificent 7 In Other Countries (Emerging Markets X-China),AdvisorHub,0.318278,Somewhat-Bullish,0.219524,0.608357
+20231106T194436,META,Costco class action alleges retailer shared customer health info with Meta,Class Action Lawsuits,-0.332211,Somewhat-Bearish,-0.321987,0.801444
+20231107T000000,META,Coursera class action claims company shares customer viewing history with Meta,Class Action Lawsuits,-0.321477,Somewhat-Bearish,-0.226614,0.805555
+20231109T053000,META,"Walmart agrees to huge South Bay sublease deal, in lift for office market",SiliconValley.com,0.04152,Neutral,-0.407597,0.727504
+20231109T205100,META,US judge trims AI copyright lawsuit against Meta,Reuters,0.10932,Neutral,0.140441,1.000000
+20231113T085000,META,Amazon sued over 'dangerous partnership' with virtual casino apps,Reuters,-0.242284,Somewhat-Bearish,-0.141508,0.627366
+20231113T090100,META,Autodesk Workshop XR Delivers Immersive Design Review Experience for the AEC Industry,PR Newswire,0.393806,Bullish,0.329444,0.723015
+20231113T145614,META,FAANG Gives Way to the ‘Magnificent Seven’,ETF Trends,0.289746,Somewhat-Bullish,0.312130,0.896900
+20231114T170200,META,Tepper’s Appaloosa dumps Apple stake and loads up on Amazon’s stock,MarketWatch,0.231308,Somewhat-Bullish,0.428527,0.715020
+20231119T201626,META,‘I was addicted to social media - now I'm suing Big Tech’,BBC,-0.555249,Bearish,-0.591459,0.889517
+20231130T000000,META,AI ETFs see huge performance dispersion in 2023,ETF Stream,0.246433,Somewhat-Bullish,0.307023,0.646502
+20231130T200300,META,Cognizant Technology Solutions to lay off employees tied to Apple in Austin,The Business Journals,-0.184125,Somewhat-Bearish,-0.302171,0.609318

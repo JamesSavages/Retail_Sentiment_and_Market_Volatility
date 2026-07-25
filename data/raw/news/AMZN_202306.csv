@@ -1,0 +1,98 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20230601T081500,AMZN,Apple Bets On The Emerging Markets Growth Story,Forbes,0.141697,Neutral,0.061534,0.595418
+20230601T133800,AMZN,Salesforce shares drop on slowest revenue growth in more than 10 years,Reuters,-0.309363,Somewhat-Bearish,-0.259713,0.656483
+20230602T091900,AMZN,Vimeo is tuning out its streaming TV apps,TechHive,0.03945,Neutral,0.043984,0.636535
+20230605T000000,AMZN,Introducing Apple Vision Pro: Apple’s first spatial computer,Apple,0.442358,Bullish,0.228139,0.619412
+20230605T000000,AMZN,Microsoft Inks Deal With NVIDIA-Backed CoreWeave,Spiceworks,0.364732,Bullish,0.104857,0.577932
+20230605T002838,AMZN,"Is Walmart Stock a Buy, Sell, or Fairly Valued After Earnings?",Morningstar,-0.148399,Neutral,-0.219708,0.719008
+20230605T184038,AMZN,WTAI Stock Price | WisdomTree Artificial Intelligence and Innovation ETF,Investing.com,-0.156359,Somewhat-Bearish,0.211445,0.616770
+20230606T000000,AMZN,"C.H. Robinson’s New CEO Brings Experience From Ford, Amazon",Twin Cities Business,0.14696,Neutral,0.116286,0.638408
+20230606T000257,AMZN,How Microsoft Fabric aims to beat Amazon and Google in the cloud war,VentureBeat,0.213871,Somewhat-Bullish,0.065988,0.927666
+20230606T062812,AMZN,Sprouts Farmers Market to Open in Downtown Sarasota,The Suncoast Post,0.217953,Somewhat-Bullish,0.324772,0.609410
+20230606T114600,AMZN,C.H. Robinson Appoints Dave Bozeman as CEO,Transport Topics,0.238058,Somewhat-Bullish,0.204413,0.600050
+20230606T165000,AMZN,The 2023 Fortune 500 has been revealed: See which 9 Northeast Ohio companies made the list,WKYC,0.129026,Neutral,0.436348,0.727529
+20230606T202900,AMZN,Cisco debuts its Secure Service Edge offering and enhances app security,SiliconANGLE,0.171988,Somewhat-Bullish,0.109482,0.584261
+20230607T000000,AMZN,Salesforce CEO Benioff shakes up executive team with new hires,www.cio.com,0.103827,Neutral,0.111572,0.637440
+20230607T000000,AMZN,"People News: C.H. Robinson, Port NOLA",Railway Age,0.197019,Somewhat-Bullish,0.109015,0.640270
+20230607T085600,AMZN,2 Alabama-based companies make the Fortune 500,AL.com,0.288704,Somewhat-Bullish,0.229259,0.613896
+20230607T234911,AMZN,C.H. Robinson appoints Dave Bozeman as CEO,Indian Transport & Logistics,0.223142,Somewhat-Bullish,0.134785,0.601799
+20230608T001931,AMZN,Revolutionizing cloud spending: How ProsperOps' AI solution is curbing public cloud expenses,SiliconANGLE,0.186483,Somewhat-Bullish,0.291689,0.682839
+20230608T093949,AMZN,Invesco S&P 500 Equal Weight Consumer Discretionary ETF,ETF Database,0.02108,Neutral,0.047210,0.690305
+20230609T165900,AMZN,"Apple, Amazon must face consumer lawsuit over iPhone, iPad prices, US judge rules",Reuters,-0.20373,Somewhat-Bearish,-0.239846,0.909222
+20230612T000000,AMZN,A breakdown of AI ETFs as tech names burn bright,ETF Stream,0.235121,Somewhat-Bullish,0.245258,0.791249
+20230612T001804,AMZN,"Regions Financial, Vulcan Materials make Fortune 500",Yellowhammer News,0.250524,Somewhat-Bullish,0.166068,0.614932
+20230612T002115,AMZN,Silicon Labs' FG28 Integrates Dual-Band Sub-GHz / BLE Radio with Machine Learning Accelerator,Hackster.io,0.33438,Somewhat-Bullish,0.223857,0.614280
+20230612T090000,AMZN,Additions to Fortinet FortiFlex deliver more flexible licensing options to customers,SiliconANGLE,0.558329,Bullish,0.522280,0.613735
+20230612T155649,AMZN,Satellite Broadband Provider Viasat Acquired Inmarsat for $7.3 Billion – Now What?,SpaceRef,0.320527,Somewhat-Bullish,0.125233,0.638230
+20230612T234834,AMZN,Andy Eccles: CDW Expands Public Sector Cloud Business Through Enquizit Acquisition,GovCon Wire,0.278084,Somewhat-Bullish,0.159876,0.606564
+20230613T002034,AMZN,"Uber Eats to Deploy 2,000 Autonomous Robots from Serve Robotics",Electropages,0.27418,Somewhat-Bullish,0.100743,0.644366
+20230613T151017,AMZN,iShares Climate Conscious & Transition MSCI USA ETF,ETF Database,0.234482,Somewhat-Bullish,0.221645,0.623668
+20230613T152035,AMZN,Oracle founder Larry Ellison confirms new gen AI service with Cohere during earnings call,VentureBeat,0.223509,Somewhat-Bullish,0.121525,0.565278
+20230613T214600,AMZN,AMD launches new Instinct MI300X AI chip to take on Nvidia’s GPUs,SiliconANGLE,-0.005621,Neutral,-0.143881,0.556636
+20230613T232700,AMZN,AMD's AI chip challenge to Nvidia remains uphill fight with no big customers named,Reuters,0.090079,Neutral,0.115899,0.637502
+20230613T235946,AMZN,Grainger Leases 500K SF Warehouse at Carolina Logistics Park,Connect CRE,0.248164,Somewhat-Bullish,0.125632,0.608680
+20230614T002558,AMZN,"Labor Ruling Offers Unionization Path to Uber, Lyft Drivers",GovTech,-0.165336,Somewhat-Bearish,-0.107509,0.603879
+20230614T060913,AMZN,"Fidelity Disruptive Technology ETF ETF Price, Holdings, & News (NASDAQ:FDTX)",MarketBeat,0.28593,Somewhat-Bullish,0.306428,0.626969
+20230614T133000,AMZN,Sonos Era 300 Review: Spatial Audio Is a Game Changer,How-To Geek,0.351821,Bullish,0.265481,0.603537
+20230615T050952,AMZN,Pacer Trendpilot 100 ETF Review and Aggregate Rating (PTNQ),MarketBeat,0.399731,Bullish,0.371964,0.816408
+20230615T074109,AMZN,iShares U.S. Consumer Discretionary ETF Review and Aggregate Rating (IYC),MarketBeat,0.236965,Somewhat-Bullish,0.342004,0.652062
+20230615T080953,AMZN,iShares S&P 100 ETF Review and Aggregate Rating (OEF) $OEF,MarketBeat,0.331836,Somewhat-Bullish,0.338228,0.797998
+20230615T133925,AMZN,JPMorgan Active Growth ETF Review and Aggregate Rating (JGRO) $JGRO,MarketBeat,0.39489,Bullish,0.396571,0.630003
+20230615T160912,AMZN,Principal Value ETF Review and Aggregate Rating (PY),MarketBeat,0.290079,Somewhat-Bullish,0.338485,0.695269
+20230615T230938,AMZN,First Trust Cloud Computing ETF Review and Aggregate Rating (SKYY) $SKYY,MarketBeat,0.348873,Somewhat-Bullish,0.305863,0.761885
+20230616T002155,AMZN,Sonos Ray Review,RTINGS.com,0.108061,Neutral,0.105209,0.628943
+20230616T010929,AMZN,Amplify Online Retail ETF Review and Aggregate Rating (IBUY),MarketBeat,0.261195,Somewhat-Bullish,0.232822,0.690491
+20230616T021021,AMZN,Invesco NASDAQ Internet ETF Review and Aggregate Rating (PNQI),MarketBeat,0.269836,Somewhat-Bullish,0.307748,0.714482
+20230616T051035,AMZN,Global X S&P 500 Tail Risk ETF Review and Aggregate Rating (XTR) $XTR,MarketBeat,0.320351,Somewhat-Bullish,0.287349,0.618515
+20230616T060913,AMZN,Fidelity Disruptive Technology ETF Review and Aggregate Rating (FDTX),MarketBeat,0.22491,Somewhat-Bullish,0.291670,0.646316
+20230616T071156,AMZN,Direxion Daily NYSE FANG+ Bull 2X Shares Review and Aggregate Rating (FNGG),MarketBeat,0.301374,Somewhat-Bullish,0.320659,0.717098
+20230616T073859,AMZN,Motley Fool Global Opportunities ETF Review and Aggregate Rating (TMFG),MarketBeat,0.341318,Somewhat-Bullish,0.414459,0.755115
+20230616T091049,AMZN,Dimensional US Core Equity Market ETF Review and Aggregate Rating (DFAU),MarketBeat,0.243998,Somewhat-Bullish,0.251348,0.642300
+20230616T095218,AMZN,STF Tactical Growth ETF Review and Aggregate Rating (TUG) $TUG,MarketBeat,0.25043,Somewhat-Bullish,0.243511,0.611376
+20230616T101013,AMZN,Schwab US Large-Cap ETF Review and Aggregate Rating (SCHX),MarketBeat,0.221005,Somewhat-Bullish,0.318369,0.585619
+20230616T125141,AMZN,iShares MSCI ACWI ETF Review and Aggregate Rating (ACWI),MarketBeat,0.28954,Somewhat-Bullish,0.225658,0.695318
+20230616T125155,AMZN,Alger 35 ETF Review and Aggregate Rating (ATFV),MarketBeat,0.288191,Somewhat-Bullish,0.218972,0.792841
+20230616T150949,AMZN,InfraCap Equity Income Fund ETF Review and Aggregate Rating (ICAP),MarketBeat,0.238463,Somewhat-Bullish,0.344255,0.725073
+20230616T161013,AMZN,Invesco S&P 500 Top 50 ETF Review and Aggregate Rating (XLG),MarketBeat,0.289616,Somewhat-Bullish,0.201034,0.664176
+20230616T210853,AMZN,WisdomTree Artificial Intelligence and Innovation Fund Review and Aggregate Rating (WTAI),MarketBeat,0.147,Neutral,0.287587,0.706240
+20230616T220939,AMZN,Fidelity Disruptive Automation ETF Review and Aggregate Rating (FBOT) $FBOT,MarketBeat,0.605099,Bullish,0.515930,0.611000
+20230616T233851,AMZN,American Century Sustainable Equity ETF Review and Aggregate Rating (ESGA),MarketBeat,0.27906,Somewhat-Bullish,0.280199,0.608131
+20230616T235237,AMZN,JPMorgan U.S. Research Enhanced Large Cap ETF Review and Aggregate Rating (JUSA),MarketBeat,0.412248,Bullish,0.412010,0.727729
+20230616T235730,AMZN,"Maximum Effort Channel, a Partnership Between Fubo and Ryan Reynolds’ Maximum Effort, Will Launch on Fubo, Amazon Freevee, LG Channels, Plex, Sling Freestream, VIDAA, VIZIO WatchFree+, Xumo Play",Business Wire,0.282942,Somewhat-Bullish,0.231300,0.646881
+20230618T000332,AMZN,JD.com Announces “35711 Vision” for the Next Twenty Years,JD Corporate Blog,0.243233,Somewhat-Bullish,0.292744,0.668065
+20230619T164300,AMZN,"Sensex, Nifty Decline As RIL, ICICI Bank Drag: Market Wrap",NDTV Profit,-0.395642,Bearish,-0.398274,0.641307
+20230620T000634,AMZN,Freehold Raceway Mall Sears deal: See what happened to other Jersey Shore Sears stores,Asbury Park Press,0.372239,Bullish,0.287643,0.643268
+20230620T002155,AMZN,"Sonos Five review: is Sonos' biggest, priciest wireless speaker its best?",What Hi-Fi?,0.085622,Neutral,0.005193,0.649084
+20230621T002235,AMZN,Spotify has higher-priced subscription plan in the pipeline: report,Fox Business,0.212993,Somewhat-Bullish,0.132177,0.612061
+20230621T091100,AMZN,"Minnesota firm acquires retail brokerage in Bentonville, strengthening connections with Walmart, Sam's Club",Talk Business & Politics,0.349489,Somewhat-Bullish,0.311354,0.606259
+20230622T000000,AMZN,PLDT and CSG Build On 20-Year Relationship to Modernize for the Future,Business Wire,0.296847,Somewhat-Bullish,0.106529,0.557786
+20230622T112800,AMZN,Some ESG Issues Take Center Stage at Big Tech Investor Meetings,ETF Trends,0.156245,Somewhat-Bullish,0.126681,0.601511
+20230622T132800,AMZN,"Hedge Fund and Insider Trading News: Michael Platt, Steve Cohen, Elliott Management, AQR Capital Management, Citadel LLC, Akamai Technologies, Inc. (AKAM), Salesforce, Inc. (CRM), and More",Insider Monkey,0.068892,Neutral,0.108808,0.610772
+20230622T133900,AMZN,"The best buy now, pay later (BNPL) apps",Android Police,0.214524,Somewhat-Bullish,0.104381,0.605747
+20230622T144048,AMZN,'Millions of homeowners:' Frontdoor's branding to arrive on doorsteps through deal with Amazon,The Business Journals,0.180211,Somewhat-Bullish,0.303250,0.936559
+20230622T144629,AMZN,The new Furby is here whether you like it or not,Polygon,0.153043,Somewhat-Bullish,0.102380,0.618673
+20230622T153522,AMZN,SAIC wins $1.3B Treasury cloud contract,FedScoop,0.330307,Somewhat-Bullish,0.341848,0.447213
+20230622T163000,AMZN,Amazon Is Spending $100 Million to Teach Cloud Customers About AI,Bloomberg.com,0.422849,Bullish,0.714034,0.999027
+20230622T172500,AMZN,Amazon.com Inc. stock outperforms market on strong trading day,MarketWatch,0.472887,Bullish,0.493275,1.000000
+20230622T235336,AMZN,EBay creates event series for sports trading card collectors,Retail Dive,0.110159,Neutral,0.010630,0.574387
+20230623T235215,AMZN,7.5 Million 'Baby Shark' Bath Toys Recalled Due to Serious Injuries to Kids,HealthDay,-0.214588,Somewhat-Bearish,-0.242342,0.630814
+20230626T051020,AMZN,Direxion HCM Tactical Enhanced US ETF,ETF Database,0.316226,Somewhat-Bullish,0.330156,0.625347
+20230626T141800,AMZN,IBM to buy software co Apptio for $4.6 billion to bolster cloud offerings,Reuters,0.245545,Somewhat-Bullish,0.225620,0.632320
+20230626T234307,AMZN,"Amazon, Friction, and the FTC",Stratechery by Ben Thompson,0.008889,Neutral,-0.121337,1.000000
+20230627T002301,AMZN,Dozens of frozen fruit products sold at 6 major retailers recalled by FDA,ABC7 New York,-0.164025,Somewhat-Bearish,-0.073012,0.560296
+20230627T002535,AMZN,Are AWS Local Zones right for my low-latency app?,TechTarget,0.1528,Somewhat-Bullish,0.252103,0.971138
+20230627T154111,AMZN,Snowflake Native App Framework Now Available to Developers on AWS,Snowflake,0.324319,Somewhat-Bullish,0.275462,0.643266
+20230627T235032,AMZN,Corsair Darkstar Wireless review: 'An MMO mouse packed with intuitive extra features',GamesRadar+,0.152165,Somewhat-Bullish,0.070554,0.637084
+20230628T000000,AMZN,Zoox headcount grows as Amazon's self-driving unit expands testing in Vegas,Reuters,-0.017065,Neutral,0.274467,1.000000
+20230628T001259,AMZN,Oracle is no longer buying Intel processors for its data centers,The Business Journals,0.174537,Somewhat-Bullish,0.107220,0.627092
+20230628T002212,AMZN,Staples accepting Amazon returns,Chain Store Age,0.148903,Neutral,0.440829,1.000000
+20230628T154106,AMZN,Needham's SharkNinja plans to apply to list shares on NYSE,The Business Journals,0.156434,Somewhat-Bullish,-0.131385,0.631768
+20230628T234151,AMZN,"American Eagle Launches New Campaign With Gen Z Starpower Christopher Briney, Gavin Casalegno and Lola Tung From the Prime Video Series The Summer I Turned Pretty",American Eagle,0.332534,Somewhat-Bullish,0.294127,0.723521
+20230629T000000,AMZN,Nuclear power to reduce Microsoft data centre carbon footprint,World Nuclear News,0.488348,Bullish,0.275198,0.551345
+20230629T002212,AMZN,All Staples locations to accept Amazon returns,Retail Dive,0.111797,Neutral,0.290686,1.000000
+20230629T130200,AMZN,QVC and HSN Launch Livestream Video Shopping Experiences on Amazon Freevee,PR Newswire,0.185531,Somewhat-Bullish,0.325902,0.642251
+20230630T000000,AMZN,"Who is David Bozeman, C.H. Robinson’s new CEO?",Business Chief,0.012288,Neutral,0.008932,0.612568
+20230630T000000,AMZN,Apple’s market value ends above $3 trillion for the first time,Al Jazeera,0.44629,Bullish,0.328890,0.600422
+20230630T001725,AMZN,QVC and HSN Launch on Amazon Freevee,TVTechnology,0.350402,Bullish,0.334786,0.858139
+20230630T152006,AMZN,Oakmark Equity and Income Fund: Second Calendar Quarter 2023,Oakmark Funds,0.174075,Somewhat-Bullish,0.297123,0.843964
+20230630T164700,AMZN,Leaving Fastly For More Axon Enterprise Stock (NASDAQ:AXON),Seeking Alpha,0.313164,Somewhat-Bullish,0.211859,0.614995

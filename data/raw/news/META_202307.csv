@@ -1,0 +1,24 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20230703T120000,META,Cisco bats for universal AI regulation,ET Telecom,0.134245,Neutral,0.114660,0.575364
+20230704T231212,META,"Communication Services Stock Outlook: As Meta and Alphabet Soar, Traditional Telecom Comes Under Renewed Pressure",Morningstar,0.143584,Neutral,0.413179,0.863517
+20230705T070942,META,ProShares Ultra S&P500 Review and Aggregate Rating (SSO) $SSO,MarketBeat,0.229366,Somewhat-Bullish,0.244972,0.648166
+20230710T232029,META,"Sarah Silverman sues Meta, OpenAI for copyright infringement",Reuters,-0.28659,Somewhat-Bearish,-0.339265,1.000000
+20230712T232029,META,Deutsche Bank Maintains Meta Platforms Inc - (META) Buy Recommendation,Nasdaq,0.330838,Somewhat-Bullish,0.317196,1.000000
+20230713T150107,META,An End to Regulatory Risk in China’s Internet Sector,ETF Trends,0.341296,Somewhat-Bullish,0.323458,0.628946
+20230713T231708,META,JPMorgan Chase CEO Jamie Dimon speaks up about remote work: 'there are real flaws',Fox Business,0.060875,Neutral,0.106876,0.615231
+20230714T153931,META,"Cathie Wood Buys $25.4M Meta, Dumps Crypto-Linked Stock - ARK Blockchain & Fintech Innovation ETF (BATS:A",Benzinga,0.255815,Somewhat-Bullish,0.329878,1.000000
+20230718T144400,META,"Caribbean phone companies suffering from “market failure” due to Over-The Top services, Social Media",Demerara Waves Online News- Guyana,-0.251295,Somewhat-Bearish,-0.320408,0.830225
+20230718T232142,META,Microsoft and Meta expand their AI partnership with Llama 2 on Azure and Windows,The Official Microsoft Blog,0.525502,Bullish,0.737296,0.922176
+20230720T150612,META,How will the metaverse change our lives?,Lloyds Banking Group plc,0.145724,Neutral,0.113780,0.836145
+20230724T233109,META,Barbenheimer and Redefining Movie Marketing Strategies,comScore,0.310965,Somewhat-Bullish,0.217144,0.644972
+20230726T005000,META,Why is Netflix lagging FAANG stocks?,CMC Markets,0.251636,Somewhat-Bullish,0.342114,0.831601
+20230726T062935,META,Meta Reports After Market Close; Watch Overnight Returns,ETF Trends,0.390365,Bullish,0.308203,0.936899
+20230726T211000,META,"Apple, Meta, Google argue they're not 'bookies' in casino app appeal",Reuters,-0.119984,Neutral,-0.115854,0.991098
+20230726T225448,META,Federal lawsuit claims AMC illegally shared customers' information with Facebook,The Business Journals,-0.548453,Bearish,-0.444569,0.734954
+20230727T150000,META,ETFs to Tap on Meta's Blowout Q2 Earnings,Yahoo News New Zealand,0.417675,Bullish,0.422347,0.967081
+20230728T000000,META,"YieldMax Launches Synthetic Covered Call ETFs for Meta, Google",ETF Database,0.260942,Somewhat-Bullish,0.208877,0.703690
+20230728T144508,META,"YieldMax Launches Synthetic Covered Call ETFs for Meta, Google",ETF Trends,0.164947,Somewhat-Bullish,0.215673,0.908482
+20230728T155853,META,"YieldMax Launches Synthetic Covered Call ETFs for Meta, Google",ETF Trends,0.209108,Somewhat-Bullish,0.190065,0.891122
+20230728T211018,META,"YieldMax META Option Income Strategy ETF (FBY) Price, Holdings, & News",MarketBeat,0.248098,Somewhat-Bullish,0.232792,0.820491
+20230731T000000,META,AI and Data Centers: It’s About Keeping Cool,Citigroup,0.306369,Somewhat-Bullish,0.338375,0.627384
+20230731T111214,META,The Advisors Guide to Using NSPL to Enhance Portfolios,ETF Trends,0.426246,Bullish,0.310414,0.633611

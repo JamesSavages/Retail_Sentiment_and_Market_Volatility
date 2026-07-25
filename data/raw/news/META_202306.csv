@@ -1,0 +1,17 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20230602T145600,META,"In challenge to Meta, Apple expected to unveil mixed-reality headset",Reuters,0.184706,Somewhat-Bullish,0.126961,0.836080
+20230602T204300,META,"Judge dismisses Washington, DC, privacy lawsuit against Facebook owner Meta",Reuters,0.321403,Somewhat-Bullish,0.329523,1.000000
+20230608T151114,META,$9B Momentum ETF Is Unrecognizable After Makeover,ETF.com,0.293195,Somewhat-Bullish,0.287237,0.593054
+20230614T140938,META,Fidelity Disruptive Communications ETF,ETF Database,0.14156,Neutral,0.115426,0.739954
+20230614T153004,META,"With a New Developer Framework, Building in XR is Easier than Ever for the Spatial Computing Revolution",Gizmodo,0.555106,Bullish,0.347834,0.602977
+20230615T165257,META,Democratic Large Cap Core ETF Review and Aggregate Rating (DEMZ),MarketBeat,0.247039,Somewhat-Bullish,0.259919,0.711434
+20230615T173400,META,Reddit CEO Steve Huffman: 'It's time we grow up and behave like an adult company',NPR,0.252143,Somewhat-Bullish,0.286650,0.591993
+20230616T021021,META,Invesco NASDAQ Internet ETF Review and Aggregate Rating (PNQI),MarketBeat,0.246902,Somewhat-Bullish,0.216209,0.642347
+20230616T124029,META,EA Bridgeway Blue Chip ETF Review and Aggregate Rating (BBLU),MarketBeat,0.377257,Bullish,0.326730,0.634057
+20230616T221017,META,First Trust NASDAQ BuyWrite Income ETF Review and Aggregate Rating (FTQI) $FTQI,MarketBeat,0.309696,Somewhat-Bullish,0.347878,0.611115
+20230616T221018,META,iShares MSCI USA Quality Factor ETF Review and Aggregate Rating (QUAL) $QUAL,MarketBeat,0.352387,Bullish,0.379657,0.569743
+20230621T094000,META,More Loop Tenants Shy Away From Offices With Subleases,The Real Deal,-0.15997,Somewhat-Bearish,-0.115476,0.616278
+20230622T112800,META,Some ESG Issues Take Center Stage at Big Tech Investor Meetings,ETF Trends,0.145672,Neutral,0.112109,0.708226
+20230626T234523,META,"TV news at a crossroads as financial strain deepens, experts say",Times Colonist,-0.149375,Neutral,-0.319224,0.719201
+20230629T235110,META,Cognizant to lay off nearly 60 working in Facebook's North Austin tower,The Business Journals,-0.251957,Somewhat-Bearish,-0.230820,0.839905
+20230630T152006,META,TThe High Price of Low Volatility | U.S. Equity market commentary 2Q23,Oakmark Funds,0.122121,Neutral,-0.102364,0.598144

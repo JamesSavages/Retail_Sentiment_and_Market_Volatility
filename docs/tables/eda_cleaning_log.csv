@@ -1,0 +1,8 @@
+Issue,Variables Affected,Detection Method,Treatment Applied,Records Affected,Rationale,% of Price Panel
+Duplicate ticker-days,"symbol, date",Key uniqueness assertion in validate_panel.py,None found; no action required,0,Data quality,0.0
+Tickers outside sentiment universe,all,Alpha Vantage free tier permits 25 requests/day,Excluded 7857 ticker-days from 16 tickers with no news collected; retained in the price panel as market context,7857,Quota constraint,66.18
+Missing target (final trading day),rv_next,Null check after the t -> t+1 shift,Excluded 8 ticker-days (one per ticker),8,Target undefined at the series end,0.07
+HAR burn-in window,rv_m,22-day rolling mean requires 22 prior observations,Excluded 168 ticker-days (21 per ticker),168,Monthly HAR component undefined,1.41
+No news articles on a trading day,"news_sent_wmean, news_article_count",Left-join gap against the trading calendar,"RETAINED as zero-attention observations: article_count = 0, sentiment = 0 (neutral), news_missing = 1 (945 ticker-days)",945,"A zero-article day is a genuine low-attention observation, not missingness; dropping it truncates the attention proxy at 1",7.96
+Outliers / extreme returns,"close, rv",Screen for |close-to-close| > 30% cross-checked against split ratios,"2 extreme moves verified as post-earnings repricings (ARM 2024-02-08, PLTR 2024-02-06) and RETAINED; no winsorising applied",2,Genuine volatility events are the phenomenon under study,0.02
+User-identifying fields,"user_id, user_followers",Privacy review of the StockTwits collector,Dropped at collection and stripped from 23 existing files,0,Ethics: no individual user profiling,0.0

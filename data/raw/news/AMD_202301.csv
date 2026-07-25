@@ -1,0 +1,44 @@
+time_published,symbol,title,source,overall_sentiment_score,overall_sentiment_label,ticker_sentiment_score,relevance_score
+20230103T043646,AMD,"NVIDIA Ada Lovelace Breaks Energy-Efficiency Barrier, Supercharges 170+ Laptop Designs for Gamers and Creators",NVIDIA Newsroom,0.30585,Somewhat-Bullish,0.201957,0.611916
+20230103T043646,AMD,"GeForce RTX 40 Series Studio Laptops, Omniverse Updates Accelerate AI-Powered Content Creation",NVIDIA Blog,0.49465,Bullish,0.437079,0.733958
+20230103T044701,AMD,The War Over the World’s Most Critical Technology: A Conversation with Chris Miller,Council on Foreign Relations,0.140935,Neutral,0.128765,0.708657
+20230104T040113,AMD,"AMD Unveils Suite of New Radeon GPUs to Power High-Performance, Power-Efficient Gaming Laptops",AMD,0.233004,Somewhat-Bullish,0.470048,1.000000
+20230104T040113,AMD,AMD Extends its Leadership with the Introduction of its Broadest Portfolio of High-Performance PC Products for Mobile and Desktop,AMD,0.040445,Neutral,0.014450,0.303758
+20230104T040113,AMD,AMD Highlights Future of High-Performance and Adaptive Computing During Opening Keynote of CES 2023,AMD,0.23981,Somewhat-Bullish,0.496828,1.000000
+20230104T042318,AMD,HP launches PCs for hybrid workers with 'world-first' dual-camera setups,IT Pro,0.225298,Somewhat-Bullish,0.330173,0.625495
+20230104T042318,AMD,HP at CES 2023: Leading in Hybrid and Gaming Experiences,HP,0.345654,Somewhat-Bullish,0.340324,0.733753
+20230104T235400,AMD,CES 2023: AMD seeks to attract Nvidia’s customers with advanced new AI chips,MarketWatch,0.055566,Neutral,0.322155,1.000000
+20230106T163300,AMD,"CES 2023: AMD, Nvidia, auto applications get the hype, but analysts say this one chip maker ruled",MarketWatch,0.09728,Neutral,0.240612,1.000000
+20230107T233917,AMD,"Hypatia Women CEO ETF ETF Price, Holdings, & News (NYSEARCA:WCEO)",MarketBeat,0.32268,Somewhat-Bullish,0.325975,0.627254
+20230110T042539,AMD,"Intel Launches 4th Gen Xeon Scalable Processors, Max Series CPUs and GPUs",Investor Relations :: Intel Corporation (INTC),0.318397,Somewhat-Bullish,0.349568,0.707479
+20230110T042539,AMD,Intel 4th Gen Xeon series offers a leap in data center performance and efficiency,SiliconANGLE,0.524978,Bullish,0.331924,0.643067
+20230110T043646,AMD,Nvidia debuts new DGX H100 systems powered by Intel’s 4th Gen Intel Xeon Scalable chips,SiliconANGLE,0.326138,Somewhat-Bullish,0.139933,0.631256
+20230111T040113,AMD,AMD Announces CFO Transition,AMD,0.258012,Somewhat-Bullish,0.263369,1.000000
+20230111T040113,AMD,AMD poaches Marvell CFO Jean Hu to replace its retiring longtime fiscal chief,The Business Journals,0.120042,Neutral,0.104787,1.000000
+20230111T043406,AMD,"AMD, Marvell Technology Name New CFOs",The Wall Street Journal,0.123642,Neutral,0.122955,0.908581
+20230111T163600,AMD,AMD poaches Marvell’s Jean Hu for CFO slot as Devinder Kumar retires,MarketWatch,0.005295,Neutral,0.005684,0.332215
+20230112T114700,AMD,March 3rd Options Now Available For Advanced Micro Devices (AMD),Nasdaq,0.128087,Neutral,0.104943,1.000000
+20230112T172700,AMD,AMD is making history for Asian women executives,MarketWatch,0.302873,Somewhat-Bullish,0.321726,1.000000
+20230113T045200,AMD,How Both Taiwan and the US Can Benefit from TSMC's Investment,Northeastern Global News,0.371158,Bullish,0.282745,0.686735
+20230116T133100,AMD,Taiwan ASE plant listed as 'lighthouse factory' by WEF,Taiwan News,0.591176,Bullish,0.528086,0.642246
+20230117T040521,AMD,Biometric Sensors Market Size to Touch USD 3.5829 million by 2030 According to Acumen Research and Consulting,GlobeNewswire,0.317501,Somewhat-Bullish,0.313654,0.631114
+20230117T045227,AMD,Spot On: Texas Instruments Announces First Chipset That Enables Cameras and Sensors to Clean Themselves,Dallas Innovates,0.289984,Somewhat-Bullish,0.237436,0.597437
+20230118T040113,AMD,New AMD Kria ODM Ecosystem Program Helps Developers Quickly Bring Adaptive Solutions to Market,AMD,0.427748,Bullish,0.413343,1.000000
+20230118T062000,AMD,T.J. Rodgers has brought in a pair of chip industry vets to right the ship at Enovix,The Business Journals,-0.110419,Neutral,-0.130196,0.708830
+20230119T040113,AMD,"AMD Adaptive Computing Technology Enables Next-Generation DENSO LiDAR System, Delivering 20X Improvement in Resolution",AMD,0.5451,Bullish,0.729940,1.000000
+20230123T044808,AMD,Add Exposure to Semiconductor Stocks with These 2 Invesco ETFs,ETF Trends,0.405518,Bullish,0.443538,0.708974
+20230123T102100,AMD,"AMD can keep eating Intel’s lunch, Barclays says as stock surges",MarketWatch,0.340032,Somewhat-Bullish,0.417825,1.000000
+20230124T040348,AMD,Aligning with younger employees’ values is key for Canada’s Top Employers for Young People 2023,The Globe and Mail,0.321153,Somewhat-Bullish,0.348986,0.641051
+20230126T042539,AMD,Intel shares drop on weak quarterly results and expectations for another quarter of losses,CNBC,-0.115185,Neutral,-0.265745,0.716267
+20230126T045237,AMD,The uranium bull market is just getting started,Curzio Research,0.287958,Somewhat-Bullish,0.034036,0.557833
+20230127T093000,AMD,Intel's 'historic collapse' erases $8 billion from market value,Reuters,-0.104327,Neutral,0.432190,0.812655
+20230127T180000,AMD,AMD earnings face even more scrutiny after ‘astonishingly bad’ Intel outlook,MarketWatch,0.141443,Neutral,0.146568,1.000000
+20230128T043209,AMD,An open-source option is shaking up the microchip industry,Freethink,0.197444,Somewhat-Bullish,0.200625,0.640968
+20230129T181400,AMD,‘Everybody was wrong’: The $160B memory-chip sector is suffering one of its worst routs ever despite vows to escape the boom-and-bust cycle,Fortune,-0.232123,Somewhat-Bearish,-0.238437,0.605950
+20230130T044742,AMD,W3BCLOUD SPAC: Everything you need to know about W3BCLOUD stock,FOREX.com,-0.080652,Neutral,-0.131194,0.721388
+20230130T045146,AMD,Points of light for Intel Israel,Globes - Israel Business News,0.111027,Neutral,0.233056,0.648689
+20230131T043108,AMD,LG Displays adopts its MLA technology to its new gaming monitors,OLED-Info,0.344887,Somewhat-Bullish,0.308034,0.624028
+20230131T075100,AMD,AMD earnings: What to expect,MarketWatch,-0.275964,Somewhat-Bearish,-0.242924,1.000000
+20230131T162700,AMD,AMD CEO promises to keep taking data-center from Intel even as cloud demand pauses following 'strong' 2022,MarketWatch,0.012363,Neutral,0.402284,1.000000
+20230131T191500,AMD,Why AMD is faring much better than Intel in the same tough economy,CNBC,0.101997,Neutral,0.535056,1.000000
+20230131T211800,AMD,AMD Shares Climb as Server Market Helps Sales Forecast,Bloomberg.com,0.428167,Bullish,0.406314,1.000000

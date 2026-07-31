@@ -1,0 +1,8 @@
+Model,TN (bearish correct),FP,FN,TP (bullish correct)
+Majority class (always bullish),0,174,0,772
+VADER only (cut at 0),117,57,447,325
+VADER only,71,103,144,628
+VADER + Loughran-McDonald (cut at 0),114,60,462,310
+VADER + Loughran-McDonald,68,106,156,616
+FinBERT (cut at 0),112,62,250,522
+FinBERT,129,45,337,435

@@ -1,0 +1,5 @@
+Comparison,Metric,Difference (FinBERT - other),95% CI low,95% CI high,p,Favours,Decision at .05
+FinBERT vs VADER only,Balanced accuracy,0.0417,-0.0037,0.087,0.0708,FinBERT,not significant
+FinBERT vs VADER only,ROC-AUC,0.0977,0.0534,0.1434,0.0,FinBERT,significant
+FinBERT vs VADER + Loughran-McDonald,Balanced accuracy,0.0581,0.0131,0.1025,0.012,FinBERT,significant
+FinBERT vs VADER + Loughran-McDonald,ROC-AUC,0.1169,0.0721,0.1637,0.0,FinBERT,significant

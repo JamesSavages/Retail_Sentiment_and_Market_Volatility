@@ -248,6 +248,18 @@ Figure 5 confirms.
 
 ![Sentiment and attention distributions](figures/fig_sentiment_distribution.png)
 
+**How to read it:** both panels are histograms, and each observation is one **ticker-day** (one
+stock on one trading day). The x-axis sorts days into bins; the bar height counts how many days
+fell in each bin.
+
+- **Panel (a)** — the x-axis is the sentiment score from −1 (bearish) to +1 (bullish). The mass
+  piled between +0.10 and +0.30 means most days carried *mildly positive* news. Red bars are the
+  minority of days with negative news. It is restricted to days that actually had an article
+  (2,895 of 3,840); including zero-news days would stack a fake spike at exactly 0.0 from the
+  neutral-fill rule.
+- **Panel (b)** — the x-axis is the number of articles that day. The grey bar at 0 is the 945
+  zero-attention days; most days carry one to four articles, with a thin tail out to 26.
+
 **Question:** how much usable variation do the two predictors actually contain?
 
 **Why this chart:** a predictor with little spread cannot explain much, no matter how good the
@@ -271,20 +283,33 @@ if sentiment turns out weak in RQ2, this is part of the reason.
 
 **Question:** does higher sentiment or attention on day *t* precede higher volatility on *t*+1?
 
-**Why this chart:** quintile means with confidence intervals reveal weak, possibly non-linear
+**Why this chart:** group means with confidence intervals reveal weak, possibly non-linear
 relationships that a single correlation coefficient would hide. The pooled/within pairing was
 added *after* the pooled result looked wrong — which is itself the point.
+
+**How to read it:** columns are the two predictors (tone on the left, coverage volume on the
+right); rows are the two ways of grouping the data. The **top row** pools all 3,840 ticker-days
+and plots raw volatility in daily sigma. The **bottom row** compares each stock against its own
+history, so the y-axis is volatility *relative to that ticker's average* — 1.00 is a normal day
+for that stock, 1.06 is 6% more volatile than usual for it. Vertical bars are 95% confidence
+intervals: where they overlap heavily, the difference is not statistically meaningful.
 
 **What it shows:**
 
 | | Pooled | Within ticker |
 |---|---|---|
-| Attention, Q5 vs Q1 | **−21.6%** | **+9.9%** |
-| Sentiment, Q5 vs Q1 | −2.7% | −2.2% |
+| Attention, lowest vs highest band | **−28.7%** | **+9.3%** |
+| Sentiment, Q1 vs Q5 | −2.7% | −1.9% |
 
 The attention effect **reverses sign**. Pooled, it contradicts the literature. Compared within
 each ticker — each stock against its own average — it points the direction Audrino et al. (2020)
-report, and rises monotonically across all five quintiles.
+report, and rises monotonically across all five bands.
+
+**Why attention is banded by article count rather than cut into quintiles:** a quarter of
+ticker-days have exactly zero articles, so quantile boundaries either collapse onto the same
+value (giving four groups, which looks like a bug) or split identical observations across
+different bins (which dilutes the gradient). Bands of 0, 1, 2–3, 4–6 and 7+ are interpretable
+and each spans a genuinely different level of coverage.
 
 **Decisions:** all RQ2 and RQ3 models must include **ticker fixed effects**. Attention, not
 sentiment tone, is the stronger candidate predictor.
@@ -402,6 +427,59 @@ exist at all.
 | Attention measures *news-media* coverage, not *retail* attention | The honest retail measure would be StockTwits volume, unavailable historically |
 | RQ4 needs 1,558 trading days; the window has 500 | The backtest is under-powered; a null result is inconclusive, not negative |
 | Eight tickers, all US large-cap technology | Findings may not generalise to other sectors or market caps |
+| **3,840 rows are not 3,840 independent observations** | Effective sample ≈ 1,093 — see below |
+| **The window contains one volatility regime** | Validated under calm-to-moderate conditions only |
+
+### Is there enough data? Yes for RQ1–RQ3, no for RQ4
+
+| RQ | Required | Available | Verdict |
+|---|---|---|---|
+| RQ1 | 385 labelled messages | 4,222 | 11× — comfortable |
+| RQ2 | 549 ticker-days | 3,840 | 7× — adequate |
+| RQ3 | 614 ticker-days | 3,840 | 6× — adequate |
+| RQ4 | 1,558 trading days | 500 | **3× short** |
+
+**But the row count overstates precision.** The eight tickers move together — mean pairwise
+correlation of realized volatility is **0.359**. The standard adjustment for *k* equicorrelated
+series is *k*_eff = *k* / (1 + (*k*−1)ρ):
+
+```
+8 / (1 + 7 × 0.359) = 2.28 effective series, not 8
+2.28 × 480 dates    ≈ 1,093 effective observations, not 3,840
+```
+
+Eight highly correlated mega-cap technology stocks behave like roughly two independent series.
+What this means for RQ2's smallest detectable effect:
+
+| Basis | N | Detectable *f²* |
+|---|---|---|
+| Pooled rows (optimistic) | 3,840 | 0.003 |
+| **Correlation-adjusted (reported)** | **1,093** | **0.010** |
+| Date clusters (conservative) | 480 | 0.023 |
+
+Cohen's "small" is *f²* = 0.02, so even on the honest basis the design detects a small effect —
+which is the magnitude the literature says to expect. Adequate, not lavish. RQ4 isn't rescued
+this way, because a portfolio backtest yields one return series regardless of ticker count.
+
+**The regime limitation matters more than sample size.** Quarterly cross-sectional mean
+volatility across the window:
+
+```
+2023 Q1  0.0209      2024 Q1  0.0176
+2023 Q2  0.0188      2024 Q2  0.0177
+2023 Q3  0.0187      2024 Q3  0.0203
+2023 Q4  0.0167      2024 Q4  0.0176
+```
+
+Highest to lowest is only **1.25×**. Two years, essentially **one regime** — a steady technology
+bull market with no crisis. A volatility early-warning system is most valuable exactly when
+conditions shift, and this window never tests that.
+
+**So what can be claimed:** that sentiment and attention improve next-day volatility forecasts
+for large-cap US technology equities *under the conditions observed in 2023–2024*. Not that the
+result extends to other sectors, smaller capitalisations, or stressed markets.
+
+All figures above are produced by the `sample_adequacy()` function in `src/run_eda.py`.
 
 **Still to do:** RQ1 (FinBERT vs lexicon), RQ2 (HAR vs augmented), RQ3 (direction), RQ4 (backtest).
 

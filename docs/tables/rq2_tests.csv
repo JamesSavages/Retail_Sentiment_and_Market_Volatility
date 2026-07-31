@@ -1,0 +1,4 @@
+Comparison,DM,p,Lower QLIKE,Decision at .05
+HAR baseline vs HAR + sentiment,4.824,1.4091869078745643e-06,HAR + sentiment,reject equal accuracy
+HAR baseline vs Gradient boosting,-1.25,0.2113471633711682,HAR baseline,retain equal accuracy
+Incremental F-test on sentiment block,3.613,0.01329059453774241,,reject H0

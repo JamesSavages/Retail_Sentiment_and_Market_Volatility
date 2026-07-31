@@ -1,0 +1,7 @@
+Strategy,Cost (bp),Ann. excess return,Ann. volatility,Sharpe,Max drawdown,Turnover/yr,Days
+Buy-and-hold (benchmark),5,0.6215,0.2713,2.2906,-0.186,,247
+Volatility targeting (primary),5,0.5554,0.2526,2.1989,-0.1741,8.361,247
+Threshold de-risk 50% (robustness),5,0.4702,0.2321,2.026,-0.1545,18.2368,247
+Buy-and-hold (benchmark),10,0.6215,0.2713,2.2906,-0.186,,247
+Volatility targeting (primary),10,0.5507,0.2525,2.1811,-0.1744,8.361,247
+Threshold de-risk 50% (robustness),10,0.4606,0.2319,1.9857,-0.1553,18.2368,247

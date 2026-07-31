@@ -1,0 +1,6 @@
+Model,Accuracy,Balanced accuracy,Macro F1,ROC-AUC
+Always up (majority rule),0.5295,0.5,,
+Logistic baseline,0.5282,0.5102,0.4687,0.5261
+Logistic + sentiment,0.5304,0.5127,0.473,0.5192
+GBM baseline,0.4957,0.4891,0.4855,0.4963
+GBM + sentiment,0.5078,0.5012,0.4976,0.504

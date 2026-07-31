@@ -1,0 +1,3 @@
+Comparison,Only augmented correct,Only baseline correct,chi2,p,More accurate,Decision at .05
+Logistic baseline vs Logistic + sentiment,62,57,0.134,0.7139,Logistic + sentiment,retain H0
+GBM baseline vs GBM + sentiment,223,195,1.744,0.1866,GBM + sentiment,retain H0

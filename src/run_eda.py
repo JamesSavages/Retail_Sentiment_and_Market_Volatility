@@ -9,7 +9,7 @@ Outputs:
     docs/figures/fig_rv_distribution.png        rv_next, raw vs log scale
     docs/figures/fig_news_coverage.png          news coverage by ticker
     docs/figures/fig_sentiment_distribution.png sentiment and attention spread
-    docs/figures/fig_sentiment_vs_rv.png        quintile means, both predictors
+    docs/figures/fig_sentiment_vs_rv.png        pooled vs within-ticker group means
     docs/figures/fig_correlation_heatmap.png    predictor correlations
     docs/figures/fig_volatility_clustering.png  rv over time, NVDA vs MSFT
     docs/tables/eda_descriptives.csv            descriptive statistics
@@ -178,36 +178,87 @@ def fig_news_coverage(panel: pd.DataFrame, sample: pd.DataFrame) -> pd.DataFrame
     g = g.sort_values("coverage_pct", ascending=False)
     g.round(4).to_csv(TAB_DIR / "eda_per_ticker.csv")
 
-    fig, ax = plt.subplots(figsize=(6.5, 3), constrained_layout=True)
+    fig, ax = plt.subplots(figsize=(6.8, 3.4), constrained_layout=True)
     x = np.arange(len(g))
-    ax.bar(x, g["coverage_pct"], color=BLUE, label="days with >=1 article")
-    ax.bar(x, 100 - g["coverage_pct"], bottom=g["coverage_pct"], color="#d9d9d9",
-           label="zero-attention days")
+    ax.bar(x, g["coverage_pct"], color=BLUE, label="Days with at least one article")
+    ax.bar(x, 100 - g["coverage_pct"], bottom=g["coverage_pct"], color="#bdbdbd",
+           label="Zero-attention days (no article)")
+
+    # Label both segments so neither relies on the legend alone.
     for i, v in enumerate(g["coverage_pct"]):
-        ax.text(i, v - 6, f"{v:.0f}%", ha="center", color="white", fontsize=7)
+        ax.text(i, v - 5, f"{v:.0f}%", ha="center", va="top",
+                color="white", fontsize=8, fontweight="bold")
+        if 100 - v >= 8:                      # only where the grey band has room
+            ax.text(i, v + (100 - v) / 2, f"{100 - v:.0f}%", ha="center", va="center",
+                    color="#333333", fontsize=8)
+
     ax.set(xticks=x, xticklabels=g.index, ylabel="% of analysis-sample days",
-           ylim=(0, 100), title="News coverage by ticker (analysis sample, n=480 days each)")
-    ax.legend(frameon=False, fontsize=7, loc="lower left")
+           ylim=(0, 100))
+    ax.set_title("News coverage by ticker (analysis sample, n = 480 days each)", pad=8)
+    # Legend below the axes, outside the data area, so it can never sit on a bar.
+    ax.legend(loc="upper center", bbox_to_anchor=(0.5, -0.13), ncol=2,
+              frameon=False, fontsize=9, handlelength=1.6, columnspacing=2.0)
+    ax.spines[["top", "right"]].set_visible(False)
     fig.savefig(FIG_DIR / "fig_news_coverage.png")
     plt.close(fig)
     return g
 
 
 def fig_sentiment_distribution(sample: pd.DataFrame) -> None:
-    fig, ax = plt.subplots(1, 2, figsize=(7.5, 3), constrained_layout=True)
-    s = sample.loc[sample["news_missing"] == 0, "news_sent_wmean"]
-    ax[0].hist(s, bins=50, color=BLUE, edgecolor="white", linewidth=0.3)
-    ax[0].axvline(0, color=GREY, lw=1)
-    ax[0].axvline(s.mean(), color=RED, ls="--", lw=1, label=f"mean {s.mean():+.3f}")
-    ax[0].set(xlabel="Relevance-weighted news sentiment", ylabel="Frequency",
-              title=f"(a) Sentiment on days with news\n{100*(s > 0).mean():.0f}% positive")
-    ax[0].legend(frameon=False, fontsize=7)
+    """
+    Two histograms answering 'how much usable variation do the predictors have?'
+    Each bar counts ticker-days. Annotated so the chart is readable without the
+    caption: the reader should see that sentiment is almost never negative and
+    that attention is bunched at very low article counts.
+    """
+    fig, ax = plt.subplots(1, 2, figsize=(7.6, 3.6), constrained_layout=True)
 
+    # ---- (a) sentiment, days with news only -------------------------------
+    s = sample.loc[sample["news_missing"] == 0, "news_sent_wmean"]
+    pos = 100 * (s > 0).mean()
+    a = ax[0]
+    counts, bins, patches = a.hist(s, bins=50, color=BLUE,
+                                   edgecolor="white", linewidth=0.3)
+    # colour the negative side differently so the asymmetry is visible at a glance
+    for patch, left in zip(patches, bins[:-1]):
+        if left < 0:
+            patch.set_facecolor("#c0392b")
+    a.axvline(0, color="black", lw=1.2)
+    a.axvline(s.mean(), color="black", ls="--", lw=1.2)
+
+    top = counts.max()
+    a.annotate(f"mean {s.mean():+.2f}", xy=(s.mean(), top * 0.98),
+               xytext=(s.mean() + 0.22, top * 0.98), fontsize=8, va="center",
+               arrowprops=dict(arrowstyle="-", lw=0.8))
+    a.text(0.52, top * 0.70, f"{pos:.0f}% of days\nPOSITIVE", fontsize=10,
+           color=BLUE, fontweight="bold", ha="left", va="center")
+    a.text(-0.60, top * 0.45, f"{100-pos:.0f}% of days\nnegative", fontsize=10,
+           color="#c0392b", fontweight="bold", ha="left", va="center")
+    a.set(xlabel="News sentiment score  (-1 = bearish, +1 = bullish)",
+          ylabel="Number of ticker-days")
+    a.set_title(f"(a) How positive was the news?\nDays with at least one article "
+                f"(n = {len(s):,})", fontsize=9)
+    a.spines[["top", "right"]].set_visible(False)
+
+    # ---- (b) attention, all analysis-sample days --------------------------
     ac = sample["news_article_count"]
-    ax[1].hist(ac, bins=range(0, int(ac.max()) + 2), color=GREY,
-               edgecolor="white", linewidth=0.3)
-    ax[1].set(xlabel="Articles per ticker-day", ylabel="Frequency",
-              title=f"(b) Attention: {100*(ac == 0).mean():.0f}% of days have zero articles")
+    b = ax[1]
+    counts2, bins2, patches2 = b.hist(ac, bins=range(0, int(ac.max()) + 2),
+                                      color="#4d4d4d", edgecolor="white", linewidth=0.3)
+    patches2[0].set_facecolor("#bdbdbd")          # match Figure 2's zero-attention grey
+    n0 = int((ac == 0).sum())
+    b.annotate(f"{n0:,} days ({100*n0/len(ac):.0f}%)\nhad NO article",
+               xy=(0.5, counts2[0]), xytext=(6, counts2[0] * 0.92),
+               fontsize=9, va="center",
+               arrowprops=dict(arrowstyle="->", lw=0.9))
+    b.annotate(f"median {ac.median():.0f} articles;\nlong thin tail to {int(ac.max())}",
+               xy=(12, counts2.max() * 0.30), fontsize=8, va="center")
+    b.set(xlabel="Number of articles on that ticker-day",
+          ylabel="Number of ticker-days")
+    b.set_title(f"(b) How much news was there?\nAll analysis-sample days "
+                f"(n = {len(ac):,})", fontsize=9)
+    b.spines[["top", "right"]].set_visible(False)
+
     fig.savefig(FIG_DIR / "fig_sentiment_distribution.png")
     plt.close(fig)
 
@@ -230,41 +281,90 @@ def fig_sentiment_vs_rv(sample: pd.DataFrame) -> dict:
     # means "5% above normal for this stock".
     s["rv_rel"] = s["rv_next"] / s.groupby("symbol")["rv_next"].transform("mean")
 
-    specs = [("news_sent_wmean", "News sentiment quintile"),
-             ("log_articles", "Attention quintile (log articles)")]
+    # Sentiment is continuous, so equal-sized quintiles are appropriate.
+    # Attention is a discrete count with 25% of days at exactly zero, so
+    # quintiles either collapse (two boundaries land on 0) or split identical
+    # observations across bins, both of which distort the gradient. Explicit
+    # count bands are used instead: they are interpretable and every band spans
+    # a genuinely different level of coverage.
+    ATT_BINS = [-0.5, 0.5, 1.5, 3.5, 6.5, np.inf]
+    ATT_LABELS = ["0", "1", "2-3", "4-6", "7+"]
 
-    fig, ax = plt.subplots(2, 2, figsize=(7.5, 6.2), constrained_layout=True)
-    for j, (col, label) in enumerate(specs):
+    def grouper(frame: pd.DataFrame, col: str) -> pd.Series:
+        if col == "news_article_count":
+            return pd.cut(frame[col], bins=ATT_BINS, labels=ATT_LABELS)
+        return pd.qcut(frame[col], 5, labels=["1", "2", "3", "4", "5"])
+
+    specs = [("news_sent_wmean",
+              "News sentiment quintile\n(1 = most bearish, 5 = most bullish)"),
+             ("news_article_count",
+              "Articles published that day")]
+
+    fig, ax = plt.subplots(2, 2, figsize=(8.2, 6.8), constrained_layout=True)
+
+    for j, (col, xlabel) in enumerate(specs):
         base = s[s["news_missing"] == 0] if col == "news_sent_wmean" else s
 
-        # --- row 0: pooled (confounded) ---
-        q = pd.qcut(base[col], 5, labels=False, duplicates="drop")
-        m = base.groupby(q)["rv_next"].agg(["mean", "sem"])
-        a = ax[0, j]
-        a.errorbar(m.index + 1, m["mean"], yerr=1.96 * m["sem"], marker="o",
-                   color=GREY, capsize=3, lw=1, ms=4)
-        pooled = 100 * (m["mean"].iloc[-1] / m["mean"].iloc[0] - 1)
-        a.set(xlabel=label, ylabel="Mean rv (t+1)", xticks=range(1, len(m) + 1),
-              title=f"(a{j+1}) POOLED across tickers: {pooled:+.1f}%")
+        g = grouper(base, col)
+        cats = list(g.cat.categories)
+        x = np.arange(len(cats))
 
-        # --- row 1: within-ticker (confound removed) ---
-        qw = base.groupby("symbol")[col].transform(
-            lambda x: pd.qcut(x, 5, labels=False, duplicates="drop"))
-        mw = base.groupby(qw)["rv_rel"].agg(["mean", "sem"])
+        # ---- row 0: pooled across tickers (confounded) --------------------
+        m = base.groupby(g, observed=True)["rv_next"].agg(["mean", "sem"]).reindex(cats)
+        a = ax[0, j]
+        a.errorbar(x, m["mean"], yerr=1.96 * m["sem"], marker="o",
+                   color="#c0392b", capsize=4, lw=1.6, ms=6)
+        pooled = 100 * (m["mean"].iloc[-1] / m["mean"].iloc[0] - 1)
+        a.set(xlabel=xlabel, ylabel="Mean next-day volatility\n(daily sigma)",
+              xticks=x, xticklabels=cats)
+        a.set_title(f"lowest to highest:  {pooled:+.1f}%", fontsize=11,
+                    color="#c0392b", fontweight="bold")
+
+        # ---- row 1: within ticker (confound removed) ----------------------
+        mw = base.groupby(g, observed=True)["rv_rel"].agg(["mean", "sem"]).reindex(cats)
         a = ax[1, j]
-        a.errorbar(mw.index + 1, mw["mean"], yerr=1.96 * mw["sem"], marker="o",
-                   color=BLUE, capsize=3, lw=1, ms=4)
-        a.axhline(1.0, color=GREY, lw=0.8, ls=":")
+        a.errorbar(x, mw["mean"], yerr=1.96 * mw["sem"], marker="o",
+                   color=BLUE, capsize=4, lw=1.6, ms=6)
+        a.axhline(1.0, color="#777777", lw=1.0, ls=":")
+        a.text(len(cats) - 0.55, 1.0, "typical\nday", fontsize=7.5,
+               color="#777777", va="center", ha="left")
         within = 100 * (mw["mean"].iloc[-1] / mw["mean"].iloc[0] - 1)
-        a.set(xlabel=label, ylabel="rv (t+1) relative to ticker mean",
-              xticks=range(1, len(mw) + 1),
-              title=f"(b{j+1}) WITHIN ticker: {within:+.1f}%")
+        a.set(xlabel=xlabel,
+              ylabel="Next-day volatility\nrelative to that ticker's average",
+              xticks=x, xticklabels=cats, xlim=(-0.4, len(cats) - 0.1))
+        a.set_title(f"lowest to highest:  {within:+.1f}%", fontsize=11,
+                    color=BLUE, fontweight="bold")
 
         out[col] = {"pooled_pct": pooled, "within_pct": within,
-                    "sign_flip": np.sign(pooled) != np.sign(within)}
+                    "monotonic": bool(mw["mean"].is_monotonic_increasing),
+                    "sign_flip": bool(np.sign(pooled) != np.sign(within))}
 
-    fig.suptitle("Next-day volatility by day-t predictor quintile: pooled vs "
-                 "within-ticker (95% CI)", fontsize=10)
+    for a in ax.flat:
+        a.spines[["top", "right"]].set_visible(False)
+        a.tick_params(labelsize=8)
+
+    # Column headings and row descriptors, so the 2x2 structure is explicit.
+    ax[0, 0].annotate("NEWS SENTIMENT  (tone)", xy=(0.5, 1.30), xycoords="axes fraction",
+                      ha="center", fontsize=11, fontweight="bold")
+    ax[0, 1].annotate("ATTENTION  (how much coverage)", xy=(0.5, 1.30),
+                      xycoords="axes fraction", ha="center", fontsize=11, fontweight="bold")
+    ax[0, 0].annotate("POOLED\nacross all\n8 tickers", xy=(-0.42, 0.5),
+                      xycoords="axes fraction", ha="center", va="center",
+                      fontsize=10, fontweight="bold", color="#c0392b", rotation=90)
+    ax[1, 0].annotate("WITHIN\neach ticker", xy=(-0.42, 0.5), xycoords="axes fraction",
+                      ha="center", va="center", fontsize=10, fontweight="bold",
+                      color=BLUE, rotation=90)
+
+    # Call out the one panel that carries the finding.
+    ax[1, 1].annotate("rises at every step:\nthe effect RQ2 tests for",
+                      xy=(3.6, mw["mean"].iloc[-1]),
+                      xytext=(0.15, mw["mean"].max() * 0.999),
+                      fontsize=8.5, color=BLUE,
+                      arrowprops=dict(arrowstyle="->", color=BLUE, lw=1.0))
+
+    fig.suptitle("Same data, opposite conclusions: pooling across tickers reverses "
+                 "the attention effect\n(points are quintile means; bars are 95% "
+                 "confidence intervals)", fontsize=10.5)
     fig.savefig(FIG_DIR / "fig_sentiment_vs_rv.png")
     plt.close(fig)
 
@@ -355,6 +455,65 @@ def vif_table(sample: pd.DataFrame) -> pd.DataFrame:
     return v
 
 
+# ----------------------------------------------------------------------
+# 5. Sample adequacy -- effective N and regime coverage
+# ----------------------------------------------------------------------
+def sample_adequacy(sample: pd.DataFrame) -> dict:
+    """
+    Two honesty checks on the sample, both reported in the limitations.
+
+    (a) EFFECTIVE SAMPLE SIZE. The panel has 3,840 rows but the eight tickers
+        move together, so those rows are not independent. The standard
+        adjustment for k equicorrelated series with mean pairwise correlation
+        rho is k_eff = k / (1 + (k-1) * rho).
+
+    (b) REGIME COVERAGE. A volatility model is most valuable when conditions
+        change. If the window contains only one regime, that is an external
+        validity limit no amount of rows can fix.
+    """
+    out = {}
+    hr("5. SAMPLE ADEQUACY  (-> limitations)")
+
+    for label, col in [("realized volatility", "rv_next"), ("daily return", "log_return")]:
+        wide = sample.pivot_table(index="date", columns="symbol", values=col)
+        cm = wide.corr()
+        off = cm.values[np.triu_indices_from(cm.values, 1)]
+        rho = float(off.mean())
+        k = len(cm)
+        k_eff = k / (1 + (k - 1) * rho)
+        n_eff = k_eff * wide.shape[0]
+        out[col] = {"rho": rho, "k_eff": k_eff, "n_eff": n_eff}
+        print(f"\n  {label}: mean pairwise r = {rho:.3f} "
+              f"(range {off.min():.2f} to {off.max():.2f})")
+        print(f"    effective independent series : {k_eff:.2f} of {k}")
+        print(f"    effective sample size        : {n_eff:.0f} of {len(sample)} rows")
+
+    # Minimum detectable effect for RQ2 on each defensible basis.
+    L, u = 10.90, 3
+    print("\n  RQ2 minimum detectable effect (alpha=.05, power=.80, u=3):")
+    bases = [("pooled rows (optimistic)", len(sample)),
+             ("correlation-adjusted (honest)", int(out["rv_next"]["n_eff"])),
+             ("date clusters (conservative)", sample["date"].nunique())]
+    for label, N in bases:
+        f2 = L / (N - u - 1)
+        out[label] = f2
+        print(f"    {label:32s} N={N:5d}  detectable f2 = {f2:.4f}")
+    print("    Cohen benchmarks: small = 0.02, medium = 0.15, large = 0.35")
+
+    # Regime coverage.
+    q = sample.pivot_table(index="date", columns="symbol",
+                           values="rv_next").mean(axis=1).resample("QE").mean()
+    ratio = float(q.max() / q.min())
+    out["regime_ratio"] = ratio
+    out["quarters"] = q
+    print(f"\n  Quarterly cross-sectional mean volatility: "
+          f"{q.min():.4f} to {q.max():.4f}")
+    print(f"    highest / lowest quarter = {ratio:.2f}x  -> "
+          f"{'single regime' if ratio < 2 else 'multiple regimes'}")
+    q.round(4).to_csv(TAB_DIR / "eda_regime_coverage.csv")
+    return out
+
+
 def main() -> None:
     panel, sample = load()
     print(f"loaded panel rows={len(panel)}  analysis sample={len(sample)}")
@@ -374,8 +533,9 @@ def main() -> None:
         print(f"  saved {f.relative_to(C.ROOT)}")
 
     v = vif_table(sample)
+    sample_adequacy(sample)
 
-    hr("5. KEY INSIGHTS  (-> Table 4, one interpretation each)")
+    hr("6. KEY INSIGHTS  (-> Table 6, one interpretation each)")
     print(f"""
 [Fig 2] rv_next is right-skewed (skew {dist['skew_raw']:.2f}, kurtosis
         {dist['kurt_raw']:.2f}). Log transform reduces this to skew
@@ -393,8 +553,8 @@ def main() -> None:
         DECISION: limited negative variation caps the detectable effect; treat as
         a limitation and prefer attention over sentiment level as the signal.
 
-[Fig 5] SIGN REVERSAL. Attention Q5 vs Q1 is {rel['log_articles']['pooled_pct']:+.1f}% pooled
-        but {rel['log_articles']['within_pct']:+.1f}% within-ticker. Sentiment:
+[Fig 5] SIGN REVERSAL. Attention Q5 vs Q1 is {rel['news_article_count']['pooled_pct']:+.1f}% pooled
+        but {rel['news_article_count']['within_pct']:+.1f}% within-ticker. Sentiment:
         {rel['news_sent_wmean']['pooled_pct']:+.1f}% pooled, {rel['news_sent_wmean']['within_pct']:+.1f}% within-ticker.
         DECISION: the pooled estimate is confounded (see Fig 6); RQ2 must include
         ticker fixed effects. Attention is the stronger candidate and, once the

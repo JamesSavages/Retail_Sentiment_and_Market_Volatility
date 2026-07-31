@@ -1,0 +1,5 @@
+Cost (bp),Comparison,Sharpe difference,95% CI low,95% CI high,p,Decision at .05
+5,Volatility targeting (primary) vs buy-and-hold,-0.0917,-0.2197,0.0333,0.1506,retain H0
+5,Threshold de-risk 50% (robustness) vs buy-and-hold,-0.2646,-0.6057,0.0536,0.1128,retain H0
+10,Volatility targeting (primary) vs buy-and-hold,-0.1095,-0.237,0.0165,0.0896,retain H0
+10,Threshold de-risk 50% (robustness) vs buy-and-hold,-0.3049,-0.6461,0.0128,0.0702,retain H0

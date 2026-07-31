@@ -1,0 +1,7 @@
+Step,Messages Remaining,Note
+Messages collected,10647,
+After de-duplication by message id,10018,repeat pulls overlap
+With a self-tagged Bullish/Bearish label,4222,42.1% of the corpus is labelled
+Less promotional spam,4200,22 removed
+Less off-topic multi-ticker messages,3677,"523 removed (more than 3 cashtags, or own ticker not mentioned)"
+Less messages under 10 characters of text,3152,too short to classify

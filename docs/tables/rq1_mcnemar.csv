@@ -1,0 +1,4 @@
+Comparison,Only FinBERT correct,Only other correct,chi2,p,More accurate,Decision at .05
+FinBERT vs VADER only,102,237,52.968,3.3910428426117264e-13,VADER only,reject H0 (accuracy differs)
+FinBERT vs VADER + Loughran-McDonald,109,229,41.896,9.623721747468906e-11,VADER + Loughran-McDonald,reject H0 (accuracy differs)
+FinBERT vs Majority class (always bullish),129,337,91.951,8.886545348607362e-22,Majority class (always bullish),reject H0 (accuracy differs)

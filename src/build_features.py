@@ -218,6 +218,17 @@ def main() -> None:
 
     out = C.PROCESSED / "panel.csv"
     panel.to_csv(out, index=False)
+
+    # GitHub will not render a CSV above roughly 512 KB, and the full panel is
+    # ~2.4 MB, so a small preview is written alongside it. It shows one heavily
+    # covered ticker and one thinly covered one, so the news columns and the
+    # zero-attention convention are both visible.
+    prev = pd.concat([panel[panel["symbol"] == s].head(60)
+                      for s in ("AAPL", "PLTR") if (panel["symbol"] == s).any()])
+    if len(prev):
+        prev.to_csv(C.PROCESSED / "panel_preview.csv", index=False)
+        print(f"[panel] preview -> {C.PROCESSED / 'panel_preview.csv'} "
+              f"({len(prev)} rows)")
     print(f"[panel] rows={len(panel)} tickers={panel['symbol'].nunique()} -> {out}")
     print(f"[panel] date range: {panel['date'].min()} .. {panel['date'].max()}")
     print(f"[panel] columns: {list(panel.columns)}")

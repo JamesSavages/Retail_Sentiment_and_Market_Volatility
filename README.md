@@ -81,7 +81,7 @@ Every figure and table in the report is written to `docs/figures/` and
 committed data. `docs/METHOD_WALKTHROUGH.md` explains each stage and every visual
 in plain language.
 
-Need a classic `requirements.txt` for a grader? Generate one from the lockfile:
+A classic `requirements.txt` can be generated from the lockfile:
 `uv export --format requirements-txt > requirements.txt`
 
 Edit the ticker universe, date window, and volatility estimator in `config.py`.

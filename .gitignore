@@ -8,3 +8,6 @@ __pycache__/
 
 # rendered previews of the report (the .docx is the deliverable)
 report/*_preview.pdf
+
+# scratch probe output (not part of the modelling pipeline)
+data/scratch/
